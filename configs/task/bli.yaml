@@ -1,0 +1,4 @@
+name : "bli"
+dataset_to_path : {glavas : "datasets/bli_datasets/glavas", vulic: "datasets/bli_datasets/vulic"}
+bli_dataset : "all"
+vocab_path : "datasets/vocab"

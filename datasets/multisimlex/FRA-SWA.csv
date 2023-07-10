@@ -1,0 +1,2032 @@
+ID,FRA,SWA,PoS,score
+1,voyage,mwendo,nouns,3.65
+2,prison,kizuizi,nouns,3.6
+3,créateur,mtengenezaji,nouns,5.05
+4,complètement,kwa ukamilifu,adverbs,0.95
+5,parler,kutambua,verbs,0.35
+6,bruit,sauti,nouns,4.4
+7,rejeter,kukataa,verbs,0.55
+8,assiette,bakuli,nouns,3.0
+9,tisser,kufuma,verbs,0.2
+10,garçon,kaka,nouns,2.7
+11,gaspiller,takataka,verbs,0.15
+12,grange,nyumba,nouns,2.6
+13,aube,bunduki,nouns,0.05
+14,grossièrement,takribani,adverbs,0.9
+15,épée,panga,nouns,0.05
+16,alcool,jini,nouns,3.15
+17,poulain,farasi,nouns,4.15
+18,espace,mkoa,nouns,3.6
+19,pointeur,kionyeshi,nouns,0.1
+20,humide,lowa,adjectives,1.2
+21,orthodontiste,mtaalamu wa meno,nouns,5.05
+22,pardonner,kusamehe,verbs,5.35
+23,lâche,pwaya,adjectives,1.1
+24,posséder,kufyonza,verbs,0.55
+25,historiographe,mwanahistoria,nouns,5.0
+26,fermement,kiukakamavu,adverbs,0.65
+27,étreindre,kukumbatia,verbs,3.2
+28,persuader,kufuatilia,verbs,0.65
+29,droit,nyooka,adjectives,0.9
+30,boeuf,nyama ya ng'ombe,nouns,3.4
+31,acoustique,akustik,nouns,3.7
+32,dur,rahisi,adjectives,0.75
+33,réussir,kufanikisha,verbs,5.15
+34,facilement,kiurahisi,adverbs,0.3
+35,diode,diode,nouns,1.7
+36,rabbin,mchungaji,nouns,1.15
+37,faire,kuchuma,verbs,0.5
+38,citron,chai,nouns,0.9
+39,précisément,kwa usahihi,adverbs,0.75
+40,copilote,rubani msaidizi,nouns,0.4
+41,tuer,kunyonga,verbs,4.05
+42,nerveux,kuoga,adjectives,0.15
+43,canapé,kiti,nouns,3.5
+44,rue,gari,nouns,0.65
+45,queue,bakuli,nouns,0.05
+46,fille,kijana,nouns,1.85
+47,champagne,wiski,nouns,3.4
+48,accuser,kushtaki,verbs,0.5
+49,imaginer,kujifanya,verbs,0.85
+50,regarder,kuangalia,verbs,2.6
+51,tabac,sigara,nouns,4.45
+52,concrètement,kihalisia,adverbs,1.25
+53,mince,mwembamba,adjectives,5.1
+54,semaine,wikendi,nouns,2.35
+55,tacot,motokaa,nouns,4.2
+56,loucher,kufinya macho,verbs,0.3
+57,entraîneur,kocha,nouns,1.9
+58,cours,chuo,nouns,2.75
+59,vomir,kutapika,verbs,0.05
+60,vêtement,jaketi,nouns,3.3
+61,aggraver,kukuza,verbs,0.2
+62,chat,sungura,nouns,1.15
+63,désespoir,taabu,nouns,3.0
+64,wagon,chombo,nouns,0.2
+65,autruche,mbuni,nouns,0.05
+66,suffrage,haki ya upigaji kura,nouns,0.3
+67,milliardaire,bilionea,nouns,0.75
+68,collecte de fonds,mfadhili,nouns,0.85
+69,vélo,baiskeli,nouns,0.2
+70,foie,kiungo,nouns,2.8
+71,gant,mpira,nouns,1.4
+72,renier,kukataliwa,verbs,1.75
+73,alphabet,alphabeti,nouns,0.55
+74,tuteur,mtu mzima,nouns,2.4
+75,bain,puto,nouns,0.1
+76,faire,kuwa,verbs,0.6
+77,plage,bahari,nouns,3.05
+78,intestin,neva,nouns,0.9
+79,femme,senti,nouns,0.05
+80,modeste,ana aibu,adjectives,0.55
+81,compositeur,mwandishi,nouns,4.2
+82,flexible,rahisi kubadilika,adjectives,1.1
+83,courbé,isiyonyooka,adjectives,5.6
+84,brume,wingu,nouns,2.65
+85,gomme,fizi,nouns,0.5
+86,arithmétique,pigo,nouns,0.1
+87,accepter,kuamini,verbs,2.8
+88,sphère,mviringo,nouns,2.3
+89,découvrir,kutokana,verbs,0.3
+90,sentir,kunusa,verbs,0.1
+91,os,kifundo cha mguu,nouns,2.05
+92,télescope,darubini,nouns,0.05
+93,cogitation,changamsha bongo,nouns,0.05
+94,parfois,mara nyingine,adverbs,0.3
+95,employé,wafanyakazi,nouns,0.35
+96,juge,hakimu,nouns,2.7
+97,certain,ana hakika,adjectives,5.3
+98,mortellement,hatari sana,adverbs,0.3
+99,exiger,kutaka,verbs,0.45
+100,cuit,pikwa,adjectives,3.95
+101,moissonneuse-batteuse,changanya,nouns,0.3
+102,whisky,shampeni,nouns,3.4
+103,entrer,kuondoka,verbs,0.25
+104,choix,sura,nouns,0.45
+105,lire,kufahamu,verbs,1.0
+106,barreau,jela,nouns,3.6
+107,occupé,bizi,adjectives,0.5
+108,épouse,mama,nouns,3.0
+109,conversation,mawasiliano,nouns,4.6
+110,froid,baridi,adjectives,0.2
+111,notifier,kuonyesha,verbs,1.75
+112,cours,sarafu,nouns,0.65
+113,oasis,oasisi,nouns,0.2
+114,cours,tumbo,nouns,0.15
+115,jurer,kuapa,verbs,4.85
+116,cuillère,kijiko,nouns,0.5
+117,alcool,divai,nouns,3.9
+118,surtout,zaidi,adverbs,0.75
+119,siffler,mluzi,verbs,0.25
+120,météo,theluji,nouns,1.35
+121,passif,kupooza,adjectives,0.35
+122,deviner,kubuni,verbs,0.15
+123,vison,manyoya,nouns,3.25
+124,appareil photo,lenzi,nouns,2.35
+125,insecte,nyuki,nouns,2.95
+126,écosystème,mfumo wa ikolojia,nouns,0.9
+127,récompense,thawabu,nouns,3.9
+128,vaste,mwembamba,adjectives,0.6
+129,ancre,boti,nouns,1.55
+130,rare,adimu,adjectives,4.6
+131,étamine,stameni,nouns,2.3
+132,apporter,kuja,verbs,0.8
+133,souris,menejimenti,nouns,0.0
+134,peuple,puto,nouns,0.0
+135,facile,bila jasho,adjectives,5.35
+136,nuage,wingu,nouns,0.4
+137,solitaire,mpweke,adjectives,1.45
+138,type,patna,nouns,1.05
+139,paille,mke,nouns,0.0
+140,mutant,jitu,nouns,0.25
+141,bulle,mapovu,nouns,2.1
+142,parapluie,mwamvuli,nouns,0.25
+143,inutilisé,haijatumika,adjectives,4.7
+144,simple,rahisi,adjectives,5.35
+145,nouveau,mpya,adjectives,4.7
+146,devoir,kuingia,verbs,0.15
+147,mot,kamusi,nouns,2.2
+148,croiseur,meli ya vita,nouns,5.4
+149,capturer,kushika,verbs,0.25
+150,farine,mkate,nouns,1.9
+151,système,mfumo,nouns,0.2
+152,tenir,kushikilia,verbs,3.2
+153,café,maharagwe,nouns,0.55
+154,assister,kutuma,verbs,0.25
+155,coureur,mkimbiaji,nouns,4.55
+156,île,jukumu,nouns,0.05
+157,honteux,mwenye kiasi,adjectives,0.55
+158,pouce,mita,nouns,2.55
+159,clé,kifunguo,nouns,0.05
+160,rose,waridi,nouns,0.4
+161,hutte,nyumba ndogo,nouns,3.55
+162,absorber,kumiliki,verbs,0.55
+163,tribunal,korti,nouns,2.7
+164,juge,hakimu mkuu,nouns,5.15
+165,couple,jozi,nouns,5.8
+166,gens,sherehe,nouns,0.8
+167,faux,bandia,adjectives,4.9
+168,cliquetis,kelele,nouns,4.4
+169,plaider,kujipendekeza,verbs,0.35
+170,victime,mwathirika,nouns,0.1
+171,semestre,awamu,nouns,4.45
+172,aller,kuenda,verbs,3.45
+173,spécialement,makusudi,adverbs,2.25
+174,faible,dhaifu,adjectives,0.1
+175,dinde,ndege,nouns,3.7
+176,fourrure,mwanamke,nouns,0.25
+177,prêter,kudaiwa,verbs,0.75
+178,poulet,chakula cha usiku,nouns,1.1
+179,intelligence,mantiki,nouns,3.4
+180,informer,kujulisha,verbs,5.5
+181,basilique,basilika,nouns,0.45
+182,code,alama,nouns,2.65
+183,corps,mkono,nouns,2.15
+184,fièrement,kwa jeuri,adverbs,0.45
+185,entreprise,biashara,nouns,3.2
+186,affectation,jukumu,nouns,3.35
+187,sagesse,akili,nouns,4.0
+188,président,mwanasiasa,nouns,3.4
+189,chasser,kuwinda,verbs,2.65
+190,satisfaire,kuburudisha,verbs,0.65
+191,congrès,mkutano,nouns,3.35
+192,voiture,gari,nouns,3.6
+193,vaste,mkubwa,adjectives,3.4
+194,soi,hakika,nouns,1.05
+195,hystérie,ghasia,nouns,1.55
+196,pacifiquement,kwa amani,adverbs,4.45
+197,suivre,kufuata,verbs,2.4
+198,littérature,kitabu,nouns,2.65
+199,arriver,kutokea,verbs,5.45
+200,trou,mapatano,nouns,0.0
+201,grossier,jeuri,adjectives,0.35
+202,paume,kidole,nouns,1.7
+203,débattre,kupinga,verbs,0.55
+204,stupide,adimu,adjectives,0.15
+205,pistolet,watu,nouns,0.25
+206,violent,wa ghadhabu,adjectives,1.7
+207,pomme,peremende,nouns,1.1
+208,voiture,kiwanda,nouns,0.6
+209,criminalité,wizi,nouns,3.45
+210,arrière,nyuma,nouns,2.8
+211,sacre,kusimikwa ufalme,nouns,0.25
+212,médiocre,ya kawaida,adjectives,1.3
+213,conduire,endesha,verbs,0.42
+214,honnête,ana hatia,adjectives,0.7
+215,porte,mlango wa kutoka,nouns,2.6
+216,criminalité,uhalifu,nouns,1.7
+217,bras,mwili,nouns,2.15
+218,malheureux,ana hasira,adjectives,2.65
+219,agité,mchanga,adjectives,0.7
+220,mère,mke,nouns,3.0
+221,éduquer,kuelimisha,verbs,5.1
+222,truite,samaki,nouns,0.05
+223,mélanger,kuchanganya,verbs,0.25
+224,épée,sime,nouns,0.5
+225,batterie,gitaa,nouns,2.55
+226,enseignant,mwalimu,nouns,1.85
+227,donner,kupokea,verbs,1.05
+228,quotidiennement,kila siku,adverbs,2.5
+229,groupe,wanamuziki,nouns,4.25
+230,tomber,kuanguka,verbs,1.05
+231,vol,uhalifu,nouns,3.45
+232,atome,molekuli,nouns,3.35
+233,jamais,kamwe,adjectives,0.5
+234,petit déjeuner,nyama ya nguruwe,nouns,1.2
+235,lit,blanketi,nouns,1.85
+236,bureau,ofisi,nouns,0.75
+237,brûler,kuunguza,verbs,0.35
+238,bain,mbinu,nouns,0.0
+239,prétendre,kuonyesha,verbs,0.4
+240,meuble,kitanda,nouns,3.05
+241,désarroi,kichaa,nouns,1.55
+242,plafond,paa,nouns,4.35
+243,topologie,upangilio,nouns,3.6
+244,boisson,bia,nouns,3.75
+245,attacher,kujiunga,verbs,1.4
+246,pousser,kusukuma,verbs,0.2
+247,couvent,monasteri,nouns,0.1
+248,initialement,ya uhalisia,adverbs,0.8
+249,boîte,sanduku,nouns,0.0
+250,bon marché,rahisi,adjectives,5.6
+251,douche,shower,nouns,0.1
+252,provenir,kugundua,verbs,0.3
+253,heureux,ana hasira,adjectives,0.75
+254,garçon,wali,nouns,0.05
+255,aviation,safari ya angani,nouns,3.25
+256,ajouter,kuunda,verbs,0.85
+257,ascenseur,gari,nouns,0.7
+258,élire,kuchagua,verbs,5.3
+259,emprunter,kupa,verbs,1.05
+260,transparent,teleza,nouns,0.1
+261,choisir,kuteua,verbs,5.3
+262,maintenant,sasahivi,adverbs,1.7
+263,télévision,runinga,nouns,1.0
+264,nommer,kuchagua,verbs,5.45
+265,ordinaire,mara kwa mara,adjectives,0.45
+266,insensé,ana wazimu,adjectives,5.75
+267,classe,darasa,nouns,0.15
+268,pluie,mvua,nouns,3.65
+269,penser,kuamua,verbs,2.35
+270,pistolet,mzinga,nouns,2.45
+271,cruel,mwema,adjectives,0.6
+272,sucre,asali,nouns,2.75
+273,queue,jabali,nouns,0.05
+274,bowling,bowling,nouns,2.0
+275,musée,jumba la makumbusho,nouns,0.0
+276,sûrement,kwa hakika,adverbs,5.25
+277,homme,mjomba,nouns,2.55
+278,vainqueur,mwanaume,nouns,0.65
+279,illustration,katuni,nouns,0.15
+280,polir,kung'arisha,verbs,0.1
+281,chanteur,mtaalamu wa sauti,nouns,0.35
+282,ignorer,kufanya utafiti,verbs,0.35
+283,argent,mshahara,nouns,3.75
+284,lézard,mjusi,nouns,2.95
+285,vieux,zamani,adjectives,0.05
+286,réveiller,kuamka,verbs,0.75
+287,inflexion,inflection,nouns,0.9
+288,faillite,kufilisika,nouns,4.55
+289,promettre,kuweka ahadi,verbs,4.85
+290,construire,kutengeneza,verbs,4.5
+291,ville,mji,nouns,5.0
+292,chaise,sofa,nouns,3.5
+293,baseball,kochi,nouns,0.05
+294,poème,shairi,nouns,1.5
+295,tâche,njia kuu,nouns,0.15
+296,accuser,kutiachaji,verbs,1.1
+297,maison,ufunguo,nouns,1.15
+298,sol,mlango,nouns,0.4
+299,savoir,kupa,verbs,0.3
+300,triste,huzuni,adjectives,0.65
+301,poule,ndege,nouns,3.1
+302,altitude,urefu,nouns,0.2
+303,patient,mgonjwa,nouns,0.1
+304,agonie,huzuni,nouns,2.6
+305,vallée,bonde,nouns,0.6
+306,compétence,akili,nouns,3.05
+307,tarte,chokoleti,nouns,1.45
+308,bol,mkia,nouns,0.05
+309,rincer,kusuuza,verbs,4.4
+310,délinquant,mkosaji,nouns,5.05
+311,lac,bwawa,nouns,2.9
+312,devenir,kupanga,verbs,0.25
+313,traiter,kuhusika,verbs,0.4
+314,coucher de soleil,machweo,nouns,0.0
+315,lit,kitanda cha mtoto,nouns,4.35
+316,poulet,wali,nouns,0.8
+317,mètre,inchi,nouns,2.55
+318,terminer,kumaliza,verbs,3.55
+319,différemment,kitofauti,adverbs,0.0
+320,docteur,tabibu,nouns,5.5
+321,prêter,kupa,verbs,3.2
+322,ordinaire,kawaida,adjectives,0.2
+323,cognac,kileo,nouns,3.3
+324,important,muhimu,adjectives,0.7
+325,réussir,kujaribu,verbs,1.6
+326,bon,rasmi,adjectives,1.4
+327,panier,mpira,nouns,0.8
+328,libérer,kuachilia,verbs,0.2
+329,défendre,kulinda,verbs,5.1
+330,principalement,kimsingi,adverbs,0.45
+331,principalement,haswa,adverbs,0.1
+332,dieu,baba,nouns,2.4
+333,mixte,kumbakumba,adjectives,0.05
+334,adulte,mzazi,nouns,3.25
+335,fier,kujivunia,adjectives,0.65
+336,prison,chaguo,nouns,0.25
+337,bétail,kondoo,nouns,3.65
+338,soigné,safi,adjectives,5.55
+339,recueillir,kuchukua,verbs,0.15
+340,programme,mradi,nouns,0.55
+341,combattre,pigana,verbs,1.05
+342,combattre,kupigana,verbs,0.7
+343,misère,ukiwa,nouns,3.0
+344,dispositif,chungu,nouns,0.35
+345,succès,pigo,nouns,0.1
+346,grandement,sana,adverbs,1.95
+347,symbole,msimbo,nouns,2.65
+348,apprendre,kujifunza,verbs,2.15
+349,chef,meya,nouns,2.55
+350,soigneusement,kwa utaratibu,adverbs,0.4
+351,repas,kiuno,nouns,0.15
+352,rivière,bahari,nouns,2.6
+353,bateau,gari,nouns,1.4
+354,rétrécir,kukua,verbs,0.85
+355,admettre,kukubali,verbs,0.9
+356,emprunteur,mkopi,nouns,1.5
+357,club,klabu,nouns,0.25
+358,émeute,mgomo,nouns,0.15
+359,créer,kuharibu,verbs,0.8
+360,municipalité,jiji,nouns,5.0
+361,innocent,asiye na hatia,adjectives,2.25
+362,millionnaire,milionea,nouns,1.75
+363,approximativement,takriban,adverbs,0.38
+364,facile,imara,adjectives,0.75
+365,boue,uchafu,nouns,3.7
+366,clarifier,fafanua,verbs,4.75
+367,verger,kiunga,nouns,0.05
+368,médaille,medali,nouns,0.55
+369,sale,rahisi,adjectives,0.2
+370,mythe,hadithi,nouns,2.2
+371,différemment,tofauti,adverbs,1.2
+372,porter,kuvaa,verbs,0.15
+373,mettre,kupata,verbs,0.4
+374,déni,kukiri,nouns,0.95
+375,évaluer,kujifunza,verbs,1.05
+376,porter,kuvaa,verbs,0.15
+377,plonger,piga mbizi,verbs,0.1
+378,venir,kuhudhuria,verbs,3.2
+379,vulnérable,walio hatarini,adjectives,0.5
+380,intensité,nuru,nouns,2.05
+381,whisky,kileo,nouns,3.9
+382,perdre,kupata,verbs,0.8
+383,trouver,kupotea,verbs,0.3
+384,pathologie,stadi ya magonjwa,nouns,2.8
+385,science,saikolojia,nouns,2.5
+386,pauvre,masikini,adjectives,1.45
+387,vendre,kuazima,verbs,0.6
+388,communication,lugha,nouns,3.05
+389,glace,barafu,nouns,4.05
+390,frigide,wa kukwaruza,adjectives,0.15
+391,trouver,kupata,verbs,0.3
+392,abeille,mdudu,nouns,2.95
+393,aéroport,uwanja wa ndege,nouns,0.1
+394,perspicacité,ukweli,nouns,1.45
+395,manifestement,ni wazi,adverbs,0.55
+396,basket,wakufunzi,nouns,0.55
+397,légèrement,mara kwa mara,adverbs,0.95
+398,protestant,protestanti,nouns,3.6
+399,écran,kiwambo,nouns,0.2
+400,furieux,mwenye furaha,adjectives,0.75
+401,certain,uhakika,adjectives,0.15
+402,gagnant,bingwa,nouns,5.25
+403,représenter,kujulisha,verbs,1.75
+404,neige,theluji,nouns,4.05
+405,bétail,ngombe,nouns,3.45
+406,échec,chess,nouns,2.3
+407,magistrat,hakimu,nouns,5.15
+408,explorer,kupuuza,verbs,0.35
+409,incertain,haijulikani,adjectives,4.9
+410,limité,haba,adjectives,4.6
+411,sculpture,sanamu,nouns,4.8
+412,communication,habari,nouns,2.7
+413,mécaniquement,kwa ustadi,adverbs,0.45
+414,tragédie,kifo,nouns,2.55
+415,mer,bahari,nouns,1.5
+416,grippe,homa,nouns,3.85
+417,haricot,kahawa,nouns,0.55
+418,épargne,kuokoa,nouns,3.35
+419,follement,kwa ghadhabu,adverbs,0.7
+420,sophistiqué,kisasa,adjectives,0.7
+421,soldat,mwanajeshi,nouns,0.8
+422,colonel,daktari wa meno,nouns,0.3
+423,toit,dari,nouns,4.35
+424,ennuyeux,boreka,adjectives,1.9
+425,cinquième,wa tano,adjectives,0.15
+426,badge,baji,nouns,0.25
+427,incroyable,kushangaza,adjectives,0.35
+428,faux,feki,adjectives,0.95
+429,long,mwembamba,adjectives,0.95
+430,envoyer,kuhudhuria,verbs,0.25
+431,agneau,kondoo,nouns,4.3
+432,permettre,kwenda,verbs,0.2
+433,neuropsychologie,saikolojia ya akili,nouns,3.05
+434,fermement,kwa ulinzi,adverbs,2.05
+435,esprit,akili,nouns,1.35
+436,pistolet,bunduki,nouns,0.95
+437,sale,mwembamba,adjectives,0.1
+438,perdre,kufeli,verbs,5.0
+439,épaule,mkono,nouns,2.5
+440,pacte,mapatano,nouns,5.45
+441,accord,tundu,nouns,0.0
+442,réduire,kupunguza,verbs,0.05
+443,médecin,tabia,nouns,0.0
+444,classe,shule,nouns,3.7
+445,aller,kuondoka,verbs,5.05
+446,punir,kuadhibu,verbs,2.95
+447,dépression,huzuni,nouns,0.6
+448,sultan,sultani,nouns,0.5
+449,livre,insha,nouns,0.9
+450,laver,kuosha,verbs,4.4
+451,commencer,kuacha,verbs,0.85
+452,rencontrer,kukutana,verbs,0.3
+453,cuisiner,kupika,verbs,1.8
+454,lapin,paka,nouns,1.15
+455,fortement,kwa nguvu,adverbs,0.2
+456,homophone,nyumba ya nyumbani,nouns,0.25
+457,tsunami,sunami,nouns,1.45
+458,perdre,poteza,verbs,0.05
+459,avion,jeti,nouns,4.8
+460,thème,kitabu,nouns,0.65
+461,gosse,mvulana,nouns,4.1
+462,paquet,furushi,nouns,0.1
+463,essayer,kujaribu,verbs,0.5
+464,bon,salama,adjectives,0.65
+465,menthe,minti,nouns,0.0
+466,riz,mvulana,nouns,0.05
+467,ruisseau,mto,nouns,3.95
+468,coûteux,ghali,adjectives,0.1
+469,liqueur,karne,nouns,0.05
+470,cathédrale,dari,nouns,0.35
+471,taille,chakula,nouns,0.15
+472,actuellement,kwa sasa,adverbs,0.15
+473,plage,uwanda wa bahari,nouns,3.2
+474,mendier,kuuliza,verbs,3.15
+475,fille,mfanyakazi wa nyumbani,nouns,0.85
+476,coopérer,kushiriki,verbs,3.6
+477,maternelle,shule ya mapema,nouns,4.35
+478,extraverti,inayotoka,adjectives,0.35
+479,étroit,mchafu,adjectives,0.1
+480,soleil,anga,nouns,1.75
+481,nombre,nambari,nouns,5.4
+482,formel,sahihi,adjectives,1.4
+483,aggraver,kuongeza,verbs,0.65
+484,chercher,kutafuta,verbs,2.63
+485,épicé,pilipili,adjectives,0.15
+486,ignorant,mjinga,adjectives,0.45
+487,lanceur,bowler,nouns,2.0
+488,névrose,ugonjwa wa neurosis,nouns,1.35
+489,radar,rada,nouns,0.4
+490,veste,nguo,nouns,3.3
+491,heureux,mchangamfu,adjectives,4.85
+492,recommander,kukubali,verbs,0.75
+493,reprocher,kulaumu,verbs,4.85
+494,jeu,burudani,nouns,4.15
+495,trimestre,muhula,nouns,4.45
+496,opinion,wazo,nouns,5.05
+497,frites,kibanzi,nouns,0.1
+498,vent,upepo,nouns,4.25
+499,effrayé,kua na uoga,adjectives,1.0
+500,bizarrement,si asili,adverbs,1.05
+501,véhicule,basi,nouns,4.15
+502,menu,agizo,nouns,1.55
+503,permettre,kupa,verbs,1.1
+504,théorie,kemia,nouns,1.05
+505,présence,mlango,nouns,0.15
+506,incurvé,yenye pindo,adjectives,0.05
+507,créativement,kiubunifu,adverbs,0.8
+508,outil,kitendea kazi,nouns,1.1
+509,rassembler,kuhudhuria,verbs,0.6
+510,content,ana hasira,adjectives,0.65
+511,appareil photo,kamera,nouns,0.15
+512,chérir,kuweka,verbs,2.65
+513,exactement,kwa usahihi,adverbs,0.45
+514,fraise,strouberi,nouns,2.4
+515,eau,maji,nouns,0.25
+516,impuissant,hoi,adjectives,1.75
+517,fait,umaizi,nouns,1.45
+518,vague,wimbi,nouns,0.85
+519,négliger,kupuuzia,verbs,1.75
+520,boîte,sigara,nouns,0.7
+521,robotique,roboti,nouns,0.75
+522,lit,hospitali,nouns,1.0
+523,pont,kadi,nouns,0.35
+524,carte,chati,nouns,2.6
+525,flic,polisi,nouns,0.4
+526,nier,kukataa,verbs,0.9
+527,homme,mpiganaji,nouns,1.6
+528,fraternité,mlango,nouns,0.0
+529,populaire,inayofahamika,adjectives,5.55
+530,gratte-ciel,maghorofa,nouns,2.35
+531,fraternité,baseball,nouns,0.2
+532,artificiel,sio asili,adjectives,4.9
+533,candidat,mshindi,nouns,1.85
+534,circoncision,tohara,nouns,2.1
+535,véridique,enye ukweli,adjectives,0.55
+536,faire,kuacha,verbs,0.75
+537,informe,kutobadilishwa,adjectives,0.55
+538,pièce,kipande,nouns,0.1
+539,pesticide,dawa ya wadudu,nouns,1.45
+540,séparer,kutenganisha,verbs,0.75
+541,fleur,waridi,nouns,3.95
+542,vélo,chumba cha kulala,nouns,0.05
+543,sandwich,chakula cha mchana,nouns,2.4
+544,négatif,hasi,adjectives,0.95
+545,pont,boti,nouns,1.05
+546,carré,mraba,nouns,0.4
+547,président,uchafuzi,nouns,0.35
+548,mer,ufuko,nouns,3.05
+549,hélicoptère,helikopta,nouns,3.55
+550,commencer,kutokana,verbs,0.7
+551,princesse,kisiwa,nouns,0.25
+552,armée,jeshi la wanamaji,nouns,3.9
+553,feindre,kuwazia,verbs,0.85
+554,oublier,kudumisha,verbs,0.8
+555,hymne,biblia,nouns,0.4
+556,football,burudani,nouns,0.8
+557,bateau,nanga,nouns,1.55
+558,intelligence,ustadi,nouns,3.05
+559,purgatoire,purigatori,nouns,2.1
+560,bible,nyimbo,nouns,0.4
+561,similaire,sawasawa,adjectives,5.1
+562,emballage,kanga,nouns,0.45
+563,magma,magma,nouns,3.2
+564,goutter,dondoka,verbs,1.15
+565,cou,mfupa,nouns,1.25
+566,flic,askari,nouns,4.65
+567,couloir,korido,nouns,4.85
+568,lézard,mjusi,nouns,0.0
+569,évêque,askofu,nouns,0.85
+570,désert,jangwa,nouns,2.75
+571,avion,ndege,nouns,3.55
+572,arbre,mti,nouns,0.2
+573,emboutir,kugongana,verbs,3.6
+574,assister,kukusanya,verbs,0.6
+575,oncle,mwanaume,nouns,2.55
+576,sélectionner,kuchagua,verbs,5.45
+577,article,jarida,nouns,4.15
+578,mer,mto,nouns,2.6
+579,montre,saa,nouns,0.35
+580,aller,kuruhusu,verbs,0.2
+581,doigt,kiganja,nouns,1.7
+582,sociobiologie,jamii,nouns,0.25
+583,punir,kuadhibu,verbs,0.55
+584,grossièrement,takriban,adverbs,0.45
+585,grand,mkubwa mno,adjectives,5.1
+586,puéril,wa upuzi,adjectives,3.7
+587,eau,chumvi,nouns,0.8
+588,viande,steki,nouns,4.9
+589,agressif,kua na hasira,adjectives,0.05
+590,entendre,kuzungumza,verbs,1.15
+591,queue,sura,nouns,0.0
+592,terrifiant,ana hasira,adjectives,0.55
+593,don,zawadi,nouns,0.25
+594,laisser,kuzurura,verbs,0.6
+595,klaxon,gari,nouns,1.25
+596,enseignant,rabai,nouns,1.65
+597,graphique,jedwali,nouns,2.6
+598,voiture,honi,nouns,1.25
+599,recevoir,kupokea,verbs,2.75
+600,chemise,shati,nouns,2.4
+601,musique,tuni,nouns,4.85
+602,inquiéter,kuwa na wasiwasi,verbs,0.15
+603,paresseux,mvivu,adjectives,0.3
+604,accepter,kuitikia,verbs,3.52
+605,fleur,imani,nouns,0.05
+606,rassemblement,kusanyiko,nouns,3.95
+607,sergent,mjeshi,nouns,0.95
+608,orange,chungwa,nouns,5.15
+609,volcan,volkano,nouns,3.2
+610,curieusement,kiajabu,adverbs,1.2
+611,corniche,mlima,nouns,1.95
+612,mal,poa,adjectives,0.35
+613,armée,kundi,nouns,2.4
+614,désavouer,kutelekeza,verbs,0.15
+615,dessin,mchoro,nouns,0.15
+616,bruyamment,kwa sauti,adverbs,0.6
+617,carte,daraja,nouns,0.35
+618,rappeler,kuuza,verbs,0.2
+619,indépendamment,kwa kujitegemea,adverbs,1.2
+620,étroit,mrefu,adjectives,0.95
+621,frustrer,kufadhaisha,verbs,2.55
+622,courir,kimbia,verbs,0.75
+623,télescope,darubini,nouns,0.2
+624,cannelle,mdalasini,nouns,0.9
+625,viande,nyama ya nguruwe,nouns,3.8
+626,laisser,kuondoka,verbs,0.5
+627,cabine,simu,nouns,1.95
+628,glace,maji,nouns,3.2
+629,eau,barafu,nouns,3.2
+630,pied,mguu,nouns,0.3
+631,fils,mvulana,nouns,4.75
+632,feuille,gombo,nouns,0.05
+633,éventuellement,inawezekana,adverbs,0.85
+634,sévèrement,kwa uweledi,adverbs,0.45
+635,économie,uchumi,nouns,0.9
+636,maire,mkuu,nouns,2.55
+637,nuage,hali ya hewa,nouns,2.0
+638,galerie,nyumba ya sanaa,nouns,0.05
+639,modeste,pole,adjectives,0.75
+640,mât,mlingoti,nouns,1.35
+641,étroit,nyembamba,adjectives,0.05
+642,veine,chaguo,nouns,0.3
+643,steak,nyama,nouns,4.9
+644,fenêtre,kifundo cha mguu,nouns,0.0
+645,tuer,kukinga,verbs,0.7
+646,livre,dhima,nouns,0.65
+647,corps,kifua,nouns,2.2
+648,cardigan,fulana,nouns,2.4
+649,intelligence,hekima,nouns,4.0
+650,revenu,ushuru,nouns,2.45
+651,apparaître,kuwa,verbs,1.3
+652,incroyablement,kwa kushangaza,adverbs,4.7
+653,mature,kukomaa,adjectives,0.7
+654,cesser,kufanya,verbs,0.75
+655,gros,mkubwa sana,adjectives,3.8
+656,promenade,safari,nouns,3.65
+657,essuyer,kupanguza,verbs,0.2
+658,homme,undugu,nouns,1.3
+659,campagne,kampeni,nouns,0.05
+660,demander,kupuuza,verbs,0.6
+661,base-ball,undugu,nouns,0.2
+662,liberté,kujitawala,nouns,4.15
+663,réussir,kushinda,verbs,4.8
+664,baignoire,mke,nouns,0.05
+665,poète,mshairi,nouns,1.1
+666,comprendre,kujua,verbs,3.85
+667,nihilisme,kutoamini dini,nouns,0.15
+668,dent,meno,nouns,0.0
+669,mathématicien,mwanamahesabu,nouns,0.1
+670,banquier,mwanasheria,nouns,1.15
+671,se plaindre,kugombana,verbs,1.55
+672,côte,pwani,nouns,0.3
+673,carte graphique,bodi kuu,nouns,4.1
+674,gentiment,kiupole,adverbs,2.45
+675,chrétien,mkristo,nouns,3.6
+676,terminer,kukutolewa,verbs,0.2
+677,autrefois,mara moja,adverbs,1.6
+678,racisme,ubaguzi wa rangi,nouns,4.7
+679,parler,kusikia,verbs,1.15
+680,chapitre,usiku,nouns,0.1
+681,musulman,mwislamu,nouns,0.85
+682,toujours,mara kwa mara,adverbs,1.0
+683,vite,wa kasi,adjectives,5.05
+684,shérif,polisi,nouns,4.65
+685,rejoindre,kuambatisha,verbs,1.4
+686,vérifier,kusema,verbs,0.55
+687,nuage,ukungu,nouns,3.5
+688,donner,kuruhusu,verbs,1.1
+689,soigneusement,kwa uangalifu,adverbs,2.05
+690,laisser,kufika,verbs,0.25
+691,éviter,kupuuza,verbs,2.95
+692,champagne,bia,nouns,3.05
+693,devenir,kuonekana,verbs,1.0
+694,généreusement,kwa fadhili,adverbs,2.45
+695,récipient,mkokoteni,nouns,0.2
+696,iris,boriti,nouns,nan
+697,muffin,muffini,nouns,0.3
+698,cesser,kuanza,verbs,0.85
+699,convaincre,kushawishi,verbs,0.5
+700,histoire,hadithi,nouns,0.2
+701,cheville,dirisha,nouns,0.0
+702,athlète,mwanariadha,nouns,4.55
+703,acétylcholine,acetylcholine,nouns,nan
+704,alcool,bia,nouns,4.4
+705,lumière,mwanga,nouns,0.1
+706,fureur,hasira,nouns,5.1
+707,ciel,anga,nouns,0.45
+708,esprit,akili,nouns,4.55
+709,civilisation,ustaarabu,nouns,2.2
+710,molécule,molekuli,nouns,0.2
+711,coopérer,kujiunga,verbs,3.0
+712,alimentation,chakula,nouns,0.55
+713,échec,ukosefu,nouns,4.55
+714,élève,rais,nouns,0.65
+715,rare,mpumbavu,adjectives,0.15
+716,neige,hali ya hewa,nouns,1.35
+717,dictionnaire,neno,nouns,2.2
+718,divertir,kujipendekeza,verbs,0.65
+719,lard,nyama,nouns,3.8
+720,cave,mlango,nouns,0.6
+721,honnêtement,kwa kweli,adverbs,1.92
+722,restaurer,kuleta,verbs,0.75
+723,pacifiquement,kwa amani,adverbs,0.5
+724,août,mwezi,nouns,3.2
+725,lire,kusoma,verbs,0.0
+726,maïs,mahindi,nouns,3.35
+727,prévision,utabiri,nouns,0.65
+728,moteur,mashine,nouns,3.6
+729,poignée,mpini,nouns,0.25
+730,appareil photo,mfanyakazi,nouns,0.05
+731,persil,pasile,nouns,0.3
+732,rejeter,kuepa,verbs,1.8
+733,apprendre,kuchambua,verbs,1.05
+734,clé,nyumba,nouns,1.15
+735,thé,limau,nouns,0.9
+736,croyance,ua,nouns,0.05
+737,crochet,krocheti,nouns,0.05
+738,chalet,kambi,nouns,0.9
+739,prépuce,govi,nouns,2.1
+740,atmosphère,hali ya anga,nouns,3.45
+741,blanc,nyeupe,adjectives,0.05
+742,cheval,farasi wa kiume,nouns,4.15
+743,tâche,mwanamke,nouns,0.1
+744,souris,sitaha,nouns,0.05
+745,aller,kuuza,verbs,0.2
+746,minute,sekunde,nouns,3.0
+747,longévité,bendi,nouns,0.1
+748,structure,muundo,nouns,3.6
+749,hésitant,sitasita,adjectives,0.4
+750,ongle,kichwa,nouns,0.7
+751,journal,kuoga,nouns,0.0
+752,voyager,kusafiri,verbs,3.45
+753,terrifiant,wa ajabu,adjectives,1.35
+754,disparaître,kutoweka,verbs,5.5
+755,femme,mwanamke,nouns,0.05
+756,incroyablement,kwa umaradufu,adverbs,0.75
+757,cerveau,bongo,nouns,4.55
+758,camion,lori,nouns,3.6
+759,saluer,kutoa heshima,verbs,0.15
+760,habit,kabati,nouns,1.05
+761,tour,kengele,nouns,0.95
+762,portail,mlango,nouns,4.95
+763,dîner,chakula,nouns,4.1
+764,alcool,brandi,nouns,3.3
+765,mélodie,muziki,nouns,4.85
+766,berceau,kitanda,nouns,4.35
+767,découvert,haijafunikwa,adjectives,0.95
+768,malhonnête,si mwaminifu,adjectives,0.55
+769,marque,ishara,nouns,0.25
+770,croire,kukubali,verbs,2.8
+771,organiser,panga,verbs,1.9
+772,faire,kujenga,verbs,4.5
+773,réinhumation,zika upya,nouns,1.9
+774,lycée,weledi,nouns,0.95
+775,marrant,mwenye huzuni,adjectives,0.65
+776,déjeuner,ugali,nouns,2.4
+777,protéine,protini,nouns,0.25
+778,rationnel,kueleweka,adjectives,0.8
+779,fermement,kwa ukakamavu,adverbs,0.75
+780,mettre,kuning'inia,verbs,0.55
+781,crédit,mkopo,nouns,1.5
+782,manuscrit,muswada,nouns,2.1
+783,journaliste,mwanahabari,nouns,1.1
+784,détruire,kutengeneza,verbs,0.75
+785,vendre,kuuza,verbs,0.4
+786,encourager,kukanya,verbs,0.95
+787,drapeau,bendera,nouns,1.35
+788,provenir,kuanza,verbs,0.7
+789,suspect,mshukiwa,nouns,0.75
+790,représenter,kujifanya,verbs,0.4
+791,couverture,kitanda,nouns,1.85
+792,électrique,chenye umeme,adjectives,0.2
+793,étoile,nyota,nouns,2.05
+794,appareil photo,rais,nouns,0.05
+795,saleté,matope,nouns,3.7
+796,faute,kosa,nouns,0.2
+797,en phase terminale,mwisho,adverbs,0.1
+798,étain,tini,nouns,2.45
+799,profondément,kwa undani,adverbs,0.75
+800,paille,nyimbo,nouns,0.1
+801,heureux,wa ghadhabu,adjectives,0.85
+802,légitime,halali,adjectives,0.75
+803,anniversaire,siku ya kuzaliwa,nouns,2.15
+804,pull-over,jaketi,nouns,3.65
+805,prêtre,kasisi,nouns,2.8
+806,ballon,mpira,nouns,2.3
+807,scénariste,mwandishi wa filamu,nouns,1.0
+808,industrie,biashara,nouns,2.3
+809,jus,juisi,nouns,0.5
+810,propre,safi,adjectives,5.4
+811,tuyau,gari,nouns,0.1
+812,ciel,jua,nouns,1.75
+813,confiance,nafsi,nouns,1.05
+814,tabouret,kigoda,nouns,3.65
+815,historien,mtalaamu wa historia,nouns,5.0
+816,nuit,sura,nouns,0.1
+817,précis,uhakika,adjectives,0.25
+818,incurvé,pinda,adjectives,0.9
+819,mordre,kung'ata,verbs,1.05
+820,évidemment,ni dhahiri,adverbs,3.5
+821,rive,pwani,nouns,4.4
+822,personne,idadi ya watu,nouns,3.75
+823,histoire,wimbo,nouns,1.4
+824,obtenir,kushindwa,verbs,0.8
+825,évêque,askofu mkuu,nouns,4.6
+826,tirer,kuvuta,verbs,1.7
+827,voiture,baisikeli,nouns,1.55
+828,recevoir,kupa,verbs,1.05
+829,femme,manyoya,nouns,0.25
+830,passion,hisia,nouns,3.3
+831,rappeler,kusahau,verbs,0.8
+832,nuage,wingu,nouns,0.45
+833,menthe,mti wa minti,nouns,0.5
+834,emploi,kazi,nouns,1.1
+835,mode de vie,mtindo wa maisha,nouns,2.2
+836,visa,mhuri,nouns,0.65
+837,enterrer,kuzika,verbs,2.95
+838,cône,kikombe,nouns,0.4
+839,camion,gari la mzigo,nouns,0.1
+840,porter,kuleta,verbs,3.05
+841,grandement,umuhimu zaidi,adverbs,0.6
+842,argent,fedha,nouns,5.2
+843,vin,kileo,nouns,3.9
+844,calendrier,tarehe,nouns,3.25
+845,légion,jeshi,nouns,3.6
+846,manette,joystiki,nouns,0.4
+847,venir,kuleta,verbs,0.8
+848,décourager,kutia moyo,verbs,0.95
+849,obtenir,kubaki,verbs,0.3
+850,uniforme,sare,nouns,0.3
+851,chalet,kibanda,nouns,3.55
+852,crépuscule,jioni,nouns,4.75
+853,mort,mazishi,nouns,3.3
+854,secrétaire,mwanamke,nouns,1.1
+855,journal,taarifa,nouns,2.85
+856,injustement,si kwa haki,adverbs,0.85
+857,ouvrier,mwajiri,nouns,1.35
+858,ronger,kumomonyoka,verbs,0.15
+859,yaourt,mgando,nouns,0.2
+860,censure,udhibiti,nouns,1.05
+861,anxieux,ogopa,adjectives,3.85
+862,triste,wa kuchekesha,adjectives,0.65
+863,colline,jabali,nouns,3.05
+864,aller,kuanza,verbs,0.7
+865,livre,hadithi,nouns,2.4
+866,président,kamera,nouns,0.05
+867,permettre,kuruhusu,verbs,1.47
+868,gros,kubwa,adjectives,0.2
+869,voiture,gari,nouns,3.48
+870,unique,ya pekee,adjectives,0.5
+871,avalanche,maporomoko ya theluji,nouns,3.0
+872,spécial,maalumu,adjectives,3.0
+873,sable,mchanga,nouns,0.3
+874,expliquer,kujadili,verbs,2.2
+875,simulation,onyesho,nouns,0.75
+876,infraction,udanganyifu,nouns,3.8
+877,examen,mtihani,nouns,1.05
+878,large,mbivu,adjectives,0.1
+879,insulter,kutukana,verbs,3.9
+880,programme,mtaala,nouns,1.05
+881,limite,mpaka,nouns,4.85
+882,port,bandari,nouns,0.45
+883,tuyau,bustani,nouns,0.6
+884,salaire,hela,nouns,3.75
+885,humilier,kuaibisha,verbs,0.45
+886,chœur,kanisa,nouns,2.1
+887,dépenser,kuokoa,verbs,0.45
+888,rapidement,kwa haraka,adverbs,4.55
+889,devenir,kutengeneza,verbs,0.6
+890,régime,matofaa,nouns,0.65
+891,mépriser,kuchukia,verbs,1.1
+892,profession,chuo,nouns,0.95
+893,archéologie,akiolojia,nouns,3.05
+894,ouverture,mlango,nouns,3.3
+895,tranchant,kali,adjectives,0.7
+896,enthousiasmé,sisimka,adjectives,1.0
+897,prendre sa retraite,kustaafu,verbs,0.85
+898,reconnaître,kujulisha,verbs,0.95
+899,poitrine,mwili,nouns,2.2
+900,application,programu tumishi,nouns,0.1
+901,beauté,umri,nouns,0.7
+902,manteau,nguo,nouns,3.15
+903,scientifique,muuguzi,nouns,0.85
+904,menace,hatari,nouns,4.95
+905,retenir,kusahau,verbs,0.8
+906,tapis,nyumba,nouns,0.75
+907,métal,chuma,nouns,3.0
+908,essayer,kutimiza,verbs,0.95
+909,jupe,sketi,nouns,0.35
+910,prince,mfalme,nouns,3.6
+911,champion,mshindi,nouns,5.25
+912,maison,jimbo,nouns,0.15
+913,article,makala,nouns,2.1
+914,laisser,kuingia,verbs,0.25
+915,ruelle,bakuli,nouns,0.05
+916,usine,gari,nouns,0.6
+917,âge,urembo,nouns,0.7
+918,évident,wa kuonekana,adjectives,4.7
+919,météore,meteor,nouns,0.7
+920,éblouir,kukondoa macho,verbs,0.3
+921,grêle,mvua ya mawe,nouns,3.65
+922,smartphone,simu mahiri,nouns,0.0
+923,pomme,juisi,nouns,1.65
+924,parasite,wadudu,nouns,1.45
+925,pollution,rais,nouns,0.35
+926,viande,nyama,nouns,3.4
+927,groupe,pombe,nouns,0.2
+928,conversion,uongofu,nouns,0.2
+929,occasion,maafikiano,nouns,0.15
+930,salle de cours,ushoroba,nouns,0.6
+931,écouter,kusikia,verbs,4.85
+932,courroucé,mkali,adjectives,0.4
+933,impatiemment,bila subira,adverbs,0.45
+934,siroter,kukunywa,verbs,4.55
+935,taureau,ndama,nouns,2.65
+936,boîtier,kesi,nouns,0.65
+937,obtenir,kuweka,verbs,0.4
+938,altérer,kubadilisha,verbs,5.4
+939,dissertation,kitabu,nouns,0.9
+940,voiture,mkokoteni,nouns,4.45
+941,secourir,okoa,verbs,5.3
+942,haut,juu,adjectives,0.15
+943,coucher de soleil,macheo,nouns,2.4
+944,brique,ukuta,nouns,2.0
+945,fâché,mwenye furaha,adjectives,0.85
+946,table,meza,nouns,0.0
+947,défendre,kuua,verbs,0.7
+948,danger,tishio,nouns,4.95
+949,aider,kufadhili,verbs,5.25
+950,philosophe,mphilisophia,nouns,0.15
+951,âme,kaka,nouns,0.35
+952,responsablement,kwa uwajibikaji,adverbs,1.2
+953,acteur,mwigaji,nouns,0.5
+954,mot,ishara,nouns,1.0
+955,attacher,kubandika,verbs,0.75
+956,gravité,mvuto,nouns,0.7
+957,être d'accord,kutofautiana,verbs,0.75
+958,dangereusement,kwa uhatari,adverbs,0.4
+959,estomac,chumba cha kulala,nouns,0.05
+960,nerveusement,kwa woga,adverbs,5.3
+961,activement,kwa juhudi,adverbs,0.45
+962,épouse,mwanamke,nouns,4.35
+963,parapluie,mwavuli,nouns,0.05
+964,parlement,bunge,nouns,3.35
+965,se produire,kufanya,verbs,1.05
+966,contraire,kinyume,adjectives,0.5
+967,sans abri,wasio na makazi,nouns,0.75
+968,conquête,nyimbo,nouns,0.45
+969,rétrécir,kupotea,verbs,1.35
+970,idéalement,walau,adverbs,0.45
+971,tasse,kijiko,nouns,1.3
+972,notifier,kufahamisha,verbs,5.5
+973,typhon,dhoruba,nouns,4.8
+974,psychologie,sayansi,nouns,2.5
+975,planète,mwezi,nouns,1.85
+976,boiter,kuchechemea,verbs,2.75
+977,semis,miche,nouns,1.3
+978,errer,kutangatanga,verbs,1.8
+979,évaluer,kuchanganua,verbs,4.5
+980,population,watu,nouns,3.75
+981,étreindre,kumbatia,verbs,5.25
+982,prier,kuwasiliana,verbs,0.65
+983,week-end,wikiendi,nouns,0.25
+984,fiablement,kwa kuaminika,adverbs,0.45
+985,centime,saizi,nouns,0.1
+986,tâche,kazi,nouns,3.35
+987,généralement,kawaida,adverbs,0.45
+988,fragile,baridi,adjectives,0.3
+989,whisky,jini,nouns,2.95
+990,génial,mbaya,adjectives,0.35
+991,soleil,matofaa,nouns,0.35
+992,offenser,kukashifu,verbs,3.9
+993,moteur,injini,nouns,4.25
+994,bible,kitabu,nouns,3.25
+995,organiser,kupanga,verbs,4.5
+996,timide,aibu,adjectives,0.1
+997,prédire,kudhani,verbs,2.5
+998,mélanger,kuchanganya,verbs,4.9
+999,lentille,kamera,nouns,2.35
+1000,armée,kikosi,nouns,3.6
+1001,paisiblement,kwa amani,adverbs,0.45
+1002,jambe,mkono,nouns,2.25
+1003,esprit,mungu,nouns,2.6
+1004,calmement,kwa utulivu,adverbs,2.55
+1005,guerrier,mwanaume,nouns,1.6
+1006,émotionnellement,kwa hisia,adverbs,1.9
+1007,essayer,kufanikiwa,verbs,1.6
+1008,région,eneo,nouns,3.6
+1009,fraude,uhalifu,nouns,3.8
+1010,mourir,kufariki,verbs,2.05
+1011,os,shingo,nouns,1.25
+1012,furieux,bila furaha,adjectives,2.65
+1013,anormalement,si asili,adverbs,0.75
+1014,dîner,kuku,nouns,1.1
+1015,communiquer,kusali,verbs,0.65
+1016,bière,kileo,nouns,4.4
+1017,voiture,geji,nouns,0.4
+1018,frontière,ukingo,nouns,4.85
+1019,boussole,dira,nouns,0.0
+1020,fiction,wasifu,nouns,1.6
+1021,bourse d'étude,ufadhili wa elimu,nouns,2.1
+1022,jeune,mwenye furaha,adjectives,0.45
+1023,presser,kuvyombo vya habari,verbs,0.2
+1024,justement,kwa ,adverbs,0.65
+1025,lutter,kujitahidi,verbs,0.4
+1026,éléphant,ndovu,nouns,0.0
+1027,doux,tamu,adjectives,0.2
+1028,donner,kujua,verbs,0.3
+1029,orthodontiste,daktari,nouns,3.2
+1030,aider,kusaidia,verbs,0.8
+1031,yard,mita,nouns,3.55
+1032,surface,kona,nouns,0.8
+1033,événement,tukio,nouns,0.85
+1034,différer,kukubali,verbs,0.75
+1035,longévité,ua,nouns,0.2
+1036,laïc,mwanaisilamu,nouns,1.8
+1037,mouton,mifugo,nouns,3.65
+1038,rabbin,mwalimu,nouns,1.65
+1039,passionnant,sisimsha,adjectives,0.3
+1040,xénophobie,ubaguzi,nouns,4.7
+1041,danger,ugonjwa,nouns,1.05
+1042,câble,amari,nouns,0.03
+1043,fracasser,kuharibu,verbs,4.2
+1044,attirer,kuvutia,verbs,0.55
+1045,criquet,kriketi,nouns,0.35
+1046,persuader,kugombana,verbs,0.5
+1047,ananas,nanasi,nouns,0.0
+1048,information,gazeti,nouns,2.85
+1049,étudiant,mwanafunzi,nouns,1.85
+1050,satire,satire,nouns,2.2
+1051,décider,kufikiria,verbs,2.35
+1052,coupable,mbaya,adjectives,2.25
+1053,portable,daftari,nouns,0.1
+1054,flexible,mkubwa sana,adjectives,0.3
+1055,prévenir,onya,verbs,0.75
+1056,négativement,kwa ubaya,adverbs,0.75
+1057,stylo,kalamu,nouns,0.55
+1058,agrume,machungwa,nouns,5.15
+1059,terminer,kumaliza,verbs,0.2
+1060,boucle,mkanda,nouns,2.05
+1061,couronne,taji,nouns,0.05
+1062,livre,fasihi,nouns,2.65
+1063,uniformément,sawa,adverbs,0.35
+1064,gouverneur,gavana,nouns,3.8
+1065,marcher,kutembea,verbs,2.75
+1066,roi,mtoto wa mfalme,nouns,3.6
+1067,déchirer,kuchana,verbs,0.15
+1068,rétracter,kutoa,verbs,0.85
+1069,avec optimisme,kwa matuamini,adverbs,0.85
+1070,mentir,kudanganya,verbs,0.5
+1071,pomme,sosi,nouns,0.8
+1072,collecter,kukusanya,verbs,1.9
+1073,mûrement,kiukomavu,adverbs,0.65
+1074,amusement,mchezo,nouns,4.15
+1075,décider,kuonyesha,verbs,0.8
+1076,créer,kuunda,verbs,4.6
+1077,frère,roho ,nouns,0.35
+1078,viscosité,mnato,nouns,0.3
+1079,fermer,kufunga,verbs,0.05
+1080,généreusement,kwa ukarimu,adverbs,0.05
+1081,fenêtre,mlango,nouns,1.85
+1082,sérieusement,kwa umakini,adverbs,2.3
+1083,discrètement,kwa siri,adverbs,0.55
+1084,lèvre,nyonga,nouns,0.6
+1085,énorme,mkubwa sana,adjectives,5.1
+1086,idéalement,walau,adverbs,1.25
+1087,acquérir,kujiunga,verbs,0.65
+1088,fraternité,wanaume,nouns,1.3
+1089,impossible,kutowekana,adjectives,0.95
+1090,tennis,tenisi,nouns,0.25
+1091,lycée,darasa,nouns,2.75
+1092,réfuter,kukanusha,verbs,0.25
+1093,robe,gauni,nouns,0.45
+1094,huile,ngozi,nouns,0.1
+1095,câliner,kukumbatia,verbs,5.25
+1096,soleil couchant,machweo,nouns,0.0
+1097,garçon,kijana,nouns,4.1
+1098,merveilleux,mkubwa sana,adjectives,1.35
+1099,ignorer,kuuliza,verbs,0.6
+1100,cockpit,chumba cha rubani,nouns,1.2
+1101,équitablement,kwa haki,adverbs,0.85
+1102,s'écraser,kumgongano,verbs,3.6
+1103,nier,kukana,verbs,1.4
+1104,parfois,muda mwingine,adverbs,0.5
+1105,convocation,mkutano,nouns,3.95
+1106,registre,kitabu,nouns,0.3
+1107,déterminer,kutambulisha,verbs,0.2
+1108,prendre,kupeleka,verbs,0.6
+1109,coin,eneo,nouns,0.8
+1110,astéroïde,kimondo,nouns,3.3
+1111,moteur,boti,nouns,1.9
+1112,lever de soleil,machweo,nouns,2.4
+1113,fabricant,muumbaji,nouns,5.05
+1114,mois,agosti,nouns,3.2
+1115,boîte,kofia,nouns,0.7
+1116,jardin,mpira wa maji,nouns,0.6
+1117,république,jamhuri,nouns,0.3
+1118,avion,uwanja wa ndege,nouns,2.2
+1119,calibre,kaliba,nouns,0.05
+1120,statistique,takwimu,nouns,0.25
+1121,choix,chaguo,nouns,3.4
+1122,certainement,hakika,adverbs,5.25
+1123,accomplir,kutimiza,verbs,5.15
+1124,gagnant,lengo,nouns,0.7
+1125,influencer,kubagua,verbs,2.95
+1126,rêve,ndoto,nouns,0.45
+1127,doucement,kwa ulaini,adverbs,0.7
+1128,ronfler,kung'orota,verbs,0.75
+1129,désordonné,chafu,adjectives,0.9
+1130,bronchite,ugonja wa bronchitis,nouns,0.9
+1131,homme,baba,nouns,3.0
+1132,radiateur,kipasha joto,nouns,0.25
+1133,circumnavigation,mzunguko,nouns,0.5
+1134,radiateur,radiator,nouns,0.8
+1135,choix,jela,nouns,0.25
+1136,centime,mke,nouns,0.05
+1137,épargnant,saver,nouns,3.35
+1138,prophète,nabii,nouns,2.8
+1139,mort,balaa,nouns,2.4
+1140,vainqueur,mgombea wa uchaguzi,nouns,1.85
+1141,croître,kupungua,verbs,0.85
+1142,plaisir,mpira wa miguu,nouns,0.8
+1143,mur,tofali,nouns,2.0
+1144,naturellement,kwa uhalisia,adverbs,1.05
+1145,rencontrer,kupatana,verbs,0.35
+1146,phonologie,fonolojia,nouns,0.2
+1147,marais,ziwa,nouns,2.9
+1148,ceinture,kitanzi,nouns,2.05
+1149,échouage,saratanji,nouns,2.3
+1150,donner,kukopesha,verbs,3.2
+1151,chaise,benchi,nouns,4.1
+1152,humble,mnyenyekevu,adjectives,5.5
+1153,faire,kutukia,verbs,1.05
+1154,logique,akili,nouns,3.4
+1155,attroupement,umati,nouns,4.95
+1156,roi,mfalme,nouns,4.8
+1157,national,kitaifa,adjectives,0.2
+1158,maison,banda,nouns,2.6
+1159,marrant,wa kuchosha,adjectives,0.3
+1160,tasse,koni,nouns,0.4
+1161,estomac,kiuno,nouns,0.6
+1162,chasser,kukimbiza,verbs,0.95
+1163,marteau,nyundo,nouns,0.0
+1164,taille,mbinu,nouns,0.0
+1165,rugueux,baridi,adjectives,0.15
+1166,chasser,kimbiza,verbs,2.4
+1167,objectif,mshindi,nouns,0.7
+1168,revêtement,ngozi,nouns,0.2
+1169,delta,delta,nouns,1.55
+1170,ozone,ozoni,nouns,3.45
+1171,bois,gogo,nouns,3.2
+1172,aller,kutuma,verbs,0.5
+1173,acheter,kupata,verbs,1.0
+1174,frais,mzee,adjectives,0.2
+1175,brouillard,wingu,nouns,3.5
+1176,fier,kujivunia,adjectives,0.3
+1177,gin,wiski,nouns,2.95
+1178,jamais,kamwe,adverbs,0.05
+1179,rapide,wa haraka,adjectives,5.05
+1180,pomme,mpangilio wa chakula,nouns,0.65
+1181,roi,mtoto wa mfalme,nouns,3.1
+1182,doux,vuguvugu,adjectives,0.72
+1183,libre,huru,adjectives,2.25
+1184,femme,tundu,nouns,0.1
+1185,accord,makubaliano,nouns,5.45
+1186,se renseigner,kuhitaji,verbs,0.5
+1187,ministre,rabai,nouns,1.15
+1188,hématologie,hematolojia,nouns,2.8
+1189,pluie,manyunyu,nouns,4.65
+1190,élever,kulea,verbs,0.05
+1191,livrer,kukubali,verbs,0.55
+1192,vêtement,kitambaa,nouns,3.25
+1193,taille,senti,nouns,0.1
+1194,mot-clé,nenokuu,nouns,1.0
+1195,voie-rapide,barabara kuu,nouns,4.4
+1196,attaque,shambulio,nouns,1.7
+1197,donation,mchango,nouns,3.4
+1198,magnitude,saizi,nouns,4.45
+1199,échouer,kushindwa,verbs,5.0
+1200,fourrure,bunduki,nouns,0.05
+1201,téléphone,kibanda cha simu,nouns,1.95
+1202,regarder,kuangalia,verbs,5.6
+1203,jauge,gari,nouns,0.4
+1204,dentiste,daktari wa meno,nouns,5.05
+1205,instamment,haraka,adverbs,4.55
+1206,vendre,kukumbusha,verbs,0.2
+1207,dollar,watu,nouns,0.4
+1208,ouvrier,mfanyakazi,nouns,0.75
+1209,pâlir,kufifia,verbs,0.8
+1210,agriculture,kilimo,nouns,2.48
+1211,oublier,kukumbusha,verbs,0.8
+1212,partenaire,mvulana,nouns,1.05
+1213,corps,neva,nouns,1.2
+1214,anthropologie,anthropolojia,nouns,3.05
+1215,imiter,kuiga,verbs,0.25
+1216,frire,kukaanga,verbs,3.55
+1217,angle,tao,nouns,2.0
+1218,expliquer,kufafanua,verbs,5.1
+1219,critiquer,kulaumu,verbs,0.2
+1220,bois,gogo,nouns,3.75
+1221,sonnet,ushairi,nouns,0.4
+1222,ami,mama,nouns,0.95
+1223,rigide,ngumu,adjectives,0.35
+1224,candidat,mwombaji,nouns,2.55
+1225,corridor,ushoroba,nouns,4.85
+1226,rivaliser,kushindana,verbs,0.2
+1227,guitare,ngoma,nouns,2.55
+1228,sincèrement,kwa ukweli,adverbs,0.2
+1229,souris,chombo,nouns,0.05
+1230,flotter,kuelea,verbs,0.1
+1231,queue,mkia,nouns,2.8
+1232,cyclone,kimbunga,nouns,4.8
+1233,garder,kushindwa,verbs,0.75
+1234,garder,kutunza,verbs,2.65
+1235,mal,ana hatia,adjectives,2.25
+1236,ongle,kidole gumba,nouns,2.05
+1237,communication,televisheni,nouns,2.0
+1238,délicatement,kwa uangalifu,adverbs,0.15
+1239,mère,rafiki,nouns,0.95
+1240,siècle,pombe,nouns,0.05
+1241,femme,sekretari,nouns,1.1
+1242,capital,hela,nouns,5.2
+1243,accuser,laumu,verbs,4.85
+1244,dire,kuhakikisha,verbs,0.55
+1245,éviter,kujiweka mbali,verbs,1.4
+1246,avocat,mwanasheria,nouns,2.35
+1247,être d'accord,kukubali,verbs,2.63
+1248,errer,kuondoka,verbs,0.6
+1249,positivement,vyema,adverbs,0.7
+1250,assister,kuhudhuria,verbs,0.55
+1251,échouer,kushidwa,verbs,0.25
+1252,organe,ini,nouns,2.8
+1253,machine,injini,nouns,3.6
+1254,chaîne,uzi,nouns,0.0
+1255,sujet,kitabu,nouns,0.9
+1256,propre,nadhifu,adjectives,5.55
+1257,adulte,umekua,adjectives,0.7
+1258,côte,ufuko,nouns,3.8
+1259,canonnière,meli ya vita,nouns,0.3
+1260,évident,wa kuona,adjectives,2.85
+1261,livre,mada,nouns,0.9
+1262,alcool,bendi,nouns,0.2
+1263,construire,kujumlisha,verbs,0.85
+1264,concrètement,kwelikweli,adverbs,0.15
+1265,couloir,darasa,nouns,0.6
+1266,sauver,kuokoa,verbs,3.02
+1267,voiture,mtaa,nouns,0.65
+1268,matrice,matriksi,nouns,0.2
+1269,enseigner,kufundisha,verbs,2.82
+1270,stupide,mjanja,adjectives,0.85
+1271,président,mwanachuo,nouns,0.65
+1272,session,kikao,nouns,0.1
+1273,pot,kifaa,nouns,0.35
+1274,arrêter,kuacha,verbs,0.58
+1275,inexactement,si kwa usahihi,adverbs,0.75
+1276,élever,kunyanyua,verbs,4.6
+1277,gamin,mtoto wa kike,nouns,1.85
+1278,candidature,maombi,nouns,2.55
+1279,se disputer,kulalamika,verbs,1.55
+1280,frère,kaka,nouns,2.4
+1281,violent,kigomvi,adjectives,0.5
+1282,emprunter,kutaka,verbs,0.8
+1283,trou,mke,nouns,0.1
+1284,intelligent,mpumbavu,adjectives,0.9
+1285,avocat,mfanyakazi wa benki,nouns,1.15
+1286,voiture,lifti,nouns,0.7
+1287,porte,mlangoni,nouns,3.3
+1288,mari,mwanaume,nouns,4.4
+1289,maison,kapeti,nouns,0.75
+1290,paire,vitu viwili,nouns,5.8
+1291,bain,chumba,nouns,0.8
+1292,excuser,samehea,verbs,5.35
+1293,mètre,yadi,nouns,3.55
+1294,informer,arifu,verbs,0.1
+1295,voler,kupa,verbs,0.7
+1296,recevoir,kuchukua,verbs,3.2
+1297,crocodile,mamba,nouns,2.95
+1298,bouilli,chemshwa,adjectives,3.95
+1299,présence,mshindi,nouns,0.3
+1300,chaise,kiti,nouns,3.65
+1301,faux,kosa,adjectives,0.25
+1302,lit,kiti,nouns,1.35
+1303,geyser,chemchemi ya maji ya moto,nouns,3.3
+1304,demander,kuuliza,verbs,0.8
+1305,écrivain,muandishi,nouns,0.25
+1306,courbe,pembe,nouns,2.0
+1307,globalisation,utandawazi,nouns,0.65
+1308,liqueur,divai,nouns,3.5
+1309,autobus,teksi,nouns,2.75
+1310,spectacle,onyesha,nouns,0.1
+1311,frais,malipo,nouns,4.1
+1312,chapitre,chaguo,nouns,0.45
+1313,chercher,tafuta,verbs,1.8
+1314,stupide,mpumbavu,adjectives,1.45
+1315,gorge,ulimi,nouns,1.8
+1316,fièvre,mafua,nouns,3.85
+1317,capitaine,mwanamaji,nouns,2.7
+1318,empereur,mtawala,nouns,2.27
+1319,fenêtre,dirisha,nouns,0.4
+1320,maladie,ugonjwa wa kuambukiza ,nouns,4.2
+1321,réservoir,tenki,nouns,1.05
+1322,château,nyumba,nouns,0.3
+1323,belligérance,ubishani,nouns,4.35
+1324,définir,kufafanua,verbs,4.75
+1325,rythme,mahadhi,nouns,1.5
+1326,falaise,kilima,nouns,3.05
+1327,vin,pombe,nouns,3.5
+1328,emprunter,kuuza,verbs,0.6
+1329,se dissiper,kupotea,verbs,5.5
+1330,palais,jumba la kubwa,nouns,2.35
+1331,pain,unga,nouns,1.9
+1332,coeur,upasuaji,nouns,1.2
+1333,prendre,kupokea,verbs,3.2
+1334,évacuer,kuondoka,verbs,0.2
+1335,éviter,kukataa,verbs,1.8
+1336,confession,kanusho,nouns,0.95
+1337,apeuré,wa wasiwasi,adjectives,3.85
+1338,statue,kinyagu,nouns,4.8
+1339,sortie,mahali ya kutokea,nouns,0.3
+1340,protéger,kukinga,verbs,5.1
+1341,parapsychologie,parasaikolojia,nouns,3.05
+1342,oublier,kujifunza,verbs,0.9
+1343,élection,uchaguzi,nouns,3.4
+1344,bateau,sitaha,nouns,1.05
+1345,verser,kumwaga,verbs,1.15
+1346,saisir,kukuifungia,verbs,0.4
+1347,supposer,kutabiri,verbs,2.5
+1348,wagon,gari la farasi,nouns,4.45
+1349,envoyer,kwenda,verbs,0.5
+1350,officiellement,rasmi,adverbs,0.4
+1351,plafond,kanisa kuu,nouns,0.35
+1352,campement,kibanda,nouns,0.9
+1353,pollinisation,uchavushi,nouns,2.3
+1354,cigarette,tumbaku,nouns,4.45
+1355,centime,peni,nouns,0.15
+1356,biotope,ekolojia,nouns,1.4
+1357,couvrir,kufunika,verbs,3.1
+1358,monoculture,kilima cha zao moja,nouns,3.25
+1359,veine,tumbo,nouns,0.75
+1360,capteur,sensa,nouns,0.8
+1361,texte,kitabu,nouns,3.8
+1362,blé,nafaka,nouns,3.35
+1363,vison,mafuta,nouns,0.1
+1364,île,mtoto wa mfalme,nouns,0.25
+1365,tiroir,nguo,nouns,1.05
+1366,heureux,mchanga,adjectives,0.45
+1367,bacon,maharagwe,nouns,0.75
+1368,planète,sayari,nouns,3.5
+1369,nier,kupa,verbs,0.25
+1370,bain,gogo,nouns,0.0
+1371,confiserie,matofaa,nouns,1.1
+1372,représenter,kuamua,verbs,0.8
+1373,frère,mvulana,nouns,2.7
+1374,penser,kujaribu,verbs,0.15
+1375,porte,jiko,nouns,0.5
+1376,pouce,ukucha,nouns,2.05
+1377,singe,nyani,nouns,0.05
+1378,n'importe quand,kila wakati,adverbs,0.3
+1379,stratège,mkakati,nouns,2.9
+1380,donner,kukana,verbs,0.25
+1381,convenable,sawa,adjectives,1.3
+1382,doucement,kwa upole,adverbs,0.55
+1383,père,mzazi,nouns,4.4
+1384,globe,dunia,nouns,5.3
+1385,molécule,atomu,nouns,3.35
+1386,tempête,upepo mkali,nouns,0.05
+1387,exiger,kutafiti,verbs,0.5
+1388,aluminium,alumini,nouns,2.73
+1389,employeur,mfanyakazi,nouns,1.35
+1390,se renseigner,kuwaza,verbs,0.8
+1391,danse,densi,nouns,0.45
+1392,parent,baba,nouns,4.4
+1393,téléphone,simu,nouns,2.55
+1394,incroyable,maradufu,adjectives,0.7
+1395,faire,kuharibu,verbs,0.75
+1396,rat,panya,nouns,4.1
+1397,irrégulièrement,isivyo kawaida,adverbs,0.7
+1398,confidentiel,haijafichuliwa,adjectives,0.55
+1399,supporter,msaidizi,nouns,0.35
+1400,bagage,mzigo,nouns,0.5
+1401,chanson,hadithi,nouns,1.4
+1402,personne,mnyama,nouns,1.0
+1403,sobre,makini,adjectives,0.8
+1404,remuer,kukoroga,verbs,4.9
+1405,pistolet,bunduki,nouns,0.1
+1406,organiser,kuwa,verbs,0.25
+1407,bras,mshipa,nouns,1.0
+1408,date,kalenda,nouns,3.25
+1409,suite,mwendelezo,nouns,0.15
+1410,tranchant,mbutu,adjectives,0.1
+1411,taille,ukubwa,nouns,4.45
+1412,gagner,kutengeneza,verbs,0.5
+1413,chapeau,sanduku,nouns,0.7
+1414,seconde,dakika,nouns,3.0
+1415,école,darasa,nouns,3.7
+1416,estomac,mshipa,nouns,0.75
+1417,falaise,mkia,nouns,0.05
+1418,animal de compagnie,paka,nouns,3.7
+1419,porter,kuchukua,verbs,2.55
+1420,incroyablement,kwa umaradufu,adverbs,1.95
+1421,tristement,kwa huzuni,adverbs,1.3
+1422,bétail,mifugo,nouns,0.2
+1423,canapé,baseball,nouns,0.05
+1424,juriste,wakili,nouns,4.65
+1425,sûr,bila shaka,adjectives,5.3
+1426,livre,andiko,nouns,3.8
+1427,automobile,motokaa,nouns,5.9
+1428,indice,neno,nouns,1.0
+1429,riz,kuku,nouns,0.8
+1430,voiture,teksi,nouns,4.15
+1431,observer,kutazama,verbs,5.6
+1432,action,akiba,nouns,3.45
+1433,personne,senti,nouns,0.05
+1434,contrarié,kasirika,adjectives,0.65
+1435,vélo,gari,nouns,1.55
+1436,détruire,kuumba,verbs,0.8
+1437,oiseau,kuku,nouns,3.1
+1438,bacon,chakula cha asubuhi,nouns,1.2
+1439,impeccable,bila doa,adjectives,5.4
+1440,concours,mapatano,nouns,0.65
+1441,zone,eneo,nouns,4.3
+1442,chambre à coucher,baisikeli,nouns,0.05
+1443,être diplômé,kuhitimu,verbs,3.55
+1444,élève,mwanafunzi,nouns,5.05
+1445,couvert,funikwa,adjectives,0.95
+1446,balle,glavu,nouns,1.4
+1447,nager,kuogelea,verbs,0.3
+1448,passivement,kwa kutegemewa,adverbs,0.35
+1449,confondre,kuchanganya,verbs,0.5
+1450,savoir,kuelewa,verbs,3.85
+1451,amical,mkarimu,adjectives,2.45
+1452,disparaître,kutafuta,verbs,0.3
+1453,bourrasque,upepo mkali,nouns,4.25
+1454,canette,kopo,nouns,2.65
+1455,réel,halisi,adjectives,0.95
+1456,absorber,kutoa,verbs,1.8
+1457,paix,amani,nouns,0.8
+1458,rencontrer,kukusanya,verbs,1.55
+1459,recueillir,kukutana,verbs,1.55
+1460,frapper,kupiga,verbs,0.55
+1461,course,mbio,nouns,0.2
+1462,hôpital,kitanda,nouns,1.0
+1463,puissant,mwenye nguvu,adjectives,0.8
+1464,tombe,kaburi,nouns,1.9
+1465,bière,kinywaji,nouns,3.75
+1466,souris,ndezi,nouns,4.1
+1467,conforter,kufaraja,verbs,0.45
+1468,syntaxe,sintaksia,nouns,1.0
+1469,têtu,msumbufu,adjectives,1.45
+1470,gagnant,uwepo,nouns,0.3
+1471,parent,mtu mzima,nouns,3.25
+1472,compter,tegemea,verbs,0.25
+1473,boire,kunywa,verbs,0.4
+1474,enjoué,mwenye furaha,adjectives,4.85
+1475,énorme,mpumbavu,adjectives,0.65
+1476,descendre,kushuka,verbs,0.3
+1477,analyser,kuchambua,verbs,4.5
+1478,orchestre,bendi,nouns,4.25
+1479,section,jeshi,nouns,2.4
+1480,chambre,tumbo,nouns,0.05
+1481,larme,jicho,nouns,1.6
+1482,surface,kanda,nouns,4.3
+1483,ami,mwalimu,nouns,0.9
+1484,augmenter,kukuinua,verbs,4.6
+1485,batterie,betri,nouns,0.05
+1486,colère,ghadhabu,nouns,5.1
+1487,apporter,kurudisha,verbs,0.75
+1488,boire,kunywa,verbs,2.3
+1489,détériorer,kuzorota,verbs,0.2
+1490,activement,kikamilifu,adverbs,0.25
+1491,perdre,kuweka,verbs,0.75
+1492,travail,jukumu,nouns,3.95
+1493,facile,ngumu,adjectives,1.1
+1494,vague,isiyo dhahiri,adjectives,4.9
+1495,pleinement,kwa uzima,adverbs,0.7
+1496,propre,safi,adjectives,0.95
+1497,professeur,rafiki,nouns,0.9
+1498,cérémonie,sherehe,nouns,5.35
+1499,éroder,kumomonyoka,verbs,0.8
+1500,manière,njia,nouns,5.2
+1501,témoigner,kushuhudia,verbs,1.15
+1502,approuver,kukubali,verbs,4.0
+1503,normalement,kwa kawaida,adverbs,0.75
+1504,se plaindre,kuleta,verbs,0.15
+1505,rivière,mkondo,nouns,3.95
+1506,ballon,mpira,nouns,2.5
+1507,porte,uwepo,nouns,0.15
+1508,détruire,kuharibu,verbs,0.6
+1509,frais de scolarité,ada,nouns,2.1
+1510,porte,undugu,nouns,0.0
+1511,affaire,viwanda,nouns,2.3
+1512,difficile,rahisi,adjectives,1.1
+1513,astuce,kuoga,nouns,0.0
+1514,infection,ugonjwa,nouns,4.2
+1515,surprendre,kushangaza,verbs,0.5
+1516,rondin,mbao,nouns,3.2
+1517,interdire,kukataza,verbs,2.35
+1518,servante,msaidizi,nouns,2.95
+1519,papillon,kipepeo,nouns,0.4
+1520,satisfaire,kusihi,verbs,0.35
+1521,criminel,mhalifu,nouns,5.05
+1522,déguiser,kuficha,verbs,3.1
+1523,pomme,mwanga wa jua,nouns,0.35
+1524,beauté,uzuri,nouns,0.4
+1525,sauce,matofaa,nouns,0.8
+1526,chaos,vurugu,nouns,0.15
+1527,journal,makala,nouns,4.15
+1528,anormalement,sikawaida,adverbs,0.75
+1529,chapitre,mkia,nouns,0.0
+1530,connu,inayojulikana,adjectives,0.65
+1531,frais,mpana,adjectives,0.1
+1532,bateau,meli,nouns,0.2
+1533,galaxie,giligili,nouns,0.1
+1534,marginalement,mara kwa mara,adverbs,0.9
+1535,son,sauti,nouns,3.7
+1536,apporter,kubeba,verbs,3.05
+1537,éduquer,elimisha,verbs,3.8
+1538,secouer,kutikisa,verbs,0.15
+1539,style,fesheni,nouns,4.9
+1540,autobus,chombo cha usafiri,nouns,4.15
+1541,autoroute,jukumu,nouns,0.15
+1542,long métrage,filamu,nouns,5.3
+1543,clavier,kibodi,nouns,0.1
+1544,gouvernement,serikali,nouns,0.0
+1545,commencer,kwenda,verbs,0.7
+1546,donner,kuiba,verbs,0.7
+1547,donner,kutoa,verbs,0.15
+1548,carte,ramani,nouns,0.4
+1549,révision,kivuli cha mawingu,nouns,0.65
+1550,probablement,labda,adverbs,0.7
+1551,sournois,imara,adjectives,0.7
+1552,se produire,kutukia,verbs,5.45
+1553,feuille,jani,nouns,1.3
+1554,significativement,kwa maana,adverbs,2.25
+1555,turbine,mota,nouns,4.25
+1556,vache,mifugo,nouns,3.45
+1557,choisir,chagua,verbs,5.45
+1558,constitution,katiba,nouns,0.75
+1559,échouage,jengo,nouns,1.25
+1560,honteux,kua na aibu,adjectives,0.4
+1561,tâche,kazi,nouns,3.95
+1562,marine,jeshi,nouns,3.9
+1563,moyen,wastani,adjectives,0.75
+1564,chiffre,tarakimu,nouns,5.4
+1565,élire,kuteua,verbs,0.55
+1566,canon,mpira,nouns,0.55
+1567,maladie,hatari,nouns,1.05
+1568,réprimer,kukandamiza,verbs,1.35
+1569,vieux,mbivu,adjectives,0.2
+1570,disparaître,kupungua,verbs,1.35
+1571,attraper,kudaka,verbs,0.57
+1572,immature,kutokomaa,adjectives,0.7
+1573,appartement,nyumba,nouns,3.95
+1574,furieux,mkubwa sana,adjectives,0.55
+1575,énerver,kusumbua,verbs,0.15
+1576,vouloir,kuazima,verbs,0.8
+1577,électricité,umeme,nouns,0.65
+1578,télévision,mawasiliano,nouns,2.0
+1579,sembler,kuwa,verbs,1.0
+1580,étrange,ya kushangaza,adjectives,0.9
+1581,mousse,nyasi,nouns,2.15
+1582,bras,bega,nouns,2.5
+1583,volley-ball,mpira wa wavu,nouns,2.5
+1584,fastidieux,kulivu,adjectives,0.2
+1585,jus,matofaa,nouns,1.65
+1586,deux fois,mara mbili,adverbs,1.0
+1587,catastrophe,kifo,nouns,2.25
+1588,prendre,kubeba,verbs,2.55
+1589,vitesse,mwendo,nouns,0.0
+1590,attendre,kungoja,verbs,0.65
+1591,imiter,kuonyesha,verbs,2.05
+1592,bol,sahani,nouns,3.0
+1593,proie,mungu,nouns,0.05
+1594,bien,nzuri,adjectives,0.15
+1595,brandy,divai,nouns,3.55
+1596,devenir,kufanikisha,verbs,1.35
+1597,incliner,kupendelea,verbs,2.95
+1598,briser,kuvunja,verbs,4.2
+1599,ballon,watu,nouns,0.0
+1600,infection,maambukizo,nouns,0.9
+1601,demander,kuomba,verbs,3.15
+1602,enterrement,kifo,nouns,3.3
+1603,entrant,inayoingia,adjectives,0.35
+1604,imprimer,kuchapisha,verbs,0.1
+1605,ordinaire,kawaida,adjectives,0.8
+1606,pièce,kitanda,nouns,0.8
+1607,gestion,panya,nouns,0.0
+1608,centime,watu,nouns,0.05
+1609,repas,chakula cha usiku,nouns,4.1
+1610,alcool,wiski,nouns,3.9
+1611,sauver,kuokoa,verbs,0.6
+1612,fâché,mjeuri,adjectives,1.7
+1613,estomac,njia,nouns,0.15
+1614,mouiller,kulowesha,verbs,0.05
+1615,vendre,kwenda,verbs,0.2
+1616,fou,safi,adjectives,0.65
+1617,veste,sweta,nouns,3.65
+1618,combat,pambano,nouns,4.35
+1619,garçon,mtoto wa kiume,nouns,4.75
+1620,marin,kapteni,nouns,2.7
+1621,paiement,ada,nouns,4.1
+1622,cerise,cheri,nouns,2.4
+1623,date,tarehe,nouns,2.15
+1624,coupable,mkweli,adjectives,0.7
+1625,voiture,boti,nouns,1.4
+1626,sorcier,mchawi,nouns,0.0
+1627,attendre,kusubiri,verbs,2.35
+1628,mosaïque,mosaic,nouns,0.45
+1629,homme,mshindi,nouns,0.65
+1630,canne à sucre,muwa,nouns,0.3
+1631,sauver,kutumia,verbs,0.45
+1632,veau,fahali,nouns,2.65
+1633,houille,makaa ya mawe,nouns,4.1
+1634,femme,majani makavu,nouns,0.0
+1635,aéroport,ndege,nouns,2.2
+1636,auxiliaire,mfanyakazi wa nyumbani,nouns,2.95
+1637,père,mungu,nouns,2.4
+1638,heureusement,kwa furaha,adverbs,0.28
+1639,penser,kutafiti,verbs,0.8
+1640,fêter,kusherekea,verbs,0.5
+1641,frigide,mdhaifu,adjectives,0.3
+1642,médecin,daktari,nouns,5.5
+1643,pièce,kuoga,nouns,0.8
+1644,localement,hapa ndani,adverbs,0.15
+1645,cadre,fremu,nouns,0.1
+1646,éroder,kumomonyoka,verbs,0.15
+1647,affaire,kampuni,nouns,3.2
+1648,cinéma,sinema,nouns,3.1
+1649,portable,simu ya mkononi,nouns,5.0
+1650,arrêter,kusimamisha,verbs,2.35
+1651,état,nyumba,nouns,0.15
+1652,taxi,teksi,nouns,4.2
+1653,facile,mkubwa,adjectives,0.25
+1654,source,chanzo,nouns,0.0
+1655,personne,dola,nouns,0.4
+1656,ressemblant,sawa,adjectives,5.1
+1657,taxi,basi,nouns,2.75
+1658,soir,giza kuingia,nouns,4.75
+1659,bruine,mvua,nouns,4.65
+1660,joindre,kujipatia,verbs,0.65
+1661,cancer,maradhi,nouns,3.9
+1662,ordinaire,si wa kawaida,adjectives,1.05
+1663,sortie,mlangoni,nouns,2.6
+1664,nouvelle,vyombo vya habari,nouns,2.7
+1665,hiver,msimu,nouns,3.25
+1666,enterrer,kuzikwa,verbs,2.05
+1667,fou,ana kichaa,adjectives,5.75
+1668,honteux,jisikia aibu,adjectives,0.65
+1669,couvrir,kufunika,verbs,2.95
+1670,actrice,mchezaji,nouns,4.4
+1671,cathédrale,kanisa kuu,nouns,4.5
+1672,dune,dune,nouns,2.75
+1673,mode,mtindo,nouns,4.9
+1674,île,kisiwa,nouns,0.65
+1675,pont,panya,nouns,0.05
+1676,renoncer,kukataa,verbs,1.35
+1677,magnitude,kina,nouns,1.35
+1678,savoir,kusahau,verbs,0.85
+1679,grandement,bila masihara,adverbs,2.3
+1680,évidemment,ni wazi,adverbs,0.3
+1681,sandwich,nyama,nouns,1.2
+1682,cigare,sanduku ,nouns,0.7
+1683,porte,korido,nouns,1.25
+1684,météo,hali ya hewa,nouns,0.85
+1685,actif,mali,nouns,3.45
+1686,idée,oni,nouns,5.05
+1687,immédiatement,papo hapo,adverbs,1.6
+1688,bulbe,ua,nouns,2.25
+1689,étudiant,mwanachuo,nouns,5.05
+1690,langue,koo,nouns,1.8
+1691,réceptacle,panya,nouns,0.05
+1692,normalement,kwa kawaida,adverbs,2.5
+1693,serviteur,mtumishi,nouns,3.7
+1694,cloche,mnara,nouns,0.95
+1695,viande,ugali,nouns,1.2
+1696,paiement,malipo,nouns,3.9
+1697,notifier,kutambua,verbs,0.95
+1698,pendre,kuweka,verbs,0.55
+1699,terne,zorota,adjectives,0.55
+1700,mineur,mdogo,adjectives,0.7
+1701,banc,kiti,nouns,4.1
+1702,lit,chumba,nouns,0.8
+1703,cheville,mfupa,nouns,2.05
+1704,déranger,kusumbua,verbs,0.2
+1705,ballon,kikapu,nouns,0.8
+1706,poursuivre,kushawishi,verbs,0.65
+1707,archevêque,askofu,nouns,4.6
+1708,veine,mkono,nouns,1.0
+1709,nerf,matumbo,nouns,0.9
+1710,montagne,mwamba,nouns,1.95
+1711,jument,farasi,nouns,4.25
+1712,ampoule,malengelenge,nouns,0.15
+1713,arme,silaha,nouns,1.15
+1714,langage,mawasiliano,nouns,3.05
+1715,chaos,mchafuko,nouns,4.5
+1716,idiot,wa kitoto,adjectives,3.7
+1717,façon,namna,nouns,5.2
+1718,au fond,kimsingi,adverbs,0.7
+1719,bouteille,chupa,nouns,2.65
+1720,princesse,mfalme,nouns,3.1
+1721,chargeur,chaja,nouns,0.6
+1722,immoral,haramu,adjectives,2.9
+1723,film,sinema,nouns,5.3
+1724,sœur,dada,nouns,2.4
+1725,plaider,kuuliza,verbs,2.05
+1726,livrer,kuchukua,verbs,0.6
+1727,nécessiter,kuandaa,verbs,0.3
+1728,échapper,kuhepa,verbs,0.3
+1729,donner,kuazima,verbs,1.05
+1730,vol,ndege,nouns,3.25
+1731,acteur,mchezaji wa kike,nouns,4.4
+1732,condensateur,capacitor,nouns,1.7
+1733,jet,ndege,nouns,4.8
+1734,astuce,saizi,nouns,0.0
+1735,gros,mpana,adjectives,3.4
+1736,fleur,chavua,nouns,2.25
+1737,élire,kuteua,verbs,5.45
+1738,doux,laini,adjectives,0.65
+1739,agresser,kushambulia,verbs,0.65
+1740,arriver,kuondoka,verbs,0.25
+1741,livre,biblia,nouns,3.25
+1742,rejoindre,kushirikiana,verbs,3.0
+1743,délicieux,mchangamfu,adjectives,1.35
+1744,atteindre,kujaribu,verbs,0.95
+1745,précieux,yenye thamani,adjectives,1.55
+1746,grand,nama,adjectives,0.3
+1747,hanche,mdomo,nouns,0.6
+1748,météo,wingu,nouns,2.0
+1749,lac,ziwa,nouns,0.45
+1750,histoire,kitabu,nouns,2.4
+1751,émotion,hamu,nouns,3.3
+1752,célébration,maadhimisho,nouns,5.35
+1753,rejoindre,kushiriki,verbs,3.75
+1754,cheval,farasi wa kike,nouns,4.25
+1755,laid,mbaya,adjectives,0.85
+1756,chimie,nadharia,nouns,1.05
+1757,pont,gari,nouns,0.35
+1758,arranger,kuandaa,verbs,4.5
+1759,homme,mume,nouns,4.4
+1760,faucon,ndege,nouns,3.85
+1761,herbe,mwani,nouns,2.15
+1762,improbable,sio rahisi,adverbs,0.0
+1763,anxieusement,kwa wasiwasi,adverbs,5.3
+1764,idiot,mpumbavu,adjectives,5.4
+1765,frapper,kupiga,verbs,2.95
+1766,construire,kuumba,verbs,4.6
+1767,trône,kiti cha enzi,nouns,0.5
+1768,chirurgie,moyo,nouns,1.2
+1769,lit,fanicha,nouns,3.05
+1770,créer,kutengeneza,verbs,2.52
+1771,théâtre,ukumbi,nouns,0.05
+1772,pièce,chumba,nouns,1.25
+1773,entrer,kudaiwa,verbs,0.15
+1774,porte,dirisha,nouns,1.85
+1775,récemment,hivi karibuni,adverbs,0.15
+1776,conspirateur,mweka mipango,nouns,2.9
+1777,amant,mwenzi,nouns,4.3
+1778,rester,kubaki,verbs,2.35
+1779,avocat,wakili,nouns,3.35
+1780,esclave,falahi,nouns,3.7
+1781,terne,wa kuchekesha,adjectives,0.3
+1782,chaise,kiti,nouns,0.2
+1783,couloir,mlango,nouns,1.25
+1784,cytoplasme,cytoplasm,nouns,0.0
+1785,rester,kupata,verbs,0.3
+1786,devenir,kujitokeza,verbs,1.3
+1787,modeste,nyenyekevu,adjectives,5.5
+1788,pistolet,alfajiri,nouns,0.05
+1789,bonbon,peremende,nouns,0.9
+1790,participer,kujiunga,verbs,3.75
+1791,se disputer,kushawishi,verbs,0.5
+1792,retirer,kufyonza,verbs,1.8
+1793,gâcher,kuharibu,verbs,0.1
+1794,assister,kuja,verbs,3.2
+1795,condition,mvulana,nouns,0.05
+1796,ballon,kuoga,nouns,0.1
+1797,femme,jukumu,nouns,0.1
+1798,bateau,mota,nouns,1.9
+1799,pendre,kuua,verbs,4.05
+1800,jouer,kucheza,verbs,0.7
+1801,régime,saladi,nouns,1.1
+1802,verre,glasi,nouns,0.25
+1803,tâche,majani makavu,nouns,0.0
+1804,adulte,mlezi,nouns,2.4
+1805,perceptible,wazi,adjectives,2.85
+1806,courrier,nguzo,nouns,0.0
+1807,satisfaire,kufahamu,verbs,0.35
+1808,chiffre,tarakimu,nouns,0.0
+1809,collant,natanata,adjectives,1.2
+1810,fatigué,iliyochoka,adjectives,1.9
+1811,chagrin,uchungu,nouns,2.6
+1812,localement,kienyeji,adverbs,0.15
+1813,hymne,ushindi,nouns,0.45
+1814,pistolet,manyoya,nouns,0.05
+1815,accomplir,kuwa,verbs,1.35
+1816,ici,papa hapa,adverbs,1.7
+1817,hymne,majani makavu,nouns,0.1
+1818,avion,ndege,nouns,0.05
+1819,casque,helmeti,nouns,1.15
+1820,pousser,kusukuma,verbs,1.7
+1821,manifeste,bila siri,adjectives,0.55
+1822,crayon,penseli,nouns,0.2
+1823,svelte,nyembamba,adjectives,5.1
+1824,week-end,wiki,nouns,2.35
+1825,participer,kushirikiana,verbs,3.6
+1826,tâche,kisiwa,nouns,0.05
+1827,laisser,kujitokeza,verbs,0.5
+1828,carte mère,bodi mama(mama as central),nouns,4.1
+1829,cuillère,kikombe,nouns,1.3
+1830,dentiste,kanali,nouns,0.3
+1831,battre en retraite,kurudia,verbs,0.3
+1832,mousse,puto,nouns,2.1
+1833,beurre,kiazi,nouns,0.95
+1834,violette,ua,nouns,3.95
+1835,ignorer,kuepa,verbs,2.95
+1836,saisir,kusoma,verbs,1.0
+1837,infirmier,mwanasayansi,nouns,0.85
+1838,étouffer,kuziba,verbs,0.35
+1839,vin,brandi,nouns,3.55
+1840,chocolat,keki,nouns,1.45
+1841,devoir,kukopesha,verbs,0.75
+1842,clarifier,kueleza,verbs,5.1
+1843,joueur,mchezaji,nouns,1.9
+1844,accomplir,kutumbuiza,verbs,0.15
+1845,profondeur,ukubwa,nouns,1.35
+1846,facile,rahisi,adjectives,0.42
+1847,foule,kikundi,nouns,4.95
+1848,pauvre,maskini,adjectives,0.3
+1849,canon,bunduki,nouns,2.45
+1850,oiseau,mwewe,nouns,3.85
+1851,critique,muhimu,adjectives,0.35
+1852,sculpteur,sonara,nouns,0.3
+1853,ouvrier,kamera,nouns,0.05
+1854,recevoir,kununua,verbs,1.0
+1855,voiture,daraja,nouns,0.35
+1856,biologie,biolojia,nouns,1.4
+1857,connu,julikana,adjectives,5.55
+1858,chat,mnyama,nouns,3.7
+1859,taille,tumbo,nouns,0.6
+1860,jeune,isiyotulia,adjectives,0.7
+1861,procureur,mwendesha mashtaka,nouns,3.35
+1862,paille,jukumu,nouns,0.0
+1863,maison,fleti,nouns,3.95
+1864,commande,menyu,nouns,1.55
+1865,film,filamu,nouns,0.15
+1866,garçon,mazingira,nouns,0.05
+1867,demander,kusihi,verbs,2.05
+1868,juger,hakimu,verbs,1.15
+1869,accepter,kupeleka,verbs,0.55
+1870,plage,ukingo wa bahari,nouns,5.05
+1871,grossièrement,kwa kukadiria,adverbs,0.45
+1872,être en désaccord,kataa,verbs,0.95
+1873,animal,mtu,nouns,1.0
+1874,réprimander,kulaani,verbs,0.45
+1875,charbon,makaa,nouns,4.1
+1876,faible,dhaifu,adjectives,0.8
+1877,miel,sukari,nouns,2.75
+1878,rythme,hesabu,nouns,0.1
+1879,groupe,subira,nouns,0.1
+1880,illégal,wa dhambi,adjectives,2.9
+1881,ajouter,kugawanya,verbs,1.1
+1882,télévision,runinga,nouns,2.05
+1883,écrivain,mtungaji,nouns,4.2
+1884,sale,chafu,adjectives,0.35
+1885,dollar,dola,nouns,1.75
+1886,porte,sela,nouns,0.6
+1887,maladie,saratani,nouns,3.9
+1888,gagner,kufanikiwa,verbs,4.8
+1889,politicien,rais,nouns,3.4
+1890,source,kisima,nouns,3.3
+1891,décourager,katisha tamaa,verbs,2.55
+1892,stupide,wa upuzi,adjectives,5.4
+1893,église,kanisa,nouns,4.5
+1894,biographie,habari za kubuniwa,nouns,1.6
+1895,amical,kirafiki,adverbs,0.0
+1896,fermement,kwa kidete,adverbs,0.7
+1897,cuirassé,manowari,nouns,5.4
+1898,crèche,elimu ya awali,nouns,4.35
+1899,bras,mguu,nouns,2.25
+1900,mouton,mwanakondoo,nouns,4.3
+1901,compagnon,mpenzi,nouns,4.3
+1902,abordable,si ghali,adjectives,5.6
+1903,chaise,kitanda,nouns,1.35
+1904,essayer,kufikiria,verbs,0.15
+1905,ouvertement,wazi,adverbs,0.7
+1906,entendre,kusikiliza,verbs,4.85
+1907,haricot,nyama ya nguruwe,nouns,0.75
+1908,apporter,kulalamika,verbs,0.15
+1909,porte,lango,nouns,4.95
+1910,apprendre,kusahau,verbs,0.9
+1911,sûrement,hakika,adverbs,2.08
+1912,sel,maji,nouns,0.8
+1913,taxi,gari,nouns,4.15
+1914,oublier,kujua,verbs,0.85
+1915,œil,chozi,nouns,1.6
+1916,plante,mmea,nouns,1.7
+1917,nécessiteux,uhitaji,adjectives,1.75
+1918,père,mwanaume,nouns,3.0
+1919,communication,mazungumzo,nouns,4.6
+1920,attentivement,kwa karibu,adverbs,0.15
+1921,jeans,jinzi,nouns,0.05
+1922,saison,msimu wa baridi,nouns,3.25
+1923,étroit,mpana,adjectives,0.6
+1924,bière,shampeni,nouns,3.05
+1925,reconnaître,kuzungumza,verbs,0.35
+1926,organiser,kuhitaji,verbs,0.3
+1927,enjoué,mwenye kupendeza,adjectives,1.35
+1928,subtilement,kijanja,adverbs,0.65
+1929,épicé,pilipili,adjectives,0.1
+1930,chapelle,kanisa ,nouns,0.05
+1931,grand,mkubwa,adjectives,3.8
+1932,église,kwaya,nouns,2.1
+1933,fleur,subira,nouns,0.2
+1934,dur,mwerevu,adjectives,0.7
+1935,saisir,kuridhisha,verbs,0.35
+1936,disque,diski,nouns,0.6
+1937,sûr,lindwa,adjectives,0.2
+1938,lune,sayari,nouns,1.85
+1939,homme,mwanaume,nouns,0.75
+1940,faire,kuumba,verbs,4.95
+1941,polyèdre,pembe zaidi ya sita,nouns,0.0
+1942,tête,msumari,nouns,0.7
+1943,accident,ajali,nouns,0.3
+1944,caractère,daktari,nouns,0.0
+1945,tissu,nguo,nouns,3.25
+1946,chevaucher,kuendesha,verbs,0.75
+1947,discuter,kueleza,verbs,2.2
+1948,bon marché,mchafu,adjectives,0.2
+1949,généreux,wa kirafiki,adjectives,2.45
+1950,illégal,haramu,adjectives,0.75
+1951,religion,dini,nouns,1.8
+1952,rivage,ufuko,nouns,5.05
+1953,flexible,mwenye kiasi,adjectives,0.75
+1954,bol,kichochoro,nouns,0.05
+1955,fourrure,ngozi,nouns,3.25
+1956,paracétamol,acetaminopheni,nouns,0.9
+1957,représenter,kuiga,verbs,2.05
+1958,couverture,blanketi,nouns,0.1
+1959,ministère,huduma,nouns,0.5
+1960,guitare,gitaa,nouns,0.05
+1961,copilote,rubani msaidizi,nouns,1.2
+1962,oiseau,batamzinga,nouns,3.7
+1963,accepter,kupendekeza,verbs,0.75
+1964,fête,watu,nouns,0.8
+1965,en phase terminale,mwishoni,adverbs,0.0
+1966,femme,kuoga,nouns,0.05
+1967,incurvé,pinda,adjectives,5.6
+1968,docteur,mtaalamu wa meno,nouns,3.2
+1969,étoile,nyota,nouns,3.4
+1970,gros,rahisi,adjectives,0.25
+1971,assister,kusaidia,verbs,5.25
+1972,fantastiquement,kimaajabu,adverbs,4.7
+1973,duc,mjuzi,nouns,0.3
+1974,porte,sakafu,nouns,0.4
+1975,stupide,hodari,adjectives,0.95
+1976,changer,kugeuza,verbs,5.4
+1977,route,barabara,nouns,4.4
+1978,mordre,uma,verbs,0.0
+1979,chaotiquement,kwa vurugu,adverbs,0.5
+1980,femme,mke,nouns,4.35
+1981,anarchie,vurugu,nouns,4.5
+1982,marine,jeshi la wanamaji,nouns,0.65
+1983,gin,kileo,nouns,3.15
+1984,liberté,uhuru,nouns,0.63
+1985,brillamment,kwa ukali,adverbs,0.3
+1986,diviser,kujumlisha,verbs,1.1
+1987,loyalement,kwa uaminifu,adverbs,3.8
+1988,agréable,mkorofi,adjectives,0.6
+1989,partir,kwenda,verbs,5.05
+1990,ballon,mzinga,nouns,0.55
+1991,monde,ulimwengu,nouns,5.3
+1992,possibilité,uhuru,nouns,4.15
+1993,chanter,kuimba,verbs,0.1
+1994,offre,toleo,nouns,3.4
+1995,apparaître,kuondoka,verbs,0.5
+1996,salade,mpangilio wa chakula,nouns,1.1
+1997,terne,mkali,adjectives,0.1
+1998,rondin,kuni,nouns,3.75
+1999,environnement,mazingira,nouns,0.05
+2000,ignorer,kupuuza,verbs,0.1
+2001,apparent,wazi,adjectives,4.7
+2002,légèrement,wepesi,adverbs,0.3
+2003,photophone,picha,nouns,0.25
+2004,éclaboussure,chubwi,nouns,0.3
+2005,vêtement,koti,nouns,3.15
+2006,nuage,mvuke,nouns,2.65
+2007,noyer,kutota,verbs,0.75
+2008,nerf,mwili,nouns,1.2
+2009,impôt,mapato,nouns,2.45
+2010,sérieusement,pasipo tu,adverbs,0.35
+2011,au-delà,kuzimu,nouns,2.1
+2012,cuisine,mlango,nouns,0.5
+2013,bouger,kutoka,verbs,0.2
+2014,curseur,mshale,nouns,0.1
+2015,choix,mshipa,nouns,0.3
+2016,gens,bunduki,nouns,0.25
+2017,faisable,inawezekana,adjectives,0.95
+2018,pomme de terre,siagi,nouns,0.95
+2019,bois,mbao,nouns,0.15
+2020,bizarre,wa kawaida,adjectives,1.05
+2021,voiture,mpira wa maji,nouns,0.1
+2022,bonne,msichana,nouns,0.85
+2023,dieu,roho,nouns,2.6
+2024,blesser,kuumia,verbs,1.05
+2025,stupide,mkubwa mno,adjectives,0.65
+2026,dirigeant,mtawala,nouns,4.8
+2027,dieu,windo,nouns,0.05
+2028,chanceux,enye bahati,adjectives,0.4
+2029,massivement,kwa ukubwa,adverbs,0.7
+2030,ennuyé,ilichoshwa,adjectives,0.8
+2031,neige,theluji,nouns,3.0

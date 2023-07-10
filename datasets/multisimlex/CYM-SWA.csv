@@ -1,0 +1,2927 @@
+ID,CYM,SWA,PoS,score
+1,gwarcheidwad,mtu mzima,nouns,1.65
+2,nos,mchana,nouns,0.3
+3,yn debygol,labda,adverbs,0.45
+4,lladd,kuharibu,verbs,2.4
+5,sero,sufuri,nouns,0.05
+6,garddwrn,mkono,nouns,1.05
+7,cyrchwr,mshale,nouns,0.0
+8,dal,kudaka,verbs,0.65
+9,coflaid,kumbatia,verbs,4.45
+10,cwympo,kuanguka,verbs,1.05
+11,chwilio,kutafuta,verbs,0.85
+12,pen,kichwa,nouns,0.9
+13,barnu,hakimu,verbs,0.6
+14,profocio,kutania,verbs,0.4
+15,gwleidydd,mwanasiasa,nouns,0.1
+16,brawd,mvulana,nouns,2.15
+17,plentyn,mtu mzima,nouns,0.55
+18,anghyfreithlon,haramu,adjectives,0.15
+19,bargeinio,kuhusika,verbs,0.4
+20,braich,goti,nouns,0.55
+21,emyn,biblia,nouns,0.35
+22,tybio,kufikiri,verbs,0.9
+23,dychmygu,kuumba,verbs,0.4
+24,brest,mwili,nouns,1.45
+25,cyferbyn,kinyume,adjectives,0.25
+26,to,sakafu,nouns,0.25
+27,dec,panya,nouns,0.0
+28,siarad,kutamka,verbs,1.7
+29,pêl,glavu,nouns,0.75
+30,yn graff,kwa akili,adverbs,0.6
+31,hen,zamani,adjectives,0.1
+32,dysgu,kusikiliza,verbs,0.4
+33,yn swyddogol,rasmi,adverbs,0.1
+34,ysbryd,mungu,nouns,1.75
+35,yn ffyddlon,kwa uaminifu,adverbs,2.65
+36,gorffwyll,ana kichaa,adjectives,4.95
+37,dyfalu,kubuni,verbs,0.0
+38,yn amlwg,ni dhahiri,adverbs,2.8
+39,yfory,kesho,adverbs,0.2
+40,brawdgarwch,baseball,nouns,0.0
+41,canfyddiad,kuona,nouns,1.4
+42,cadair,kiti,nouns,3.0
+43,dibynnu,tegemea,verbs,0.2
+44,caled,nene,adjectives,0.45
+45,poen,huzuni,nouns,2.55
+46,ecsotig,adimu,adjectives,0.7
+47,bwthyn,kibanda,nouns,3.55
+48,drwg,mbaya,adjectives,0.25
+49,sefyllfa,mazingira,nouns,1.9
+50,gair,ishara,nouns,0.4
+51,bara,chizi,nouns,0.4
+52,dathlu,kusherekea,verbs,0.0
+53,ardderchog,mbaya,adjectives,0.0
+54,tybio,kujifanya,verbs,0.35
+55,gyrrwr,rubani,nouns,2.7
+56,gwalch,ndege,nouns,2.85
+57,masarnen,mnazi,nouns,1.35
+58,drws,kengele,nouns,0.35
+59,yn garedig,kwa ukarmu,adverbs,0.4
+60,meddu ar,kuchukua,verbs,1.1
+61,stori,wimbo,nouns,0.85
+62,môr,bahari,nouns,1.08
+63,digid,tarakimu,nouns,5.5
+64,llwybr,njia,nouns,0.5
+65,ynys,mtoto wa mfalme,nouns,0.0
+66,noswaith,giza kuingia,nouns,4.35
+67,parasetamol,acetaminopheni,nouns,0.3
+68,ychwanegu,kuunda,verbs,0.65
+69,emosiwn,hali,nouns,1.9
+70,sinc,zinki,nouns,0.7
+71,ffêr,mfupa,nouns,1.55
+72,heno,usiku huu,adverbs,1.4
+73,ardal,kanda,nouns,5.1
+74,anghefnogi,kufeli,verbs,0.2
+75,cerflunydd,sonara,nouns,0.15
+76,denu,kuvutia,verbs,0.0
+77,ffôn clyfar,simu mahiri,nouns,0.0
+78,drws,dirisha,nouns,0.95
+79,dyn,patna,nouns,0.65
+80,bws,chombo cha usafiri,nouns,3.65
+81,yn hysbys,inayojulikana,adjectives,0.0
+82,gwthio,kusukuma,verbs,0.05
+83,jar,kikombe,nouns,0.9
+84,nodyn,kumbuku,nouns,0.4
+85,teledu,mawasiliano,nouns,1.15
+86,meddyg,tabia,nouns,0.0
+87,symudol,inayo hamishika,adjectives,1.15
+88,ufuddhau,kutenda,verbs,1.7
+89,breuddwyd,ndoto,nouns,0.15
+90,marwolaeth,balaa,nouns,1.8
+91,cig,mkate,nouns,0.2
+92,ffrind,mgeni,nouns,0.35
+93,cadair,sofa,nouns,3.05
+94,aderyn,mwewe,nouns,2.85
+95,syml,ana shida,adjectives,0.1
+96,sinema,sinema,nouns,0.7
+97,cryf,wa kujivunia,adjectives,0.4
+98,penelin,mfupa,nouns,0.9
+99,cyhuddo,kushtaki,verbs,2.1
+100,helpu,kusaidia,verbs,5.35
+101,ymddangos,kujifanya,verbs,0.3
+102,theorem,nadharia,nouns,2.75
+103,cyflwr,makubaliano,nouns,0.05
+104,cyfrwys,mgeni,adjectives,0.0
+105,cysylltu,kubandika,verbs,0.05
+106,derbyn,kupokea,verbs,1.35
+107,cyfathrebu,televisheni,nouns,1.15
+108,matrics,matriksi,nouns,0.75
+109,fflat,hoteli,nouns,0.4
+110,car,geji,nouns,0.1
+111,ceffyl,farasi wa kiume,nouns,3.9
+112,tramgwyddo,kuchukiza,verbs,0.75
+113,injan,mashine,nouns,3.75
+114,canon,bunduki,nouns,2.05
+115,bregus,baridi,adjectives,0.2
+116,aderyn,kuku,nouns,2.75
+117,cyffredin,kawaida,adjectives,0.0
+118,nai,shangazi,nouns,0.55
+119,ymddangos,kuondoka,verbs,0.45
+120,beirniadu,kupinga,verbs,0.42
+121,syniad,picha,nouns,1.0
+122,rhoi,kuweka,verbs,0.65
+123,taliad,malipo,nouns,0.6
+124,ras,mbio,nouns,0.0
+125,dweud celwydd,kudanganya,verbs,1.8
+126,eira,hali ya hewa,nouns,0.85
+127,personol,kibinasfi,adjectives,3.5
+128,siocled,keki,nouns,0.6
+129,canwr,mchezaji,nouns,0.8
+130,ysglyfaeth,mungu,nouns,0.0
+131,pledio,kujipendekeza,verbs,0.2
+132,dadansoddi,kuchambua,verbs,4.0
+133,stêc,kuku,nouns,0.65
+134,main,mwembamba,adjectives,4.13
+135,trydan,umeme,nouns,0.0
+136,opera,opera,nouns,1.0
+137,rheolaidd,mara kwa mara,adjectives,0.65
+138,aros,kuondoka,verbs,0.1
+139,taith,ushindi,nouns,0.25
+140,bachgen,mazingira,nouns,0.0
+141,cael,kuweka,verbs,0.3
+142,amsugno,kujifunza,verbs,0.35
+143,coleg,weledi,nouns,0.5
+144,hynod,si wa kawaida,adjectives,3.6
+145,gwneud,kuumba,verbs,4.8
+146,dimai,saizi,nouns,0.05
+147,darganfod,kufanya utafiti,verbs,2.35
+148,syth,nyooka,adjectives,0.15
+149,gwan,dhaifu,adjectives,0.1
+150,yn fecanyddol,kwa ustadi,adverbs,0.3
+151,sychedig,kua na kiu,adjectives,1.0
+152,bargen,maafikiano,nouns,0.45
+153,dydd  ,alfajiri,nouns,1.15
+154,braich,bega,nouns,2.0
+155,datgelwyd,haijafunikwa,adjectives,0.1
+156,mwslim,mwislamu,nouns,0.2
+157,asgwrn,shingo,nouns,0.4
+158,diymhongar,mnyenyekevu,adjectives,0.65
+159,caniatáu,kwenda,verbs,0.0
+160,amwys,isiyo dhahiri,adjectives,4.65
+161,penderfynu,kufikiria,verbs,1.95
+162,balchder,furaha,nouns,0.95
+163,dŵr,maji,nouns,0.13
+164,deiet,matofaa,nouns,0.4
+165,datblygiad,maendeleo,nouns,0.3
+166,batri,betri,nouns,0.0
+167,llawlyfr,kitabu cha mkono,nouns,1.5
+168,arbed,kuokoa,verbs,2.4
+169,sanctaidd,takatifu,adjectives,1.55
+170,cariad,mwenzi,nouns,3.95
+171,dillad isaf,chupi,nouns,0.1
+172,tric,saizi,nouns,0.0
+173,cyhuddo,kushtaki,verbs,0.3
+174,cymyl,ukungu,nouns,3.15
+175,archesgob,askofu,nouns,3.75
+176,bygythiad,hatari,nouns,4.0
+177,symudiad,shuguli,nouns,0.55
+178,gyferbyn,kinyume,adjectives,0.5
+179,gogledd,magharibi,nouns,0.7
+180,stumog,njia,nouns,0.05
+181,beic,gari,nouns,1.0
+182,alwminiwm,alumini,nouns,2.5
+183,tywysogaeth,mfalme,nouns,2.05
+184,ffrio,kukaanga,verbs,1.5
+185,buddugoliaeth,fora,nouns,3.55
+186,rhagfarn,ubaguzi,nouns,2.45
+187,camera,rais,nouns,0.0
+188,ymosod,kushambulia,verbs,0.1
+189,diflannu,kupungua,verbs,1.5
+190,ystafell,chumba,nouns,1.0
+191,ffliw,homa,nouns,4.3
+192,mawr,kubwa,adjectives,0.35
+193,fel arfer,kwa kawaida,adverbs,0.15
+194,cyntedd,darasa,nouns,0.15
+195,enwogrwydd,utajiri,nouns,0.45
+196,gadael,kufanya,verbs,0.05
+197,twp,mpumbavu,adjectives,0.55
+198,stôl,kigoda,nouns,3.0
+199,wedi ei orchuddio,funikwa,adjectives,0.1
+200,seren,kanisa dogo,nouns,0.15
+201,cwmwl,hali ya hewa,nouns,1.25
+202,machlud haul,macheo,nouns,1.5
+203,trist,huzuni,adjectives,0.1
+204,niwl,wingu,nouns,2.55
+205,ychwanegu,kuzidisha,verbs,1.25
+206,llun,mchoro,nouns,0.0
+207,ecosystem,mfumo wa ikolojia,nouns,0.2
+208,hyblyg,rahisi kubadilika,adjectives,0.9
+209,penwythnos,wikiendi,nouns,0.0
+210,enwaediad,tohara,nouns,1.4
+211,medrydd,gari,nouns,0.1
+212,gorffen,kumaliza,verbs,0.58
+213,lluosiad,zidisha,nouns,0.5
+214,hawdd,rahisi,adjectives,0.1
+215,yn bendant,hakika,adverbs,5.2
+216,iâr,batamzinga,nouns,1.45
+217,cul,mchafu,adjectives,0.0
+218,yn wahanol,kitofauti,adverbs,0.0
+219,tad,mzazi,nouns,3.5
+220,ysgwydd,kichwa,nouns,0.85
+221,yn bwysig,kwa umuhimu,adverbs,0.35
+222,cod,alama,nouns,2.0
+223,amnewid,kurudisha,verbs,0.15
+224,blodyn,imani,nouns,0.05
+225,yn realistig,kihalisia,adverbs,0.8
+226,cwyno,kuleta,verbs,0.05
+227,fflat,fanicha,nouns,0.35
+228,parsel,furushi,nouns,0.35
+229,canser,maradhi,nouns,3.35
+230,torf,gwaride,nouns,1.1
+231,cyw iâr,wali,nouns,0.2
+232,nofio,kuogelea,verbs,0.0
+233,brecwast,nyama ya nguruwe,nouns,0.75
+234,canrif,miaka kumi,nouns,0.4
+235,trwyn,pua,nouns,0.9
+236,gweithiwr,mwajiri,nouns,0.6
+237,pencampwr,mshindi,nouns,5.25
+238,gwythïen,chaguo,nouns,0.05
+239,ffôn symudol,simu ya mkononi,nouns,4.35
+240,eglwys gadeiriol,dari,nouns,0.15
+241,dynion,undugu,nouns,0.95
+242,dynwared,kuonyesha,verbs,2.35
+243,apwyntiad,shughuli,nouns,0.3
+244,reidio,endesha,verbs,0.0
+245,cwch,meli,nouns,0.0
+246,gosod,kupa,verbs,0.65
+247,rhoi,kukopesha,verbs,1.95
+248,braisg,mkubwa,adjectives,3.8
+249,nenfwd,paa,nouns,4.35
+250,anwybyddu,kuuliza,verbs,0.05
+251,cyffes,kanusho,nouns,0.25
+252,ceg,pua,nouns,0.5
+253,tasg,kisiwa,nouns,0.0
+254,ymuno,kushiriki,verbs,4.05
+255,dyfnder,ukubwa,nouns,1.05
+256,coridor,mlango,nouns,0.4
+257,cyfathrebu,mazungumzo,nouns,4.45
+258,cân,hadithi,nouns,0.85
+259,diogelu,kukinga,verbs,4.5
+260,senedd,seneti,nouns,0.85
+261,coleg,darasa,nouns,1.9
+262,chwerthin,kucheka,verbs,0.15
+263,tarw,ndama,nouns,2.0
+264,gwastraffu,takataka,verbs,0.0
+265,diflas,kuboreka,adjectives,0.05
+266,yn syml,kirahisi,adverbs,0.15
+267,gwresogydd,kipasha joto,nouns,0.0
+268,yn hyderus,kwa kujiamini,adverbs,0.2
+269,prifysgol,chuo kikuu,nouns,0.65
+270,blaengroen,govi,nouns,1.4
+271,sglodion,kibanzi,nouns,0.0
+272,pâr,vitu viwili,nouns,5.85
+273,yn aeddfed,kwa utu uzima,adverbs,0.6
+274,ffug,bandia,adjectives,5.3
+275,crebachu,kupotea,verbs,1.5
+276,yn agored,wazi,adverbs,0.4
+277,dosbarth,darasa,nouns,0.05
+278,ysgyfaint,ini,nouns,0.65
+279,enillydd,lengo,nouns,0.1
+280,byr,mrefu,adjectives,0.1
+281,dewin,mchawi,nouns,0.0
+282,radical,fikra mpya,adjectives,0.35
+283,biolegydd,mbiolojia,nouns,0.65
+284,erthygl,makala,nouns,1.25
+285,hollalluogrwydd,uwezaji,nouns,2.15
+286,niweidio,kuuma,verbs,0.4
+287,yn weithredol,kwa uhai,adverbs,0.0
+288,madfall,mjusi,nouns,1.75
+289,cot,nguo,nouns,2.2
+290,anghytuno,kukutokubali,verbs,0.55
+291,gwisg,sherehe,nouns,0.1
+292,yn ystyrlon,kwa maana,adverbs,1.13
+293,traeth,bahari,nouns,2.2
+294,pwnc,mada,nouns,0.3
+295,deinosor,mijusi ya kale,nouns,0.1
+296,dosbarth,chuo,nouns,1.9
+297,enillydd,bingwa,nouns,5.25
+298,salad,mpangilio wa chakula,nouns,0.65
+299,priodi,oa,verbs,3.6
+300,injan,mota,nouns,4.35
+301,proffwydo,kubainisha,verbs,0.6
+302,gorchuddio,kufunika,verbs,1.0
+303,coron,taji,nouns,0.0
+304,yn gwrtais,kwa unyenyekevu,adverbs,0.0
+305,cymryd,kuiba,verbs,1.75
+306,dal,kamata,verbs,1.35
+307,torf,kikundi,nouns,4.45
+308,aren,kiungo,nouns,2.5
+309,ymddengys,kuwa,verbs,0.85
+310,drwg,ana hatia,adjectives,1.5
+311,hunan,hakika,nouns,0.2
+312,gwn,kisu,nouns,0.45
+313,athro,msaidizi,nouns,1.35
+314,ceirios,cheri,nouns,1.5
+315,caban,kambi,nouns,0.7
+316,dannedd,mfupa,nouns,0.5
+317,awyr,anga,nouns,0.15
+318,ap,programu tumishi,nouns,0.0
+319,afal,mwanga wa jua,nouns,0.05
+320,yn fanwl gywir,uhakika,adjectives,0.05
+321,calendr,kalenda,nouns,0.4
+322,yn ddarostyngedig,kwa unyenyekevu,adverbs,0.05
+323,dweud celwydd,kudanganya,verbs,0.2
+324,pobl,bunduki,nouns,0.1
+325,personol,kibinafsi,adjectives,0.65
+326,aloi,aloyi,nouns,1.45
+327,osôn,ozoni,nouns,2.25
+328,benthyg,kudaiwa,verbs,1.2
+329,mynychu,kukusanya,verbs,0.35
+330,hawdd,mkubwa,adjectives,0.05
+331,lwc,furaha,nouns,0.5
+332,arolygu,kuchunguza,verbs,3.5
+333,goddefol,kupooza,adjectives,0.0
+334,clun,mdomo,nouns,0.15
+335,tymor,muhula,nouns,4.9
+336,gwawr,usiku,nouns,0.2
+337,arwydd,alama,nouns,4.15
+338,tywynnu,kumeremeta,verbs,4.05
+339,yn gyfrinachgar,kwa siri,adverbs,0.0
+340,pobl,dola,nouns,0.35
+341,pobl,sherehe,nouns,0.7
+342,achub,okoa,verbs,4.75
+343,gair,fasihi,nouns,0.95
+344,anghwrtais,jeuri,adjectives,0.3
+345,poster,bango,nouns,0.8
+346,yn amlwg,ni wazi,adverbs,0.07
+347,canrif,pombe,nouns,0.0
+348,dinistrio,haribu,verbs,1.55
+349,polyn,mlingoti,nouns,0.7
+350,rhythm,tuni,nouns,1.15
+351,miniog,mbutu,adjectives,0.15
+352,ciledrych,kufinya macho,verbs,0.15
+353,llenyddiaeth,kitabu,nouns,2.2
+354,rhyfedd,mgeni,adjectives,3.5
+355,gludiog,natanata,adjectives,0.4
+356,enaid,kaka,nouns,0.05
+357,treisgar,wa ghadhabu,adjectives,1.1
+358,madfall,mjusi,nouns,0.42
+359,twll,mke,nouns,0.0
+360,brigeryn,stameni,nouns,1.75
+361,coes,mkono,nouns,1.15
+362,beirniadol,muhimu,adjectives,0.5
+363,arbed,kutumia,verbs,0.25
+364,gwydn,ngumu,adjectives,2.5
+365,gwacáu,kuondoka,verbs,0.0
+366,ymosodiad,shambulio,nouns,1.65
+367,ffon reoli,joystiki,nouns,0.35
+368,nôl rhywbeth,kununua,verbs,0.55
+369,cardbord,karatasi,nouns,2.0
+370,ennill,kufanikisha,verbs,2.75
+371,eang,mwembamba,adjectives,0.1
+372,arian cyfred,sarafu,nouns,0.17
+373,anfeidredd,usio na mwisho,nouns,0.05
+374,delwedd,wazo,nouns,1.0
+375,dod yn,kuonekana,verbs,0.85
+376,taith,mwendo,nouns,3.3
+377,styfnig,msumbufu,adjectives,0.55
+378,llwyddo,kushinda,verbs,4.55
+379,cynhwysydd,mkokoteni,nouns,0.0
+380,gogwyddo,kubagua,verbs,3.45
+381,darganfod,kupata,verbs,0.05
+382,etholiad,uchaguzi,nouns,2.95
+383,anghenfil,pepo,nouns,1.95
+384,sicr,ana hakika,adjectives,5.25
+385,codi,nyanyua,verbs,0.9
+386,dal,kukamata,verbs,3.45
+387,drwm,pembe,nouns,0.25
+388,gwythïen,tumbo,nouns,0.25
+389,nod,ishara,nouns,0.0
+390,merch,baba,nouns,0.5
+391,to,paa,nouns,0.15
+392,dinistrio,kuumba,verbs,0.1
+393,cadw,kushindwa,verbs,0.2
+394,pen,msumari,nouns,0.15
+395,amgueddfa,jumba la makumbusho,nouns,0.0
+396,theori,kemia,nouns,0.3
+397,soffa,kiti,nouns,3.05
+398,cyfraith,shule,nouns,0.2
+399,caled,bila jasho,adjectives,0.05
+400,car,teksi,nouns,4.2
+401,finegr,saladi,nouns,0.3
+402,tenis,tenisi,nouns,0.0
+403,taliad,malipo,nouns,0.95
+404,trafferthu,kusumbua,verbs,0.25
+405,hurt,adimu,adjectives,0.0
+406,wythnosol,kwa wiki,adjectives,0.5
+407,cell,gerezani,nouns,1.7
+408,cwpl,jozi,nouns,5.85
+409,ar frys,haraka,adverbs,4.85
+410,dillad,kabati,nouns,0.6
+411,cwningen,paka,nouns,0.7
+412,cotwm,plastiki,nouns,0.8
+413,llygoden,sitaha,nouns,0.0
+414,smart,hodari,adjectives,2.45
+415,digid,tarakimu,nouns,0.0
+416,ymgeisydd,mshindi,nouns,0.95
+417,oen,kondoo,nouns,3.55
+418,sinamon,mdalasini,nouns,0.55
+419,doler,watu,nouns,0.35
+420,storm,wingu,nouns,0.6
+421,concwest,safari,nouns,0.25
+422,enfawr,mpumbavu,adjectives,0.0
+423,gorsedd,kiti cha enzi,nouns,0.35
+424,trosedd,uhalifu,nouns,1.65
+425,mynd  ,kutuma,verbs,0.6
+426,braich,misuli,nouns,0.45
+427,bachgen,patna,nouns,0.1
+428,cymysgu,kuchanganya,verbs,0.98
+429,dafad,mwanakondoo,nouns,3.55
+430,hyfforddwraig,kocha,nouns,0.8
+431,danfon,kwenda,verbs,0.6
+432,tric,kuoga,nouns,0.0
+433,ardal,mkoa,nouns,4.75
+434,amhosib,kutowekana,adjectives,0.45
+435,gwerthuso,kuchanganua,verbs,4.0
+436,cynffon,sura,nouns,0.0
+437,erydu,kumomonyoka,verbs,0.0
+438,yn gyfan gwbl,kwa ukamilifu,adverbs,0.15
+439,cyfuniad,changanya,nouns,0.0
+440,disgyn,kushuka,verbs,0.3
+441,canon,mpira,nouns,0.4
+442,bara,nyama,nouns,0.2
+443,poblogaeth,watu,nouns,2.65
+444,adfer,kuleta,verbs,0.65
+445,pêl,kikapu,nouns,0.2
+446,injan,injini,nouns,2.0
+447,ffenestr,dirisha,nouns,0.0
+448,teithio,kusafiri,verbs,2.5
+449,cynnig,toleo,nouns,2.4
+450,cornel,eneo,nouns,0.7
+451,cyfansoddiad,katiba,nouns,0.53
+452,cynddaredd,hasira,nouns,4.35
+453,cau,kufunga,verbs,0.0
+454,cloch,mnara,nouns,0.3
+455,wedi blino,choka,adjectives,0.1
+456,gormesu,kukandamiza,verbs,0.45
+457,yn bennaf,haswa,adverbs,0.5
+458,nihiliaeth,kutoamini dini,nouns,0.0
+459,ynad,hakimu,nouns,4.75
+460,gadael,kupuuza,verbs,0.6
+461,heddwch,furaha,nouns,1.25
+462,awyr,jua,nouns,0.9
+463,ffêr,kiwiko,nouns,0.7
+464,dewis,mshipa,nouns,0.05
+465,cardigan,fulana,nouns,1.35
+466,llyfr,kitabu,nouns,0.0
+467,balch,kujivunia,adjectives,0.1
+468,eirfwrdd,ubao wa theluji,nouns,2.05
+469,modrwy,pete,nouns,1.0
+470,gwyliwr,mwanaume,nouns,0.65
+471,gwn,mzinga,nouns,2.05
+472,asgwrn cefn,shingo,nouns,0.6
+473,awyrennu,safari ya angani,nouns,3.4
+474,pwerus,mwenye nguvu,adjectives,0.1
+475,cotwm,pamba,nouns,0.25
+476,oeraidd,mdhaifu,adjectives,0.2
+477,llyfr nodiadau,daftari,nouns,0.17
+478,ystafell wely,kitanda,nouns,1.6
+479,cynilwr,saver,nouns,3.05
+480,gwraig,mwanamke,nouns,4.45
+481,nenfwd,kanisa kuu,nouns,0.15
+482,portreadu,kujifanya,verbs,0.55
+483,clecian,kuvunja,verbs,0.85
+484,lluwchwynt,theluji kali,nouns,0.7
+485,argyfwng,ajali,nouns,1.05
+486,yn ddiogel,kwa ulinzi,adverbs,2.25
+487,diymhongar,pole,adjectives,0.75
+488,log,kuoga,nouns,0.0
+489,croes,msalaba,nouns,0.35
+490,swltan,sultani,nouns,0.15
+491,darganfod,kuonyesha mahali pa,verbs,0.9
+492,tân,moto,nouns,0.35
+493,clo,kufuli,nouns,1.15
+494,dirywio,kuzorota,verbs,0.3
+495,anadlu,kukaba,verbs,0.6
+496,swyddfa,ofisi,nouns,0.65
+497,brwnt,chafu,adjectives,0.45
+498,yn drist,kwa huzuni,adverbs,1.1
+499,anwybyddu,kuondoka,verbs,0.6
+500,microsgop,darubini,nouns,0.65
+501,casáu,chukia,verbs,0.25
+502,dinistrio,kujenga,verbs,0.1
+503,bach,mkubwa mno,adjectives,0.1
+504,ystafell ddosbarth,ushoroba,nouns,0.15
+505,yn weithredol,kikamilifu,adverbs,0.0
+506,anghytuno,kataa,verbs,0.15
+507,top,chini,nouns,0.25
+508,pwyntydd,kionyeshi,nouns,0.0
+509,wastad,mara kwa mara,adverbs,0.45
+510,cenedlaethol,kitaifa,adjectives,0.0
+511,bawd,mkono,nouns,1.3
+512,cythraul,jitu,nouns,1.95
+513,dal,kushika,verbs,0.0
+514,goruchafiaeth,ukuu,nouns,2.15
+515,boddi,kutota,verbs,0.05
+516,aros,kungoja,verbs,5.5
+517,iâr,ndege,nouns,2.75
+518,enfawr,kubwa,adjectives,0.2
+519,baner,bendera,nouns,0.85
+520,llinyn,uzi,nouns,0.0
+521,rhifyddeg,pigo,nouns,0.0
+522,pêl-foli,mpira wa wavu,nouns,2.7
+523,penwythnos,wiki,nouns,1.65
+524,seren,nyota,nouns,2.77
+525,modur,motokaa,nouns,5.4
+526,allwedd,nyumba,nouns,0.55
+527,sylfaen,besi,nouns,0.25
+528,cyfuno,kujumuisha,verbs,2.8
+529,chwaer,dada,nouns,1.75
+530,gwneud,kuacha,verbs,0.05
+531,ymgeisydd,mwombaji,nouns,2.05
+532,tasg,njia kuu,nouns,0.1
+533,cyfarwyddwr,mkurugenzi,nouns,1.95
+534,ffordd,barabara,nouns,4.55
+535,disgwyl,kungoja,verbs,0.0
+536,tywysoges,kisiwa,nouns,0.0
+537,cymysg,kumbakumba,adjectives,0.1
+538,ffaith,ushahidi,nouns,1.2
+539,yn gadarn,kiukakamavu,adverbs,0.75
+540,tywynnu,kukondoa macho,verbs,0.15
+541,cyw iâr,chakula cha usiku,nouns,0.65
+542,brawdgarwch,wanaume,nouns,0.95
+543,papur lapio,kanga,nouns,0.0
+544,trwm,mkubwa,adjectives,1.5
+545,pry,nyuki,nouns,1.75
+546,cosbi,kuadhibu,verbs,0.25
+547,eira,dhoruba,nouns,0.65
+548,asgwrn,mkono,nouns,1.1
+549,ffrind,mama,nouns,0.7
+550,amlen,bahasha,nouns,0.0
+551,tywysoges,mtoto mke wa mfalme,nouns,0.0
+552,weithiau,muda mwingine,adverbs,0.0
+553,creigres,ufuko,nouns,0.65
+554,cynfas,gombo,nouns,0.0
+555,priodferch,mtoto wa mfalme,nouns,0.45
+556,economi,uchumi,nouns,0.2
+557,troi allan,kufukuza,verbs,0.45
+558,ysgol feithrin,shule ya mapema,nouns,4.9
+559,ymgynnull,kukusanyika,verbs,3.55
+560,sgwrs,mawasiliano,nouns,4.45
+561,deintydd,daktari wa meno,nouns,4.45
+562,troed,mkono,nouns,0.6
+563,rhifyddeg,mantiki,nouns,0.5
+564,car,daraja,nouns,0.2
+565,twnnel,shimo,nouns,0.5
+566,mab,mvulana,nouns,4.4
+567,gwartheg,mifugo,nouns,0.1
+568,adeiladu,kuharibu,verbs,0.1
+569,llwyddo,kufeli,verbs,0.1
+570,emyn,majani makavu,nouns,0.0
+571,côr,kanisa,nouns,1.05
+572,cyfansoddwr,mwandishi,nouns,3.9
+573,blin,mjeuri,adjectives,1.1
+574,treisgar,kigomvi,adjectives,0.0
+575,ffraeo,kuthibitisha,verbs,0.0
+576,dyn,mtoto,nouns,0.25
+577,goruchafiath,ushindi,nouns,3.55
+578,pren,gogo,nouns,2.85
+579,yn feddal,kwa ulaini,adverbs,0.2
+580,cerflun,kinyagu,nouns,4.75
+581,cyfarch,kutoa heshima,verbs,0.05
+582,gwrthod,kuepa,verbs,1.3
+583,clywed,kuzungumza,verbs,0.55
+584,myfyriwr,mwanachuo,nouns,4.65
+585,cerbyd,mkokoteni,nouns,3.9
+586,modur,boti,nouns,1.4
+587,soned,ushairi,nouns,0.15
+588,lleihau,kupunguza,verbs,0.0
+589,yn gryf,kwa nguvu,adverbs,0.1
+590,tun,tini,nouns,2.2
+591,cyfamod,mapatano,nouns,5.3
+592,creu,kuharibu,verbs,0.1
+593,ymuno,kukuunga,verbs,0.05
+594,ymwrthod,kukataa,verbs,0.88
+595,eira,theluji,nouns,3.4
+596,gwddf,pua,nouns,0.5
+597,pêl-fas,undugu,nouns,0.0
+598,sarsiant,mjeshi,nouns,0.6
+599,arae,areyi,nouns,0.9
+600,diymhongar,ana aibu,adjectives,0.0
+601,algebra,algebra,nouns,0.2
+602,yn onest,kwa kweli,adverbs,1.32
+603,tad,mwanaume,nouns,2.3
+604,cwmwl,dhoruba,nouns,0.6
+605,angenrheidiol,muhimu,adjectives,3.0
+606,llywodraeth,serikali,nouns,0.0
+607,ceryddu,kulaani,verbs,0.15
+608,neuadd,ukumbi,nouns,0.1
+609,rhith,uhalisi,nouns,0.15
+610,siwgr,asali,nouns,2.2
+611,eisiau,kuazima,verbs,0.4
+612,yn rheolaidd,mara kwa mara,adverbs,0.7
+613,cinio,chakula,nouns,3.55
+614,hwyliau,hasira,nouns,0.45
+615,gludiog,kunata,adjectives,0.45
+616,cynorthwyo,kusaidia,verbs,0.35
+617,lemwn,matofaa,nouns,0.85
+618,gwn,manyoya,nouns,0.05
+619,dioddefwr,mwathirika,nouns,0.0
+620,ffurfiol,sahihi,adjectives,1.4
+621,hurt,mkubwa mno,adjectives,0.0
+622,gwaelod,upande,nouns,0.8
+623,gŵr,mwanaume,nouns,4.4
+624,cyfrifiadur,kompyuta,nouns,2.45
+625,ysgol,sheria,nouns,0.2
+626,erfyn,kusihi,verbs,4.45
+627,ymadael,kuondoka,verbs,0.0
+628,deall,kuridhisha,verbs,0.3
+629,gŵr bonheddig,bibi,nouns,0.5
+630,ychwanegu,kugawanya,verbs,0.25
+631,gwario,kuokoa,verbs,0.25
+632,yn wahanol,wa kawaida,adjectives,0.4
+633,mêl,sukari,nouns,2.2
+634,casglu,kukusanya,verbs,3.55
+635,ceffyl,ng'ombe dume,nouns,0.55
+636,deallus,ana akili,adjectives,2.45
+637,atodi,kujiunga,verbs,1.0
+638,diod,bia,nouns,3.05
+639,iogwrt,mgando,nouns,0.1
+640,hydwyll,kukubali kirahisi,adjectives,0.5
+641,beibl,nyimbo,nouns,0.35
+642,clwb,klabu,nouns,0.0
+643,anrhydedd,heshima,nouns,1.9
+644,rhad,si ghali,adjectives,4.85
+645,twr,kengele,nouns,0.3
+646,stryd,gari,nouns,0.35
+647,dysgu,kujifunza,verbs,1.98
+648,awdur,msomaji,nouns,0.3
+649,crebachu,kukua,verbs,0.1
+650,meddwl,kuamua,verbs,1.95
+651,wedi ei orchuddio,kufunikwa,adjectives,1.1
+652,cyfiawnhau,kugombana,verbs,0.55
+653,erydu,kumomonyoka,verbs,1.7
+654,llynges,jeshi la wanamaji,nouns,0.1
+655,dechrau,kwenda,verbs,0.25
+656,gwthio,kusukuma,verbs,0.55
+657,log,kanuni,nouns,0.4
+658,moesol,adili,nouns,0.2
+659,dadl,ukosoaji,nouns,1.15
+660,yn arbennig,makusudi,adverbs,1.7
+661,pobl,idadi ya watu,nouns,2.65
+662,stumog,mshipa,nouns,0.25
+663,ffraeo,kubisha,verbs,0.15
+664,blwch,kibanda,nouns,0.1
+665,dyn,mwanamke,nouns,0.35
+666,metel,chuma,nouns,2.8
+667,crys,shati,nouns,1.35
+668,esgob,askofu,nouns,0.2
+669,cynorthwyo,kufadhili,verbs,5.35
+670,beic,baiskeli,nouns,0.0
+671,rinsio,kusuuza,verbs,3.55
+672,gwrtaith,samadi,nouns,0.45
+673,cegin,mlango,nouns,0.15
+674,arbed,kuokoa,verbs,0.05
+675,yn afreolaidd,isivyo kawaida,adverbs,0.05
+676,cyfrwys,imara,adjectives,0.35
+677,hynafol,mpya,adjectives,0.1
+678,cynghori,kupendekeza,verbs,3.95
+679,rhythm,hesabu,nouns,0.0
+680,gafael,kushikilia,verbs,2.4
+681,cytundeb,pambano,nouns,0.1
+682,mynachlog,monasteri,nouns,0.0
+683,pen-glin,mfupa,nouns,1.05
+684,pur,safi,adjectives,0.65
+685,esgus,kuonyesha,verbs,0.55
+686,adfer,kubadilisha,verbs,0.15
+687,corws,kiitiko,nouns,0.6
+688,gitâr,gita,nouns,0.5
+689,salwch,saratani,nouns,3.35
+690,cymryd,kuondoka,verbs,0.05
+691,nos,sura,nouns,0.0
+692,mawr,mkubwa sana,adjectives,3.8
+693,dde,maadili,nouns,0.35
+694,gwely,chumba cha kulala,nouns,1.6
+695,siwmper,fulana,nouns,0.25
+696,yn union,kwa usahihi,adverbs,2.15
+697,coeden,mti,nouns,1.1
+698,prin,wa kigeni,adjectives,0.7
+699,rhif,nambari,nouns,5.5
+700,parth,eneo,nouns,5.1
+701,allwedd,kifunguo,nouns,0.0
+702,cell,chumba,nouns,1.3
+703,darganfod,kutokana,verbs,0.3
+704,arfordir,ufuko,nouns,2.8
+705,strategydd,mkakati,nouns,3.05
+706,pont,kadi,nouns,0.1
+707,ystafell wely,tumbo,nouns,0.0
+708,gwrando,kuelewa,verbs,0.85
+709,seryddol,unajimu,adjectives,0.2
+710,niwtral,upande wowote,adjectives,0.5
+711,blwyddyn,siku ya kuzaliwa,nouns,0.75
+712,rhesymeg,hesabu,nouns,0.5
+713,côn,kikombe,nouns,0.2
+714,carchariad,funga,nouns,1.7
+715,crebachu,kupunguza,verbs,3.25
+716,gwaed,uboho,nouns,0.6
+717,ysbrydol,kiroho,adjectives,0.8
+718,rhiant,baba,nouns,3.5
+719,chwilio,kutafuta,verbs,2.01
+720,bacwn,chakula cha asubuhi,nouns,0.75
+721,gafr,ngombe,nouns,0.85
+722,ffroenell,pua,nouns,0.0
+723,amaethyddiaeth,kilimo,nouns,1.15
+724,gwaelod,juu,nouns,0.25
+725,mwstard,mbegu,nouns,0.2
+726,gwely,fanicha,nouns,2.35
+727,cywilydd,jisikia aibu,adjectives,0.15
+728,mawr,mzito,adjectives,1.5
+729,ewin,mkono,nouns,0.7
+730,danfon,kuhudhuria,verbs,0.0
+731,deallus,mpumbavu,adjectives,0.1
+732,alcohol,jini,nouns,2.25
+733,tywysoges,bibi arusi,nouns,0.45
+734,llidiog,mkali,adjectives,0.05
+735,mwnci,nyani,nouns,0.0
+736,afiechyd,hatari,nouns,0.45
+737,ar ôl,baada ya,adverbs,0.1
+738,awdur,mwandishi,nouns,0.85
+739,merch,kijana,nouns,1.4
+740,apocalyps,siku ya mwisho,nouns,0.35
+741,gyrru,endesha,verbs,0.05
+742,babi,mtoto wa kike,nouns,0.85
+743,dillad,koti,nouns,2.2
+744,ymbarél,mwavuli,nouns,0.0
+745,dant,kinywa,nouns,1.1
+746,tad,mungu,nouns,2.2
+747,argymell,kukubali,verbs,0.45
+748,pylu,kufifia,verbs,1.7
+749,sobr,makini,adjectives,0.95
+750,mwtant,jitu,nouns,0.1
+751,yn feirniadol,kwa uweledi,adverbs,0.3
+752,trochion,puto,nouns,0.95
+753,modfedd,yadi,nouns,1.35
+754,lledaenu,kuenea,verbs,0.4
+755,athro,mkufunzi,nouns,4.1
+756,helmed,helmeti,nouns,0.6
+757,ailadrodd,kurudia,verbs,0.4
+758,harddwch,umri,nouns,0.3
+759,ystadegau,takwimu,nouns,0.0
+760,ansicr,sio salama,adjectives,0.4
+761,ar hyn o bryd,kwa sasa,adverbs,1.45
+762,siofinist,chauvinist,nouns,2.45
+763,minc,manyoya,nouns,2.5
+764,cyfieithydd,mtafsiri,nouns,0.15
+765,cath,sungura,nouns,0.7
+766,cyrnol,daktari wa meno,nouns,0.05
+767,lansio,kuzindua,verbs,0.5
+768,dysgu,kuchambua,verbs,0.7
+769,yn ddiogel,kwa usalama,adverbs,0.15
+770,cydnabod,kujulisha,verbs,0.65
+771,mawr,nama,adjectives,0.25
+772,bydysawd,anga,nouns,0.85
+773,asgwrn cefn,mwili,nouns,0.5
+774,hedfaniad,ndege,nouns,3.4
+775,ysgrifennu,kuchorachora,verbs,2.75
+776,hyblyg,mwenye kiasi,adjectives,0.75
+777,priodol,wa heshima,adjectives,0.6
+778,presenoldeb,mshindi,nouns,0.05
+779,benthyg,kuweka,verbs,0.15
+780,ystlum,popo,nouns,0.95
+781,bàth,chumba,nouns,0.25
+782,menyw,mke,nouns,4.45
+783,hyfforddwyr,wakufunzi,nouns,0.45
+784,gweithgaredd,mwendo,nouns,0.55
+785,casglu,kukusanya,verbs,1.5
+786,nodyn,noti,nouns,0.6
+787,gwyliau,likizo,nouns,0.4
+788,dod â,kulalamika,verbs,0.05
+789,cyfathrebu,kusali,verbs,0.55
+790,llywydd,meya,nouns,1.3
+791,log,mbao,nouns,2.85
+792,mwydyn,mnyoo,nouns,0.05
+793,tric,mchezo,nouns,0.75
+794,perygl,tishio,nouns,4.0
+795,gwallgof,mwenye furaha,adjectives,0.1
+796,cytuno,kujipendekeza,verbs,0.4
+797,gwddf,uti,nouns,0.6
+798,cystrawen,sintaksia,nouns,0.5
+799,angel,malaika,nouns,0.2
+800,plymio,piga mbizi,verbs,0.0
+801,mynd  ,kuja,verbs,0.45
+802,hapusrwydd,furaha,nouns,0.3
+803,dosbarthu,kuchukua,verbs,0.3
+804,lladd,kukaba,verbs,0.85
+805,cyflymder,mwendo,nouns,0.0
+806,rhoi,kupata,verbs,0.3
+807,aer,molekuli,nouns,0.4
+808,hyder,mtazamo,nouns,0.6
+809,gardd,mpira wa maji,nouns,0.05
+810,seicoleg,sayansi,nouns,2.1
+811,reis,maharagwe,nouns,0.65
+812,codiad haul,machweo,nouns,1.5
+813,awdur,mtungaji,nouns,3.9
+814,anobaith,taabu,nouns,2.75
+815,paragraff,herufi,nouns,0.7
+816,ewythr,mwanaume,nouns,1.75
+817,oedi,kusubiri,verbs,5.5
+818,darllen,kufahamu,verbs,0.8
+819,archwilio,kupuuza,verbs,0.1
+820,bar,zizi,nouns,0.6
+821,dyfarniad,kesi,nouns,1.6
+822,tasg,mwanamke,nouns,0.05
+823,dolen,mkanda,nouns,0.75
+824,jin,wiski,nouns,2.35
+825,tafod,shavu,nouns,0.55
+826,ffin,mpaka,nouns,4.1
+827,deintydd,kanali,nouns,0.05
+828,cyfnod,miaka kumi,nouns,0.9
+829,cinio,supu,nouns,0.85
+830,pobi,kuoka,verbs,1.5
+831,cuddwisgo,kuficha,verbs,2.55
+832,blwch,lifti,nouns,0.0
+833,hysbysu,arifu,verbs,0.0
+834,gaeaf,msimu wa joto,nouns,0.55
+835,yn negyddol,kwa ubaya,adverbs,0.35
+836,mynach,mtawa,nouns,0.35
+837,cyflogwr,mwajiriwa,nouns,0.55
+838,twymyn,mafua,nouns,4.3
+839,yn ddwfn,kwa undani,adverbs,0.35
+840,gwallgof,ana wazimu,adjectives,4.95
+841,gwawr,bunduki,nouns,0.0
+842,gweithredu,uendeshaji,nouns,0.2
+843,ardderchog,ana hasira,adjectives,0.05
+844,yn anghywir,si kwa usahihi,adverbs,0.0
+845,amnewidyn,badala,nouns,2.3
+846,yn ddibynadwy,kwa kuaminika,adverbs,0.0
+847,lleuad,sayari,nouns,1.7
+848,braich,mwili,nouns,1.4
+849,gwyddoniadur,ensaiklopidia,nouns,2.2
+850,bodloni,kufahamu,verbs,0.3
+851,gwn,alfajiri,nouns,0.0
+852,yn agored i niwed,walio hatarini,adjectives,0.05
+853,anifail,mtu,nouns,0.35
+854,actor,mwimbaji,nouns,0.8
+855,stori,hadithi,nouns,0.15
+856,caffael,kutafuta,verbs,1.15
+857,canolig,wastani,adjectives,0.35
+858,caniataëdig,mkubalika,adjectives,2.35
+859,urddas,hadhi,nouns,0.0
+860,newyddion,habari,nouns,0.75
+861,pîn-afal,nanasi,nouns,0.0
+862,cyhoeddus,hadharani,adjectives,0.05
+863,peilliad,uchavushi,nouns,1.75
+864,datgymalu,kutenganisha,verbs,0.05
+865,perswadio,kugombana,verbs,0.95
+866,gwirod,karne,nouns,0.0
+867,boch,ulimi,nouns,0.55
+868,ci,farasi,nouns,0.65
+869,maint,senti,nouns,0.05
+870,cath,mnyama,nouns,2.95
+871,plentyn,mwanaume,nouns,0.25
+872,cadw,kubaki,verbs,0.1
+873,gweithiwr,kamera,nouns,0.0
+874,yn ddiamynedd,bila subira,adverbs,0.25
+875,baw,matope,nouns,4.4
+876,syml,ngumu,adjectives,0.05
+877,papur,kadibodi,nouns,2.0
+878,menyw,jukumu,nouns,0.05
+879,orthodontydd,mtaalamu wa meno,nouns,4.45
+880,gwely,kiti,nouns,0.6
+881,datrys,kutoa suluhisho,verbs,1.05
+882,blanced ,kitanda,nouns,1.2
+883,menyw,sekretari,nouns,0.45
+884,gwrando,kutii,verbs,1.8
+885,drws,sela,nouns,0.1
+886,disgleirio,kuangaza,verbs,4.05
+887,goleddfu,kupendelea,verbs,3.45
+888,cerddoriaeth,muziki,nouns,1.1
+889,cwpan,kijiko,nouns,0.85
+890,tŷ,kapeti,nouns,0.25
+891,benthyg,kupa,verbs,1.95
+892,gwaith llaw,kazi za mikono,nouns,0.05
+893,trychineb,kifo,nouns,1.8
+894,rhosyn,waridi,nouns,0.25
+895,anhygoel,kushangaza,adjectives,0.0
+896,balŵn,kuoga,nouns,0.0
+897,twyll,ulaghai,nouns,1.45
+898,tad,mtoto wa kike,nouns,0.5
+899,senedd,bunge,nouns,2.5
+900,gweithiwr,mfanyakazi,nouns,0.65
+901,gweddïo,kuuliza,verbs,0.95
+902,lleihau,kupungua,verbs,2.0
+903,llawr,paa,nouns,0.25
+904,esgus,kuonekana,verbs,0.3
+905,golygyddol,uhariri,nouns,0.75
+906,meddwl,akili,nouns,1.1
+907,eisiau,kutaka,verbs,4.35
+908,cerflunwaith,sanamu,nouns,4.75
+909,cadair,kitanda,nouns,0.6
+910,gwych,maridadi,adjectives,1.2
+911,eglwys,kanisa,nouns,3.85
+912,llynges,jeshi,nouns,3.85
+913,asid,asidi,nouns,0.25
+914,amddiffyn,kulinda,verbs,2.75
+915,yn ysgafn,kwa utaratibu,adverbs,0.4
+916,argyhoeddi,kushawishi,verbs,0.0
+917,crwydro,kutangatanga,verbs,1.6
+918,cymhwysedd,uwezo,nouns,4.1
+919,gwasgu,kuvyombo vya habari,verbs,0.05
+920,darganfod,pata,verbs,0.55
+921,sudd,matofaa,nouns,0.95
+922,creulon,katili,adjectives,2.1
+923,tyfu,kupungua,verbs,0.1
+924,llaeth,juisi,nouns,0.75
+925,rheolaeth,utawala,nouns,2.8
+926,glaw,mvua,nouns,0.7
+927,disg,diski,nouns,0.0
+928,saethydd,mpiga mishale,nouns,0.05
+929,cyfraniad,mchango,nouns,2.4
+930,iaith,mawasiliano,nouns,2.15
+931,meddu ar,kufyonza,verbs,0.2
+932,afal,mpangilio wa chakula,nouns,0.4
+933,chwyrnu,kung'orota,verbs,0.1
+934,cario ,kuleta,verbs,2.1
+935,rhiant,mtu mzima,nouns,2.25
+936,eglwys,kwaya,nouns,1.05
+937,yn beryglus,kwa uhatari,adverbs,0.05
+938,bwyd,chakula,nouns,0.05
+939,cyfiawnhau,kuhakikisha,verbs,0.45
+940,ymuno,kujipatia,verbs,0.15
+941,wagen,gari la farasi,nouns,3.9
+942,cyfnewid,badilisha,nouns,2.3
+943,presenoldeb,kutokuwepo,nouns,0.6
+944,yn gywir,kabisa,adverbs,2.15
+945,cytuno,kukubali,verbs,0.15
+946,agwedd,hakika,nouns,0.6
+947,ewyllys,hiari,nouns,1.95
+948,anghyfreithlon,wa dhambi,adjectives,2.25
+949,cas,kesi,nouns,0.03
+950,hael,wa kirafiki,adjectives,1.95
+951,porth,mlango wa kutoka,nouns,1.95
+952,post,nguzo,nouns,0.0
+953,bydiaeth,utandawazi,nouns,0.15
+954,pwnc,hadithi,nouns,0.6
+955,twyll,uhalifu,nouns,2.85
+956,drwg,wa dhambi,adjectives,2.8
+957,losin,matofaa,nouns,0.35
+958,cerdd,shairi,nouns,1.0
+959,yn fras,takribani,adverbs,0.25
+960,criced,kriketi,nouns,0.05
+961,yn ddiweddarach,baadae,adverbs,0.1
+962,sain,sauti,nouns,2.95
+963,dadlau,kupinga,verbs,0.0
+964,yn aml,mara nyingi,adverbs,0.05
+965,duw,shetani,nouns,0.4
+966,gwych,mbaya,adjectives,0.05
+967,gwas,mtumishi,nouns,2.65
+968,tarian,mwepesi,nouns,0.75
+969,cytundeb,makubaliano,nouns,5.3
+970,trafodaeth,jadiliano,nouns,1.95
+971,bàth,mbinu,nouns,0.0
+972,corff,tumbo,nouns,0.95
+973,ffliwt,filimbi,nouns,1.1
+974,drws,mlangoni,nouns,3.8
+975,prin,mpumbavu,adjectives,0.0
+976,cywilydd,huzuni,nouns,0.9
+977,deallusrwydd,ujinga,nouns,0.25
+978,yn union,kwa usahihi,adverbs,0.0
+979,colli,kupata,verbs,0.15
+980,cig,nyama,nouns,3.0
+981,cythraul,pepo,nouns,0.2
+982,darganfod,kutambua,verbs,4.45
+983,yr wyddor,alphabeti,nouns,0.0
+984,oedolyn,mtoto,nouns,0.55
+985,sychder,ukame,nouns,0.25
+986,ofnadwy,poa,adjectives,0.05
+987,smart,mpumbavu,adjectives,0.05
+988,ysbyty,kitanda,nouns,0.55
+989,mam,mke,nouns,2.25
+990,bowlen,mkia,nouns,0.0
+991,yn anaml,mara chache,adverbs,0.05
+992,canwr,mtaalamu wa sauti,nouns,0.15
+993,cyfoeth,umasikini,nouns,0.35
+994,arall,wengine,adjectives,0.5
+995,braich,kifundo,nouns,1.05
+996,dicter,usumbufu,nouns,0.9
+997,addurn,mapambo,nouns,0.0
+998,mewnwelediad,ukweli,nouns,1.35
+999,cul,mpana,adjectives,0.1
+1000,heddiw,leo,adverbs,1.4
+1001,dirprwy,msaidizi,nouns,0.75
+1002,cwmwl,wingu,nouns,0.0
+1003,sillaf,silabu,nouns,0.2
+1004,gweledigaeth,utambuzi,nouns,1.4
+1005,bacwn,maharagwe,nouns,0.2
+1006,crocodeil,mamba,nouns,1.75
+1007,teiffŵn,dhoruba,nouns,4.25
+1008,ymdrech,shida,nouns,0.7
+1009,mynychu,kutuma,verbs,0.0
+1010,gwerddon,oasisi,nouns,0.35
+1011,ysgoloriaeth,ufadhili wa elimu,nouns,1.4
+1012,meddyg,tabibu,nouns,4.9
+1013,ymddygiadaeth,somo la tabia,nouns,1.05
+1014,dyddiad,kalenda,nouns,2.85
+1015,anfoesol,mbaya,adjectives,2.8
+1016,dewis,chaguo,nouns,2.95
+1017,tymer,daktari,nouns,0.0
+1018,gwlychu,kulowesha,verbs,0.0
+1019,penderfynu,kuamua,verbs,2.7
+1020,bàth,mke,nouns,0.0
+1021,cwch,nanga,nouns,1.0
+1022,pennu,kutabiri,verbs,0.6
+1023,bod yn ddyledus,kuingia,verbs,0.1
+1024,cynorthwy-ydd,mwalimu,nouns,1.35
+1025,cyfaddef,kukubali,verbs,0.1
+1026,gwybodaeth,habari,nouns,0.1
+1027,basilica,basilika,nouns,0.4
+1028,seciwlarydd,mwanaisilamu,nouns,1.45
+1029,anhawster,bidii,nouns,0.7
+1030,disgybl,mwanafunzi,nouns,4.65
+1031,pibell,sigara,nouns,0.4
+1032,cyfreithiol,halali,adjectives,2.35
+1033,wedi ymlacio,kupumzika,adjectives,0.55
+1034,cwyno,kugombana,verbs,1.05
+1035,cyn,kabla,adverbs,0.1
+1036,hedyn,mbegu,nouns,0.2
+1037,sleid,teleza,nouns,0.0
+1038,gwythïen,mkono,nouns,0.45
+1039,clyfar,mpumbavu,adjectives,0.1
+1040,môr,ziwa,nouns,3.4
+1041,hawdd,ana shida,adjectives,0.0
+1042,glaw,manyunyu,nouns,4.2
+1043,rheilffordd,ua,nouns,0.05
+1044,argyhoeddi,kushawishi,verbs,0.15
+1045,cael,kushindwa,verbs,0.15
+1046,dadlau,kukubaliana,verbs,0.2
+1047,derbyn,kutambua,verbs,2.1
+1048,cryndod,kutetemeka,nouns,2.8
+1049,traethu,kusema,verbs,0.45
+1050,yn garedig,kiupole,adverbs,2.55
+1051,mynnu,kutaka,verbs,0.15
+1052,cymeriad,mhusika,nouns,2.85
+1053,gadael,kubaki,verbs,0.1
+1054,sobr,kutolewa,adjectives,0.05
+1055,yn gyflym,kwa haraka,adverbs,4.85
+1056,ffactorio,sababu,nouns,0.7
+1057,chwipio,kubuta,verbs,2.35
+1058,stumog,mwili,nouns,0.95
+1059,bustach,farasi,nouns,0.55
+1060,acwsteg,akustik,nouns,2.95
+1061,afon,bonde,nouns,0.7
+1062,crëwr,mtengenezaji,nouns,5.05
+1063,mwsogl,nyasi,nouns,1.45
+1064,ymbarél,mwamvuli,nouns,0.0
+1065,benthyciwr,mkopi,nouns,1.1
+1066,cylchfordaith,mzunguko,nouns,0.0
+1067,ymaflyd,kamata,verbs,1.3
+1068,yn berffaith,kiukamilifu,adverbs,0.85
+1069,coeden,mpera,nouns,3.0
+1070,cipio,kudaka,verbs,3.45
+1071,gwawr,mchana,nouns,1.15
+1072,anwybyddu,kufanya utafiti,verbs,0.1
+1073,enillydd,mwanaume,nouns,0.1
+1074,proffwydo,kutabiri,verbs,0.9
+1075,twp,mpumbavu,adjectives,4.85
+1076,yn ddarostyngedig,kwa unyenyekevu,adverbs,0.05
+1077,casáu,kudharau,verbs,1.05
+1078,asetylocolin,acetylcholine,nouns,0.05
+1079,dewis,oni,nouns,1.35
+1080,yn ddwfn,kiundani,adverbs,0.55
+1081,yn hapus,kwa furaha,adverbs,0.05
+1082,pennod,usiku,nouns,0.0
+1083,weithiau,mara nyingine,adverbs,0.43
+1084,car,njia kuu,nouns,0.65
+1085,llywydd,kamera,nouns,0.0
+1086,ysgwydd,mkono,nouns,2.0
+1087,asgwrn,taya,nouns,0.65
+1088,llyn,ziwa,nouns,0.2
+1089,yn sicr,kwa hakika,adverbs,5.2
+1090,yn dynn,kwa mkazo,adverbs,0.7
+1091,merch,mvulana,nouns,0.5
+1092,athro,mwanafunzi,nouns,0.75
+1093,yn ddiweddar,hivi karibuni,adverbs,0.0
+1094,dosbarthu,kukubali,verbs,0.05
+1095,brwydro,kupigana,verbs,0.55
+1096,prif air,nenokuu,nouns,0.5
+1097,ychwanegu,kujiunga,verbs,0.85
+1098,ffug,feki,adjectives,0.15
+1099,gwaed,damu,nouns,0.55
+1100,lladd,kukinga,verbs,0.35
+1101,gêm,mbinu,nouns,0.75
+1102,egluro,kujadili,verbs,1.55
+1103,ofnus,ogopa,adjectives,3.55
+1104,gwydr,glasi,nouns,0.0
+1105,bachgen,wali,nouns,0.0
+1106,actor,mchezaji wa kike,nouns,4.0
+1107,dod,kuhudhuria,verbs,3.0
+1108,wedi ei dychryn,kua na uoga,adjectives,1.25
+1109,oedran,urembo,nouns,0.3
+1110,llinyn,waya,nouns,1.05
+1111,yn wallgof,kwa hasira,adverbs,0.35
+1112,yn garedig,kwa fadhili,adverbs,2.8
+1113,ffisigwr,daktari,nouns,4.9
+1114,oedolyn,mtoto mchanga,nouns,0.2
+1115,gwerthu,kuazima,verbs,0.15
+1116,gwraig,senti,nouns,0.05
+1117,angor,boti,nouns,1.0
+1118,llawenydd,kiburi,nouns,0.95
+1119,asgwrn,kiwiko,nouns,0.9
+1120,crwydro,kuondoka,verbs,0.8
+1121,yn gain,kwa ufasaha,adverbs,2.1
+1122,cyfnewid,ubadilishaji,nouns,0.35
+1123,dydd  ,asubuhi,nouns,1.0
+1124,clogwyn,mkia,nouns,0.0
+1125,cawod,shower,nouns,0.0
+1126,yn obeithiol,kwa matuamini,adverbs,1.15
+1127,ceisio,kufikiria,verbs,0.15
+1128,priffordd,barabara kuu,nouns,4.55
+1129,yn ddiffuant,kwa ukweli,adverbs,0.5
+1130,polyester,pamba,nouns,0.8
+1131,pêl-droed,mpira wa miguu,nouns,5.95
+1132,cydsyniad,mapatano,nouns,0.0
+1133,yn ofalus,kwa utaratibu,adverbs,0.05
+1134,cyflwr,mvulana,nouns,0.0
+1135,diplomyddiaeth,diplomasia,nouns,1.95
+1136,hapusrwydd,bahati,nouns,0.5
+1137,hofrennydd,helikopta,nouns,3.45
+1138,trydanol,chenye umeme,adjectives,0.0
+1139,gwerth,thamani,nouns,1.55
+1140,pobl,senti,nouns,0.0
+1141,het,sanduku,nouns,0.05
+1142,cleddyf,panga,nouns,0.0
+1143,cyflwr,nyumba,nouns,0.1
+1144,dod â,kurudisha,verbs,0.65
+1145,enfawr,mdogo,adjectives,0.1
+1146,yn ddi-drefn,kwa vurugu,adverbs,0.0
+1147,rheolaidd,mara kwa mara,adjectives,0.0
+1148,prawf,wamuzi,nouns,1.6
+1149,gwddf,mkono,nouns,0.3
+1150,gwarcheidwad,mama,nouns,2.8
+1151,codi,kunyanyua,verbs,3.9
+1152,damwain,balaa,nouns,2.6
+1153,ennill,kufaida,verbs,0.6
+1154,swil,aibu,adjectives,0.63
+1155,priodol,rasmi,adjectives,1.4
+1156,twrci,ndege,nouns,3.2
+1157,trafod,kueleza,verbs,1.55
+1158,cwmwl,wingu,nouns,0.2
+1159,blawd,mkate,nouns,1.1
+1160,oeraidd,wa kukwaruza,adjectives,0.35
+1161,lifft,sanduku,nouns,0.0
+1162,ysbryd,jini,nouns,0.0
+1163,stumog,chumba cha kulala,nouns,0.0
+1164,tynnu'n ôl,kutoa,verbs,0.4
+1165,nod,mshindi,nouns,0.1
+1166,brwydro,kupigana,verbs,0.1
+1167,gwraig,mama,nouns,2.25
+1168,priodferch,bwana arusi,nouns,1.15
+1169,llywodraethwr,gavana,nouns,3.4
+1170,person,mnyama,nouns,0.35
+1171,twrci,kuku,nouns,1.45
+1172,merch,mtoto mchanga,nouns,0.85
+1173,amddiffyn,kuweka,verbs,0.7
+1174,mynd,kuuza,verbs,0.0
+1175,targed,mshale,nouns,0.65
+1176,ymlid,kimbiza,verbs,1.9
+1177,gadael,kuondoka,verbs,0.1
+1178,ffaith,umaizi,nouns,1.35
+1179,sinematograffeg,sinema,nouns,0.45
+1180,tegan,kichezeo,nouns,0.05
+1181,llyfr,mada,nouns,0.5
+1182,misol,kila mwezi,adjectives,0.5
+1183,cadw,kuazima,verbs,0.15
+1184,gwyliadwraeth,saa,nouns,0.0
+1185,cerdded,kutembea ,verbs,0.5
+1186,rhythm,muondoko,nouns,0.05
+1187,twf,ukuaji,nouns,0.45
+1188,steil,fesheni,nouns,5.15
+1189,coginio,kupika,verbs,0.23
+1190,addurn,ukuta,nouns,0.3
+1191,claddu,kuzikwa,verbs,1.5
+1192,lan,pwani,nouns,3.35
+1193,duw,padri,nouns,0.65
+1194,maes awyr,ndege,nouns,1.8
+1195,o ddifrif,kwa umakini,adverbs,2.2
+1196,hir,mfupi,adjectives,0.1
+1197,bwlch,sigara,nouns,0.0
+1198,digwydd,kufanya,verbs,0.5
+1199,prysur,bizi,adjectives,0.05
+1200,hapus,wa ghadhabu,adjectives,0.2
+1201,wal,pambo,nouns,0.3
+1202,cyfarfod,kukutana,verbs,0.0
+1203,rhwygo,kuchana,verbs,0.05
+1204,cynllwyniwr,mweka mipango,nouns,3.05
+1205,aderyn,batamzinga,nouns,3.2
+1206,atom,kaboni,nouns,0.75
+1207,ymarfer,kujiandaa,verbs,0.4
+1208,newyddiadurwr,mwanahabari,nouns,0.4
+1209,ael,jicho,nouns,0.7
+1210,dannedd,meno,nouns,0.0
+1211,traeth,ukingo wa bahari,nouns,5.15
+1212,car,baisikeli,nouns,1.0
+1213,cae,uwanja,nouns,0.1
+1214,llesteirio,kufadhaisha,verbs,1.8
+1215,pêl,mzinga,nouns,0.4
+1216,gofyn,kupuuza,verbs,0.05
+1217,tâl,malipo,nouns,4.75
+1218,cyffrous,sisimsha,adjectives,0.05
+1219,diogel,salama,adjectives,0.5
+1220,cyfreithiol,halali,adjectives,0.5
+1221,disgyrchiant,mvuto,nouns,0.3
+1222,melys,tamu,adjectives,0.0
+1223,maint,kina,nouns,1.05
+1224,pigo,chagua,verbs,4.7
+1225,caffael,kupata,verbs,1.9
+1226,o bosibl,inawezekana,adverbs,1.15
+1227,hyfforddiant,ada,nouns,1.4
+1228,gwraig,bwana,nouns,0.5
+1229,anghefnogi,kutia moyo,verbs,0.1
+1230,hardd,ana ajabu,adjectives,1.2
+1231,drôr,nguo,nouns,0.65
+1232,llaw,mguu,nouns,0.6
+1233,arferol,si wa kawaida,adjectives,0.15
+1234,yn gynnil,kwa ujanja,adverbs,0.3
+1235,stondin,sanduku,nouns,0.1
+1236,cyfreithiwr,wakili,nouns,3.92
+1237,lleng,jeshi,nouns,3.5
+1238,arbed,kuokota,verbs,1.2
+1239,ewythr,binamu,nouns,0.55
+1240,poen,madhara,nouns,2.55
+1241,hwyl,mpira wa miguu,nouns,0.6
+1242,ffynhonnell,chanzo,nouns,0.0
+1243,gwybodaeth,gazeti,nouns,1.6
+1244,hyblyg,rahisi,adjectives,0.6
+1245,gynfad,meli ya vita,nouns,0.15
+1246,cosbi,kuadhibu,verbs,0.2
+1247,yn naturiol,kwa uhalisia,adverbs,0.35
+1248,dyn,mlinzi,nouns,0.65
+1249,arloesol,bunifu,adjectives,3.1
+1250,bara,unga,nouns,1.1
+1251,glân,safi,adjectives,0.2
+1252,bysellfwrdd,kibodi,nouns,0.0
+1253,ffenestr,dirisha,nouns,0.15
+1254,doniol,wa kuchosha,adjectives,0.1
+1255,wylo,kutoa machozi,verbs,5.25
+1256,trefnu,kupanga,verbs,0.05
+1257,anghefnogi,kukatisha tamaa,verbs,0.75
+1258,dinistrio,kuua,verbs,2.4
+1259,ffa,wali,nouns,0.65
+1260,rhyfedd,wa kawaida,adjectives,0.15
+1261,pledio,kuuliza,verbs,1.75
+1262,mam,rafiki,nouns,0.7
+1263,gwddf,mfupa,nouns,0.4
+1264,da,nzuri,adjectives,0.0
+1265,ceisio,kufanikiwa,verbs,0.9
+1266,ufuddhau,kutii,verbs,0.2
+1267,camera,mfanyakazi,nouns,0.0
+1268,persli,pasile,nouns,0.05
+1269,gitâr,ngoma,nouns,1.75
+1270,reis,mvulana,nouns,0.0
+1271,pryd bwyd,kiuno,nouns,0.0
+1272,bronceitus,ugonja wa bronchitis,nouns,0.3
+1273,crwm,pinda,adjectives,0.15
+1274,cyfrifiadur,cd,nouns,0.65
+1275,pot,kifaa,nouns,0.3
+1276,ymuno,kujumlisha,verbs,0.85
+1277,o ddifrif,kwa umakini,adverbs,0.8
+1278,ffwr,mwanamke,nouns,0.05
+1279,methu,kushidwa,verbs,0.2
+1280,yn gadarn,kwa dhati,adverbs,0.7
+1281,teledu,runinga,nouns,0.3
+1282,rheoli,panya,nouns,0.0
+1283,archwilio,kugundua,verbs,2.35
+1284,perl,hela,nouns,0.15
+1285,arf,silaha,nouns,0.6
+1286,cyflawni,kushinda,verbs,2.75
+1287,drysu,kuchanganya,verbs,0.0
+1288,modd,njia,nouns,4.25
+1289,gwn,mbinu,nouns,0.05
+1290,ale,mtaa,nouns,2.4
+1291,allanfa,mahali ya kutokea,nouns,0.05
+1292,sedd,kiti,nouns,0.05
+1293,trafferthu,kusumbua,verbs,1.0
+1294,cyfartaledd,wastani,adjectives,0.65
+1295,gadael,kuacha,verbs,1.45
+1296,offeryn,zeze,nouns,2.1
+1297,gadael,kuanza,verbs,0.05
+1298,gwahanu,kutenganisha,verbs,0.05
+1299,clariffeio,kueleza,verbs,4.3
+1300,gadael,kuzurura,verbs,0.8
+1301,cynnyrch llaeth,maziwa,nouns,0.1
+1302,anifail,nunda,nouns,2.35
+1303,argraff,imani,nouns,0.75
+1304,galar,uchungu,nouns,2.55
+1305,blodyn,chavua,nouns,1.15
+1306,gwisgedig,amevaa,adjectives,1.1
+1307,addoli,kuabudu,verbs,1.55
+1308,allbriodasol,nje ya ndoa,adjectives,0.0
+1309,asgwrn,misuli,nouns,0.45
+1310,casglu,kuchukua,verbs,0.0
+1311,onest,enye ukweli,adjectives,0.1
+1312,twll,mapatano,nouns,0.0
+1313,eginblanhigyn,miche,nouns,1.2
+1314,damwain,dharura,nouns,1.05
+1315,anghofio,kujifunza,verbs,0.3
+1316,yn ddigynnwrf,kwa utulivu,adverbs,0.75
+1317,braich,mfupa,nouns,1.1
+1318,swydd,kazi,nouns,0.7
+1319,atgoffa,kumbusha,verbs,0.45
+1320,cebl,amari,nouns,0.0
+1321,plesio,kukubali,verbs,0.4
+1322,yn wael,kwa ubaya,adverbs,0.05
+1323,llawr,mlango,nouns,0.1
+1324,brawdgarwch,mlango,nouns,0.0
+1325,llaw,kidole gumba,nouns,1.3
+1326,isrwtîn,subroutine,nouns,0.0
+1327,monitor,simamia,nouns,0.3
+1328,parch,pongezi,nouns,1.9
+1329,brecwast,karamu,nouns,0.75
+1330,gaeaf,msimu,nouns,2.65
+1331,menyn,kiazi,nouns,0.2
+1332,rhyddhau,kukutolewa,verbs,0.55
+1333,gwn,bunduki,nouns,0.0
+1334,cytoplasm,cytoplasm,nouns,0.0
+1335,drwm,gitaa,nouns,1.75
+1336,hynafol,wa kisasa,adjectives,0.05
+1337,yn fras,yenye kukwaruza,adverbs,0.15
+1338,gofyn,kusihi,verbs,1.75
+1339,dyffryn,bonde,nouns,0.3
+1340,canol,chakula,nouns,0.0
+1341,preifat,faragha,adjectives,3.5
+1342,bwrdd,meza,nouns,0.0
+1343,llenwi,kutiachaji,verbs,0.3
+1344,arestio,kukamatwa,verbs,0.05
+1345,chwaraewr,mchezaji,nouns,0.8
+1346,geiriadur,neno,nouns,1.7
+1347,anifail anwes,paka,nouns,2.95
+1348,yn hysbys,julikana,adjectives,0.0
+1349,gadael,kufika,verbs,0.1
+1350,eliffant,ndovu,nouns,0.05
+1351,llyfr,hadithi,nouns,1.95
+1352,y rhan fwyaf,zaidi,adverbs,2.4
+1353,dodrefn,kitanda,nouns,2.35
+1354,darganfod,kujipatia,verbs,1.15
+1355,gwybod,kusahau,verbs,0.1
+1356,anghorfforol,nje ya mwili,adjectives,0.8
+1357,tasg,majani makavu,nouns,0.0
+1358,diflannu,kutafuta,verbs,0.15
+1359,adeilad,jengo,nouns,1.0
+1360,dwyn,kununua,verbs,0.05
+1361,yn gyfrifol,kwa uwajibikaji,adverbs,0.55
+1362,cul,nyembamba,adjectives,2.0
+1363,llythyr,aya,nouns,0.7
+1364,perswadio,kufuatilia,verbs,0.5
+1365,rheiddiadur,radiator,nouns,0.4
+1366,cynorthwyo,saidia,verbs,1.0
+1367,derbyn,kuamini,verbs,1.8
+1368,rabi,mwalimu,nouns,2.15
+1369,cytuno,kutofautiana,verbs,0.05
+1370,corff,mwili,nouns,0.38
+1371,pen,bega,nouns,0.85
+1372,ffantasi,uhalisi,nouns,0.35
+1373,dygnwch,bendi,nouns,0.0
+1374,myfyrdod,picha,nouns,1.0
+1375,popcorn,bisi,nouns,0.4
+1376,planed,mwezi,nouns,1.7
+1377,cythruddo,kusumbua,verbs,0.0
+1378,yn aml,mara nyingi,adverbs,0.65
+1379,gwael,maskini,adjectives,0.05
+1380,gofyn,kusali,verbs,0.95
+1381,bywyd wedi marwolaeth,kuzimu,nouns,1.6
+1382,anwybyddu,kusahau,verbs,1.4
+1383,crëwr,mtunzi,nouns,2.75
+1384,asgwrn,meno,nouns,0.5
+1385,gwaethygu,kuongeza,verbs,0.1
+1386,dod â,kubeba,verbs,2.1
+1387,cred,maadili,nouns,0.5
+1388,cymhwysedd,uelekevu,nouns,3.6
+1389,crio,kulia,verbs,2.67
+1390,awyren,ndege,nouns,3.45
+1391,banereg,elimu ya bendera,nouns,0.85
+1392,ale,bakuli,nouns,0.05
+1393,cyfuniad,mjumuiko,nouns,2.15
+1394,heulwen,matofaa,nouns,0.05
+1395,dŵr,barafu,nouns,2.2
+1396,tystio,kushuhudia,verbs,0.6
+1397,symud,kutoka,verbs,0.05
+1398,soffa,baseball,nouns,0.0
+1399,llym,mkorofi,adjectives,1.15
+1400,morthwyl,nyundo,nouns,0.0
+1401,preifat,binafsi,adjectives,0.05
+1402,papur newydd,neno,nouns,0.4
+1403,symbol,msimbo,nouns,2.0
+1404,hysbysu,kutambua,verbs,0.65
+1405,hen,mbivu,adjectives,0.05
+1406,beirniadaeth,hoja,nouns,1.15
+1407,braich,shingo,nouns,0.3
+1408,nerfus,kuoga,adjectives,0.0
+1409,sylfaen,msingi,nouns,0.6
+1410,dichonadwy,inawezekana,adjectives,0.45
+1411,cartref,jimbo,nouns,0.1
+1412,hen,mpya,adjectives,0.05
+1413,yn fras,takriban,adverbs,0.12
+1414,cysur,usalama,nouns,1.0
+1415,cyflawni,kuwa,verbs,0.7
+1416,gwallgof,safi,adjectives,0.0
+1417,caled,imara,adjectives,2.5
+1418,rhoi,kuiba,verbs,0.05
+1419,dyn,mpiganaji,nouns,0.6
+1420,cyffredin,kawaida,adjectives,0.08
+1421,lindys,kiwavi,nouns,1.4
+1422,yn llawn,kwa uzima,adverbs,0.0
+1423,cefndir,mandharinyuma,nouns,1.35
+1424,pêl,mpira,nouns,1.73
+1425,siarad,kusikia,verbs,0.55
+1426,diangen,lazima,adjectives,0.05
+1427,morgrugyn,nyuki,nouns,0.75
+1428,gair,sentensi,nouns,2.05
+1429,cymylog,kivuli cha mawingu,nouns,0.15
+1430,ynys,jukumu,nouns,0.0
+1431,cymryd,kukubali,verbs,0.15
+1432,llawysgrif,muswada,nouns,1.25
+1433,meddwl,kujaribu,verbs,0.15
+1434,meddwl,akili,nouns,4.6
+1435,anwybyddu,kuepa,verbs,2.7
+1436,planhigyn,mmea,nouns,1.15
+1437,dwys,ngumu,adjectives,0.45
+1438,blodyn,kichaka,nouns,0.75
+1439,dyffryn,mto,nouns,0.7
+1440,adeiladwaith,uharibifu,nouns,0.1
+1441,cyntedd,korido,nouns,4.2
+1442,diogelwch,starehe,nouns,1.0
+1443,troi allan,kufukuza,verbs,0.2
+1444,flwyddyn,mwaka,nouns,1.0
+1445,menyw,mwanaume,nouns,0.35
+1446,torri,kuharibu,verbs,3.95
+1447,gwaith celf,mchoro,nouns,1.05
+1448,deilen,jani,nouns,1.15
+1449,darn,kipande,nouns,0.0
+1450,cydnabod,kuzungumza,verbs,0.2
+1451,gorffennol,zamani,nouns,1.0
+1452,gallu,ustadi,nouns,3.6
+1453,bwystfil,mnyama,nouns,2.35
+1454,tad,kaka,nouns,0.65
+1455,uchder,urefu,nouns,0.0
+1456,meddwl,kutafakari,verbs,4.85
+1457,duw,roho,nouns,1.75
+1458,babi,mtu mzima,nouns,0.2
+1459,modern,wa kale,adjectives,0.05
+1460,mariwana,mitishamba,nouns,1.3
+1461,duw,windo,nouns,0.0
+1462,edmygu,kuhusudu,verbs,1.55
+1463,concwest,nyimbo,nouns,0.05
+1464,yn wreiddiol,ya uhalisia,adverbs,1.35
+1465,maes awyr,uwanja wa ndege,nouns,0.0
+1466,gwersyll,kibanda,nouns,0.7
+1467,beddrod,zika upya,nouns,1.25
+1468,traddodiad,utamaduni,nouns,0.05
+1469,dyn,baba,nouns,2.3
+1470,nofel,simulizi,nouns,0.85
+1471,cymryd,kupokea,verbs,2.95
+1472,daeargryn,tetemeko la ardhi,nouns,2.8
+1473,anhrefn,mchafuko,nouns,4.45
+1474,derbyn,kukataa,verbs,0.1
+1475,blaengau,kukuifungia,verbs,0.15
+1476,gwellt,nyimbo,nouns,0.0
+1477,edau,uzi,nouns,4.85
+1478,sant,mkosaji,nouns,0.4
+1479,croen,ngozi,nouns,0.0
+1480,mynd  ,kuruhusu,verbs,0.0
+1481,beio,kulaumu,verbs,2.55
+1482,biliwnydd,bilionea,nouns,0.05
+1483,anghywir,kosa,adjectives,0.05
+1484,ofnus,ogopa,adjectives,1.25
+1485,ffens,uzio,nouns,0.0
+1486,ochr,chini,nouns,0.8
+1487,tarfu,kunyanyasa,verbs,1.65
+1488,rhybuddio,onya,verbs,0.7
+1489,maddau,kukubali,verbs,0.75
+1490,ffôl,mpumbavu,adjectives,4.8
+1491,gwneud,kutukia,verbs,0.5
+1492,yn annaturiol,si asili,adverbs,0.35
+1493,ffensio,uzio,nouns,0.2
+1494,esgob,askofu mkuu,nouns,3.75
+1495,cyflogwr,mfanyakazi,nouns,0.6
+1496,pensil,penseli,nouns,0.15
+1497,braich,mguu,nouns,1.15
+1498,menyw,manyoya,nouns,0.05
+1499,rhoi,kuning'inia,verbs,0.15
+1500,rhedeg,kimbia,verbs,0.05
+1501,sbeislyd,pilipili,adjectives,0.0
+1502,yn heddychlon,kwa amani,adverbs,0.0
+1503,hel,kukimbiza,verbs,0.75
+1504,deallusrwydd,umaizi,nouns,2.6
+1505,ceffyl,farasi wa kike,nouns,4.3
+1506,nerf,mwili,nouns,0.55
+1507,yn ddymunol,kwa uzuri,adverbs,2.8
+1508,band,gwaride,nouns,1.45
+1509,biotop,ekolojia,nouns,0.55
+1510,siart,chati,nouns,3.65
+1511,marw,kufariki,verbs,0.05
+1512,mewnwelediad,akili,nouns,2.6
+1513,efallai,labda,adverbs,2.25
+1514,cefnogwr,msaidizi,nouns,0.05
+1515,swigen,mapovu,nouns,0.95
+1516,braich,mkono,nouns,0.6
+1517,osgoi,kupuuza,verbs,2.7
+1518,yn dawel,kwa ukimya,adverbs,0.6
+1519,dodrefn,fleti,nouns,0.35
+1520,minc,mafuta,nouns,0.0
+1521,canu,kuimba,verbs,0.0
+1522,dwywaith,mara mbili,adverbs,0.3
+1523,yn hyfryd,kwa uzuri,adverbs,2.1
+1524,doler,dola,nouns,1.1
+1525,rhoi,kuruhusu,verbs,0.95
+1526,dod,kwenda,verbs,0.45
+1527,rhannu,kuzidisha,verbs,0.35
+1528,tywydd,hali ya hewa,nouns,0.4
+1529,therapi,tiba,nouns,1.05
+1530,perlysieuyn,bangi,nouns,1.3
+1531,anghofio,kukumbusha,verbs,0.1
+1532,delta,delta,nouns,0.95
+1533,offeiriad,mungu,nouns,0.65
+1534,sbeislyd,pilipili,adjectives,0.0
+1535,bowlen,kichochoro,nouns,0.05
+1536,gorffwyll,mgonjwa,adjectives,0.35
+1537,amau,kushukia,verbs,0.05
+1538,sgwâr,mraba,nouns,0.05
+1539,ffa,kahawa,nouns,0.6
+1540,tribiwnlys,mahakama,nouns,1.35
+1541,clywed,kusikia,verbs,0.4
+1542,crwm,yenye pindo,adjectives,0.05
+1543,yn falch,kwa jeuri,adverbs,0.05
+1544,maer,rais,nouns,1.3
+1545,casglu,kuhudhuria,verbs,0.35
+1546,rhannu,kugawanya,verbs,0.2
+1547,gêm,tendo,nouns,0.5
+1548,deuod,diode,nouns,0.9
+1549,gair,ukurasa,nouns,0.45
+1550,polyhedron,pembe zaidi ya sita,nouns,0.0
+1551,gwrthbrofi,kukanusha,verbs,0.0
+1552,synhwyrydd,sensa,nouns,0.4
+1553,dyweddïad,uchumba,nouns,1.0
+1554,cyfeiliornus,njia za panya,adjectives,1.25
+1555,derbyn,kupa,verbs,0.35
+1556,hurt,mjanja,adjectives,0.1
+1557,partner,mvulana,nouns,0.38
+1558,theatr,ukumbi,nouns,0.0
+1559,hapus,mchangamfu,adjectives,5.0
+1560,llygad,nyusi,nouns,0.7
+1561,hyfforddwr,mwalimu,nouns,4.1
+1562,ffwr,ngozi,nouns,2.5
+1563,afal,peremende,nouns,0.35
+1564,drwg  ,mkubwa sana,adjectives,0.0
+1565,golchi,kuosha,verbs,3.55
+1566,camera,lenzi,nouns,2.0
+1567,brifo ,kuumia,verbs,1.05
+1568,yn wir,kiukweli,adverbs,0.35
+1569,calon,upasuaji,nouns,0.4
+1570,yn ofalus,kwa uangalifu,adverbs,1.13
+1571,codi arian,mchango,nouns,0.3
+1572,rhestr,orodha,nouns,0.9
+1573,coridor,ushoroba,nouns,4.2
+1574,parêd,bendi,nouns,1.45
+1575,lloches,kibanda,nouns,1.25
+1576,gofyn,kuuliza,verbs,0.35
+1577,wedi cyffroi,sisimka,adjectives,1.25
+1578,pwffian chwerthin,kukenua,verbs,4.05
+1579,troseddu,kukosea,verbs,0.25
+1580,beibl,kitabu,nouns,2.4
+1581,traeth,uwanda wa bahari,nouns,2.25
+1582,stryd,kichochoro,nouns,2.4
+1583,yn dynn,kwa ukakamavu,adverbs,0.55
+1584,dwyn,iba,verbs,0.6
+1585,tarddu,kugundua,verbs,0.3
+1586,yn emosiynol,kwa hisia,adverbs,1.75
+1587,gweriniaeth,jamhuri,nouns,0.05
+1588,gwraig,kuoga,nouns,0.0
+1589,athro,daktari,nouns,0.8
+1590,meddwl,kutafiti,verbs,0.75
+1591,pen-blwydd,mwaka,nouns,0.75
+1592,amgylchedd,mazingira,nouns,0.0
+1593,dirmygu,kuchukia,verbs,1.05
+1594,derbyn,kupendekeza,verbs,0.45
+1595,hurt,wa upuzi,adjectives,4.8
+1596,cab,gari,nouns,4.2
+1597,llyfr,makala,nouns,1.0
+1598,esgus,kudhani,verbs,0.35
+1599,sylweddoli,kugundua,verbs,4.45
+1600,allanfa,mlangoni,nouns,1.95
+1601,pleidlais,haki ya upigaji kura,nouns,0.05
+1602,yn bennaf,zaidi,adverbs,0.35
+1603,cyfarfod,kusalimia,verbs,1.0
+1604,swper,chakula cha asubuhi,nouns,0.75
+1605,llwy,kikombe,nouns,0.85
+1606,cyfarfod,kukusanya,verbs,1.4
+1607,cryfder,makadara,nouns,4.0
+1608,llygredd,rushwa,nouns,1.45
+1609,geiriadur,kamusi,nouns,2.2
+1610,brwnt,mwembamba,adjectives,0.0
+1611,awyren,jeti,nouns,4.95
+1612,ymadrodd,neno,nouns,2.05
+1613,hyfforddi,elimisha,verbs,3.95
+1614,pennod,mkia,nouns,0.0
+1615,cefnder,mjomba,nouns,0.55
+1616,telesgop,darubini,nouns,0.0
+1617,yn angheuol,hatari sana,adverbs,0.0
+1618,meddwl,kufikiria,verbs,1.25
+1619,cwpan,kopo,nouns,0.9
+1620,metr,inchi,nouns,1.5
+1621,pren,karatasi,nouns,0.35
+1622,trychineb,ajali,nouns,2.6
+1623,yn ddibynadwy,pasipo tu,adverbs,0.1
+1624,yn ddelfrydol,walau,adverbs,0.3
+1625,gitâr,gitaa,nouns,0.0
+1626,yn sylfaenol,kimsingi,adverbs,0.0
+1627,democratiaeth,demokrasia,nouns,0.65
+1628,hashnod,reli,nouns,0.3
+1629,estrys,mbuni,nouns,0.0
+1630,coroni,kusimikwa ufalme,nouns,0.0
+1631,hongian,kuweka,verbs,0.15
+1632,bys,kiganja,nouns,0.6
+1633,yn derfynol,mwishoni,adverbs,0.0
+1634,top,upande,nouns,0.45
+1635,siarcol,makaa ya mawe,nouns,3.4
+1636,hysbysu,kujulisha,verbs,4.75
+1637,gwely,hospitali,nouns,0.55
+1638,hiliaeth,ubaguzi wa rangi,nouns,3.7
+1639,creulon,mkali,adjectives,1.15
+1640,terfysg,mgomo,nouns,0.0
+1641,brenhines,nyuki,nouns,0.15
+1642,cwmni,biashara,nouns,3.35
+1643,diwylliant,utamaduni,nouns,1.3
+1644,mêl,asali,nouns,0.1
+1645,cyflog,hela,nouns,2.95
+1646,cwch,sitaha,nouns,0.8
+1647,portreadu,kuiga,verbs,2.35
+1648,ennill,kufanikiwa,verbs,4.55
+1649,person dan amheuaeth,mshukiwa,nouns,0.35
+1650,cadair,kiti,nouns,0.0
+1651,ymosodol,kwa mabavu,adjectives,0.75
+1652,mob,umati,nouns,4.45
+1653,balch ,ana hasira,adjectives,0.0
+1654,llwyn,ua,nouns,0.75
+1655,cerdyn,daraja,nouns,0.1
+1656,rhyddid,uhuru,nouns,0.28
+1657,cymysgu,kuchanganya,verbs,0.5
+1658,absenoldeb,kuwepo,nouns,0.6
+1659,stoc,akiba,nouns,3.15
+1660,piano,kinanda,nouns,0.5
+1661,rhyfedd,mwerevu,adjectives,0.0
+1662,dyn,mjomba,nouns,1.75
+1663,entropi,kuzorota,nouns,0.1
+1664,cyngres,mkutano,nouns,2.5
+1665,arwyddluniau,insilia,nouns,0.0
+1666,ergyd,pigo,nouns,0.0
+1667,dec,boti,nouns,0.8
+1668,sgleinio,kung'arisha,verbs,0.0
+1669,yma,papa hapa,adverbs,1.8
+1670,colli,kuweka,verbs,0.2
+1671,cyd-beilot,rubani msaidizi,nouns,0.05
+1672,mynychu,kuhudhuria,verbs,0.0
+1673,capten,mwanamaji,nouns,1.7
+1674,plentyn,mvulana,nouns,1.25
+1675,chwarae,kucheza,verbs,0.1
+1676,rhesymeg,akili,nouns,2.45
+1677,cyfradd,kiwango,nouns,1.55
+1678,anwybyddu,kupuuza,verbs,0.0
+1679,byth,kamwe,adverbs,0.0
+1680,dechrau,kuacha,verbs,0.05
+1681,cystadlu,kushindana,verbs,0.1
+1682,chwilio,tafuta,verbs,1.6
+1683,het,koti,nouns,0.7
+1684,ongl,tao,nouns,1.35
+1685,dan straen,kusisitiza,adjectives,0.0
+1686,cwmpawd,dira,nouns,0.0
+1687,dwyn,kupa,verbs,0.05
+1688,cwt,makao,nouns,1.25
+1689,digartref,wasio na makazi,nouns,0.05
+1690,cadernid,nguvu,nouns,4.0
+1691,erlynydd,mwendesha mashtaka,nouns,3.25
+1692,yn annibynnol,kwa kujitegemea,adverbs,0.55
+1693,gwerthfawr,yenye thamani,adjectives,1.28
+1694,diflas,wa kuchekesha,adjectives,0.1
+1695,lladd,ua,verbs,0.55
+1696,bys,kidole cha mguu,nouns,0.8
+1697,diogel,lindwa,adjectives,0.0
+1698,radar,rada,nouns,0.35
+1699,caniatáu,kuruhusu,verbs,1.45
+1700,maddau,kusahau,verbs,0.9
+1701,patholeg,stadi ya magonjwa,nouns,2.3
+1702,cymryd,kumiliki,verbs,1.1
+1703,llys,korti,nouns,1.5
+1704,o ychydig,mara kwa mara,adverbs,0.15
+1705,athro,rabai,nouns,2.15
+1706,pêl-droed,burudani,nouns,0.6
+1707,seler,mlango,nouns,0.1
+1708,cnawd,damu,nouns,1.15
+1709,tlodi,utajiri,nouns,0.35
+1710,moleciwl,atomu,nouns,2.25
+1711,dilyniant,mwendelezo,nouns,0.0
+1712,ymholi,kuwaza,verbs,0.75
+1713,rhagolwg,utabiri,nouns,0.15
+1714,ystafell ymolchi,jiko,nouns,0.55
+1715,sy'n dod i mewn,inayoingia,adjectives,0.15
+1716,graff,jedwali,nouns,3.65
+1717,casglu,kuamua,verbs,0.65
+1718,coeden,mti,nouns,0.0
+1719,moleciwl,molekuli,nouns,0.15
+1720,pinsio,kufinya,verbs,0.7
+1721,atgoffa,kuuza,verbs,0.0
+1722,methu,kufanikiwa,verbs,0.1
+1723,edafedd,nyuzi,nouns,4.85
+1724,staff,wafanyakazi,nouns,0.15
+1725,cais,maombi,nouns,2.05
+1726,ennill,kutengeneza,verbs,0.2
+1727,canolig,mtumba,adjectives,0.15
+1728,braf,mkorofi,adjectives,0.05
+1729,cyfarfod,kupatana,verbs,0.05
+1730,caledwedd,kifaa,nouns,0.05
+1731,gwybodaeth,kitabu,nouns,0.75
+1732,talwrn,chumba cha rubani,nouns,0.3
+1733,doethineb,akili,nouns,3.6
+1734,cloch,mlango,nouns,0.35
+1735,taro,kupiga,verbs,0.0
+1736,teledu,runinga,nouns,0.7
+1737,dygnwch,ua,nouns,0.1
+1738,caets,kizuizi,nouns,0.6
+1739,poeni,kuwa na wasiwasi,verbs,0.0
+1740,coch,nyekundu,adjectives,0.65
+1741,car,lifti,nouns,0.45
+1742,atom,molekuli,nouns,2.25
+1743,gwenynen,malkia,nouns,0.15
+1744,ewin,kidole gumba,nouns,1.15
+1745,nerf,akili,nouns,0.6
+1746,plisman,polisi,nouns,0.05
+1747,gwydn,mwerevu,adjectives,0.35
+1748,dicter,ghadhabu,nouns,4.35
+1749,derbyn,kupeleka,verbs,0.05
+1750,gorchuddio,kufunika,verbs,2.55
+1751,senoffobia,ubaguzi,nouns,3.7
+1752,theatr,ukumbi,nouns,0.55
+1753,cemeg,nadharia,nouns,0.3
+1754,baled,wimbo,nouns,3.5
+1755,gwraig,majani makavu,nouns,0.0
+1756,crybwyll,kutoa maoni,verbs,0.35
+1757,gair,kamusi,nouns,1.7
+1758,agos,kwa ukaribu,adjectives,0.65
+1759,uno,kuungana,verbs,3.6
+1760,digio,kukashifu,verbs,2.95
+1761,halen,maji,nouns,0.35
+1762,trefn,menyu,nouns,0.6
+1763,masarnen,mti,nouns,3.0
+1764,sawl,nyingi zaidi,adverbs,0.45
+1765,bachgen,mtoto,nouns,1.25
+1766,perfformio,kutumbuiza,verbs,0.05
+1767,ffrind,mwalimu,nouns,0.5
+1768,damwain,ajali,nouns,0.0
+1769,dod yn,kujitokeza,verbs,1.25
+1770,deall,kusamehe,verbs,0.45
+1771,haul,anga,nouns,0.9
+1772,cyhoeddi,kufahamisha,verbs,4.75
+1773,corff,neva,nouns,0.55
+1774,ymennydd,neva,nouns,0.6
+1775,stori,mada,nouns,0.6
+1776,ysgubell,ufagio,nouns,0.3
+1777,yn hanfodol,kimsingi,adverbs,0.3
+1778,bwlch,uwazi,nouns,2.0
+1779,myfyriwr,mwanafunzi,nouns,0.9
+1780,alaw,muziki,nouns,3.85
+1781,oriel,nyumba ya sanaa,nouns,0.0
+1782,byd,ulimwengu,nouns,5.35
+1783,lifft,gari,nouns,0.45
+1784,perfformiwr,mwigizaji,nouns,0.7
+1785,swydd,menejimenti,nouns,0.5
+1786,asteroid,kimondo,nouns,2.7
+1787,awdur,muandishi,nouns,0.0
+1788,adref,nyumbani,adverbs,0.2
+1789,cefnfor,bahari,nouns,3.4
+1790,mawr,rahisi,adjectives,0.05
+1791,cyd-beilot,rubani msaidizi,nouns,0.3
+1792,stumog,kiuno,nouns,0.95
+1793,gwestai,rafiki,nouns,0.35
+1794,moleciwl,hewa,nouns,0.4
+1795,bisged,biskuti,nouns,0.0
+1796,llaw,kifundo,nouns,1.05
+1797,drws,uwepo,nouns,0.0
+1798,fector,vector,nouns,1.35
+1799,sgriblo,kuandika,verbs,2.75
+1800,papur,karatasi,nouns,0.8
+1801,calibr,kaliba,nouns,0.0
+1802,roboteg,roboti,nouns,0.15
+1803,llenyddiaeth,neno,nouns,0.95
+1804,doniol,mwenye huzuni,adjectives,0.05
+1805,niwed,maumivu,nouns,2.55
+1806,hela,kuwinda,verbs,2.85
+1807,caled,rahisi,adjectives,0.2
+1808,llawr,dari,nouns,0.15
+1809,yn achlysurol,mara chache,adverbs,0.7
+1810,symbol,ishara,nouns,4.15
+1811,gadael,kuingia,verbs,0.15
+1812,ystafell,kitanda,nouns,0.4
+1813,llwy,kijiko,nouns,0.05
+1814,prynu,kununua,verbs,2.6
+1815,yn uchel,kwa sauti,adverbs,0.12
+1816,de,kaskazini,nouns,0.45
+1817,dinistr,ujenzi,nouns,0.1
+1818,adeiladu,kujumlisha,verbs,0.65
+1819,yn weithredol,kwa juhudi,adverbs,0.6
+1820,reis,kuku,nouns,0.2
+1821,neigaredd,undugu,nouns,0.15
+1822,llyfr,biblia,nouns,2.4
+1823,tafod,misuli,nouns,1.05
+1824,tristwch,aibu,nouns,0.9
+1825,haint,maambukizo,nouns,0.75
+1826,pleserdaith,safari,nouns,3.3
+1827,nerfus,wasiwasi,adjectives,3.55
+1828,mefus,strouberi,nouns,1.5
+1829,brawd,kaka,nouns,1.75
+1830,traeth,mchanga,nouns,0.65
+1831,glas,bluu,adjectives,0.65
+1832,eil,ushoroba,nouns,0.65
+1833,papur newydd,taarifa,nouns,1.6
+1834,mwynhau,kufurahia,verbs,0.0
+1835,prynu,kuiba,verbs,0.05
+1836,cenedlaethol,kitaifa,adjectives,0.35
+1837,dinistrio,kuharibu,verbs,0.05
+1838,cyllell,bunduki,nouns,0.45
+1839,liberti,uhuru,nouns,4.9
+1840,rhesymol,kueleweka,adjectives,0.95
+1841,gên,mfupa,nouns,0.65
+1842,cael,kubaki,verbs,0.1
+1843,iâ,maji,nouns,2.2
+1844,cwpan,koni,nouns,0.2
+1845,ystafell,kuoga,nouns,0.25
+1846,ffres,mzee,adjectives,0.05
+1847,yn gyfeillgar,kirafiki,adverbs,0.0
+1848,dŵr,chumvi,nouns,0.35
+1849,awyr,ulimwengu,nouns,0.85
+1850,seiclon,kimbunga,nouns,4.25
+1851,gwellt,mke,nouns,0.0
+1852,pren,mbao,nouns,0.0
+1853,bwriad,nia,nouns,1.95
+1854,stori,kitabu,nouns,1.95
+1855,anfoesol,haramu,adjectives,2.25
+1856,yn wallgof,kwa ghadhabu,adverbs,0.45
+1857,milwr,mvulana,nouns,0.3
+1858,ased,mali,nouns,3.15
+1859,gweithiwr,mwajiri,nouns,0.55
+1860,petrusgar,sitasita,adjectives,0.05
+1861,rhyddhau,kuachilia,verbs,0.05
+1862,hir,mwembamba,adjectives,0.3
+1863,pryd bynnag,kila wakati,adverbs,0.2
+1864,amddiffyn,kuua,verbs,0.35
+1865,yfed,kunywa,verbs,0.0
+1866,dawnsio,densi,nouns,0.15
+1867,anghofio,kujua,verbs,0.1
+1868,eglwys gadeiriol,kanisa kuu,nouns,3.85
+1869,dinistrio,kutengeneza,verbs,0.1
+1870,od,mgeni,adjectives,3.65
+1871,emosiwn,hamu,nouns,3.4
+1872,hurt,ana akili,adjectives,0.05
+1873,negyddol,hasi,adjectives,0.35
+1874,ebol,farasi,nouns,3.9
+1875,stopio,kusimamisha,verbs,0.6
+1876,credyd,mkopo,nouns,1.1
+1877,yn anhygoel,kwa umaradufu,adverbs,1.25
+1878,aflonydd,mchanga,adjectives,0.25
+1879,map,ramani,nouns,0.05
+1880,llyn,bwawa,nouns,2.05
+1881,trefnus,kwa mpangilio,adjectives,0.05
+1882,bàth,puto,nouns,0.0
+1883,creulon,mwema,adjectives,0.05
+1884,yn hael,kwa fadhili,adverbs,2.55
+1885,bathodyn,baji,nouns,0.0
+1886,cwmwl,mvuke,nouns,2.55
+1887,hedfan,nzi,nouns,0.2
+1888,awgrymu,kupendekeza,verbs,3.35
+1889,cynghori,kushauri,verbs,3.35
+1890,dwyn,kuchukua,verbs,1.75
+1891,corff,bega,nouns,0.7
+1892,diymadferth,hoi,adjectives,1.25
+1893,cofio,kukumbuka,verbs,1.25
+1894,aros,kupata,verbs,0.1
+1895,gwn,watu,nouns,0.1
+1896,cyfarch,kukutana,verbs,1.0
+1897,gwyddoniaeth,saikolojia,nouns,2.1
+1898,troed,mguu,nouns,0.05
+1899,dillad,kifungo,nouns,0.4
+1900,heb ei ddatgelu,haijafichuliwa,adjectives,0.15
+1901,parti,watu,nouns,0.7
+1902,hyder,nafsi,nouns,0.2
+1903,creu,kutengeneza,verbs,1.62
+1904,glaswelltir,uwanda wenye majani,nouns,2.3
+1905,balch ,mwenye nguvu,adjectives,0.4
+1906,hapusrwydd,amani,nouns,1.25
+1907,diog,mvivu,adjectives,0.03
+1908,gwialen,pazia,nouns,0.05
+1909,heb ei ddefnyddio,haijatumika,adjectives,4.6
+1910,palmwydd,kidole,nouns,0.6
+1911,pennu,kutambulisha,verbs,0.0
+1912,meteor,meteor,nouns,0.3
+1913,cinio,ugali,nouns,1.55
+1914,gwyddonydd,muuguzi,nouns,0.35
+1915,gwneuthurwr,muumbaji,nouns,5.05
+1916,modfedd,mita,nouns,1.5
+1917,glob,dunia,nouns,5.35
+1918,ynys,kisiwa,nouns,0.1
+1919,llygoden,chombo,nouns,0.0
+1920,fisa,mhuri,nouns,0.15
+1921,chwedl,hadithi,nouns,0.2
+1922,brecwast,chakula cha usiku,nouns,0.6
+1923,arholiad,mtihani,nouns,0.35
+1924,rhannu,kujumlisha,verbs,0.25
+1925,cadw,kulinda,verbs,0.7
+1926,bwlb,ua,nouns,1.15
+1927,cymysgu,koroga,verbs,2.15
+1928,saws,matofaa,nouns,0.25
+1929,gorffen,maliza,verbs,1.0
+1930,ardal,kona,nouns,0.7
+1931,mêr,damu,nouns,0.6
+1932,ceiniog,sarafu,nouns,0.95
+1933,trasiedi,kifo,nouns,1.5
+1934,cot,kofia,nouns,0.7
+1935,bacwn,nyama,nouns,3.45
+1936,dyn,rafiki,nouns,0.55
+1937,trefnu,kuhitaji,verbs,0.1
+1938,cinio,chakula cha asubuhi,nouns,0.6
+1939,car,mtaa,nouns,0.35
+1940,bòs,bosi,nouns,3.45
+1941,dryswch,kichaa,nouns,1.35
+1942,afal,malimau,nouns,0.85
+1943,dod â,kuja,verbs,1.3
+1944,lluosi,kugawanya,verbs,0.35
+1945,arbennig,maalumu,adjectives,2.3
+1946,anhrefnu,kutopangilia,verbs,0.05
+1947,cynffon,bakuli,nouns,0.0
+1948,dydd ,usiku,nouns,0.3
+1949,aelod,mguu,nouns,0.75
+1950,saeth,lengo,nouns,0.65
+1951,dyn,mwanaume,nouns,0.35
+1952,te,limau,nouns,0.45
+1953,terfyn,ukingo,nouns,4.1
+1954,gwych,wa kutisha,adjectives,0.05
+1955,glan y môr,ufuko,nouns,5.15
+1956,ffraeo,kufikiria,verbs,0.35
+1957,poenus,kasirika,adjectives,0.15
+1958,ymgeisio,kujaribu,verbs,1.1
+1959,alaw,pigo,nouns,1.15
+1960,tröedigaeth,uongofu,nouns,0.0
+1961,esgeuluso,kupuuzia,verbs,0.95
+1962,baner,bendera,nouns,0.7
+1963,i ffwrdd,ugenini,adverbs,0.2
+1964,newynog,kua na njaa ,adjectives,1.0
+1965,meddw,mlevi,adjectives,0.05
+1966,glaswellt,mwani,nouns,1.45
+1967,ffrâm,fremu,nouns,0.0
+1968,socer,soka,nouns,5.95
+1969,gwerth,imani,nouns,0.5
+1970,traethawd,insha,nouns,1.05
+1971,tatws,siagi,nouns,0.2
+1972,pêl-fas,kochi,nouns,0.0
+1973,creu,kuharibu,verbs,0.1
+1974,gweithiwr,makanika,nouns,1.85
+1975,telesgop,darubini,nouns,0.0
+1976,darogan,kudhani,verbs,1.5
+1977,tywydd,wingu,nouns,1.25
+1978,arloeswr,njia,nouns,0.05
+1979,encilio,kurudia,verbs,0.3
+1980,gwenith,nafaka,nouns,2.15
+1981,anniben,chafu,adjectives,0.05
+1982,cymryd,kuchukua,verbs,1.3
+1983,melin,koboa,nouns,0.2
+1984,jin,kileo,nouns,2.25
+1985,yn deg,kwa haki,adverbs,0.1
+1986,cred,ono,nouns,0.75
+1987,cytundeb,mazingira,nouns,0.05
+1988,brechdan,chakula cha mchana,nouns,1.55
+1989,balchder,kujivunia,adjectives,0.05
+1990,erfyn,kuuliza,verbs,2.55
+1991,yn rhyfedd,ya kustajabisha,adverbs,4.25
+1992,sgil,akili,nouns,2.1
+1993,duw,baba,nouns,2.2
+1994,tsunami,sunami,nouns,1.2
+1995,doniol,inayochekesha,adjectives,0.0
+1996,gwrthod,kupa,verbs,0.05
+1997,gwlyb,lowa,adjectives,0.4
+1998,porth,mlango,nouns,3.8
+1999,ci,paka,nouns,0.75
+2000,llyncu,meza,verbs,2.55
+2001,anaml,nadra,adverbs,0.05
+2002,oedolyn,mzazi,nouns,2.25
+2003,sibrwd,kunong'oneza,verbs,1.7
+2004,cangen,shina,nouns,0.6
+2005,anwybodus,mjinga,adjectives,0.0
+2006,busnes,kampuni,nouns,3.35
+2007,llong,mshipa,nouns,0.05
+2008,ymddeol,kustaafu,verbs,0.4
+2009,swper,chakula,nouns,3.3
+2010,semester,awamu,nouns,4.9
+2011,cig,nyama ya nguruwe,nouns,3.45
+2012,fel arfer,kawaida,adverbs,0.1
+2013,yn dawel,kwa ukimya,adverbs,0.1
+2014,maneg,mpira,nouns,0.75
+2015,purdan,purigatori,nouns,1.6
+2016,papur,kuni,nouns,0.35
+2017,yn rhyfeddol,kwa kushangaza,adverbs,4.1
+2018,yn gynnil,kijanja,adverbs,0.0
+2019,drwg,poa,adjectives,0.05
+2020,gwrthod,kukana,verbs,1.75
+2021,ewin,kichwa,nouns,0.15
+2022,mynd,kuenda,verbs,2.5
+2023,cymryd,kupeleka,verbs,0.3
+2024,cerddoriaeth,tuni,nouns,3.85
+2025,amherchnogi,kutelekeza,verbs,0.93
+2026,paragraff,ukurasa,nouns,0.35
+2027,canrif,muongo,nouns,1.0
+2028,llygoden,ndezi,nouns,3.55
+2029,amlwg,bila siri,adjectives,0.15
+2030,gwenynen,mdudu,nouns,1.75
+2031,yn sicr,hakika,adverbs,1.4
+2032,nam,kosa,nouns,0.0
+2033,cromlin,pembe,nouns,1.35
+2034,siarad,kutambua,verbs,0.2
+2035,ffa,nyama ya nguruwe,nouns,0.2
+2036,ffurfdroad,inflection,nouns,0.75
+2037,gohirio,kuhairisha,verbs,1.0
+2038,ffilm,filamu,nouns,0.55
+2039,bychanu,kuaibisha,verbs,0.0
+2040,gweddïo,kuwasiliana,verbs,0.55
+2041,ffwr,bunduki,nouns,0.05
+2042,berwi,kuchemsha,verbs,1.05
+2043,cadw,kusahau,verbs,0.05
+2044,eang,mkubwa,adjectives,3.4
+2045,holi,kuhitaji,verbs,0.05
+2046,gweinyddiaeth,menejimenti,nouns,2.8
+2047,cwch,gari,nouns,0.75
+2048,gwirio,kutetea,verbs,0.45
+2049,cadw,kupa,verbs,0.15
+2050,argraffu,kuchapisha,verbs,0.0
+2051,ofnus,wa wasiwasi,adjectives,4.05
+2052,yn unffurf,sawa,adverbs,0.0
+2053,gwyn,nyeupe,adjectives,0.0
+2054,undeb,umoja,nouns,0.8
+2055,trwyn,kinywa,nouns,0.5
+2056,pennod,chaguo,nouns,0.05
+2057,tric,bunduki,nouns,0.05
+2058,gwybod,kupa,verbs,0.0
+2059,anniben,chafu,adjectives,0.7
+2060,sesiwn,kikao,nouns,0.0
+2061,dewis,kuchagua,verbs,4.7
+2062,rhanbarth,eneo,nouns,4.75
+2063,troed,mguu,nouns,0.6
+2064,disgyn,teremka,verbs,0.75
+2065,afon,mkondo,nouns,3.8
+2066,byddin,jeshi la wanamaji,nouns,3.85
+2067,profi,kueleza,verbs,0.85
+2068,car,boti,nouns,0.75
+2069,trydanol,chenye umeme,adjectives,0.2
+2070,corn,ngoma,nouns,0.25
+2071,sâl,ana wazimu,adjectives,0.35
+2072,siwr,ana kujiamini,adjectives,4.0
+2073,cwch,mota,nouns,1.4
+2074,craig,mwamba,nouns,0.15
+2075,wagen,chombo,nouns,0.0
+2076,dermatitis,ugonjwa wa ngozi,nouns,3.2
+2077,haerllug,peketevu,adjectives,0.6
+2078,salad,siki,nouns,0.3
+2079,cyw iâr,steki,nouns,0.65
+2080,storm,theluji,nouns,0.65
+2081,lwcus,enye bahati,adjectives,0.0
+2082,heno,leo usiku,adverbs,0.2
+2083,erthygl,kitabu,nouns,1.0
+2084,llyfr,taarifa,nouns,0.75
+2085,trefnu,panga,verbs,1.5
+2086,enillydd,uwepo,nouns,0.05
+2087,offeiriad,mtawa,nouns,2.45
+2088,caethwas,falahi,nouns,2.65
+2089,profi,kugombana,verbs,0.0
+2090,ifanc,isiyotulia,adjectives,0.25
+2091,pont,gari,nouns,0.2
+2092,anelu,kulenga,verbs,1.1
+2093,canfod,kung'amua,verbs,0.4
+2094,annheg,jeuri,adjectives,2.1
+2095,trên,treni,nouns,2.45
+2096,llygoden,paka,nouns,0.45
+2097,capel,kanisa ,nouns,0.0
+2098,herwgipio,kuteka nyara,verbs,2.4
+2099,morwr,kapteni,nouns,1.7
+2100,hapus,mchanga,adjectives,0.25
+2101,amrwd,mbaya,adjectives,1.15
+2102,awyrgylch,uchafuzi,nouns,0.7
+2103,llac,pwaya,adjectives,0.9
+2104,cred,ua,nouns,0.05
+2105,syfrdanu,kushangaza,verbs,0.0
+2106,siwr,bila shaka,adjectives,5.25
+2107,tagu,kuua,verbs,0.85
+2108,gwrthod,kukataa,verbs,0.08
+2109,seryddwr,mtaalam wa nyota,nouns,0.15
+2110,gwerthu,kuuza,verbs,0.4
+2111,afal,juisi,nouns,0.95
+2112,dewis,sura,nouns,0.05
+2113,chwerthin,kucheka,verbs,4.05
+2114,gwenynen,sisimizi,nouns,0.75
+2115,dod â,kutuma,verbs,0.65
+2116,disg,kompyuta,nouns,0.65
+2117,dirmygu,kuchukia,verbs,0.3
+2118,olew,ngozi,nouns,0.0
+2119,gadael,enda,verbs,0.45
+2120,yn lleol,kienyeji,adverbs,0.0
+2121,go iawn,halisi,adjectives,0.15
+2122,gwallgof,mkubwa sana,adjectives,0.05
+2123,afon,bahari,nouns,1.8
+2124,peiriant,mashine,nouns,2.45
+2125,drws,korido,nouns,0.4
+2126,gwneuthurio,kujenga,verbs,4.25
+2127,pren,mbao,nouns,0.05
+2128,bachgen,mwanajeshi,nouns,0.3
+2129,taliad,ada,nouns,4.75
+2130,pen-blwydd,tarehe,nouns,1.3
+2131,peilot,dereva,nouns,2.7
+2132,curo,kupiga,verbs,1.45
+2133,tad,mama,nouns,1.05
+2134,ifanc,mwenye furaha,adjectives,0.25
+2135,crensian,kuteketa,verbs,0.85
+2136,tymor,msimu wa baridi,nouns,2.65
+2137,dewis,jela,nouns,0.1
+2138,golau,mwanga,nouns,0.0
+2139,dicter,hali,nouns,0.45
+2140,lori,gari la mzigo,nouns,0.35
+2141,yn llachar,kwa ukali,adverbs,0.03
+2142,ffêr,dirisha,nouns,0.0
+2143,band,pombe,nouns,0.05
+2144,eang,mwembamba,adjectives,0.1
+2145,deallusrwydd,mantiki,nouns,2.45
+2146,gwregys,kitanzi,nouns,0.75
+2147,bore,mchana,nouns,1.0
+2148,tywydd,theluji,nouns,0.85
+2149,raced,raketi,nouns,0.75
+2150,gwisg unffurf,sare,nouns,0.0
+2151,trin,tibu,verbs,0.0
+2152,ffôn,simu,nouns,2.17
+2153,car,kiwanda,nouns,0.1
+2154,casglu,kukutana,verbs,1.4
+2155,anaeddfed,kutokomaa,adjectives,0.05
+2156,lema,lemma,nouns,0.2
+2157,rhaniad,mgawanyiko,nouns,0.5
+2158,traeth,kisiwa,nouns,0.9
+2159,yn ddiweddar,hivi karibuni,adverbs,1.45
+2160,bwcler,ngao,nouns,0.75
+2161,yn anhygoel,kimaajabu,adverbs,4.1
+2162,sudd,maziwa,nouns,0.75
+2163,hysteria,ghasia,nouns,1.35
+2164,peiriannydd,mfanyakazi,nouns,1.85
+2165,drws,sakafu,nouns,0.1
+2166,maint,mbinu,nouns,0.0
+2167,ffrog,gauni,nouns,0.15
+2168,gweithred,mchezo,nouns,0.5
+2169,diflannu,kupotea,verbs,5.4
+2170,crosio,krocheti,nouns,0.0
+2171,brwnt,rahisi,adjectives,0.05
+2172,mygu,kuwa nyororo,verbs,0.1
+2173,nawr,sasahivi,adverbs,1.8
+2174,coes,kiungo,nouns,0.75
+2175,tŷ,ufunguo,nouns,0.55
+2176,tasg,kazi,nouns,4.25
+2177,rhaglen,mradi,nouns,0.05
+2178,derbyn,kusamehe,verbs,0.75
+2179,anghwrtais,jeuri,adjectives,0.95
+2180,awst,mwezi,nouns,2.65
+2181,tynnu,kuvuta,verbs,0.55
+2182,gwerthuso,kujifunza,verbs,0.7
+2183,dadlau,kutetea,verbs,0.55
+2184,mynd i mewn,kuondoka,verbs,0.15
+2185,carbohydrad,wanga,nouns,1.25
+2186,dadlau,kushawishi,verbs,0.95
+2187,annibynadwy,asiyeaminika,adjectives,1.25
+2188,gwifren,kamba,nouns,1.05
+2189,organ,figo,nouns,2.5
+2190,artist,msanii,nouns,1.05
+2191,teithlyfr,kitabu cha mwongozi,nouns,1.5
+2192,gwaed,nyama,nouns,1.15
+2193,ufuddhau,kusikiliza,verbs,1.8
+2194,cyfreithlon,halali,adjectives,0.15
+2195,drws,undugu,nouns,0.0
+2196,mynd o'r golwg,kutoweka,verbs,5.4
+2197,drachtio,kunywa,verbs,2.55
+2198,pryd bwyd,karamu,nouns,3.3
+2199,sgert,sketi,nouns,0.0
+2200,yn heddychlon,kwa amani,adverbs,0.05
+2201,dyn,mume,nouns,4.4
+2202,yn hael,kwa ukarimu,adverbs,0.0
+2203,tynnu,toa ,verbs,0.1
+2204,llywydd,mwanachuo,nouns,0.1
+2205,angerdd,hisia,nouns,3.4
+2206,cwrtais,sahihi,adjectives,0.6
+2207,ymdrechu,kujitahidi,verbs,0.15
+2208,corff,uti,nouns,0.5
+2209,dysgu,kusahau,verbs,0.3
+2210,barnwr,hakimu mkuu,nouns,4.75
+2211,brifo,uma,verbs,0.0
+2212,mynychu,kuja,verbs,3.0
+2213,tudalen,neno,nouns,0.45
+2214,mintys,minti,nouns,0.0
+2215,yn anarferol,sio kawaida,adverbs,4.25
+2216,ymofyn,kutazamia,verbs,0.85
+2217,beiddgar,wa kujivunia,adjectives,0.75
+2218,rhwystredigaeth,hasira,nouns,0.9
+2219,cyntedd,ukumbi,nouns,0.65
+2220,rhythm,mahadhi,nouns,1.0
+2221,brenin,mfalme,nouns,0.15
+2222,presenoldeb,mlango,nouns,0.0
+2223,anodd,rahisi,adjectives,0.0
+2224,cyfathrebu,lugha,nouns,2.15
+2225,safbwynt,mtazamo,nouns,0.05
+2226,ochr,juu,nouns,0.45
+2227,rhagflaenydd,antecedent,nouns,1.0
+2228,mathemategydd,mwanamahesabu,nouns,0.0
+2229,cyrraedd,kuondoka,verbs,0.1
+2230,traethawd,kitabu,nouns,0.6
+2231,bricsen,ukuta,nouns,1.5
+2232,car,honi,nouns,0.5
+2233,stopio,kuacha,verbs,0.27
+2234,yn gyfrinachgar,kwa usiri,adverbs,0.0
+2235,cyfeillgar,mkarimu,adjectives,1.95
+2236,drws,jiko,nouns,0.15
+2237,bwrw,kukupiga ngumi,verbs,0.7
+2238,arogli,kunusa,verbs,0.0
+2239,llen,nguzo,nouns,0.05
+2240,blanced,blanketi,nouns,0.0
+2241,llygad,chozi,nouns,1.15
+2242,coflaid,kukumbatia,verbs,0.1
+2243,pumed,wa tano,adjectives,0.0
+2244,anghefnogi,katisha tamaa,verbs,1.8
+2245,ceiniog,peni,nouns,0.45
+2246,derbyn,kuchukua,verbs,2.95
+2247,deigryn,jicho,nouns,1.15
+2248,fformiwla,kuzidisha,nouns,0.4
+2249,iselder,huzuni,nouns,0.3
+2250,machlud haul,machweo,nouns,0.0
+2251,mwgwd,maski,nouns,0.2
+2252,miliwnydd,milionea,nouns,1.1
+2253,difeddiannu,kukataliwa,verbs,0.95
+2254,realiti,ndoto,nouns,0.35
+2255,byth,kamwe,adjectives,0.15
+2256,hawdd,ngumu,adjectives,0.2
+2257,cynffon,jabali,nouns,0.0
+2258,llunio,kutengeneza,verbs,4.25
+2259,brithyll,samaki,nouns,0.0
+2260,anhrefn,vurugu,nouns,0.05
+2261,brenhiniaeth,ufalme,nouns,0.65
+2262,diflas,kulivu,adjectives,0.0
+2263,casglu,kuokoa,verbs,1.2
+2264,dyn,msichana,nouns,0.5
+2265,balch,kiburi,adjectives,0.6
+2266,cegin,bafu,nouns,0.55
+2267,tramorwr,mgeni,nouns,0.15
+2268,llawysgrif,muswada,nouns,1.6
+2269,buwch,mbuzi,nouns,0.85
+2270,gwadu,kukubali,verbs,0.15
+2271,byddin,kundi,nouns,2.85
+2272,llyfr,dhima,nouns,0.1
+2273,angenrheidiol,sio wa lazima,adjectives,0.05
+2274,offeryn,kitendea kazi,nouns,0.7
+2275,undeb,shirikisho,nouns,2.15
+2276,dwyn,kuiba,verbs,2.4
+2277,cath,panya,nouns,0.45
+2278,pothell,malengelenge,nouns,0.0
+2279,awyrgylch,hali ya anga,nouns,2.25
+2280,hurt,mjinga,adjectives,4.85
+2281,degawd,karne,nouns,0.4
+2282,lluosi,kujumlisha,verbs,1.25
+2283,homoffon,nyumba ya nyumbani,nouns,0.15
+2284,môr,ufuko,nouns,2.2
+2285,pastai,chokoleti,nouns,0.6
+2286,byddin,kikosi,nouns,3.5
+2287,athro,mwalimu,nouns,0.9
+2288,theori,kanuni,nouns,2.75
+2289,llyfr,insha,nouns,0.6
+2290,tymestl,upepo mkali,nouns,0.0
+2291,caniatáu,kupa,verbs,0.95
+2292,creadigol,mbunifu,adjectives,3.1
+2293,anodd,bila jasho,adjectives,0.1
+2294,egluro,kuthibitisha,verbs,0.85
+2295,tafarn,hosteli,nouns,1.8
+2296,gwraidd,nyasi,nouns,0.4
+2297,corn,gari,nouns,0.5
+2298,dod yn,kupanga,verbs,0.1
+2299,pla,wadudu,nouns,0.85
+2300,sgriptiwr,mwandishi wa filamu,nouns,0.3
+2301,canu,kuimba,verbs,0.2
+2302,sgrîn,skrini,nouns,0.3
+2303,difrifol,makini,adjectives,0.0
+2304,ffilm,sinema,nouns,4.35
+2305,cig,ugali,nouns,0.4
+2306,dynwared,kuiga,verbs,0.0
+2307,ecsema,uwasho,nouns,3.2
+2308,campws,eneo,nouns,0.65
+2309,to,dari,nouns,4.35
+2310,yn wir,kweli,adverbs,0.85
+2311,awdur,muumbaji,nouns,2.75
+2312,edrych,kuangalia,verbs,3.2
+2313,hapus,ana hasira,adjectives,0.1
+2314,awyren,uwanja wa ndege,nouns,1.8
+2315,gwrthod,kukataa,verbs,0.27
+2316,fideo,filamu,nouns,4.35
+2317,rhoi,kupokea,verbs,0.35
+2318,ysgafn,vuguvugu,adjectives,0.2
+2319,malware,programu hatarishi,nouns,0.05
+2320,cwrw,kinywaji,nouns,3.05
+2321,dieithr,wa kigeni,adjectives,3.65
+2322,balŵn,watu,nouns,0.0
+2323,yn aeddfed,kiukomavu,adverbs,0.3
+2324,mintys poethion,mti wa minti,nouns,0.2
+2325,neidr,nyoka,nouns,0.85
+2326,cysuro,kufaraja,verbs,0.0
+2327,cymysg,changanywa,adjectives,2.8
+2328,bawd,ukucha,nouns,1.15
+2329,prawf,ukweli,nouns,1.2
+2330,haf,msimu wa baridi,nouns,0.55
+2331,hawdd,pole,adjectives,0.6
+2332,carchar,chaguo,nouns,0.1
+2333,lens,kamera,nouns,2.0
+2334,gwaith cartref,kazi ya ziada,nouns,1.05
+2335,ynys,ufuko,nouns,0.9
+2336,geneth,mtoto,nouns,0.95
+2337,bagiau,mzigo,nouns,0.0
+2338,bardd,mshairi,nouns,0.4
+2339,arian,mshahara,nouns,2.95
+2340,diweddeb,uharamia,nouns,0.05
+2341,chwim,wa haraka,adjectives,5.1
+2342,cydnabod,kukubali,verbs,2.1
+2343,sensoriaeth,udhibiti,nouns,0.2
+2344,plaladdwr,dawa ya wadudu,nouns,0.85
+2345,gorllewin,kaskazini,nouns,0.7
+2346,deallusrwydd,hekima,nouns,3.6
+2347,deall,kusikiliza,verbs,0.85
+2348,car,mpira wa maji,nouns,0.0
+2349,cyfoeth,umaarufu,nouns,0.45
+2350,gwrando,kujifunza,verbs,0.4
+2351,maes llafur,mtaala,nouns,0.35
+2352,gweithred,mwendo,nouns,0.2
+2353,môr,mto,nouns,1.8
+2354,ymennydd,bongo,nouns,4.6
+2355,ystafell,mahabusu,nouns,1.3
+2356,soffa,kitanda,nouns,1.05
+2357,meithrinfa,elimu ya awali,nouns,4.9
+2358,pibell,gari,nouns,0.0
+2359,harbwr,bandari,nouns,0.0
+2360,ysgwyd,kutikisa,verbs,1.07
+2361,anhygoel,maradufu,adjectives,0.05
+2362,dysgu,kufundisha,verbs,0.25
+2363,thema,kitabu,nouns,0.1
+2364,tagu,kupumua,verbs,0.6
+2365,cwpwrdd,nguo,nouns,0.55
+2366,medi,kuvuna,verbs,0.6
+2367,bywgraffiad,habari za kubuniwa,nouns,0.45
+2368,nerf,matumbo,nouns,0.3
+2369,anwybodus,kutobadilishwa,adjectives,0.05
+2370,mis,agosti,nouns,2.65
+2371,aneglur,haijulikani,adjectives,4.65
+2372,afal,sosi,nouns,0.25
+2373,ysgrifennydd,mwanamke,nouns,0.45
+2374,meddyg,profesa,nouns,0.8
+2375,hylif,majimaji,nouns,0.0
+2376,haematoleg,hematolojia,nouns,2.3
+2377,cyfreithiwr,mwanasheria,nouns,0.0
+2378,menyw,mwanamke,nouns,0.05
+2379,gwerthu,kwenda,verbs,0.0
+2380,mosäig,mosaic,nouns,0.4
+2381,bàth,gogo,nouns,0.0
+2382,talu,kulipa,verbs,1.3
+2383,cludo,kuvuta,verbs,0.9
+2384,diwydiant,biashara,nouns,1.8
+2385,llawdriniaeth,moyo,nouns,0.4
+2386,ffoi,kukimbia,verbs,4.65
+2387,anghenus,uhitaji,adjectives,1.25
+2388,sblash,chubwi,nouns,0.0
+2389,yn fawr,sana,adverbs,1.25
+2390,pêl,mavazi,nouns,0.1
+2391,pennaeth,meya,nouns,1.55
+2392,siriol,mwenye furaha,adjectives,5.0
+2393,eang,mbivu,adjectives,0.05
+2394,carfan,jeshi,nouns,2.85
+2395,tasg,kazi,nouns,3.15
+2396,gwefrydd,chaja,nouns,0.0
+2397,anwybodaeth,akili,nouns,0.25
+2398,gwybod,kuamini,verbs,1.35
+2399,newynog,kua na njaa,adjectives,0.1
+2400,bioleg gymdeithasol,jamii,nouns,0.1
+2401,reidio,kuendesha,verbs,0.05
+2402,yn gadarn,kwa kidete,adverbs,0.2
+2403,darganfod,kupotea,verbs,0.15
+2404,realiti,njozi,nouns,0.15
+2405,rhad,mchafu,adjectives,0.05
+2406,actor,mwigaji,nouns,0.35
+2407,dweud,kushiriki,verbs,0.05
+2408,ffres,mpana,adjectives,0.05
+2409,uchel,yenye sauti,adjectives,0.1
+2410,yn anhygoel,kwa umaradufu,adverbs,0.55
+2411,piston,pistoni,nouns,2.0
+2412,pryd bwyd,chakula cha usiku,nouns,3.55
+2413,cyfiawnder,haki,nouns,0.85
+2414,pledio,kuomba,verbs,4.45
+2415,darllen,kusoma,verbs,0.0
+2416,athronydd,mphilisophia,nouns,0.0
+2417,glofa,machimbo,nouns,0.15
+2418,mynach,padri,nouns,2.45
+2419,emyn,ushindi,nouns,0.05
+2420,gair,gazeti,nouns,0.4
+2421,darlun,katuni,nouns,0.0
+2422,da,juu,adjectives,0.0
+2423,aseiniad,jukumu,nouns,4.25
+2424,trafod syniadau,changamsha bongo,nouns,0.0
+2425,mecanyddol,a kifundi,adjectives,0.2
+2426,gofyn,kuomba,verbs,2.55
+2427,alcohol,brandi,nouns,2.65
+2428,maddau,kuelewa,verbs,0.45
+2429,ffordd,namna,nouns,4.25
+2430,ceisio,kutimiza,verbs,0.7
+2431,cynhwysor,capacitor,nouns,0.9
+2432,angau,balaa,nouns,1.5
+2433,diafol,mungu,nouns,0.4
+2434,yn derfynol,mwisho,adverbs,0.5
+2435,ffidil,chombo,nouns,2.1
+2436,hedyn,viungo,nouns,0.2
+2437,myfyriwr,profesa,nouns,0.75
+2438,anarchiaeth,vurugu,nouns,4.45
+2439,pydru,kuoza,verbs,1.55
+2440,cytuno,kugombana,verbs,0.2
+2441,bedd,kaburi,nouns,1.25
+2442,gwahaniaethu,kukubali,verbs,0.05
+2443,person,mtu,nouns,2.85
+2444,cul,mpana,adjectives,0.1
+2445,braich,mshipa,nouns,0.45
+2446,yn realistig,kwelikweli,adverbs,0.0
+2447,danfon,kuleta,verbs,0.65
+2448,tafod,koo,nouns,0.8
+2449,ychydig,mara kwa mara,adverbs,0.25
+2450,myffin,muffini,nouns,0.05
+2451,carped,nyumba,nouns,0.25
+2452,tynnu'n ôl,kufyonza,verbs,1.2
+2453,cwrs,tendo,nouns,0.2
+2454,gadael,kujitokeza,verbs,0.45
+2455,artiffisial,sio asili,adjectives,5.3
+2456,da,salama,adjectives,0.0
+2457,dadelfennu,utengano,nouns,0.7
+2458,penderfynu,kuonyesha,verbs,0.05
+2459,galaeth,giligili,nouns,0.15
+2460,cwtsh,kukumbatia,verbs,4.45
+2461,ffenestr,mlango,nouns,0.95
+2462,proffesiwn,chuo,nouns,0.5
+2463,calendr,tarehe,nouns,2.85
+2464,bachgen,mtoto wa kiume,nouns,4.4
+2465,pwysig,lazima,adjectives,3.0
+2466,garw,baridi,adjectives,0.35
+2467,pechadur,mtakatifu,nouns,0.4
+2468,pryf sidan,mnyoo wa nyuzi,nouns,1.4
+2469,mam,mlezi,nouns,2.8
+2470,priffordd,gari,nouns,0.65
+2471,anonest,si mwaminifu,adjectives,0.1
+2472,pren,gogo,nouns,3.75
+2473,brwydro,pigana,verbs,0.2
+2474,dyweddïad,mkutano,nouns,0.3
+2475,hyderus,ana hakika,adjectives,4.0
+2476,gwirod,bendi,nouns,0.05
+2477,rhoi,kuweka,verbs,0.15
+2478,nenfwd,sakafu,nouns,0.15
+2479,sudd,juisi,nouns,0.05
+2480,wisgi,jini,nouns,2.35
+2481,llyfr,fasihi,nouns,2.2
+2482,gymnasteg,mazoezi,nouns,0.2
+2483,anghofio,kupuuza,verbs,1.4
+2484,nant,mto,nouns,3.8
+2485,tebyg,sawasawa,adjectives,4.6
+2486,agoriad,kufungua,nouns,2.0
+2487,cwrs,tumbo,nouns,0.05
+2488,barnu,kuhukumu,verbs,2.4
+2489,losin,peremende,nouns,0.55
+2490,yn gyfrinachol,kwa siri,adverbs,0.2
+2491,penderfynu,kuhitimisha,verbs,0.65
+2492,ton,wimbi,nouns,0.4
+2493,glaswellt,mzizi,nouns,0.4
+2494,wythnos,wikendi,nouns,1.65
+2495,osgoi,kujiweka mbali,verbs,1.75
+2496,brwnt,chafu,adjectives,0.0
+2497,ffatri,gari,nouns,0.1
+2498,rhoi,kutoa,verbs,0.55
+2499,dyn,mtu mzuri,nouns,0.3
+2500,yn gadarnhaol,vyema,adverbs,0.45
+2501,miniog,kali,adjectives,0.05
+2502,eil,njia,nouns,0.1
+2503,blwch,sanduku,nouns,0.0
+2504,swcros,sukrosi,nouns,1.25
+2505,trist,wa kuchekesha,adjectives,0.05
+2506,perygl,ugonjwa,nouns,0.45
+2507,arian,almasi,nouns,0.75
+2508,anghrybwylladwy,haionekani,adjectives,0.0
+2509,allwedd,funguo,nouns,1.15
+2510,cyflwr,hali,nouns,1.9
+2511,car,gari,nouns,3.08
+2512,llo,fahali,nouns,2.0
+2513,arferol,tofauti,adjectives,0.4
+2514,gwadu,kukiri,nouns,0.25
+2515,priodfab,bibi arusi,nouns,1.15
+2516,ffens,reli,nouns,0.05
+2517,dod,kuleta,verbs,1.3
+2518,mwd,uchafu,nouns,4.4
+2519,niwroseicoleg,saikolojia ya akili,nouns,2.75
+2520,danfon,kupokea,verbs,0.2
+2521,ffonoleg,fonolojia,nouns,0.15
+2522,bwydlen,agizo,nouns,0.6
+2523,euog,mbaya,adjectives,1.5
+2524,hwyliau,hisia,nouns,1.9
+2525,gwely,kochi,nouns,1.05
+2526,hyll,mbaya,adjectives,1.2
+2527,ysgwydd,mwili,nouns,0.7
+2528,enillydd,mgombea wa uchaguzi,nouns,0.95
+2529,gwehyddu,kufuma,verbs,0.05
+2530,oer,baridi,adjectives,0.0
+2531,dianc,kutoroka,verbs,4.65
+2532,cnoi,uma,verbs,0.0
+2533,wedi eu cyfuno,iliyojumuishwa,adjectives,2.8
+2534,medal,medali,nouns,0.45
+2535,rasio,mbio,nouns,0.0
+2536,llwch,vumbi,nouns,0.3
+2537,yn gywir,kwa usahihi,adverbs,0.6
+2538,credu,kujua,verbs,1.35
+2539,ergydio,kuchapa,verbs,0.05
+2540,degawd,enzi,nouns,0.9
+2541,rhoi,kukana,verbs,0.05
+2542,jîns,jinzi,nouns,0.05
+2543,yn fawr,zaidi,adverbs,0.05
+2544,dod yn,kufanikisha,verbs,0.7
+2545,wal,tofali,nouns,1.5
+2546,bioleg,biolojia,nouns,0.55
+2547,dymuno,kua na hamu,verbs,4.35
+2548,anarferol,si wa kawaida,adjectives,3.5
+2549,yn ddigynnwrf,kiutulivu,adverbs,0.3
+2550,tudalen,aya,nouns,0.35
+2551,gwern,ziwa,nouns,2.05
+2552,gwesty,fleti,nouns,0.4
+2553,yn dawel,kwa upole,adverbs,0.0
+2554,cael,kuchukua,verbs,1.1
+2555,archwilio,kukagua,verbs,3.5
+2556,twyn,dune,nouns,1.5
+2557,crefydd,dini,nouns,1.45
+2558,banc,benki,nouns,0.05
+2559,glo,makaa,nouns,3.4
+2560,heb fod yn ddrud,rahisi,adjectives,4.85
+2561,cyhyrau,mfupa,nouns,0.45
+2562,plentyn,msichana,nouns,0.95
+2563,llygredd,angahewa,nouns,0.7
+2564,dimai,watu,nouns,0.0
+2565,pryderus,ogopa,adjectives,4.05
+2566,carreg,jiwe,nouns,0.05
+2567,gwan,dhaifu,adjectives,0.0
+2568,caseg,farasi,nouns,4.3
+2569,yn hawdd,kiurahisi,adverbs,0.1
+2570,morgrugyn,chungu,nouns,0.2
+2571,blin,mwenye furaha,adjectives,0.2
+2572,bowliwr,bowler,nouns,1.9
+2573,protein,protini,nouns,0.15
+2574,derwen,mpera,nouns,1.35
+2575,rhesymoli,kugombana,verbs,0.35
+2576,anialwch,jangwa,nouns,1.5
+2577,gwellt,jukumu,nouns,0.0
+2578,brandi,kileo,nouns,2.65
+2579,iro,kupaka,verbs,0.4
+2580,dweud,kuhakikisha,verbs,0.2
+2581,yn rhyfedd,kiajabu,adverbs,1.3
+2582,cyfnos,jioni,nouns,4.35
+2583,pwnc,kitabu,nouns,0.5
+2584,dugiaeth,dukedom,nouns,2.05
+2585,yn anarferol,sikawaida,adverbs,0.15
+2586,gwraig,tundu,nouns,0.0
+2587,yn enfawr,kwa ukubwa,adverbs,0.4
+2588,gwaethygu,kukuza,verbs,0.35
+2589,llygredd,rais,nouns,0.1
+2590,brawd,baba,nouns,0.65
+2591,credu,kukubali,verbs,1.8
+2592,cytundeb,tundu,nouns,0.0
+2593,bwriadu,kuania,verbs,1.1
+2594,aseiniad,mgawo,nouns,0.4
+2595,firws,kirusi,nouns,0.55
+2596,ceffyl,mbwa,nouns,0.65
+2597,benthyg,kutaka,verbs,0.4
+2598,ciwb,mchemraba,nouns,0.05
+2599,claf,mgonjwa,nouns,0.0
+2600,peiriant,injini,nouns,3.75
+2601,ymgyrch,kampeni,nouns,0.0
+2602,tenau,nyembamba,adjectives,4.25
+2603,myfyrio,kuwaza,verbs,4.85
+2604,colli,kupoteza,verbs,0.1
+2605,styden,mvulana,nouns,0.3
+2606,yn arw,kwa kukadiria,adverbs,0.15
+2607,camera,kamera,nouns,0.0
+2608,rhyfelwr,mwanaume,nouns,0.6
+2609,fitamin,chuma,nouns,0.4
+2610,creu,kuwa,verbs,0.1
+2611,gwaed,damu,nouns,0.65
+2612,deiet,saladi,nouns,0.65
+2613,cyfreithiwr,mfanyakazi wa benki,nouns,0.65
+2614,aur,dhahabu,nouns,0.7
+2615,sigâr,bomba,nouns,0.4
+2616,cymdeithas,jamii,nouns,1.3
+2617,hyblyg,flexibo,adjectives,1.15
+2618,ymuno,kuambatisha,verbs,1.0
+2619,mae'n debygol,uwezekano,adverbs,2.25
+2620,sgrîn,kiwambo,nouns,0.15
+2621,bachgen,kaka,nouns,2.15
+2622,trefnu,kuwa,verbs,0.1
+2623,ffynnu,kujaribu,verbs,0.7
+2624,llygoden,menejimenti,nouns,0.0
+2625,corff,mkono,nouns,1.4
+2626,benthyg,kuuza,verbs,0.15
+2627,dadl,mapatano,nouns,0.1
+2628,gwrthod,kukubali,verbs,0.1
+2629,cân,tuni,nouns,3.5
+2630,pen-glin,mkono,nouns,0.55
+2631,actores,mchezaji,nouns,4.0
+2632,carbon,atomu,nouns,0.75
+2633,yn sicr,uhakika,adjectives,0.0
+2634,anghofio,kusamehe,verbs,0.9
+2635,dug,mjuzi,nouns,0.05
+2636,etholi,kuteua,verbs,0.0
+2637,cywilydd,mwenye kiasi,adjectives,0.0
+2638,delwedd,kioo,nouns,1.0
+2639,yn ddelfrydol,walau,adverbs,0.8
+2640,cynorthwy-ydd,mfanyakazi wa nyumbani,nouns,2.65
+2641,milwr,mwanajeshi,nouns,0.2
+2642,creu,kuwazia,verbs,0.4
+2643,lamp,taa,nouns,0.0
+2644,swydd,jukumu,nouns,3.15
+2645,dwywaith,mara mbili,adverbs,0.45
+2646,tad,mtoto wa kiume,nouns,0.7
+2647,tristwch,huzuni,nouns,0.3
+2648,cydymaith,mpenzi,nouns,3.95
+2649,ffenestr,kifundo cha mguu,nouns,0.0
+2650,treisgar,dhalimu,adjectives,0.35
+2651,plasty,nyumba,nouns,0.15
+2652,diflas,mkali,adjectives,0.15
+2653,miniog,ncha kali,adjectives,0.15
+2654,efelychiad,onyesho,nouns,0.15
+2655,newydd,wa kale,adjectives,0.1
+2656,barnwr,hakimu,nouns,1.5
+2657,balchder,mjasiri,adjectives,0.75
+2658,dyddiad,siku ya kuzaliwa,nouns,1.3
+2659,methu,kukanya,verbs,0.2
+2660,grawnfwyd,ngano,nouns,2.15
+2661,gliniadur,kipakatio,nouns,0.35
+2662,dyn,mshindi,nouns,0.1
+2663,barn,chaguo,nouns,1.35
+2664,harmoni,umoja,nouns,0.5
+2665,amddiffyn,kuliinda,verbs,1.0
+2666,yn wahanol,tofauti,adverbs,1.3
+2667,plismon,polisi,nouns,0.1
+2668,handlen,mpini,nouns,0.15
+2669,danfon,kutuma,verbs,0.5
+2670,dianc,kuhepa,verbs,0.05
+2671,blaen,kidole cha mkono,nouns,0.8
+2672,yn annheg,si kwa haki,adverbs,0.1
+2673,arfordir,pwani,nouns,0.15
+2674,rhyfedd,wa kigeni,adjectives,3.6
+2675,cynhwysydd,panya,nouns,0.0
+2676,gwerthu,kukumbusha,verbs,0.0
+2677,pobl,puto,nouns,0.0
+2678,newydd,mpya,adjectives,4.6
+2679,gludedd,mnato,nouns,0.0
+2680,sugnwr gwaed,vampire,nouns,0.95
+2681,nos,alfajiri,nouns,0.2
+2682,llwyddo,kujaribu,verbs,0.9
+2683,bowlio,bowling,nouns,1.9
+2684,awyren,ndege,nouns,0.0
+2685,mawr,mpana,adjectives,3.4
+2686,perllan,kiunga,nouns,0.0
+2687,cymryd rhan,kusema,verbs,0.05
+2688,diemwnt,hela,nouns,0.75
+2689,trosedd,udanganyifu,nouns,2.85
+2690,yn naturiol,kiasili,adverbs,0.1
+2691,athro,rafiki,nouns,0.5
+2692,ffuglen,wasifu,nouns,0.45
+2693,tynnu,kuchora,verbs,0.05
+2694,ffrio,kaanga,verbs,1.05
+2695,arbediad,kuokoa,nouns,3.05
+2696,yn gyfiawn,kwa ,adverbs,0.3
+2697,dur,feleji,nouns,1.45
+2698,yn oddefol,kwa kutegemewa,adverbs,0.1
+2699,anghenus,mhitaji,adjectives,0.4
+2700,gwydn,rahisi,adjectives,0.05
+2701,swm,jumla,nouns,0.8
+2702,deffro,kuamka,verbs,0.1
+2703,gwm,fizi,nouns,0.2
+2704,papur wal,karatasi ya kupamba ukuta,nouns,1.35
+2705,yn greadigol,kiubunifu,adverbs,1.35
+2706,rhoi,kujua,verbs,0.0
+2707,llaw,ukucha,nouns,0.7
+2708,cywilydd,kua na aibu,adjectives,0.0
+2709,rheolaeth,kazi,nouns,0.5
+2710,llyfn,nyororo,adjectives,0.15
+2711,mab,baba,nouns,0.7
+2712,collfarnu,laani,verbs,0.6
+2713,amsugno,kutoa,verbs,1.2
+2714,trwyn,koo,nouns,0.5
+2715,sychu,kupanguza,verbs,0.3
+2716,llywydd,uchafuzi,nouns,0.1
+2717,diflas,zorota,adjectives,0.05
+2718,cawl,chakula cha usiku,nouns,0.85
+2719,ymerawdwr,mtawala,nouns,1.8
+2720,caffael,kujiunga,verbs,0.15
+2721,annog,kukanya,verbs,0.1
+2722,newydd,ya zamani,adjectives,0.05
+2723,botwm,nguo,nouns,0.4
+2724,iris,boriti,nouns,0.05
+2725,sarhau,kutukana,verbs,2.95
+2726,cig eidion,nyama ya ng'ombe,nouns,3.0
+2727,chwydu,kutapika,verbs,0.0
+2728,haearn,vitamini,nouns,0.4
+2729,hurt,hodari,adjectives,0.1
+2730,dysgu,kufyonza,verbs,0.35
+2731,cofleidio,kukumbatia,verbs,2.4
+2732,blwch  ,kofia,nouns,0.05
+2733,egluro,kufafanua,verbs,4.3
+2734,lleoli,kutafuta,verbs,0.9
+2735,clymu,kuvunga,verbs,0.7
+2736,dewis,kutaka,verbs,0.95
+2737,sgïo,skiing,nouns,2.05
+2738,teclyn,chungu,nouns,0.3
+2739,ffotoffon,picha,nouns,0.15
+2740,arnofio,kuelea,verbs,0.0
+2741,afu,pafu,nouns,0.65
+2742,brawd,roho ,nouns,0.05
+2743,pili-pala,kipepeo,nouns,0.25
+2744,ceg,jino,nouns,1.1
+2745,ymosodol,kua na hasira,adjectives,0.05
+2746,gweinidogaeth,huduma,nouns,0.15
+2747,banciwr,mwanasheria,nouns,0.65
+2748,gwythïen,chombo,nouns,0.05
+2749,troed,kichwa,nouns,0.35
+2750,argymell,kushauri,verbs,3.95
+2751,troi drosodd,kuhuzunika,verbs,0.0
+2752,dôl,nyasi,nouns,2.3
+2753,anrheg,zawadi,nouns,0.0
+2754,pen,kalamu,nouns,0.0
+2755,corff,kifua,nouns,1.45
+2756,bod mewn dyled,kukopesha,verbs,1.2
+2757,holi,ulizia,verbs,1.45
+2758,angen,kuandaa,verbs,0.1
+2759,maer,mkuu,nouns,1.55
+2760,difetha,kuharibu,verbs,0.0
+2761,canlyn,kushawishi,verbs,0.5
+2762,cyflym,wa kasi,adjectives,5.1
+2763,rheoli,kudhibiti,verbs,0.6
+2764,uno,kuunganisha,verbs,0.2
+2765,anghofio,kudumisha,verbs,0.05
+2766,tram,tramu,nouns,2.45
+2767,marw,kufariki,verbs,1.5
+2768,penelin,kifundo cha mguu,nouns,0.7
+2769,parêd,umati,nouns,1.1
+2770,codi,kulea,verbs,0.0
+2771,band,subira,nouns,0.0
+2772,basged,mpira,nouns,0.2
+2773,ffidil,fidia,nouns,0.5
+2774,onest,ana hatia,adjectives,0.15
+2775,modur,injini,nouns,4.35
+2776,tanc,tenki,nouns,0.75
+2777,galaeth,giligili,nouns,0.0
+2778,morwyn,msaidizi,nouns,2.65
+2779,modryb,mpwa,nouns,0.55
+2780,euog,mkweli,adjectives,0.15
+2781,crwt,mtoto wa kike,nouns,1.4
+2782,mam,baba,nouns,1.05
+2783,ffilm,filamu,nouns,0.0
+2784,sigâr,sanduku ,nouns,0.0
+2785,hyblyg,mkubwa sana,adjectives,0.25
+2786,methu,kukosa,verbs,0.05
+2787,yr un peth,sawa,adjectives,4.6
+2788,meddal,laini,adjectives,0.0
+2789,prynu,kupata,verbs,0.55
+2790,ystafell wely,baisikeli,nouns,0.0
+2791,derbyn,kutuma,verbs,0.2
+2792,afu,kiungo,nouns,1.95
+2793,osgoi,kukataa,verbs,1.3
+2794,system,mfumo,nouns,0.0
+2795,esgus,jifanya,verbs,1.8
+2796,atgoffa,kusahau,verbs,0.1
+2797,cerbyd,basi,nouns,3.65
+2798,drud,ghali,adjectives,0.0
+2799,disgybl,rais,nouns,0.1
+2800,sioe,onyesha,nouns,0.0
+2801,colli,poteza,verbs,0.0
+2802,dyrchafu,kukuinua,verbs,3.9
+2803,jet,ndege,nouns,4.95
+2804,gallu,ustadi,nouns,4.1
+2805,busnes,viwanda,nouns,1.8
+2806,deall,kusoma,verbs,0.8
+2807,yn oddefol,pasipo tu,adverbs,0.3
+2808,ceisio,kujaribu,verbs,0.0
+2809,ffrind,mvulana,nouns,0.55
+2810,caban,nyumba ndogo,nouns,3.55
+2811,cansen siwgr,muwa,nouns,0.0
+2812,gadael,kuchukua,verbs,0.05
+2813,ar hyn o bryd,kwa sasa,adverbs,0.0
+2814,cân,wimbo,nouns,0.7
+2815,coffi,maharagwe,nouns,0.6
+2816,sefyll,kusimama,verbs,0.5
+2817,atwrnai,mwanasheria,nouns,4.6
+2818,wedi tyfu,umekua,adjectives,0.05
+2819,harddwch,uzuri,nouns,0.15
+2820,canol,tumbo,nouns,0.95
+2821,pellter,umbali,nouns,0.05
+2822,priffordd,jukumu,nouns,0.1
+2823,pen,mguu,nouns,0.35
+2824,taro,piga,verbs,1.1
+2825,mynd  ,kuanza,verbs,0.25
+2826,blodyn,subira,nouns,0.1
+2827,eisiau,kuchagua,verbs,0.95
+2828,yn annhebygol,sio rahisi,adverbs,0.0
+2829,ymddangos,kuwa,verbs,1.25
+2830,cymryd yn ganiataol,kutabiri,verbs,1.5
+2831,yn fras,kwa kukadiria,adverbs,0.2
+2832,unwaith,mara moja,adverbs,0.3
+2833,mynd i mewn,kudaiwa,verbs,0.1
+2834,perfedd,neva,nouns,0.3
+2835,tywod,mchanga,nouns,0.05
+2836,niwrosis,ugonjwa wa neurosis,nouns,1.1
+2837,chwibanu,mluzi,verbs,0.05
+2838,nyddu,kufuma,verbs,0.7
+2839,deallusrwydd,ustadi,nouns,2.1
+2840,log,kuni,nouns,3.75
+2841,cael,kujipatia,verbs,3.2
+2842,plesio,kusihi,verbs,0.2
+2843,lemwn,chai,nouns,0.45
+2844,motel,hoteli,nouns,1.8
+2845,dod yn,kutengeneza,verbs,0.1
+2846,iard,inchi,nouns,1.35
+2847,amsugno,kumiliki,verbs,0.2
+2848,portreadu,kuamua,verbs,0.05
+2849,ymddwyn,kutii,verbs,1.7
+2850,cliw,neno,nouns,0.4
+2851,gogledd,kusini,nouns,0.45
+2852,unigryw,ya pekee,adjectives,0.25
+2853,dimai,mke,nouns,0.05
+2854,darllenydd,mtunzi,nouns,0.3
+2855,gwisgo,kuvaa,verbs,0.05
+2856,yn bennaf,hasa,adverbs,2.4
+2857,paraseicoleg,parasaikolojia,nouns,2.75
+2858,llygoden fawr,panya,nouns,3.55
+2859,aros,kudumisha,verbs,0.1
+2860,ennill,kustahili,verbs,0.4
+2861,dadlau,kulalamika,verbs,1.05
+2862,capel,mnara,nouns,0.15
+2863,unffurf,sare,adjectives,0.05
+2864,gwely,chumba,nouns,0.4
+2865,derbyn,kukana,verbs,0.15
+2866,cyhyrau,ulimi,nouns,1.05
+2867,twp,mjinga,adjectives,0.5
+2868,beic,chumba cha kulala,nouns,0.0
+2869,pibell,bustani,nouns,0.05
+2870,cnoi,kung'ata,verbs,0.2
+2871,asgwrn,goti,nouns,1.05
+2872,sylweddol,muhimu,adjectives,0.0
+2873,cymryd rhan,kujiunga,verbs,4.05
+2874,haeddu,kuchuma,verbs,0.4
+2875,gwely,blanketi,nouns,1.2
+2876,cymryd,kurithi,verbs,1.1
+2877,cleddyf,sime,nouns,0.35
+2878,angen,kutafiti,verbs,0.05
+2879,yn syth,papo hapo,adverbs,1.5
+2880,gwddf,ulimi,nouns,0.8
+2881,caws,mkate,nouns,0.4
+2882,canwr,mwimbaji,nouns,0.6
+2883,rhadlon,inayotoka,adjectives,0.15
+2884,unwaith,mara moja,adverbs,1.5
+2885,rhyddid,kujitawala,nouns,4.9
+2886,cinio,kuku,nouns,0.65
+2887,cath,mbwa,nouns,0.75
+2888,cul,mrefu,adjectives,0.3
+2889,parti,sherehe,nouns,0.2
+2890,caniatáu,kuruhusu,verbs,0.0
+2891,planed,sayari,nouns,2.85
+2892,llyfr,kitabu,nouns,1.6
+2893,trallod,ukiwa,nouns,2.75
+2894,yn bwysig,bila masihara,adverbs,2.2
+2895,asgwrn,kifundo cha mguu,nouns,1.55
+2896,eilradd,mdogo,adjectives,0.0
+2897,mae'n debyg,inaonekana,adverbs,0.15
+2898,organ,ini,nouns,1.95
+2899,neidio,kuruka,nouns,0.0
+2900,nyrs,mwanasayansi,nouns,0.35
+2901,rhyfedd,ya kushangaza,adjectives,0.1
+2902,casglwr,mkusanyaji,nouns,0.0
+2903,swyddog,ofisa,nouns,0.75
+2904,anystwyth,ngumu,adjectives,0.15
+2905,gwn,bunduki,nouns,0.6
+2906,gwefus,nyonga,nouns,0.15
+2907,chwalu,kuvunja,verbs,3.95
+2908,modd,njia,nouns,0.75
+2909,yfed,kunywa,verbs,0.15
+2910,ffasiwn,mtindo,nouns,2.95
+2911,ceirchen,ngano,nouns,0.1
+2912,yn ysgafn,wepesi,adverbs,0.0
+2913,gwirio,kusema,verbs,0.2
+2914,tarth,wingu,nouns,3.15
+2915,creu,kuchuma,verbs,0.2
+2916,dilyn,kufuata,verbs,1.9
+2917,heddwch,amani,nouns,0.2
+2918,cyhuddo,laumu,verbs,5.05
+2919,glaw mân,mvua,nouns,4.2
+2920,oedolyn,mlezi,nouns,1.65
+2921,brechdan,nyama,nouns,0.4
+2922,arian,lulu,nouns,0.15
+2923,cyhyr,mkono,nouns,0.45
+2924,iâ,barafu,nouns,3.4
+2925,hawdd,imara,adjectives,0.05
+2926,llonydd,utulivu,adjectives,0.8

@@ -1,0 +1,2822 @@
+ID,SWA,YUE,PoS,score
+1,mgomo,暴動,nouns,0.04
+2,kuridhisha,理解,verbs,0.0
+3,imara,容易,adjectives,0.23
+4,mchoro,藝術品,nouns,0.81
+5,kiitiko,合唱,nouns,0.46
+6,umbali,距離,nouns,0.28
+7,chumba,單身牢房,nouns,0.53
+8,mpumbavu,聰明,adjectives,0.1
+9,kukupiga ngumi,用拳猛擊,verbs,0.47
+10,mazoezi,體操,nouns,0.28
+11,kupungua,成長,verbs,0.05
+12,medali,獎章,nouns,0.34
+13,kuvuta,運輸,verbs,0.47
+14,mjuzi,公爵,nouns,0.18
+15,siku ya kuzaliwa,年,nouns,0.71
+16,kutobadilishwa,未成形,adjectives,0.05
+17,uhalisi,幻想,nouns,0.41
+18,kutakata,扼殺,verbs,0.23
+19,gari,橋,nouns,0.18
+20,kudhani,假扮,verbs,0.33
+21,bunduki,毛,nouns,0.04
+22,hadithi,書,nouns,2.4
+23,kuhitaji,查詢,verbs,0.1
+24,mwigaji,演員,nouns,0.47
+25,kuepa,拒絕,verbs,0.79
+26,umekua,長大,adjectives,0.04
+27,inawezekana,可能,adverbs,0.78
+28,nyumba ya nyumbani,同音詞,nouns,0.0
+29,kufinya macho,瞇,verbs,0.2
+30,chuma,維他命,nouns,0.14
+31,porojo,新聞,nouns,1.01
+32,bingwa,優勝者,nouns,4.78
+33,ujinga,智力,nouns,0.24
+34,saizi,一分錢,nouns,0.1
+35,baji,徽章,nouns,0.09
+36,kwa umaradufu,難以置信地,adverbs,0.69
+37,pilipili,辣,adjectives,0.04
+38,msichana,女傭,nouns,0.57
+39,utandawazi,全球化,nouns,0.23
+40,makao,棚屋,nouns,0.63
+41,kifaa,硬件,nouns,0.14
+42,zaidi,非常,adverbs,0.5
+43,kukosa,未打中,verbs,0.04
+44,kugongana,撞擊,verbs,3.89
+45,mwanaume,女人,nouns,0.57
+46,kukutana,聚集,verbs,1.41
+47,shimo,隧道,nouns,0.41
+48,mvulana,兒童,nouns,1.64
+49,neno,報紙,nouns,0.6
+50,hospitali,床,nouns,0.34
+51,fikra,信念,nouns,0.95
+52,bustani,軟管,nouns,0.1
+53,mfalme,國王,nouns,4.53
+54,kuoga,緊張,adjectives,0.04
+55,bowling,保齡球,nouns,2.06
+56,wadudu,蟲害,nouns,0.77
+57,sarafu,硬幣,nouns,0.88
+58,sintaksia,句法,nouns,0.63
+59,hakimu,裁判官,nouns,4.64
+60,kwa uhai,積極地,adverbs,0.04
+61,seneti,參議院,nouns,0.85
+62,uzio,擊劍,nouns,0.28
+63,mtoto wa kike,父親,nouns,0.42
+64,bowler,保齡球選手,nouns,2.06
+65,patna,男孩,nouns,0.33
+66,damu,血液,nouns,0.53
+67,mshindi,男人,nouns,0.18
+68,maradufu,難以置信,adjectives,0.05
+69,lango,門,nouns,5.32
+70,mkono,頸,nouns,0.43
+71,paka,老鼠,nouns,0.29
+72,hali ya anga,大氣層,nouns,3.08
+73,uti,身體,nouns,0.48
+74,biashara,工業,nouns,2.17
+75,rafiki,傢伙,nouns,0.6
+76,kunyonga,殺,verbs,3.74
+77,mjanja,笨,adjectives,0.38
+78,ufalme,帝制,nouns,0.5
+79,mguu,腳,nouns,0.04
+80,sketi,裙子,nouns,0.09
+81,mwenye huzuni,可怕,adjectives,0.24
+82,kukutana,見面,verbs,0.04
+83,funga,鎖起來,nouns,1.25
+84,nenokuu,首詞,nouns,0.63
+85,baiskeli,自行車,nouns,0.04
+86,mfanyakazi wa benki,律師,nouns,1.11
+87,mgombea wa uchaguzi,獲勝者,nouns,0.96
+88,neno,字典,nouns,1.21
+89,mti,楓樹,nouns,3.68
+90,akili,頭腦,nouns,4.88
+91,kwa ukweli,真誠地,adverbs,0.23
+92,chafu,脏,adjectives,0.0
+93,bafu,廚房,nouns,0.28
+94,mkutano,國會,nouns,2.94
+95,muumbaji,作者,nouns,3.02
+96,meli,船,nouns,0.04
+97,ukuaji,發展,nouns,0.37
+98,safari,征服,nouns,0.14
+99,kuminya,擠壓,verbs,0.15
+100,jabali,尾巴,nouns,0.04
+101,yadi,米,nouns,2.64
+102,kuchukua,離開,verbs,0.04
+103,kanisa kuu,天花板,nouns,0.15
+104,hitaji,需求,verbs,0.04
+105,kuweka ahadi,承諾,verbs,3.97
+106,kusikia,說話,verbs,0.29
+107,wiski,香檳,nouns,3.62
+108,bila doa,一塵不染,adjectives,5.2
+109,nguo,鈕扣,nouns,0.71
+110,mfanyakazi wa nyumbani,幫手,nouns,2.79
+111,ushindi,戰役,nouns,0.46
+112,kuokoa,花费,verbs,0.2
+113,safari ya angani,航空,nouns,3.58
+114,kujifunza,聽,verbs,0.28
+115,sauti,聲音,nouns,3.13
+116,mtafsiri,翻譯者,nouns,0.14
+117,mzazi,大人,nouns,2.99
+118,kibinasfi,個人,adjectives,3.51
+119,karne,十年,nouns,0.75
+120,kubaki,留,verbs,1.18
+121,mchanga,焦躁不安,adjectives,0.15
+122,kushinda,統治,verbs,0.58
+123,kifundo,手臂,nouns,0.77
+124,kutumia,保存,verbs,0.2
+125,kitabu,文學,nouns,2.55
+126,kudaka,抓住,verbs,0.3
+127,kukenua,傻笑,verbs,3.38
+128,sakafu,門,nouns,0.23
+129,bandari,港口,nouns,0.04
+130,mkia,碗,nouns,0.0
+131,hela,工資,nouns,3.46
+132,kaburi,墳墓,nouns,1.25
+133,popo,蝙蝠,nouns,0.95
+134,kufanya utafiti,無視,verbs,0.05
+135,kununua,得到,verbs,0.15
+136,uchumi,經濟,nouns,0.29
+137,ukweli,洞察力,nouns,1.27
+138,kufanya,戒除,verbs,0.1
+139,farasi wa kiume,馬,nouns,3.73
+140,kutamka,說話,verbs,1.19
+141,kutukia,做,verbs,0.24
+142,mshairi,詩人,nouns,0.24
+143,supu,晚餐,nouns,0.79
+144,takwimu,統計資料,nouns,0.0
+145,ishara,字,nouns,0.34
+146,kuku,晚餐,nouns,0.39
+147,barafu,冰,nouns,3.67
+148,kushawishi,追求,verbs,0.43
+149,sanduku,帽子,nouns,0.05
+150,kisima,泉,nouns,3.08
+151,kuoga,戲法,nouns,0.04
+152,mashine,機器,nouns,2.81
+153,baisikeli,睡房,nouns,0.0
+154,ngano,穀物,nouns,2.69
+155,farasi,狗,nouns,0.93
+156,mara moja,一次,adverbs,0.09
+157,kushuka,降落,verbs,0.04
+158,daktari,教授,nouns,0.82
+159,sura,尾巴,nouns,0.04
+160,safi,清潔,adjectives,5.2
+161,bangi,草藥,nouns,1.44
+162,nyoka,蛇,nouns,0.56
+163,askofu,大主教,nouns,4.29
+164,mfupa,踝,nouns,1.13
+165,hakimu,判斷,verbs,0.2
+166,kwa furaha,高高興興地,adverbs,0.26
+167,paka,狗,nouns,0.52
+168,kupunguza,減少,verbs,0.36
+169,kukoroga,攪拌,verbs,4.72
+170,kuanza,戒除,verbs,0.1
+171,kuangalia,觀看,verbs,4.93
+172,mnato,粘性,nouns,0.0
+173,kupinga,拗撬,verbs,0.14
+174,maji,水,nouns,0.1
+175,kuweka,保護,verbs,0.38
+176,kufanikiwa,嘗試,verbs,0.54
+177,mrefu,狹窄,adjectives,0.42
+178,mkono,骨頭,nouns,0.48
+179,mwanasheria,大狀,nouns,4.72
+180,jani,葉,nouns,0.96
+181,mtaa,汽車,nouns,0.32
+182,makusudi,特別,adverbs,1.56
+183,kujipendekeza,娛樂,verbs,0.04
+184,mkarimu,友善,adjectives,2.29
+185,wa ghadhabu,暴力,adjectives,0.92
+186,kuzurura,離開,verbs,0.44
+187,enye bahati,幸運,adjectives,0.04
+188,goti,手臂,nouns,0.38
+189,kukandamiza,壓抑,verbs,0.48
+190,kusema,說,verbs,2.23
+191,kukataa,拒絕,verbs,0.0
+192,usiku,章節,nouns,0.0
+193,kijana,男孩子,nouns,3.08
+194,mlango,兄弟會,nouns,0.0
+195,divai,白蘭地,nouns,3.29
+196,kusalimia,見面,verbs,0.86
+197,bunduki,黎明,nouns,0.0
+198,kukataa,拒絕,verbs,0.55
+199,kilima cha zao moja,單一耕作,nouns,2.36
+200,kalenda,日曆,nouns,0.37
+201,mkono,拇指,nouns,1.57
+202,mwenye kiasi,羞愧,adjectives,0.18
+203,mfupa,膝蓋,nouns,0.66
+204,delta,三角洲,nouns,0.72
+205,mkurugenzi,董事,nouns,3.96
+206,kusogea,前進,verbs,0.46
+207,kuvutia,吸引,verbs,0.0
+208,lindwa,安全,adjectives,0.04
+209,kutuma,帶來,verbs,0.14
+210,ndege,鷹,nouns,3.53
+211,hasira,心情,nouns,0.33
+212,boti,甲板,nouns,0.66
+213,usalama,安慰,nouns,0.45
+214,daraja,汽車,nouns,0.18
+215,cheri,櫻桃,nouns,2.27
+216,rais,污染,nouns,0.1
+217,kwa uhatari,危險地,adverbs,0.09
+218,kiganja,手指,nouns,1.38
+219,uendeshaji,手術,nouns,0.04
+220,mungu,牧師,nouns,0.57
+221,kumtiririko,流,verbs,0.82
+222,nyeupe,白色,adjectives,0.0
+223,fleti,家具,nouns,0.23
+224,kufuatilia,說服,verbs,0.43
+225,kanisa,合唱團,nouns,1.07
+226,kustahili,賺,verbs,0.19
+227,geji,車,nouns,0.05
+228,adimu,笨,adjectives,0.14
+229,rushwa,貪污,nouns,1.41
+230,kuhudhuria,發送,verbs,0.09
+231,neno,習語,nouns,1.65
+232,kumomonyoka,侵蝕,verbs,1.14
+233,ulimwengu,天空,nouns,1.44
+234,kushtaki,指控,verbs,0.09
+235,kuunganisha,團結,verbs,0.15
+236,uhalifu,違反,nouns,3.29
+237,kuufa,打碎,verbs,0.5
+238,amari,電纜,nouns,0.0
+239,kuvaa,穿,verbs,0.05
+240,kuweka,失去,verbs,0.04
+241,monasteri,修道院,nouns,0.0
+242,mnara,鐘,nouns,0.33
+243,pua,鼻子,nouns,0.54
+244,wa kale,現代,adjectives,0.14
+245,ubaguzi,偏見,nouns,2.69
+246,unajimu,天文,adjectives,0.18
+247,hali ya hewa,雪,nouns,0.53
+248,kutetea,校驗,verbs,0.24
+249,mazingira,男孩,nouns,0.04
+250,ubaguzi,排外主義,nouns,4.18
+251,msomaji,作者,nouns,0.28
+252,pinda,彎曲,adjectives,0.24
+253,mpumbavu,稀罕,adjectives,0.14
+254,njia za panya,狡詐,adjectives,1.97
+255,bunduki,槍,nouns,0.68
+256,chakula,腰部,nouns,0.0
+257,kwa utu uzima,成熟,adverbs,0.34
+258,kuhuzunika,搞到唔開心,verbs,0.14
+259,wa kujivunia,堅強,adjectives,0.23
+260,kuvunja,打碎,verbs,3.75
+261,aya,頁,nouns,0.23
+262,mbaya,核突,adjectives,0.96
+263,njia kuu,任務,nouns,0.1
+264,matofaa,果汁,nouns,0.86
+265,mandharinyuma,背景,nouns,1.94
+266,kufahamu,滿足,verbs,0.0
+267,kwa huzuni,可悲的是,adverbs,0.39
+268,theluji,風暴,nouns,0.46
+269,uhakika,某些,adjectives,0.04
+270,kuchumbia,結婚,verbs,2.96
+271,zinki,鋅,nouns,1.64
+272,ana hasira,高興,adjectives,0.28
+273,kazi,任務,nouns,3.19
+274,ubaguzi wa rangi,種族主義,nouns,4.18
+275,bafu,睡房,nouns,0.42
+276,mtaala,教學大綱,nouns,0.7
+277,kupendekeza,建議,verbs,4.04
+278,mkali,憤怒,adjectives,0.18
+279,akiolojia,考古學,nouns,2.83
+280,bendi,耐力,nouns,0.0
+281,muandishi,作家,nouns,0.04
+282,ya pekee,獨特,adjectives,0.39
+283,akili,洞察力,nouns,2.63
+284,wingu,薄霧,nouns,2.17
+285,kukagua,檢查,verbs,4.58
+286,treni,火車,nouns,2.27
+287,chombo,老鼠,nouns,0.0
+288,kukamatwa,逮捕,verbs,0.18
+289,maharagwe,煙肉,nouns,0.1
+290,kumeremeta,發光,verbs,3.42
+291,nyimbo,征服,nouns,0.05
+292,mtazamo,角度,nouns,0.28
+293,mfanyakazi,相機,nouns,0.18
+294,onya,警告,verbs,0.14
+295,matriksi,矩陣,nouns,0.97
+296,keki,巧克力,nouns,0.58
+297,gari,單車,nouns,1.23
+298,tarakimu,數字,nouns,0.0
+299,ana shida,簡單,adjectives,0.18
+300,mbwa,馬,nouns,0.93
+301,simu,電話,nouns,2.19
+302,kuwaza,查詢,verbs,0.29
+303,kupatana,見面,verbs,0.0
+304,kukubali kirahisi,輕信,adjectives,0.5
+305,pambano,協議,nouns,0.14
+306,juu,側面,nouns,0.47
+307,gari la mzigo,貨車,nouns,0.09
+308,ngumu,强硬,adjectives,2.92
+309,dari,大教堂,nouns,0.15
+310,pete,戒指,nouns,0.83
+311,algebra,代數,nouns,0.04
+312,senti,妻子,nouns,0.0
+313,kiwanda,汽車,nouns,0.05
+314,mkurugenzi,導演,nouns,0.64
+315,kiukamilifu,完美地,adverbs,0.58
+316,kwa usahihi,精確地,adverbs,0.04
+317,kazi,任務,nouns,3.03
+318,wa ajabu,偉大,adjectives,0.88
+319,jangwa,沙漠,nouns,2.28
+320,anthropolojia,人類學,nouns,2.83
+321,mwili,神經,nouns,0.68
+322,halisi,真實,adjectives,0.24
+323,chafu,脏,adjectives,0.43
+324,wa kale,新,adjectives,0.19
+325,kwenda,允許,verbs,0.0
+326,meza,吞,verbs,1.6
+327,sunami,海嘯,nouns,1.27
+328,baada ya,之後,adverbs,0.1
+329,unga,麵包,nouns,0.92
+330,ghali,昂貴,adjectives,0.0
+331,kiajabu,奇怪地,adverbs,0.44
+332,kwa unyenyekevu,謙遜地,adverbs,0.14
+333,bila subira,不耐煩地,adverbs,0.23
+334,hakika,態度,nouns,0.41
+335,gari,廠,nouns,0.05
+336,kitabu,故事,nouns,2.4
+337,kukumbusha,忘記,verbs,0.1
+338,mmea,植物,nouns,1.26
+339,laini,柔軟,adjectives,0.0
+340,sultani,蘇丹,nouns,0.04
+341,kukana,拒絕,verbs,0.98
+342,kukutolewa,放走,verbs,0.23
+343,muongo,世紀,nouns,0.81
+344,kukumbusha,賣,verbs,0.0
+345,kiukomavu,成熟地,adverbs,0.14
+346,kujifanya,描繪,verbs,0.24
+347,kuguta,叫喊,verbs,0.14
+348,mzunguko,環球航行,nouns,0.23
+349,isiyotulia,年輕,adjectives,0.15
+350,malimau,蘋果,nouns,0.57
+351,ana hasira,極好,adjectives,0.0
+352,msanii,藝術家,nouns,0.81
+353,kukuinua,提高,verbs,3.31
+354,hesabu,韻律,nouns,0.0
+355,mwenye kiasi,靈活,adjectives,0.69
+356,bisi,爆谷,nouns,0.37
+357,roboti,機器人技術,nouns,0.23
+358,ushindi,旅程,nouns,0.14
+359,nguzo,郵件,nouns,0.0
+360,kulenga,瞄准,verbs,1.1
+361,kuuliza,問,verbs,0.2
+362,sinema,攝影,nouns,0.64
+363,mdomo,臀部,nouns,0.14
+364,kusihi,問,verbs,0.7
+365,tarehe,生日,nouns,1.65
+366,kuua,防守,verbs,0.05
+367,mkate,肉,nouns,0.28
+368,eneo,角,nouns,0.29
+369,kwa huzuni,傷心地,adverbs,1.02
+370,kwa hasira,猛烈地,adverbs,1.21
+371,kwa amani,安然,adverbs,3.79
+372,limau,茶,nouns,0.24
+373,kufuli,鎖,nouns,1.1
+374,furaha,和平,nouns,2.06
+375,nyumba,地毯,nouns,0.33
+376,ulimi,肌肉,nouns,0.29
+377,anga,天空,nouns,0.05
+378,alphabeti,字母,nouns,0.0
+379,ogopa,害怕,adjectives,3.25
+380,bilionea,億萬富翁,nouns,0.04
+381,akili,頭腦,nouns,0.72
+382,nyumba,鎖匙,nouns,0.58
+383,kutawala,贏,verbs,0.57
+384,upepo mkali,大風,nouns,0.0
+385,askofu,主教,nouns,0.14
+386,kuamini,知道,verbs,0.63
+387,ana wazimu,瘋,adjectives,5.53
+388,kufyonza,擁有,verbs,0.18
+389,kwa usiri,謹慎地,adverbs,0.59
+390,kung'orota,打鼻鼾,verbs,0.05
+391,mpangilio wa chakula,沙拉,nouns,0.53
+392,kiazi,牛油,nouns,0.15
+393,mkate,芝士,nouns,0.38
+394,kuuza,賣,verbs,0.46
+395,takriban,大致地,adverbs,0.37
+396,kukubali,接受,verbs,0.1
+397,takribani,大致,adverbs,0.75
+398,kutania,戲弄,verbs,0.14
+399,kupungua,減少,verbs,1.82
+400,muhimu,重大,adjectives,0.14
+401,kukana,接受,verbs,0.55
+402,mpira wa miguu,足球,nouns,5.59
+403,mvuke,雨,nouns,0.42
+404,kupumua,嗆,verbs,0.41
+405,kuthibitisha,拗撬,verbs,0.0
+406,kukataa,接受,verbs,0.23
+407,menejimenti,老鼠,nouns,0.04
+408,mzee,新鮮,adjectives,0.05
+409,mbaya,粗糙,adjectives,1.13
+410,korido,過道,nouns,4.2
+411,kumbuku,便條,nouns,0.33
+412,panga,劍,nouns,0.0
+413,uhalifu,詐騙,nouns,2.87
+414,mkubwa,大規模,adjectives,3.49
+415,chakula,食物,nouns,0.0
+416,kuua,毀滅,verbs,1.98
+417,bila siri,公開,adjectives,0.24
+418,mbivu,寬,adjectives,0.0
+419,kwa unyenyekevu,有禮貌地,adverbs,0.59
+420,kutii,服從,verbs,0.14
+421,koboa,磨坊,nouns,0.24
+422,kufuata,跟隨,verbs,2.28
+423,baba,母親,nouns,1.11
+424,kuzidisha,加,verbs,0.71
+425,lengo,赢家,nouns,0.23
+426,kupokea,攞,verbs,3.63
+427,kuharibu,摔碎,verbs,3.75
+428,mtawala,統治者,nouns,4.53
+429,panya,甲板,nouns,0.04
+430,tundu,協議,nouns,0.0
+431,mtalaamu wa historia,歷史學家,nouns,5.76
+432,rada,雷達,nouns,0.39
+433,bosi,老闆,nouns,3.96
+434,zorota,平淡,adjectives,0.18
+435,kujaribu,成功,verbs,0.54
+436,wa kujivunia,膽大,adjectives,0.93
+437,kupigana,搏鬥,verbs,0.18
+438,asidi,酸,nouns,1.07
+439,pombe,世紀,nouns,0.04
+440,kusema,參與,verbs,0.05
+441,simba,貓,nouns,1.12
+442,ya kawaida,平庸,adjectives,0.44
+443,mtoto,成人,nouns,0.43
+444,kukanya,鼓勵,verbs,0.1
+445,noti,紙幣,nouns,0.83
+446,mkia,章,nouns,0.04
+447,inaonekana,看來,adverbs,0.36
+448,wiski,杜松子酒,nouns,3.13
+449,zaidi,大多,adverbs,2.31
+450,pwaya,鬆動,adjectives,1.04
+451,kikapu,球,nouns,0.24
+452,mgonjwa,瘋,adjectives,0.24
+453,hoi,無助,adjectives,1.2
+454,mkusanyaji,編譯器,nouns,0.18
+455,kaka,父親,nouns,0.93
+456,simu ya mkononi,手提電話,nouns,4.33
+457,nyumba,公寓,nouns,4.04
+458,makala,文章,nouns,1.98
+459,kuku,牛扒,nouns,0.24
+460,kujua,給,verbs,0.04
+461,jukumu,高速公路,nouns,0.1
+462,mtoto wa mfalme,島,nouns,0.0
+463,majani makavu,任務,nouns,0.0
+464,kuteka nyara,綁架,verbs,1.08
+465,chupa,瓶子,nouns,2.13
+466,kukopesha,欠,verbs,0.47
+467,pistoni,活塞,nouns,1.06
+468,mwishoni,終末,adverbs,0.04
+469,gogo,木,nouns,4.22
+470,upande,下面,nouns,0.48
+471,profesa,醫生,nouns,0.82
+472,mkono,身體,nouns,1.36
+473,kuweka,得到,verbs,0.15
+474,kutia moyo,使氣餒,verbs,0.1
+475,kupaka,塗抹,verbs,0.48
+476,maandishi ya siri,密碼,nouns,0.25
+477,mwanachuo,學生,nouns,3.7
+478,jioni,日落,nouns,4.88
+479,kichezeo,玩具,nouns,0.09
+480,kung'amua,察覺,verbs,0.71
+481,msaidizi,副手,nouns,0.39
+482,ada,工資,nouns,0.74
+483,kwa kuaminika,可靠地,adverbs,0.23
+484,kesi,案件,nouns,0.07
+485,kutabiri,確定,verbs,0.24
+486,mpumbavu,蠢,adjectives,4.83
+487,kuona,知覺,nouns,1.45
+488,mara kwa mara,總是,adverbs,0.39
+489,rahisi,困難,adjectives,0.2
+490,mchezo,戲法,nouns,0.43
+491,mwanachuo,總統,nouns,0.1
+492,kivuli cha mawingu,灰濛蒙,nouns,0.24
+493,kushawishi,拗撬,verbs,0.38
+494,dirisha,窗口,nouns,0.0
+495,matofaa,陽光,nouns,0.05
+496,fleti,屋,nouns,4.04
+497,panya,鼠,nouns,4.31
+498,kuzidisha,公式,nouns,0.0
+499,nyonga,嘴唇,nouns,0.14
+500,kueleza,澄清,verbs,4.12
+501,ulimi,喉,nouns,1.1
+502,muhimu,必須,adjectives,2.99
+503,uzuri,風格,nouns,0.52
+504,kuuza,提醒,verbs,0.0
+505,tumbaku,香煙,nouns,4.02
+506,ukingo,分界線,nouns,3.92
+507,nafaka,小麥,nouns,2.69
+508,jamhuri,共和國,nouns,0.18
+509,kalamu,鋼筆,nouns,0.0
+510,kubagua,偏見,verbs,3.13
+511,kuchana,撕開,verbs,0.05
+512,mchanga,海灘,nouns,0.43
+513,kukuza,促進,verbs,0.46
+514,kupigana,搏鬥,verbs,0.1
+515,wa kuchekesha,枯燥,adjectives,0.1
+516,siagi,土豆,nouns,0.15
+517,umaarufu,財富,nouns,0.42
+518,ugonja wa bronchitis,支氣管炎,nouns,0.15
+519,mbinu,遊戲,nouns,0.43
+520,hatari sana,死氣沈沈的,adverbs,0.04
+521,ya kushangaza,奇怪,adjectives,0.15
+522,kigomvi,暴力,adjectives,0.02
+523,kutambua,說話,verbs,0.38
+524,kutimiza,嘗試,verbs,0.43
+525,mwalimu,老師,nouns,1.01
+526,wa kigeni,奇怪,adjectives,4.73
+527,mkono,指甲,nouns,0.66
+528,mtu mzima,嬰兒,nouns,0.28
+529,ulimi,臉頰,nouns,0.38
+530,kamusi,定義,nouns,0.55
+531,radiator,散熱器,nouns,0.67
+532,mijusi ya kale,恐龍,nouns,0.18
+533,ramani,地圖,nouns,0.18
+534,msimu,冬天,nouns,2.63
+535,baba,哥哥,nouns,0.93
+536,majimaji,流體,nouns,0.14
+537,kufifia,褪色,verbs,1.14
+538,moyo,手術,nouns,0.67
+539,haijafunikwa,沒有冚住的,adjectives,0.15
+540,elimisha,教育,verbs,3.25
+541,mwema,残酷,adjectives,0.05
+542,kimsingi,基本上,adverbs,0.36
+543,ishara,象徵,nouns,3.86
+544,jumla,總數,nouns,0.97
+545,ukubwa,深度,nouns,0.58
+546,kupa,知道,verbs,0.04
+547,kupa,保持,verbs,0.19
+548,mjinga,蠢,adjectives,0.5
+549,kushiriki,參加,verbs,4.83
+550,kupeleka,攞,verbs,0.65
+551,inayoingia,進來,adjectives,0.2
+552,watu,槍,nouns,0.33
+553,kwa utulivu,冷靜地,adverbs,2.17
+554,kusoma,理解,verbs,0.77
+555,bunduki,槍,nouns,0.0
+556,moto,火,nouns,0.14
+557,kusema,校驗,verbs,0.05
+558,kupata,放,verbs,0.15
+559,faragha,私人,adjectives,3.51
+560,malipo,付款,nouns,0.83
+561,nyasi,苔蘚,nouns,2.02
+562,kutembea umbali mrefu,遠足,verbs,0.41
+563,kuondoka,攞,verbs,0.04
+564,viungo,種子,nouns,0.6
+565,mota,引擎,nouns,4.67
+566,panya,貓,nouns,0.29
+567,kibanda,營地,nouns,0.43
+568,kufukuza,驅逐,verbs,0.09
+569,ozoni,臭氧,nouns,3.08
+570,kutafuta,定位,verbs,0.38
+571,mpiganaji,男人,nouns,0.95
+572,kiungo,腎,nouns,2.92
+573,sawa,好的,adjectives,0.44
+574,kwa kawaida,一般,adverbs,0.0
+575,jedwali,圖解,nouns,3.06
+576,rubani,司機,nouns,3.06
+577,sanduku,電梯,nouns,0.04
+578,kwa utaratibu,小心地,adverbs,0.09
+579,kujitahidi,努力,verbs,0.0
+580,kinyagu,雕像,nouns,4.43
+581,tukio,事件,nouns,0.28
+582,asili,大自然,nouns,0.79
+583,nyama,麵包,nouns,0.28
+584,mwanakondoo,羊,nouns,3.76
+585,binamu,叔叔,nouns,1.02
+586,kuzungumza,承認,verbs,0.38
+587,uchafuzi,總統,nouns,0.1
+588,nyumba ndogo,小木屋,nouns,3.54
+589,chai,檸檬,nouns,0.24
+590,kujaribu,试着,verbs,0.83
+591,kutambulisha,確定,verbs,0.0
+592,kupendelea,傾向,verbs,3.13
+593,dhoruba,雲,nouns,0.97
+594,koo,舌頭,nouns,1.1
+595,mphilisophia,哲學家,nouns,0.09
+596,kileo,威士忌酒,nouns,4.15
+597,salama,好,adjectives,0.5
+598,hatari,威脅,nouns,4.29
+599,oni,選擇,nouns,1.26
+600,mpaka,國境,nouns,3.92
+601,mwanaume,父親,nouns,2.67
+602,uwazi,缺口,nouns,3.21
+603,saladi,減肥,nouns,0.53
+604,mara chache,不經常,adverbs,0.04
+605,oasisi,綠洲,nouns,0.0
+606,kuandika,匆匆地寫,verbs,3.02
+607,kutembea,步行,verbs,2.42
+608,sikawaida,異常地,adverbs,0.0
+609,kutota,淹,verbs,0.04
+610,kuadhibu,懲罰,verbs,0.14
+611,ushindi,聖歌,nouns,0.05
+612,strouberi,士多啤梨,nouns,2.27
+613,bluu,藍色,adjectives,0.39
+614,haijafichuliwa,未公開,adjectives,0.24
+615,kupata,留,verbs,0.65
+616,chuma,金屬,nouns,2.44
+617,mlango,走廊,nouns,0.43
+618,stadi ya magonjwa,病理學,nouns,2.77
+619,saratani,疾病,nouns,3.62
+620,alama,標誌,nouns,3.86
+621,mwanamahesabu,數學家,nouns,0.04
+622,farasi,小馬,nouns,3.73
+623,nyumba ya sanaa,畫廊,nouns,0.0
+624,mguu,手臂,nouns,0.98
+625,kutoa heshima,敬禮,verbs,0.05
+626,juu,下面,nouns,0.1
+627,wa dhambi,壞,adjectives,1.6
+628,mbaya,內疚,adjectives,1.18
+629,mara nyingi,經常,adverbs,0.04
+630,mpangilio wa chakula,蘋果,nouns,0.33
+631,kaka,兄弟,nouns,1.57
+632,kukashifu,得罪,verbs,3.38
+633,mara kwa mara,稍微地,adverbs,0.75
+634,utendaji,性能,nouns,0.55
+635,mbao,木,nouns,0.32
+636,kiundani,深度地,adverbs,0.72
+637,injini,機器,nouns,2.99
+638,kushukia,懷疑,verbs,0.18
+639,mwanajeshi,男孩,nouns,0.65
+640,dola,人,nouns,0.35
+641,kionyeshi,光標,nouns,0.14
+642,kubadilisha,恢復,verbs,0.51
+643,kukusanya,見面,verbs,1.41
+644,kuwa yumba,未定,adjectives,0.46
+645,kwa ukaribu,親密,adjectives,0.05
+646,ajali,大災難,nouns,2.41
+647,mwandishi,作家,nouns,0.43
+648,makaa,煤,nouns,3.48
+649,hekima,智力,nouns,3.9
+650,dada,姊妹,nouns,1.57
+651,kuhukumu,判斷,verbs,1.84
+652,kukataza,禁止,verbs,2.42
+653,shughuli,約定,nouns,0.75
+654,kuoa,訂婚,verbs,2.96
+655,aya,信,nouns,0.25
+656,mungu,獵物,nouns,0.0
+657,safi,純,adjectives,0.14
+658,tao,角度,nouns,1.65
+659,bomba,雪茄,nouns,0.18
+660,sheria,學校,nouns,0.23
+661,dakika,秒,nouns,2.99
+662,umasikini,財富,nouns,0.29
+663,pombe,紅酒,nouns,3.69
+664,ana kichaa,瘋狂,adjectives,5.53
+665,sherehe,人們,nouns,0.56
+666,nuru,明亮,nouns,2.67
+667,nyooka,直,adjectives,0.24
+668,arifu,通知,verbs,0.0
+669,mbuni,鴕鳥,nouns,0.0
+670,steki,肉,nouns,4.54
+671,kileo,白蘭地酒,nouns,3.32
+672,kua na hasira,好鬥,adjectives,0.05
+673,hali ya hewa,雲,nouns,1.07
+674,senti,人,nouns,0.14
+675,kibanda,茅屋,nouns,3.54
+676,kuondoka,到達,verbs,0.05
+677,kunusia,發出氣味,verbs,2.13
+678,mchango,募捐,nouns,0.19
+679,kwa kweli,誠實地,adverbs,1.87
+680,protestanti,新教,nouns,3.93
+681,kukuza,加劇,verbs,0.0
+682,mvivu,懶,adjectives,0.09
+683,kuokoa,保留,verbs,0.04
+684,kulowesha,淋透,verbs,0.04
+685,kazi za mikono,手工業,nouns,0.28
+686,daktari,脾氣,nouns,0.18
+687,mzinga,槍,nouns,1.94
+688,kupuuza,離開,verbs,0.24
+689,falahi,奴隸,nouns,3.55
+690,chukia,討厭,verbs,0.21
+691,lenzi,相機,nouns,1.51
+692,mkakati,策略家,nouns,2.56
+693,pafu,肝,nouns,0.48
+694,nyimbo,稻草,nouns,0.18
+695,haraka,紧急,adverbs,4.26
+696,kunyanyua,舉起,verbs,3.31
+697,helmeti,頭盔,nouns,1.02
+698,kukaba,呼吸,verbs,0.41
+699,msimu wa joto,冬天,nouns,0.24
+700,gogo,沖涼,nouns,0.0
+701,mtazamo,自信,nouns,0.41
+702,kiukakamavu,堅固地,adverbs,0.56
+703,mfupa,肘,nouns,0.34
+704,uwanja,田,nouns,0.41
+705,jukumu,女人,nouns,0.1
+706,mguu,肢體,nouns,1.83
+707,kusoma,讀,verbs,0.09
+708,mdogo,次要,adjectives,0.14
+709,mpini,柄,nouns,0.2
+710,kamera,工作者,nouns,0.18
+711,upendeleo,意見,nouns,0.1
+712,mshale,目標,nouns,0.85
+713,feki,假,adjectives,0.24
+714,kushiriki,說,verbs,0.05
+715,njia,探路者,nouns,0.04
+716,jumba la makumbusho,博物館,nouns,0.04
+717,kazi,管理,nouns,0.62
+718,kuondoka,出現,verbs,0.45
+719,kupanua,成長,verbs,0.66
+720,kwa ukimya,靜靜地,adverbs,0.32
+721,bila masihara,重要的,adverbs,2.79
+722,kileo,葡萄酒,nouns,3.92
+723,oni,偏壓,nouns,0.1
+724,maadili,權利,nouns,0.57
+725,sinema,電影,nouns,1.75
+726,laani,譴責,verbs,0.55
+727,wa kawaida,不同,adjectives,0.1
+728,skiing,滑雪,nouns,1.56
+729,kuiba,攞,verbs,0.78
+730,rahisi,簡單,adjectives,0.16
+731,watu,一分錢,nouns,0.14
+732,paka,獅子,nouns,1.12
+733,kuunguza,燒傷,verbs,0.23
+734,baadae,稍後,adverbs,0.0
+735,mpira wa miguu,有趣,nouns,0.63
+736,mfalme,親王國,nouns,1.51
+737,mtaa,小巷,nouns,2.5
+738,kusahau,學習,verbs,0.2
+739,uchaguzi,選舉,nouns,2.68
+740,rasmi,正式地,adverbs,0.66
+741,kisiwa,任務,nouns,0.0
+742,kushauri,提議,verbs,4.58
+743,wiski,酒,nouns,4.15
+744,kitabu,書,nouns,0.0
+745,amevaa,穿著衣服的,adjectives,0.53
+746,kwa ujanja,巧妙的,adverbs,0.46
+747,chakula cha asubuhi,煙肉,nouns,0.63
+748,kukataa,宣佈放棄,verbs,0.48
+749,nyusi,眼睛,nouns,0.48
+750,mpumbavu,巨大,adjectives,0.09
+751,mtaalamu wa meno,醫生,nouns,3.04
+752,kulipa,付款,verbs,2.93
+753,bahati,幸福,nouns,0.56
+754,malkia,蜜蜂,nouns,0.1
+755,umoja,結合,nouns,0.97
+756,tofali,牆,nouns,1.31
+757,mshale,遊標,nouns,0.04
+758,kulinda,保護,verbs,0.86
+759,asiyeaminika,靠不住的,adjectives,1.97
+760,kushidwa,失敗,verbs,0.1
+761,uwanda wa bahari,海灘,nouns,3.17
+762,anga,陽光,nouns,1.01
+763,diode,二極管,nouns,1.98
+764,mhuri,簽證,nouns,0.23
+765,kalenda,日期,nouns,3.71
+766,pambo,牆壁,nouns,0.33
+767,mwalimu,拉比,nouns,1.2
+768,kukamata,抓住,verbs,3.53
+769,ufunguo,房屋,nouns,0.58
+770,lugha,溝通,nouns,1.88
+771,umeme,電,nouns,0.0
+772,kila mwezi,每月,adjectives,0.78
+773,sayansi,心理學,nouns,1.65
+774,bunge,議會,nouns,2.94
+775,mpana,窄小,adjectives,0.14
+776,lulu,錢,nouns,0.23
+777,kataa,不同意,verbs,0.19
+778,kupunguza,减少,verbs,0.04
+779,kujipatia,加入,verbs,0.05
+780,kichwa,肩,nouns,0.68
+781,mtoto wa kiume,父親,nouns,1.25
+782,sekunde,分鐘,nouns,2.99
+783,imara,堅硬,adjectives,2.92
+784,agosti,月,nouns,2.73
+785,kuacha,做,verbs,0.1
+786,mwezi,行星,nouns,1.92
+787,kitambaa,衣服,nouns,2.74
+788,bia,香檳,nouns,2.91
+789,mlango,窗,nouns,0.92
+790,mtoto wa kike,孩子,nouns,1.75
+791,kuchanganua,評估,verbs,4.28
+792,kupumzika,輕鬆,adjectives,0.46
+793,ufagio,掃帚,nouns,0.66
+794,kutokuwepo,在场,nouns,0.24
+795,karatasi ya kupamba ukuta,牆紙,nouns,1.94
+796,kuamua,想,verbs,1.32
+797,kwenda,開始,verbs,0.05
+798,dhaifu,弱,adjectives,0.15
+799,eneo,地帶,nouns,4.45
+800,mwandishi wa filamu,編劇,nouns,0.56
+801,kidole,手掌,nouns,1.38
+802,mosaic,馬賽克,nouns,0.05
+803,peremende,糖果,nouns,0.33
+804,wali,雞,nouns,0.33
+805,kufunikwa,冚住,adjectives,0.53
+806,bunifu,創新,adjectives,4.08
+807,chaguo,監獄,nouns,0.1
+808,ngao,小圆盾,nouns,0.18
+809,kukubali,運送,verbs,0.0
+810,askofu mkuu,主教,nouns,4.29
+811,baba,女兒,nouns,0.42
+812,namna,字典,nouns,0.55
+813,kwa maana,有意義,adverbs,0.72
+814,wanamuziki,樂隊,nouns,4.27
+815,mwenye nguvu,強大,adjectives,0.15
+816,wingu,雲,nouns,0.0
+817,dhima,書,nouns,0.23
+818,almasi,錢,nouns,0.66
+819,pua,喉嚨,nouns,0.48
+820,mara chache,偶然,adverbs,0.63
+821,gari la farasi,四輪貨運馬車,nouns,3.9
+822,picha,光線電話機,nouns,0.0
+823,glasi,玻璃,nouns,0.09
+824,kriketi,蟋蟀,nouns,0.04
+825,kuuliza,祈禱,verbs,0.43
+826,mto,溪流,nouns,3.33
+827,paa,屋頂,nouns,0.37
+828,kuzikwa,埋葬,verbs,1.45
+829,mgeni,怪異,adjectives,3.42
+830,kukimbia,逃跑,verbs,4.73
+831,bati,金屬,nouns,1.69
+832,mwepesi,屏蔽,nouns,0.18
+833,mpira,大炮,nouns,0.19
+834,kuwa na wasiwasi,擔心,verbs,0.0
+835,kutopangilia,雜亂無章,verbs,0.04
+836,kidole cha mkono,腳趾,nouns,1.07
+837,kuruhusu,允許,verbs,0.0
+838,kufunga,領帶,verbs,0.15
+839,ndama,公牛,nouns,2.78
+840,muswada,手稿,nouns,1.35
+841,msimbo,符號,nouns,1.41
+842,utawala,行政管理,nouns,3.29
+843,minti,薄荷,nouns,0.04
+844,haki,正義,nouns,1.42
+845,wizi,犯罪,nouns,3.77
+846,taa,燈,nouns,0.09
+847,nyembamba,狹窄,adjectives,0.0
+848,neva,腦,nouns,0.7
+849,maradhi,癌症,nouns,3.62
+850,isivyo kawaida,不定期地,adverbs,0.18
+851,vurugu,混亂,nouns,0.0
+852,soka,英式足球,nouns,5.59
+853,mfalme,王子,nouns,2.63
+854,udhibiti,審查,nouns,0.2
+855,kiutulivu,冷靜地,adverbs,0.46
+856,kimbia,跑,verbs,0.09
+857,sisimizi,蜜蜂,nouns,1.12
+858,kukubali,贊成,verbs,3.88
+859,mshahara,錢,nouns,3.46
+860,uhitaji,貧困,adjectives,1.2
+861,wakili,律師,nouns,4.17
+862,kanisa ,教堂,nouns,0.0
+863,kung'ata,咬,verbs,0.38
+864,cd,電腦,nouns,0.89
+865,maharagwe,咖啡,nouns,0.48
+866,mgeni,狡猾,adjectives,0.41
+867,taarifa,書,nouns,0.85
+868,kupokea,收到,verbs,0.68
+869,kusihi,乞求,verbs,4.22
+870,jiji,城市,nouns,4.03
+871,matofaa,醬,nouns,0.23
+872,mvulana,士兵,nouns,0.65
+873,kanali,牙醫,nouns,0.1
+874,kwa usalama,安全地,adverbs,0.46
+875,kirahisi,簡直,adverbs,0.36
+876,daktari,大夫,nouns,5.1
+877,theluji,天氣,nouns,0.53
+878,mlezi,成人,nouns,2.31
+879,kungoja,等待,verbs,0.0
+880,kufika,來,verbs,2.83
+881,mchafuko,混亂,nouns,3.89
+882,mchanga,開心,adjectives,0.15
+883,uwepo,門,nouns,0.0
+884,mhalifu,罪犯,nouns,5.32
+885,mwili,身體,nouns,0.44
+886,usiku huu,今晚,adverbs,1.02
+887,mfupa,頸,nouns,0.47
+888,chumba,床,nouns,0.43
+889,silaha,武器,nouns,1.02
+890,kusahau,原諒,verbs,0.34
+891,filimbi,長笛,nouns,1.27
+892,kufariki,死,verbs,1.45
+893,ushoroba,課堂,nouns,0.04
+894,amani,和平,nouns,0.15
+895,kwenda,發送,verbs,0.05
+896,kuonekana,假扮,verbs,0.33
+897,kengele,塔,nouns,0.33
+898,kujifunza,評估,verbs,0.45
+899,kabla,之前,adverbs,0.1
+900,chafu,亂七八糟,adjectives,0.09
+901,ni dhahiri,明顯地,adverbs,3.6
+902,kufaraja,安慰,verbs,0.0
+903,ziwa,湖,nouns,0.23
+904,mbao,木,nouns,0.0
+905,mwanahabari,記者,nouns,0.24
+906,matofaa,飲食,nouns,0.33
+907,kuondoka,空出,verbs,0.09
+908,mpumbavu,醒目,adjectives,0.38
+909,pasipo tu,被動地,adverbs,0.18
+910,kuachilia,放開,verbs,0.09
+911,kidole gumba,指甲,nouns,1.6
+912,sura,章節,nouns,1.35
+913,uwanja wa ndege,飛機場,nouns,0.0
+914,hadithi,話題,nouns,0.56
+915,kuumba,毀滅,verbs,0.1
+916,kwa umakini,小心地,adverbs,5.27
+917,kawaida,平時,adverbs,0.15
+918,uelekevu,才能,nouns,3.41
+919,kuondoka,留,verbs,0.1
+920,mrefu,短,adjectives,0.18
+921,wingi,許多,nouns,3.17
+922,kujifanya,似乎,verbs,0.33
+923,mbiolojia,生物學家,nouns,0.61
+924,kapeti,屋,nouns,0.33
+925,fitisha,後綴,nouns,0.14
+926,gari,運輸,nouns,1.09
+927,kuruhusu,走,verbs,0.0
+928,ushindi,凱旋,nouns,3.88
+929,divai,酒,nouns,3.69
+930,bizi,忙碌,adjectives,0.14
+931,mwani,草,nouns,2.02
+932,mkopo,信用,nouns,0.64
+933,kichochoro,碗,nouns,0.05
+934,kupuuza,無視,verbs,0.0
+935,usiku,白天,nouns,0.34
+936,kufikiria,拗撬,verbs,0.1
+937,kukuifungia,阻礙,verbs,0.0
+938,shirikisho,結合,nouns,2.69
+939,kufanikiwa,節約,verbs,0.05
+940,jini,精靈,nouns,0.09
+941,zamani,舊,adjectives,0.14
+942,kuku,米飯,nouns,0.33
+943,chafu,亂,adjectives,0.63
+944,kwa kutegemewa,被動地,adverbs,0.0
+945,majani makavu,聖歌,nouns,0.18
+946,mwezi,八月,nouns,2.73
+947,mlango,地窖,nouns,0.09
+948,karne,酒,nouns,0.04
+949,mtindo wa maisha,生活方式,nouns,1.12
+950,mwigizaji,演員,nouns,0.25
+951,kwa ukali,明亮地,adverbs,0.32
+952,mkufunzi,老師,nouns,3.64
+953,usiku,黎明,nouns,0.28
+954,mifugo,羊,nouns,2.6
+955,bila furaha,激氣,adjectives,3.04
+956,kurudisha,恢復,verbs,0.69
+957,kupanguza,抹,verbs,0.09
+958,kaka,男孩,nouns,2.81
+959,kutuma,接收,verbs,0.2
+960,mtoto wa mfalme,新娘,nouns,0.28
+961,kesho,明天,adverbs,0.14
+962,kitanda,睡房,nouns,1.38
+963,kuokoa,保護,verbs,0.78
+964,hematolojia,血液學,nouns,2.77
+965,umri,美人,nouns,0.15
+966,mlango,門口,nouns,3.66
+967,pole,謙虛,adjectives,0.69
+968,uzi,線,nouns,0.0
+969,shati,衫,nouns,2.35
+970,mazishi,死亡,nouns,2.83
+971,hoteli,汽車旅館,nouns,2.66
+972,hakimu mkuu,法官,nouns,4.64
+973,kuwasiliana,祈禱,verbs,0.29
+974,yenye kukwaruza,粗糙地,adverbs,0.72
+975,orodha,名單,nouns,1.08
+976,nyumbani,在家裡,adverbs,0.09
+977,ya uhalisia,本來,adverbs,0.74
+978,waridi,花朵,nouns,3.87
+979,kuumia,傷害,verbs,0.43
+980,mwenye furaha,年輕,adjectives,0.15
+981,gerezani,單身牢房,nouns,1.25
+982,molekuli,分子,nouns,0.46
+983,kuelewa,知道,verbs,4.06
+984,panya,容器,nouns,0.0
+985,mfanyakazi,機器匠,nouns,1.75
+986,mwanaume,勝利者,nouns,0.18
+987,kitanda,幼兒床,nouns,4.03
+988,kuamini,相信,verbs,0.39
+989,mpana,大,adjectives,3.06
+990,sentensi,字,nouns,1.65
+991,kamili,完結,adjectives,4.03
+992,mwenye pupa,幼稚,adjectives,0.09
+993,ana hakika,確定,adjectives,4.84
+994,kukaanga,炒,verbs,2.08
+995,kwa uangalifu,小心地,adverbs,2.84
+996,mtumba,平庸,adjectives,0.15
+997,meya,首領,nouns,2.41
+998,giza kuingia,傍晚,nouns,4.86
+999,kujaribu,想,verbs,0.36
+1000,matofaa,糖果,nouns,0.29
+1001,peni,便士,nouns,0.09
+1002,kufinya,捏,verbs,0.47
+1003,baba,家長,nouns,3.55
+1004,muda mwingine,有時,adverbs,0.02
+1005,fanicha,公寓,nouns,0.23
+1006,kimbiza,追逐,verbs,2.28
+1007,kwa uangalifu,微妙地,adverbs,0.18
+1008,mchana,黎明,nouns,1.88
+1009,mlevi,醉酒,adjectives,0.09
+1010,kuharibu,殺,verbs,1.98
+1011,kuwepo,缺席,nouns,0.24
+1012,kamwe,從未,adverbs,0.0
+1013,kukusanya,出席,verbs,0.47
+1014,nyama ya nguruwe,早餐,nouns,0.63
+1015,teremka,降落,verbs,0.4
+1016,mjinga,笨,adjectives,4.83
+1017,kwa siri,不顯眼地,adverbs,0.04
+1018,kukubaliana,拗撬,verbs,0.15
+1019,chaguo,章,nouns,0.1
+1020,kuchagua,想,verbs,0.54
+1021,kupinga,拗撬,verbs,0.4
+1022,yenye thamani,珍貴,adjectives,0.69
+1023,kichwa,腳,nouns,0.29
+1024,kuonekana,變成,verbs,0.56
+1025,chombo,靜脈,nouns,0.28
+1026,tundu,妻子,nouns,0.0
+1027,ngoma,喇叭,nouns,0.38
+1028,hamu,情緒,nouns,2.44
+1029,msichana,男人,nouns,0.42
+1030,mshindi,存在,nouns,0.1
+1031,kukutokubali,不同意,verbs,0.1
+1032,kubeba,攞,verbs,3.42
+1033,mwanamke,任務,nouns,0.1
+1034,kiambishi,詞綴,nouns,0.14
+1035,shina,樹枝,nouns,0.0
+1036,mjusi,蜥蜴,nouns,2.25
+1037,kahawa,豆,nouns,0.48
+1038,hakika,肯定地,adverbs,1.8
+1039,kukataa,避免,verbs,0.79
+1040,mtakatifu,罪人,nouns,0.1
+1041,kutaka,選擇,verbs,0.54
+1042,ukumbi,大廳,nouns,0.1
+1043,okoa,救援,verbs,5.08
+1044,klabu,社會,nouns,0.34
+1045,uangalifu,興趣,nouns,0.76
+1046,mwili,肩,nouns,0.71
+1047,kitabu,資料,nouns,0.85
+1048,haki ya upigaji kura,選舉權,nouns,0.04
+1049,panya,管理,nouns,0.04
+1050,mzazi,父親,nouns,3.55
+1051,malipo,付款,nouns,0.88
+1052,mpya,古老,adjectives,0.19
+1053,kusikia,聽,verbs,0.71
+1054,cytoplasm,細胞質,nouns,0.0
+1055,runinga,電視,nouns,1.76
+1056,kali,尖,adjectives,0.0
+1057,ana hatia,壞,adjectives,1.18
+1058,kulaani,訓斥,verbs,0.0
+1059,mitishamba,大麻,nouns,1.44
+1060,kambi,艙,nouns,0.43
+1061,kutetemeka,發抖,verbs,0.05
+1062,kutoa,給,verbs,0.1
+1063,chakula cha usiku,餐,nouns,3.46
+1064,blanketi,床,nouns,0.74
+1065,siku ya kuzaliwa,日期,nouns,1.65
+1066,daktari wa meno,牙醫,nouns,4.87
+1067,maskini,貧窮,adjectives,0.0
+1068,kuunda,創建,verbs,4.01
+1069,mjomba,姨媽,nouns,0.43
+1070,oni,信念,nouns,0.5
+1071,endesha,駕駛,verbs,0.04
+1072,samaki,鱒魚,nouns,0.0
+1073,maridadi,精彩,adjectives,0.71
+1074,sio rahisi,不會,adverbs,0.0
+1075,kujiunga,結婚,verbs,0.1
+1076,kusamehe,接受,verbs,0.57
+1077,kumwaga,倒,verbs,0.71
+1078,nje ya ndoa,婚外,adjectives,0.23
+1079,mfanyakazi,工作者,nouns,0.48
+1080,magharibi,北,nouns,0.2
+1081,kudaka,捕獲,verbs,3.53
+1082,mchezaji,女演員,nouns,3.77
+1083,gari,軟管,nouns,0.09
+1084,haramu,不道德,adjectives,2.62
+1085,kutokea kwenye onyesho,客串角色,nouns,0.55
+1086,kemia,理論,nouns,0.29
+1087,hela,珍珠,nouns,0.23
+1088,kuchuma,做,verbs,0.2
+1089,kawaida,普通,adjectives,0.0
+1090,kuamini,接受,verbs,2.56
+1091,chakula cha usiku,雞,nouns,0.39
+1092,ulaghai,騙局,nouns,1.41
+1093,wiki,週末,nouns,2.26
+1094,ukurasa,詞,nouns,0.33
+1095,mkubwa sana,柔韌,adjectives,0.2
+1096,kutoweka,消逝,verbs,5.07
+1097,jicho,眼淚,nouns,1.02
+1098,kwa ulazima,必然,adverbs,0.47
+1099,kuvunja,裂開,verbs,0.5
+1100,maliza,完成,verbs,0.7
+1101,lazima,重要,adjectives,2.99
+1102,mwenye furaha,快樂,adjectives,4.9
+1103,kuonyesha,決定,verbs,0.05
+1104,kutapika,嘔吐,verbs,0.0
+1105,si wa kawaida,奇怪,adjectives,3.42
+1106,mfalme,公主,nouns,2.5
+1107,mzito,大,adjectives,1.32
+1108,lengo,尋求,nouns,0.29
+1109,kuharibu,建造,verbs,0.28
+1110,uwanja wa ndege,飛機,nouns,1.17
+1111,mkubwa mno,笨,adjectives,0.09
+1112,windo,神,nouns,0.0
+1113,nyani,猴子,nouns,0.09
+1114,kubandika,連接,verbs,0.0
+1115,injini,發動機,nouns,1.06
+1116,mfupa,肌肉,nouns,0.43
+1117,mkimbiaji,賽跑運動員,nouns,4.65
+1118,mwembamba,長,adjectives,0.42
+1119,kutaka,想要,verbs,3.82
+1120,nyembamba,瘦,adjectives,4.71
+1121,kwa ukubwa,大規模,adverbs,0.33
+1122,mwanamke,毛,nouns,0.0
+1123,motokaa,車,nouns,5.9
+1124,natanata,黏,adjectives,1.02
+1125,kupunguza,收縮,verbs,3.25
+1126,kwa akili,巧妙,adverbs,0.34
+1127,hali,憤怒,nouns,0.33
+1128,kifundo cha mguu,骨頭,nouns,1.13
+1129,mdogo,巨大,adjectives,0.1
+1130,kujua,相信,verbs,0.63
+1131,wa kitoto,傻,adjectives,3.13
+1132,kuacha,開始,verbs,0.1
+1133,rais,政治家,nouns,3.04
+1134,mhitaji,黏人,adjectives,0.23
+1135,kutafiti,需要,verbs,0.1
+1136,besi,鹼,nouns,1.07
+1137,mbwa,貓,nouns,0.52
+1138,mlezi,母親,nouns,3.25
+1139,kufikiria,決定,verbs,1.32
+1140,inayojulikana,聞名,adjectives,0.5
+1141,kikombe,匙羹,nouns,0.85
+1142,barafu,水,nouns,2.34
+1143,kwa haki,公平,adverbs,0.1
+1144,sakafu,天花板,nouns,0.28
+1145,mkate,小麥粉,nouns,0.92
+1146,mkristo,基督教,nouns,3.93
+1147,kusisitiza,強調,adjectives,0.18
+1148,kutetemeka,震,nouns,3.02
+1149,alama,密碼,nouns,1.41
+1150,chombo,四輪貨運馬車,nouns,0.04
+1151,ofisa,軍官,nouns,0.39
+1152,mbunifu,有創意,adjectives,4.08
+1153,ana shida,容易,adjectives,0.18
+1154,onyesho,模擬,nouns,0.23
+1155,mwajiri,員工,nouns,0.38
+1156,kushauri,推介,verbs,3.5
+1157,shavu,舌頭,nouns,0.38
+1158,kukumbatia,擁抱,verbs,0.1
+1159,hadithi,傳說,nouns,0.04
+1160,samadi,肥料,nouns,0.37
+1161,kulinda,防御,verbs,4.08
+1162,wa upuzi,笨,adjectives,4.77
+1163,wa kigeni,稀有,adjectives,0.14
+1164,kifo,葬禮,nouns,2.83
+1165,ua,紫羅蘭,nouns,3.87
+1166,divai,酒,nouns,3.92
+1167,kumomonyoka,侵蝕,verbs,0.07
+1168,kukua,成長,verbs,1.21
+1169,kuhisi,感覺到,verbs,0.39
+1170,areyi,陣列,nouns,1.08
+1171,kukua,收縮,verbs,0.05
+1172,mwembamba,寬廣,adjectives,0.18
+1173,gari,高速公路,nouns,0.71
+1174,mwanaume,叔叔,nouns,2.38
+1175,ufuko,海,nouns,2.53
+1176,kuvuta,拉,verbs,0.64
+1177,ustaarabu,文明,nouns,1.12
+1178,kwa juhudi,積極地,adverbs,0.75
+1179,kimsingi,實質上,adverbs,0.52
+1180,kufundisha,教,verbs,0.43
+1181,farasi,母馬,nouns,3.77
+1182,wazi,公開地,adverbs,0.33
+1183,kupata,獲得,verbs,0.33
+1184,hasira,狂怒,nouns,4.49
+1185,kirafiki,友好,adverbs,0.0
+1186,mtindo,時裝,nouns,0.7
+1187,kuanguka,跌,verbs,0.43
+1188,kuharibu,創建,verbs,0.1
+1189,ngumu,生硬,adjectives,0.15
+1190,kumbatia,擁抱,verbs,4.92
+1191,kuazima,想要,verbs,0.39
+1192,chungu,螞蟻,nouns,0.61
+1193,msalaba,十字架,nouns,0.14
+1194,ana aibu,謙虛,adjectives,0.18
+1195,mkoa,地區,nouns,4.19
+1196,pombe,樂隊,nouns,0.05
+1197,kufuma,編織,verbs,0.05
+1198,bunduki,人,nouns,0.33
+1199,chumba cha kulala,肚,nouns,0.04
+1200,nia,意圖,nouns,1.35
+1201,kusahau,提醒,verbs,0.1
+1202,jua,天空,nouns,1.01
+1203,ngumu,簡單,adjectives,0.1
+1204,kuapa,發誓,verbs,3.97
+1205,wa kuchekesha,傷心,adjectives,0.1
+1206,hakika,當然,adverbs,4.47
+1207,bila jasho,困難,adjectives,0.14
+1208,chauvinist,沙文主義,nouns,2.69
+1209,brandi,紅酒,nouns,3.29
+1210,kifo,悲劇,nouns,1.49
+1211,upasuaji,心臟,nouns,0.67
+1212,mzinga,球,nouns,0.19
+1213,kutoa harufu,發出惡臭,verbs,2.13
+1214,takriban,大致,adverbs,0.23
+1215,kutafuta,消失,verbs,0.1
+1216,daraja,卡,nouns,0.1
+1217,kuchapa,打中,verbs,0.04
+1218,ukurasa,段,nouns,0.23
+1219,kutoa suluhisho,解決,verbs,2.31
+1220,kwa wiki,每週,adjectives,0.78
+1221,teksi,車,nouns,4.24
+1222,dukedom,公國,nouns,1.51
+1223,hosteli,小旅館,nouns,2.66
+1224,senti,尺寸,nouns,0.1
+1225,kugundua,探索,verbs,2.67
+1226,habari,流言蜚語,nouns,1.01
+1227,makaa ya mawe,木炭,nouns,3.48
+1228,nzi,蒼蠅,nouns,0.61
+1229,sisimsha,刺激,adjectives,0.18
+1230,kuzorota,熵,nouns,0.09
+1231,daktari,正牙醫生,nouns,3.04
+1232,mtindo,優雅,nouns,0.52
+1233,kiurahisi,容易地,adverbs,0.37
+1234,boti,錨,nouns,0.82
+1235,mchafu,淫賤,adjectives,0.33
+1236,takatifu,神聖,adjectives,1.34
+1237,mshukiwa,嫌疑人,nouns,0.18
+1238,makubaliano,條件,nouns,0.83
+1239,habari,信息,nouns,0.09
+1240,tuni,歌曲,nouns,3.53
+1241,ufadhili wa elimu,獎學金,nouns,1.31
+1242,peninsula,半島,nouns,1.54
+1243,nyama ya ng'ombe,牛肉,nouns,3.24
+1244,jamii,社會,nouns,1.11
+1245,kamera,相機,nouns,0.04
+1246,balaa,意外,nouns,2.41
+1247,meteor,流星,nouns,0.28
+1248,imani,花,nouns,0.05
+1249,nyama,血液,nouns,0.83
+1250,uboho,血液,nouns,0.62
+1251,mkono,手臂,nouns,0.0
+1252,kufanya,發生,verbs,0.24
+1253,mungu,魔鬼,nouns,0.04
+1254,tabibu,醫生,nouns,5.1
+1255,mtengenezaji,創造者,nouns,4.54
+1256,mfanyakazi wa nyumbani,女孩,nouns,0.57
+1257,biashara,公司,nouns,3.3
+1258,ukuta,磚,nouns,1.31
+1259,kutuma,走,verbs,0.05
+1260,kwa ulinzi,安全地,adverbs,2.84
+1261,ngozi,皮膚,nouns,0.04
+1262,kuamua,選擇,verbs,1.47
+1263,bendi,管弦樂隊,nouns,4.27
+1264,kuchukua,攜帶,verbs,3.42
+1265,kinywa,鼻子,nouns,0.34
+1266,kuhitaji,安排,verbs,0.19
+1267,kifungo,衣服,nouns,0.71
+1268,kufikiria,嘗試,verbs,0.36
+1269,ziwa,沼澤,nouns,2.67
+1270,gogo,木材,nouns,2.98
+1271,shambulio,攻擊,nouns,0.96
+1272,ana wazimu,生病,adjectives,0.24
+1273,brandi,酒,nouns,3.32
+1274,kumiliki,吸收,verbs,0.18
+1275,mzizi,草,nouns,0.43
+1276,basilika,教堂,nouns,0.05
+1277,chozi,眼睛,nouns,1.02
+1278,kufunika,冚住,verbs,1.7
+1279,mzigo,沉重,adjectives,1.26
+1280,mkono,手腕,nouns,0.77
+1281,kochi,棒球,nouns,0.0
+1282,kichaka,花,nouns,1.11
+1283,giligili,星系,nouns,0.0
+1284,taarifa,報紙,nouns,2.37
+1285,mbinu,槍,nouns,0.05
+1286,kwa fadhili,慷慨地,adverbs,2.83
+1287,lazima,不需要,adjectives,0.1
+1288,tenisi,網球,nouns,0.0
+1289,safi,清潔,adjectives,0.29
+1290,wikendi,星期,nouns,2.26
+1291,kupanda,爬,verbs,0.41
+1292,kuharibu,做,verbs,0.18
+1293,mfanyakazi,雇主,nouns,0.57
+1294,kuambatisha,加入,verbs,0.86
+1295,nguvu,威力,nouns,3.53
+1296,katuni,插圖,nouns,0.04
+1297,kutiachaji,收費,verbs,0.3
+1298,sehemu,插曲,nouns,1.35
+1299,ukucha,拇指,nouns,1.6
+1300,mchezo,行動,nouns,0.77
+1301,mpumbavu,蠢,adjectives,0.68
+1302,kwelikweli,現實地,adverbs,0.32
+1303,kiunga,果園,nouns,0.0
+1304,kupotea,搵到,verbs,0.1
+1305,mimea,植物群,nouns,0.79
+1306,kubwa,大規模,adjectives,0.18
+1307,mkono,肌肉,nouns,0.43
+1308,vitamini,鐵,nouns,0.14
+1309,uharibifu,建造,nouns,0.18
+1310,protini,蛋白質,nouns,0.2
+1311,kulia,哭,verbs,2.74
+1312,wafanyakazi,員工,nouns,0.33
+1313,alumini,鋁,nouns,2.36
+1314,kwa sasa,目前,adverbs,0.18
+1315,gombo,大薄片,nouns,0.36
+1316,muhula,學期,nouns,4.63
+1317,ndege,飛行,nouns,3.58
+1318,mbutu,尖,adjectives,0.14
+1319,kufariki,死,verbs,0.0
+1320,kulalamika,拗撬,verbs,0.59
+1321,mahabusu,房間,nouns,0.53
+1322,wa haraka,迅速,adjectives,5.08
+1323,damu,骨髓,nouns,0.62
+1324,mke,沖涼,nouns,0.04
+1325,kuwa,似乎,verbs,0.56
+1326,wimbo,歌曲,nouns,0.25
+1327,imani,意見,nouns,0.5
+1328,mpira wa maji,花園,nouns,0.1
+1329,rabai,部長,nouns,0.45
+1330,kupanga,井井有條,verbs,0.04
+1331,profesa,學生,nouns,0.43
+1332,kujiunga,參與,verbs,4.83
+1333,jeshi,海軍,nouns,3.63
+1334,ana hasira,不開心,adjectives,3.04
+1335,dune,沙丘,nouns,2.28
+1336,kaskazini,西方,nouns,0.2
+1337,blanketi,毯,nouns,0.0
+1338,kuwazia,創建,verbs,0.09
+1339,vampire,吸血殭屍,nouns,0.95
+1340,kwa kukadiria,大致,adverbs,0.64
+1341,kushuhudia,作證,verbs,0.2
+1342,kufafanua,說明,verbs,4.12
+1343,kiukweli,真實地,adverbs,0.23
+1344,kifundo cha mguu,窗口,nouns,0.09
+1345,nguo,抽屜,nouns,0.57
+1346,wa kawaida,奇怪,adjectives,0.24
+1347,kujaribu,實現,verbs,0.43
+1348,ghadhabu,生氣,nouns,4.49
+1349,mwanafunzi,學生,nouns,1.01
+1350,kuweka,擁有,verbs,0.98
+1351,farasi wa kike,馬,nouns,3.77
+1352,ustadi,智力,nouns,2.25
+1353,ufuko,島,nouns,0.76
+1354,mnyama,貓,nouns,2.96
+1355,imani,概念,nouns,0.95
+1356,mchangamfu,開心,adjectives,4.9
+1357,labda,大概,adverbs,0.36
+1358,mapambo,裝飾,nouns,0.0
+1359,uma,咬,verbs,0.09
+1360,darubini,望遠鏡,nouns,0.04
+1361,mwendelezo,續集,nouns,0.04
+1362,sitaha,船,nouns,0.66
+1363,kulinda,救,verbs,0.78
+1364,kusukuma,推,verbs,0.23
+1365,kujadili,辯論,verbs,0.76
+1366,mbaya,極好,adjectives,0.04
+1367,njia kuu,車,nouns,0.71
+1368,kudaiwa,進入,verbs,0.0
+1369,hodari,笨,adjectives,0.38
+1370,mshindi,候選人,nouns,0.96
+1371,kilimo,農業,nouns,1.81
+1372,zizi,柵欄,nouns,0.72
+1373,kuweka,掛,verbs,0.46
+1374,shangazi,侄子,nouns,0.69
+1375,mvua,薄霧,nouns,0.42
+1376,poa,攞命,adjectives,0.14
+1377,sura,選擇,nouns,0.1
+1378,kusuuza,沖洗,verbs,4.05
+1379,inflection,詞性變化,nouns,0.84
+1380,shida,努力,nouns,0.15
+1381,kwa umakini,認真地,adverbs,2.79
+1382,kaliba,品質,nouns,0.0
+1383,kushtaki,指控,verbs,0.89
+1384,pamba,聚酯纖維,nouns,0.28
+1385,bakuli,碟,nouns,2.73
+1386,mguu,頭,nouns,0.29
+1387,sigara,煙鬥,nouns,0.18
+1388,dereva,飛行員,nouns,3.06
+1389,tetemeko la ardhi,地震,nouns,3.02
+1390,chenye umeme,電動,adjectives,0.0
+1391,kuvyombo vya habari,按下,verbs,0.09
+1392,kosa,犯罪,nouns,3.29
+1393,toleo,給予,nouns,2.85
+1394,mwajiri,工作者,nouns,0.57
+1395,kucheka,大笑,verbs,0.11
+1396,mpya,新,adjectives,4.68
+1397,safi,瘋狂,adjectives,0.28
+1398,basi,的士,nouns,2.47
+1399,wa kuchosha,好笑,adjectives,0.1
+1400,nyasi,根,nouns,0.43
+1401,kanda,地區,nouns,4.45
+1402,shower,沖涼,nouns,0.0
+1403,baridi,易損壞,adjectives,0.1
+1404,kitanda,醫院,nouns,0.34
+1405,alfajiri,白天,nouns,1.88
+1406,kampeni,参加競選,nouns,0.09
+1407,kuimba,唱,verbs,0.0
+1408,kuwa,組織,verbs,0.19
+1409,kuongeza,加劇,verbs,0.04
+1410,kujipendekeza,求情,verbs,0.43
+1411,menejimenti,管理,nouns,3.29
+1412,uwasho,濕疹,nouns,3.17
+1413,sitaha,老鼠,nouns,0.04
+1414,kutelekeza,斷絕父子關係,verbs,0.1
+1415,udanganyifu,犯罪,nouns,2.87
+1416,mjumuiko,組合,nouns,2.69
+1417,urefu,高度,nouns,0.04
+1418,kuzungumza,聽見,verbs,0.29
+1419,muffini,瑪芬,nouns,0.04
+1420,chati,圖表,nouns,3.06
+1421,mwamvuli,遮,nouns,0.04
+1422,kuunda,加,verbs,0.42
+1423,kwa ukarimu,慷慨地,adverbs,0.04
+1424,sare,制服,nouns,0.03
+1425,kunywa,喝,verbs,0.8
+1426,puto,人,nouns,0.0
+1427,mazingira,環境,nouns,0.0
+1428,mawasiliano,電視,nouns,0.74
+1429,kwa siri,偷偷,adverbs,0.05
+1430,kuchorachora,寫,verbs,3.02
+1431,meza,表,nouns,0.0
+1432,fizi,口香糖,nouns,0.18
+1433,saizi,量,nouns,4.22
+1434,kanisa,教堂,nouns,4.83
+1435,mbovu,傷心,adjectives,0.24
+1436,muumbaji,製作者,nouns,4.54
+1437,pilipili,辣,adjectives,0.04
+1438,kwa ghadhabu,猛烈地,adverbs,0.39
+1439,kusali,溝通,verbs,0.29
+1440,somo la tabia,行動主義,nouns,0.15
+1441,darubini,顯微鏡,nouns,0.61
+1442,siki,沙拉,nouns,0.33
+1443,kuimba,唱,verbs,0.18
+1444,kengele,門,nouns,0.43
+1445,upande,頂,nouns,0.47
+1446,mvuto,地心吸力,nouns,0.28
+1447,wa kirafiki,大方,adjectives,2.29
+1448,bakuli,尾巴,nouns,0.0
+1449,katiba,憲法,nouns,0.59
+1450,kanusho,坦白,nouns,0.33
+1451,tafuta,搜索,verbs,0.88
+1452,kwa vurugu,混亂,adverbs,0.0
+1453,baseball,沙發,nouns,0.0
+1454,kuumba,想像,verbs,0.09
+1455,televisheni,溝通,nouns,0.74
+1456,kwa hisia,感情上,adverbs,1.02
+1457,kubainisha,預測,verbs,0.24
+1458,kwa ukamilifu,十足地,adverbs,0.15
+1459,paa,天花板,nouns,3.79
+1460,opera,歌劇,nouns,2.02
+1461,mwili,手臂,nouns,1.36
+1462,utajiri,名譽,nouns,0.42
+1463,kutoka,移動,verbs,0.05
+1464,mbivu,舊,adjectives,0.05
+1465,kubwa,大,adjectives,0.05
+1466,mjeuri,嬲,adjectives,0.92
+1467,mlango,鐘,nouns,0.43
+1468,kupungua,消失,verbs,0.81
+1469,mkono,靜脈,nouns,0.34
+1470,mtaalamu wa meno,正牙醫生,nouns,4.87
+1471,kupa,拒絕,verbs,0.05
+1472,mkubwa sana,大,adjectives,3.49
+1473,damu,肉,nouns,0.83
+1474,mwanga,光,nouns,0.09
+1475,baridi,冷,adjectives,0.0
+1476,polisi,警察,nouns,0.04
+1477,kusikia,聽,verbs,4.5
+1478,kuhakikisha,說,verbs,0.05
+1479,mamba,鱷魚,nouns,2.25
+1480,haijulikani,不清楚,adjectives,4.53
+1481,kuhairisha,休會,verbs,0.7
+1482,kitanda,毯子,nouns,0.74
+1483,kulea,提高,verbs,0.0
+1484,jeshi la wanamaji,軍隊,nouns,3.63
+1485,klabu,俱樂部,nouns,0.04
+1486,tofauti,不同的,adverbs,0.44
+1487,damu,血液,nouns,0.52
+1488,weledi,學院,nouns,0.39
+1489,oni,主意,nouns,5.02
+1490,kwa ulaini,輕輕的,adverbs,0.04
+1491,bahasha,信封,nouns,0.0
+1492,kuchukia,蔑視,verbs,0.3
+1493,gari la farasi,汽車,nouns,1.09
+1494,mtoto mchanga,成人,nouns,0.28
+1495,kuchukua,收到,verbs,3.63
+1496,pamba,棉,nouns,0.38
+1497,kusahau,知道,verbs,0.1
+1498,kukinga,殺,verbs,0.05
+1499,kupokea,給予,verbs,0.48
+1500,kamwe,從未,adjectives,0.22
+1501,pesa,現金,nouns,5.54
+1502,kutoamini dini,虛無主義,nouns,0.09
+1503,matumbo,神經,nouns,0.29
+1504,wali,豆,nouns,0.53
+1505,haribu,毀滅,verbs,1.13
+1506,glavu,球,nouns,0.79
+1507,adili,道德,nouns,0.04
+1508,mshindi,冠軍,nouns,4.78
+1509,kuku,火雞,nouns,1.54
+1510,elimu ya bendera,旗幟學,nouns,1.01
+1511,leo usiku,今晚,adverbs,0.14
+1512,alfajiri,晚上,nouns,0.28
+1513,kustaafu,退休,verbs,0.38
+1514,mzigo,行李,nouns,0.23
+1515,wasio na makazi,無家可歸,nouns,0.04
+1516,sayari,月亮,nouns,1.92
+1517,mantiki,智力,nouns,2.86
+1518,mti,樹,nouns,0.04
+1519,mwavuli,遮,nouns,0.0
+1520,mwendo,速度,nouns,0.0
+1521,pathojeni,病原,nouns,2.46
+1522,umoja,和聲,nouns,0.32
+1523,ana hakika,自信,adjectives,3.75
+1524,kusahau,無視,verbs,2.13
+1525,kujiweka mbali,避免,verbs,0.98
+1526,makanika,工人,nouns,1.75
+1527,korido,門,nouns,0.43
+1528,mbao,原木,nouns,2.98
+1529,ana hasira,開心,adjectives,0.6
+1530,nanasi,菠蘿,nouns,0.0
+1531,watu,人口,nouns,3.1
+1532,kujifunza,學習,verbs,1.63
+1533,mshipa,手臂,nouns,0.34
+1534,hadhi,尊嚴,nouns,0.28
+1535,ofisi,辦公室,nouns,0.48
+1536,kiti,長凳,nouns,3.98
+1537,mwili,胸部,nouns,1.81
+1538,jamii,俱樂部,nouns,0.34
+1539,kusimikwa ufalme,加冕禮,nouns,0.0
+1540,puto,沖涼,nouns,0.0
+1541,karatasi,硬紙板,nouns,2.13
+1542,bia,酒,nouns,4.59
+1543,wa tano,第五,adjectives,0.09
+1544,kuonyesha,假扮,verbs,0.24
+1545,kugeuza,更改,verbs,4.74
+1546,kuandaa,需要,verbs,0.19
+1547,kiungo,肝臟,nouns,2.47
+1548,mlango,存在,nouns,0.0
+1549,ajali,意外,nouns,0.0
+1550,mara kwa mara,經常地,adverbs,0.63
+1551,kiuno,一餐,nouns,0.0
+1552,kwenda,來,verbs,0.18
+1553,tofauti,正常,adjectives,0.1
+1554,rasmi,正式,adverbs,0.32
+1555,tramu,電車,nouns,2.27
+1556,mahakama,法庭,nouns,2.27
+1557,kuuma,傷害,verbs,0.14
+1558,kileo,啤酒,nouns,4.59
+1559,njia,走道,nouns,0.1
+1560,tendo,課程,nouns,0.48
+1561,shangazi,叔叔,nouns,0.43
+1562,poa,壞,adjectives,0.1
+1563,kuiba,偷,verbs,1.08
+1564,kwenda,賣,verbs,0.04
+1565,kukimbiza,追逐,verbs,0.38
+1566,subroutine,子程序,nouns,0.18
+1567,nyama,肉,nouns,3.24
+1568,gazeti,資料,nouns,2.37
+1569,waya,軟線,nouns,0.43
+1570,chagua,挑選,verbs,4.73
+1571,kuchagua,選擇,verbs,4.73
+1572,kuazima,保持,verbs,0.05
+1573,mbaya,攞命,adjectives,1.02
+1574,kusimama,站立,verbs,0.23
+1575,maji,冰,nouns,2.34
+1576,mpira,球,nouns,1.88
+1577,simamia,監控,nouns,0.23
+1578,hadithi,故事,nouns,0.0
+1579,mtu mzima,家長,nouns,2.99
+1580,mifugo,家牛,nouns,0.23
+1581,hivi karibuni,最近,adverbs,0.32
+1582,kupuuza,忘記,verbs,2.13
+1583,chokoleti,派,nouns,0.58
+1584,kugonga,撞,verbs,2.54
+1585,ujenzi,毀滅,nouns,0.18
+1586,nyekundu,紅色,adjectives,0.39
+1587,panga,组织,verbs,1.69
+1588,karamu,餐,nouns,3.16
+1589,kupata,搵到,verbs,0.0
+1590,kwa uhalisia,自然地,adverbs,0.34
+1591,fahali,小牛,nouns,2.78
+1592,sawa,一致地,adverbs,0.04
+1593,kufunga,關閉,verbs,0.0
+1594,simu mahiri,手機,nouns,0.0
+1595,mwendesha mashtaka,檢察官,nouns,3.62
+1596,kisiwa,公主,nouns,0.0
+1597,mifugo,牛,nouns,3.44
+1598,darasa,走廊,nouns,0.04
+1599,mahadhi,韻律,nouns,0.77
+1600,kupinga,批評,verbs,0.33
+1601,bega,身體,nouns,0.71
+1602,vector,向量,nouns,0.97
+1603,kitofauti,不同,adverbs,0.04
+1604,wa kuonekana,明顯,adjectives,5.0
+1605,kujitokeza,出席,verbs,3.48
+1606,ana ajabu,靚,adjectives,0.71
+1607,mpiga mishale,射手,nouns,0.04
+1608,jimbo,家,nouns,0.15
+1609,mtu,動物,nouns,0.43
+1610,misuli,骨頭,nouns,0.43
+1611,sweta,褸,nouns,3.21
+1612,halali,合法,adjectives,1.53
+1613,mjusi,蜥蜴,nouns,0.3
+1614,nyundo,鎚,nouns,0.04
+1615,kuvunga,绑,verbs,0.65
+1616,kuondoka,進入,verbs,0.1
+1617,shampeni,啤酒,nouns,2.91
+1618,nguzo,窗帘,nouns,0.18
+1619,kukiri,否認,nouns,0.33
+1620,ufuko,暗礁,nouns,0.43
+1621,kuchukua,交付,verbs,0.65
+1622,kuitikia,接受,verbs,4.25
+1623,bahari,河流,nouns,2.29
+1624,uma,受傷,verbs,0.14
+1625,kuenea,傳播,verbs,0.48
+1626,ana hatia,誠實,adjectives,0.24
+1627,kuwa,出現,verbs,0.73
+1628,saa,手錶,nouns,0.09
+1629,sosi,蘋果,nouns,0.23
+1630,kwa haraka,迅速地,adverbs,4.26
+1631,idadi ya watu,人,nouns,3.1
+1632,inawezekana,可行,adjectives,0.19
+1633,mshipa,選擇,nouns,0.1
+1634,mpira wa wavu,排球,nouns,3.09
+1635,kamba,電線,nouns,0.43
+1636,kuzika,埋葬,verbs,2.53
+1637,kuharibu,溺愛,verbs,0.0
+1638,nyuki,螞蟻,nouns,1.12
+1639,likizo,假日,nouns,0.37
+1640,leo,今天,adverbs,1.02
+1641,kufika,離開,verbs,0.05
+1642,biolojia,生物學,nouns,0.48
+1643,kusherekea,慶祝,verbs,0.04
+1644,chaja,充電器,nouns,0.0
+1645,jadiliano,談判,nouns,1.89
+1646,kuamua,描繪,verbs,0.05
+1647,kubadilisha,改變,verbs,4.74
+1648,huzuni,悲傷,nouns,0.19
+1649,mbinu,尺寸,nouns,0.0
+1650,mkokoteni,馬車,nouns,3.9
+1651,sensa,傳感器,nouns,0.67
+1652,bila shaka,肯定,adjectives,4.84
+1653,bodi mama(mama as central),主機板,nouns,4.17
+1654,adimu,異國情調,adjectives,0.14
+1655,yenye pindo,彎曲,adjectives,0.05
+1656,daktari wa meno,上校,nouns,0.1
+1657,kuhudhuria,來,verbs,2.91
+1658,kuamua,決定,verbs,2.8
+1659,inayochekesha,有趣,adjectives,0.09
+1660,bakuli,小巷,nouns,0.05
+1661,bahari,海,nouns,0.99
+1662,kutengeneza,創建,verbs,0.16
+1663,kwa kujitegemea,獨立地,adverbs,1.14
+1664,maporomoko ya theluji,雪崩,nouns,2.83
+1665,koo,鼻子,nouns,0.48
+1666,kijanja,微妙地,adverbs,0.04
+1667,manyunyu,雨,nouns,4.43
+1668,kubisha,拗撬,verbs,0.28
+1669,kwa upole,輕輕的,adverbs,0.14
+1670,mpira,手套,nouns,0.79
+1671,kuchuma,值得,verbs,0.19
+1672,kurudia,撤退,verbs,0.04
+1673,bibi,先生,nouns,0.61
+1674,kuomba,懇求,verbs,4.22
+1675,maji,鹽,nouns,0.15
+1676,msimu wa baridi,夏天,nouns,0.24
+1677,kujenga,毀滅,verbs,0.28
+1678,ishara,標識,nouns,0.04
+1679,jukumu,稻草,nouns,0.0
+1680,kuiga,描繪,verbs,1.5
+1681,pigo,算術,nouns,0.0
+1682,kadibodi,紙,nouns,2.13
+1683,nyama,牛扒,nouns,4.54
+1684,kua na aibu,慚愧,adjectives,0.04
+1685,kusali,問,verbs,0.43
+1686,gari,街,nouns,0.32
+1687,kibanda,棚屋,nouns,0.15
+1688,dola,元,nouns,0.93
+1689,kifunguo,锁匙,nouns,0.04
+1690,ana kujiamini,肯定,adjectives,3.75
+1691,kushinda,成功,verbs,4.59
+1692,mtoto wa mfalme,國王,nouns,2.5
+1693,sarafu,貨幣,nouns,0.16
+1694,bwana,女士,nouns,0.61
+1695,mgeni,外國人,nouns,0.14
+1696,kuangaza,照耀,verbs,3.42
+1697,nyama ya nguruwe,豆,nouns,0.1
+1698,koti,帽子,nouns,0.43
+1699,mkweli,內疚,adjectives,0.24
+1700,mwanafunzi,小學生,nouns,3.7
+1701,sio salama,缺乏信心,adjectives,0.23
+1702,ana akili,笨,adjectives,0.1
+1703,jinzi,牛仔褲,nouns,0.09
+1704,kukusanya,收集,verbs,1.69
+1705,ukweli,證明,nouns,1.35
+1706,huzuni,傷心,adjectives,0.0
+1707,kutumbuiza,演出,verbs,0.05
+1708,paa,地板,nouns,0.18
+1709,chumba,房間,nouns,0.58
+1710,asiye na hatia,天,adjectives,0.09
+1711,sime,劍,nouns,0.0
+1712,mkokoteni,容器,nouns,0.04
+1713,kofia,大褸,nouns,0.43
+1714,kununua,購買,verbs,2.93
+1715,mwembamba,髒,adjectives,0.0
+1716,mshahara,費用,nouns,0.74
+1717,kukanusha,反駁,verbs,0.0
+1718,kusihi,請,verbs,0.43
+1719,fora,勝利,nouns,3.88
+1720,rabai,老師,nouns,1.2
+1721,kutoroka,逃走,verbs,4.73
+1722,kikao,複診,nouns,0.32
+1723,kitanda cha mtoto,床,nouns,4.03
+1724,ngano,燕麥,nouns,0.41
+1725,kuchora,畫,verbs,0.28
+1726,msumari,頭,nouns,0.15
+1727,kujulisha,通知,verbs,5.29
+1728,peremende,蘋果,nouns,0.29
+1729,kisiwa,島,nouns,0.77
+1730,tegemea,依靠,verbs,0.1
+1731,dhaifu,弱,adjectives,0.04
+1732,fulana,開襟衫,nouns,2.35
+1733,kwa usahihi,準確地,adverbs,0.75
+1734,kwa ubaya,糟糕,adverbs,0.14
+1735,dari,地板,nouns,0.28
+1736,pwani,海岸,nouns,0.15
+1737,kwa karibu,緊密地,adverbs,0.0
+1738,kibinafsi,個人,adjectives,0.05
+1739,kuchambua,學習,verbs,0.45
+1740,mvua,毛毛雨,nouns,4.43
+1741,kutengeneza,毀滅,verbs,0.18
+1742,kuchanganya,迷惑,verbs,0.0
+1743,jeshi la wanamaji,海軍,nouns,0.0
+1744,filamu,電影,nouns,4.67
+1745,nyumba,州,nouns,0.15
+1746,mara kwa mara,頻繁,adjectives,0.04
+1747,kwa umuhimu,重要地,adverbs,0.23
+1748,kopo,罐,nouns,2.13
+1749,kuchanganya,混合,verbs,0.07
+1750,mtaalamu wa sauti,歌手,nouns,0.33
+1751,muwa,甘蔗,nouns,0.0
+1752,machweo,傍晚,nouns,4.88
+1753,ngombe,家牛,nouns,3.44
+1754,mvulana,女孩,nouns,0.42
+1755,kuzidisha,除,verbs,0.14
+1756,pwani,濱,nouns,3.5
+1757,kukataa,退出,verbs,0.04
+1758,kijana,女兒,nouns,1.75
+1759,ndoto,現實,nouns,0.41
+1760,molekuli,空氣,nouns,0.52
+1761,kupendekeza,接受,verbs,0.25
+1762,kihalisia,現實地,adverbs,0.39
+1763,uzio,籬笆,nouns,0.0
+1764,kisasa,複雜,adjectives,0.28
+1765,kuburudisha,使滿意,verbs,0.04
+1766,waridi,玫瑰,nouns,0.1
+1767,kuharibu,毀滅,verbs,0.04
+1768,kuweka,給,verbs,0.19
+1769,mpumbavu,傻,adjectives,4.77
+1770,uhalifu,犯罪,nouns,0.96
+1771,penseli,鉛筆,nouns,0.0
+1772,kabati,衣服,nouns,0.57
+1773,enye ukweli,真實,adjectives,0.1
+1774,mkono,腳,nouns,1.31
+1775,mvulana,米飯,nouns,0.04
+1776,mkono,膝蓋,nouns,0.38
+1777,upande wowote,中性,adjectives,0.37
+1778,nguo,大褸,nouns,2.58
+1779,kuuza,走,verbs,0.04
+1780,kukondoa macho,怒視,verbs,0.2
+1781,hasi,否定,adjectives,0.6
+1782,jeuri,無禮貌,adjectives,0.71
+1783,mama,爸爸,nouns,1.11
+1784,kukataa,否認,verbs,0.18
+1785,kusamehe,明白,verbs,0.28
+1786,kwa uwajibikaji,負責可靠地,adverbs,1.14
+1787,kusumbua,刺激,verbs,0.18
+1788,kushindana,競爭,verbs,0.19
+1789,dirisha,窗口,nouns,0.37
+1790,utulivu,冷靜,adjectives,0.51
+1791,kurudisha,代替,verbs,0.51
+1792,chini,上面,nouns,0.1
+1793,mkubwa,寬廣,adjectives,3.06
+1794,kuzorota,惡化,verbs,0.09
+1795,bodi kuu,主板,nouns,4.17
+1796,kutokomaa,未成熟的,adjectives,0.2
+1797,mluzi,哨,verbs,0.14
+1798,mtoto wa mfalme,國王,nouns,2.63
+1799,chaguo,意見,nouns,1.26
+1800,nyenyekevu,謙虛,adjectives,5.18
+1801,kutoa,退出,verbs,0.38
+1802,chaguo,靜脈,nouns,0.1
+1803,kupuuza,探索,verbs,0.05
+1804,mwanga wa jua,蘋果,nouns,0.05
+1805,mwanajeshi,士兵,nouns,0.15
+1806,mawasiliano,語言,nouns,1.88
+1807,utambuzi,視力,nouns,1.45
+1808,bendera,旗,nouns,1.01
+1809,mpya,舊,adjectives,0.14
+1810,ya zamani,新,adjectives,0.14
+1811,kaka,靈魂,nouns,0.05
+1812,akustik,聲學,nouns,3.13
+1813,mjinga,無知,adjectives,0.04
+1814,kulinda,保持,verbs,0.38
+1815,kuni,原木,nouns,4.22
+1816,kiti,椅子,nouns,3.73
+1817,kuondoka,徘徊,verbs,0.44
+1818,msimu wa baridi,季節,nouns,2.63
+1819,mwendo,行動,nouns,0.48
+1820,kuchunguza,檢查,verbs,4.58
+1821,ushahidi,事實,nouns,1.35
+1822,kwa uangalifu,謹慎地,adverbs,5.27
+1823,maski,面具,nouns,0.18
+1824,nyumba,大廈,nouns,0.0
+1825,malengelenge,起泡,nouns,0.04
+1826,kuwa nyororo,扼殺,verbs,0.04
+1827,kunusa,聞,verbs,0.0
+1828,rahisi,大,adjectives,0.05
+1829,jeuri,無禮貌,adjectives,0.3
+1830,jaketi,衣服,nouns,3.56
+1831,kwa sauti,大聲地,adverbs,0.46
+1832,mashine,引擎,nouns,2.99
+1833,tini,錫,nouns,2.29
+1834,mwanasheria,律師,nouns,0.0
+1835,juisi,牛奶,nouns,0.57
+1836,kuhakikisha,辯解,verbs,0.24
+1837,mwerevu,堅固,adjectives,0.35
+1838,jiko,洗手間,nouns,0.28
+1839,gitaa,吉他,nouns,0.0
+1840,plastiki,棉,nouns,0.28
+1841,insilia,徽章,nouns,0.28
+1842,poa,精彩,adjectives,0.88
+1843,mita,碼,nouns,2.64
+1844,asali,糖,nouns,2.48
+1845,ana wasiwasi,不耐煩,adjectives,3.98
+1846,mwenye furaha,瘋狂,adjectives,0.6
+1847,mwimbaji,歌手,nouns,0.46
+1848,mada,書,nouns,0.2
+1849,shingo,手臂,nouns,0.43
+1850,bunduki,大炮,nouns,1.94
+1851,manyoya,槍,nouns,0.04
+1852,wimbi,波浪,nouns,0.45
+1853,mchezaji,播放機,nouns,0.6
+1854,mlangoni,門,nouns,3.66
+1855,kusimamisha,停止,verbs,1.57
+1856,mgando,乳酪,nouns,0.23
+1857,nadhifu,乾淨,adjectives,4.83
+1858,kukutana,打招呼,verbs,0.86
+1859,picha,主意,nouns,0.6
+1860,mwalimu,教練,nouns,3.64
+1861,kizuizi,籠子,nouns,0.72
+1862,ukame,乾旱,nouns,0.2
+1863,kuondoka,無視,verbs,0.24
+1864,katoni,艙,nouns,0.15
+1865,kutikisa,搖動,verbs,0.0
+1866,kuua,絞刑,verbs,3.74
+1867,msaidizi,老師,nouns,0.53
+1868,mkorofi,和藹,adjectives,0.05
+1869,pigana,搏鬥,verbs,0.38
+1870,mbegu,種子,nouns,0.24
+1871,meli ya vita,小炮艦,nouns,0.15
+1872,mkosaji,犯罪者,nouns,5.32
+1873,hakika,自己,nouns,0.47
+1874,mkubwa mno,小,adjectives,0.1
+1875,mwalimu,朋友,nouns,0.66
+1876,kuoga,房間,nouns,0.33
+1877,kutoa,拒絕,verbs,0.04
+1878,honi,車,nouns,0.39
+1879,mwaka,年,nouns,0.81
+1880,kujumlisha,除,verbs,0.56
+1881,kichochoro,街,nouns,2.5
+1882,kwa ukimya,悄悄地,adverbs,0.28
+1883,wa kukwaruza,冷淡,adjectives,0.04
+1884,wa kutisha,偉大,adjectives,0.14
+1885,ufuko,海岸,nouns,3.33
+1886,fungu,人群,nouns,0.05
+1887,akili,邏輯,nouns,2.86
+1888,sakafu,屋頂,nouns,0.18
+1889,kugombana,證明,verbs,0.0
+1890,mara mbili,兩次,adverbs,0.36
+1891,jioni,黃昏,nouns,4.86
+1892,wingu,天氣,nouns,1.07
+1893,mwislamu,穆斯林,nouns,0.14
+1894,kaanga,炒,verbs,0.72
+1895,nje ya mwili,無實體,adjectives,0.81
+1896,walau,理想地,adverbs,0.48
+1897,furaha,幸福,nouns,0.19
+1898,kujifanya,假設,verbs,0.33
+1899,kupotea,消失,verbs,5.07
+1900,skrini,螢幕,nouns,0.23
+1901,kujielezea,表達,verbs,2.23
+1902,kijiko,杯子,nouns,0.85
+1903,kuoga,原木,nouns,0.0
+1904,kikamilifu,積極地,adverbs,0.46
+1905,mshipa,肚,nouns,0.24
+1906,kujulisha,承認,verbs,0.57
+1907,paka,寵物,nouns,2.96
+1908,kufadhili,援助,verbs,4.54
+1909,reli,籬笆,nouns,0.0
+1910,habari,媒介,nouns,2.46
+1911,ndege,機場,nouns,1.17
+1912,ugali,午飯,nouns,1.46
+1913,kwa jeuri,自豪的,adverbs,0.14
+1914,atomu,分子,nouns,2.49
+1915,kitendea kazi,工具,nouns,0.83
+1916,kwa amani,和平地,adverbs,0.0
+1917,kijiko,匙羹,nouns,0.18
+1918,kugawanya,乘,verbs,0.14
+1919,fulana,冷衫,nouns,0.38
+1920,jitu,突變體,nouns,0.14
+1921,ono,信念,nouns,0.33
+1922,kwa ,正直地,adverbs,0.14
+1923,kuoa,加入,verbs,0.1
+1924,mwamba,岩石,nouns,0.46
+1925,jiko,門,nouns,0.23
+1926,mraba,廣場,nouns,0.18
+1927,serikali,政府,nouns,0.04
+1928,habali,不負責任,adjectives,0.36
+1929,mpira wa maji,汽車,nouns,0.09
+1930,kuleta,抱怨,verbs,0.05
+1931,ndezi,老鼠,nouns,4.31
+1932,kudumisha,忘記,verbs,0.1
+1933,kwa uweledi,關鍵地,adverbs,0.57
+1934,kamata,抓住,verbs,0.68
+1935,kaskazini,南,nouns,0.69
+1936,funikwa,冚住,adjectives,0.15
+1937,kujifanya,想像,verbs,0.14
+1938,kiti,椅子,nouns,0.04
+1939,chungwa,橙子,nouns,5.5
+1940,mpana,新鮮,adjectives,0.0
+1941,kwa kawaida,通常,adverbs,2.99
+1942,kufuma,編織,verbs,0.65
+1943,mkia,懸崖,nouns,0.04
+1944,kua na uoga,受驚,adjectives,0.53
+1945,neno,頁,nouns,0.33
+1946,mvuke,雲,nouns,2.17
+1947,kutukana,侮辱,verbs,3.38
+1948,chakula cha usiku,湯,nouns,0.79
+1949,ziada,豐富,nouns,3.17
+1950,lemma,詞元,nouns,0.66
+1951,muuguzi,科學家,nouns,0.2
+1952,pua,嘴巴,nouns,0.34
+1953,dari,屋頂,nouns,3.79
+1954,kuweka,給,verbs,0.32
+1955,kutembea ,步行,verbs,0.23
+1956,mkondo,河,nouns,3.33
+1957,kwa haraka,立即,adverbs,0.32
+1958,mtoto,男孩,nouns,1.64
+1959,programu tumishi,應用程式,nouns,0.0
+1960,haionekani,不宜說出口的,adjectives,0.23
+1961,kukubali,不同,verbs,0.1
+1962,kusamehe,忘記,verbs,0.34
+1963,kigoda,凳子,nouns,3.73
+1964,mwanafunzi,教授,nouns,0.43
+1965,walio hatarini,脆弱,adjectives,0.18
+1966,mjasiri,自豪,adjectives,0.93
+1967,machweo,日出,nouns,1.27
+1968,kuleta,發送,verbs,0.14
+1969,gari,喇叭,nouns,0.39
+1970,rahisi,困難,adjectives,0.24
+1971,maambukizo,感染,nouns,0.84
+1972,jaketi,針織套衫,nouns,3.21
+1973,mlango,地板,nouns,0.23
+1974,kugawanya,劃分,verbs,0.15
+1975,kujumlisha,建立,verbs,0.42
+1976,kujivunia,自豪,adjectives,0.0
+1977,kujifunza,忘記,verbs,0.2
+1978,kochi,床,nouns,2.06
+1979,mkanda,環,nouns,1.89
+1980,bongo,大腦,nouns,4.88
+1981,kitabu,書,nouns,1.35
+1982,mto,大海,nouns,2.29
+1983,rais,相機,nouns,0.0
+1984,theluji,雪,nouns,2.83
+1985,wikiendi,週末,nouns,0.0
+1986,nyuki,昆蟲,nouns,2.88
+1987,safi,整齊,adjectives,4.83
+1988,kuoza,腐爛,verbs,1.13
+1989,tendo,遊戲,nouns,0.77
+1990,mwewe,鳥,nouns,3.53
+1991,imara,狡猾,adjectives,0.35
+1992,theluji,雪,nouns,3.67
+1993,kujiunga,連接,verbs,0.86
+1994,anga,宇宙,nouns,1.44
+1995,sigara,煙草,nouns,4.02
+1996,kujadili,說明,verbs,1.16
+1997,msaidizi,支持者,nouns,0.04
+1998,kudanganya,說謊,verbs,0.16
+1999,sanduku,小亭,nouns,0.05
+2000,kufungua,開口,nouns,3.21
+2001,kirusi,病毒,nouns,0.53
+2002,kwa mpangilio,井然有序,adjectives,0.09
+2003,nafsi,自信,nouns,0.47
+2004,kubaki,得到,verbs,0.65
+2005,wa upuzi,孩子氣,adjectives,3.13
+2006,kurekebisha,修理,verbs,0.69
+2007,umaizi,智力,nouns,2.63
+2008,kwa nguvu,強烈地,adverbs,0.32
+2009,subira,花朵,nouns,0.04
+2010,kugombana,辯解,verbs,0.33
+2011,nguo,褸,nouns,3.56
+2012,juu,最佳,adjectives,0.09
+2013,mti,樹,nouns,0.77
+2014,kanuni,日誌,nouns,0.0
+2015,hakimu,法官,nouns,1.51
+2016,kurudisha,帶來,verbs,0.83
+2017,mti wa minti,薄荷,nouns,0.18
+2018,chumba,沖涼,nouns,0.33
+2019,vumbi,灰塵,nouns,0.66
+2020,kwa maana,有意義地,adverbs,1.56
+2021,hela,鑽石,nouns,0.66
+2022,kuchapisha,打印,verbs,0.0
+2023,fanicha,床,nouns,2.81
+2024,miaka kumi,時代,nouns,0.25
+2025,ustadi,能力,nouns,3.41
+2026,ensaiklopidia,百科全書,nouns,2.58
+2027,kuzidiwa,制服,verbs,0.23
+2028,kugombana,抱怨,verbs,0.59
+2029,urembo,年齡,nouns,0.15
+2030,mapatano,並行性,nouns,0.0
+2031,kuamka,醒覺,verbs,0.05
+2032,ndege,平面,nouns,0.36
+2033,wazo,形象,nouns,0.6
+2034,mtu mzima,監護人,nouns,2.31
+2035,kamusi,字,nouns,1.21
+2036,saikolojia,科學,nouns,1.65
+2037,kukataa,謝絕,verbs,0.1
+2038,mwanasiasa,政治家,nouns,0.04
+2039,gari,汽車,nouns,3.31
+2040,ua,忍耐力,nouns,0.04
+2041,mvulana,合作夥伴,nouns,0.33
+2042,kufanikiwa,贏,verbs,4.59
+2043,mdhaifu,冷淡,adjectives,0.1
+2044,papa hapa,這裡,adverbs,0.93
+2045,tiba,治療,nouns,0.15
+2046,sukrosi,蔗糖,nouns,1.69
+2047,chemchemi ya maji ya moto,噴泉,nouns,3.08
+2048,kiubunifu,創造性地,adverbs,0.74
+2049,machweo,日落,nouns,0.0
+2050,kiwiko,骨頭,nouns,0.34
+2051,ada,學費,nouns,1.31
+2052,chumba cha kulala,廁所,nouns,0.42
+2053,kikombe,錐形蛋筒,nouns,0.15
+2054,kupata,失去,verbs,0.15
+2055,kitabu,話題,nouns,0.2
+2056,ugonjwa,危險,nouns,0.71
+2057,kiupole,好心地,adverbs,2.83
+2058,kiwambo,屏幕,nouns,0.15
+2059,kupa,放,verbs,0.32
+2060,kuvaa,穿,verbs,0.14
+2061,kuendesha,騎,verbs,0.09
+2062,jicho,眉頭,nouns,0.48
+2063,karibuni,不久,adverbs,0.32
+2064,kumgongano,碰撞,verbs,3.89
+2065,msaidizi,女僕,nouns,2.79
+2066,ukucha,手,nouns,0.66
+2067,kofia,盒子,nouns,0.05
+2068,menejimenti,工作,nouns,0.62
+2069,baisikeli,汽車,nouns,1.23
+2070,nzuri,好,adjectives,0.04
+2071,mara kwa mara,輕微,adverbs,0.15
+2072,kiti,座位,nouns,0.0
+2073,mbaya,不道德,adjectives,1.6
+2074,kujadili,拗撬,verbs,0.04
+2075,kufeli,成功,verbs,0.05
+2076,gari,船,nouns,0.57
+2077,ushoroba,走廊,nouns,4.2
+2078,rafiki,老師,nouns,0.66
+2079,nadra,很少地,adverbs,0.04
+2080,mpenzi,伴侶,nouns,4.38
+2081,uongofu,換算,nouns,0.04
+2082,kinanda,鋼琴,nouns,0.32
+2083,matriksi,基質,nouns,0.46
+2084,kutofautiana,同意,verbs,0.1
+2085,ngumu,容易,adjectives,0.24
+2086,kitanda,傢俱,nouns,2.81
+2087,mtu mzima,小孩,nouns,0.43
+2088,neva,身體,nouns,0.68
+2089,kompyuta,電腦,nouns,2.81
+2090,batamzinga,母雞,nouns,1.54
+2091,mpana,狹窄,adjectives,0.18
+2092,ni wazi,明顯地,adverbs,0.23
+2093,uwezekano,大概,adverbs,3.25
+2094,benki,銀行,nouns,0.0
+2095,mafuta,貂,nouns,0.04
+2096,mjomba,表哥,nouns,1.02
+2097,si wa kawaida,正常,adjectives,0.24
+2098,tumbo,課程,nouns,0.05
+2099,si kwa usahihi,不準確地,adverbs,0.04
+2100,kuja,出席,verbs,2.91
+2101,kuacha,停,verbs,0.11
+2102,sigara,盒子,nouns,0.04
+2103,angahewa,污染,nouns,0.42
+2104,watu,氣球,nouns,0.0
+2105,mdudu,蜜蜂,nouns,2.88
+2106,vijidudu,病菌,nouns,2.46
+2107,kuteleza,漂移,verbs,0.82
+2108,mkopi,借款人,nouns,0.64
+2109,uchafuzi,大氣層,nouns,0.42
+2110,furushi,郵包,nouns,0.09
+2111,umati,遊行,nouns,0.75
+2112,mnyoo,蠕蟲,nouns,0.14
+2113,salama,安全,adjectives,0.46
+2114,sonara,雕塑家,nouns,0.0
+2115,sitasita,猶豫,adjectives,0.18
+2116,bunduki,戲法,nouns,0.05
+2117,lifti,盒子,nouns,0.04
+2118,mwanahistoria,史學家,nouns,5.76
+2119,kutambua,通知,verbs,0.57
+2120,vurugu,無政府,nouns,3.89
+2121,mlango,廚房,nouns,0.23
+2122,hela,錢,nouns,5.54
+2123,utamaduni,傳統,nouns,0.28
+2124,kocha,教練,nouns,0.6
+2125,nguo,布,nouns,2.74
+2126,mwisho,末期,adverbs,0.15
+2127,kuchukua,偷,verbs,0.78
+2128,sura,晚上,nouns,0.0
+2129,darasa,類別,nouns,0.0
+2130,changamsha bongo,頭腦風暴,nouns,0.04
+2131,kukosea,得罪,verbs,0.05
+2132,kuchemsha,煮沸,verbs,0.72
+2133,kwa ukakamavu,緊緊地,adverbs,0.69
+2134,nyororo,平滑,adjectives,0.0
+2135,kuogelea,游泳,verbs,0.04
+2136,kufahamu,讀,verbs,0.77
+2137,mwanamke,女人,nouns,0.09
+2138,kuelea,浮動,verbs,0.0
+2139,kila wakati,每當,adverbs,0.28
+2140,wasifu,小說,nouns,1.27
+2141,koti,衣服,nouns,2.58
+2142,mchanga,沙漠,nouns,0.04
+2143,mkubwa sana,瘋狂,adjectives,0.0
+2144,kwa ustadi,機械地,adverbs,0.48
+2145,kumiliki,保持,verbs,0.98
+2146,mahali ya kutokea,出口,nouns,0.04
+2147,bendera,旗,nouns,0.71
+2148,mchafu,狹窄,adjectives,0.0
+2149,akili,神經,nouns,0.7
+2150,wazi,顯然,adjectives,5.0
+2151,fleti,酒店,nouns,1.25
+2152,asali,蜜糖,nouns,0.14
+2153,sanduku,盒子,nouns,0.04
+2154,kutowekana,不可能,adjectives,0.19
+2155,danganyifu,不誠實,adjectives,0.6
+2156,steki,雞,nouns,0.24
+2157,kuingia,離開,verbs,0.1
+2158,piga mbizi,潛水,verbs,0.04
+2159,goti,骨頭,nouns,0.66
+2160,kuania,打算,verbs,0.83
+2161,mvulana,狀態,nouns,0.04
+2162,kibanda,盒子,nouns,0.05
+2163,kinyume,相反,adjectives,0.09
+2164,mkubwa,容易,adjectives,0.05
+2165,kushangaza,非常好,adjectives,0.0
+2166,mnara,教堂,nouns,0.42
+2167,wastani,平均,adjectives,0.34
+2168,zeze,樂器,nouns,1.85
+2169,maharagwe,米飯,nouns,0.53
+2170,kupa,收到,verbs,0.48
+2171,mvulana,哥哥,nouns,2.81
+2172,kua na hamu,慾望,verbs,3.82
+2173,dondoka,滴,verbs,0.71
+2174,kazi ya ziada,功課,nouns,1.01
+2175,sitaha,地板,nouns,0.23
+2176,chubwi,濺,nouns,0.0
+2177,kujivunia,自豪,adjectives,0.0
+2178,kusikiliza,聽見,verbs,4.5
+2179,safari,旅行,nouns,4.21
+2180,umaizi,事實,nouns,1.27
+2181,kuchagua,決定,verbs,1.47
+2182,chupi,底衫褲,nouns,0.36
+2183,sio wa lazima,必須,adjectives,0.1
+2184,sayari,行星,nouns,2.7
+2185,mara mbili,兩次,adverbs,0.09
+2186,haijatumika,沒用過,adjectives,4.68
+2187,mwanariadha,運動員,nouns,4.65
+2188,muhimu,批評,adjectives,0.32
+2189,programu hatarishi,惡意軟件,nouns,0.14
+2190,kitanda,椅子,nouns,1.21
+2191,kuchanganya,混合,verbs,1.63
+2192,kufahamisha,通知,verbs,5.29
+2193,furaha,運氣,nouns,0.56
+2194,kuonyesha,模仿,verbs,1.5
+2195,mwenzi,情人,nouns,4.38
+2196,sherehe,派對,nouns,0.18
+2197,mchezaji wa kike,演員,nouns,3.77
+2198,mwenye huzuni,搞笑,adjectives,0.1
+2199,mwili,脊柱,nouns,0.48
+2200,utabiri,預測,nouns,0.24
+2201,makini,嚴肅,adjectives,0.09
+2202,kushawishi,說服,verbs,0.28
+2203,kuumba,建立,verbs,4.01
+2204,njia,方式,nouns,4.53
+2205,inayotoka,向外,adjectives,0.2
+2206,masilahi,注意,nouns,0.76
+2207,ua,信念,nouns,0.05
+2208,ndoto,夢想,nouns,0.05
+2209,chumba cha kulala,床,nouns,1.38
+2210,mwaka,生日,nouns,0.71
+2211,kutoa machozi,哭泣,verbs,5.43
+2212,kuuza,借,verbs,0.04
+2213,purigatori,煉獄,nouns,0.74
+2214,mapatano,洞,nouns,0.0
+2215,mjomba,男人,nouns,2.38
+2216,kudaiwa,借,verbs,0.47
+2217,rahisi,髒,adjectives,0.33
+2218,kwa undani,深深地,adverbs,0.61
+2219,kukubali,承認,verbs,0.15
+2220,baseball,兄弟會,nouns,0.14
+2221,pasipo tu,可靠地,adverbs,0.0
+2222,burudani,足球,nouns,0.63
+2223,nyingi zaidi,多,adverbs,0.34
+2224,injini,摩打,nouns,4.67
+2225,vuguvugu,溫和,adjectives,0.0
+2226,kutimiza,完成,verbs,4.59
+2227,densi,舞蹈,nouns,0.0
+2228,hisia,激情,nouns,2.44
+2229,kampuni,商業,nouns,3.3
+2230,kukua,擴大,verbs,0.66
+2231,kutaka,借,verbs,0.39
+2232,mwendo,旅程,nouns,4.21
+2233,kidole cha mguu,手指,nouns,1.07
+2234,mfumo,系統,nouns,0.04
+2235,mama,朋友,nouns,0.28
+2236,mwembamba,苗條,adjectives,4.71
+2237,kusaidia,幫忙,verbs,0.2
+2238,kaboni,原子,nouns,1.04
+2239,pembe,鼓,nouns,0.38
+2240,mazingira,協議,nouns,0.83
+2241,kulaumu,責怪,verbs,0.23
+2242,si asili,非自然,adverbs,0.38
+2243,baridi,粗暴,adjectives,0.04
+2244,kuiga,模仿,verbs,0.0
+2245,kwa furaha,高高興興,adverbs,0.46
+2246,lengo,箭頭,nouns,0.85
+2247,kwa uzima,充分,adverbs,0.36
+2248,kwenda,進入,verbs,0.46
+2249,kuanza,走,verbs,0.05
+2250,kipepeo,蝴蝶,nouns,0.1
+2251,wa kasi,快,adjectives,5.08
+2252,mlango,大門,nouns,5.32
+2253,kuondoka,撤離,verbs,0.0
+2254,kipakatio,手提電腦,nouns,0.41
+2255,bendi,酒,nouns,0.05
+2256,mji,城鎮,nouns,4.03
+2257,malizika,完成,adjectives,4.03
+2258,kuvuna,收割,verbs,1.08
+2259,yenye sauti,噪,adjectives,0.28
+2260,kusahau,保留,verbs,0.1
+2261,kushambulia,攻擊,verbs,0.04
+2262,kusumbua,打稿,verbs,0.0
+2263,tohara,割禮,nouns,1.77
+2264,molekuli,原子,nouns,2.49
+2265,takataka,浪費,verbs,0.0
+2266,jukumu,島,nouns,0.0
+2267,kunywa,喝,verbs,0.04
+2268,undugu,棒球,nouns,0.14
+2269,kosa,錯誤,adjectives,0.14
+2270,chakula cha mchana,三文治,nouns,1.46
+2271,shule,法律,nouns,0.23
+2272,mtumishi,僕人,nouns,3.55
+2273,kung'arisha,擦亮,verbs,0.0
+2274,mtoto mchanga,女兒,nouns,1.25
+2275,kuungana,團結,verbs,0.15
+2276,kidole gumba,手,nouns,1.57
+2277,kuyeyusha,溶解,verbs,0.09
+2278,tabia,醫生,nouns,0.18
+2279,wa kisasa,古老,adjectives,0.14
+2280,kufurahia,喜愛,verbs,0.09
+2281,uzuri,美,nouns,0.0
+2282,sinema,戲,nouns,4.67
+2283,kusukuma,推,verbs,0.64
+2284,ini,肺,nouns,0.48
+2285,kutenganisha,分離,verbs,0.0
+2286,simulizi,小說,nouns,0.43
+2287,mchango,貢獻,nouns,2.85
+2288,mke,洞,nouns,0.0
+2289,bila jasho,容易,adjectives,5.28
+2290,mbegu,芥末,nouns,0.6
+2291,kiungo,腿,nouns,1.83
+2292,sasahivi,現在,adverbs,0.93
+2293,runinga,電視,nouns,0.56
+2294,kiasili,自然地,adverbs,0.28
+2295,makadara,力量,nouns,3.53
+2296,misuli,手臂,nouns,0.43
+2297,dirisha,踝,nouns,0.09
+2298,benchi,椅子,nouns,3.98
+2299,tishio,危險,nouns,4.29
+2300,dawa ya wadudu,農藥,nouns,0.77
+2301,kinywa,牙齒,nouns,0.92
+2302,mgawo,作業,nouns,0.33
+2303,sanduku ,雪茄,nouns,0.04
+2304,kujitokeza,成為,verbs,0.73
+2305,mkuu,市長,nouns,2.41
+2306,ugali,肉,nouns,0.34
+2307,mapatano,爭論,nouns,0.14
+2308,ekolojia,群落生境,nouns,0.48
+2309,kupiga,打,verbs,0.0
+2310,tenki,坦克,nouns,0.71
+2311,kiti cha enzi,王座,nouns,0.0
+2312,kitaifa,國民,adjectives,0.05
+2313,kifo,災難,nouns,1.45
+2314,zaidi,大多,adverbs,0.61
+2315,kukubali,相信,verbs,2.56
+2316,kuhusika,交易,verbs,0.46
+2317,rahisi kubadilika,靈活,adjectives,1.04
+2318,kifua,身體,nouns,1.81
+2319,uwezo,才能,nouns,4.09
+2320,betri,電池,nouns,0.09
+2321,ishara,標誌,nouns,0.25
+2322,kuja,走,verbs,0.18
+2323,wazo,意見,nouns,5.02
+2324,njia,路徑,nouns,0.41
+2325,eneo,區城,nouns,4.19
+2326,wingu,風暴,nouns,0.97
+2327,nyuki,女王,nouns,0.1
+2328,mfumo wa ikolojia,生態系統,nouns,0.29
+2329,kufeli,使氣餒,verbs,0.23
+2330,darubini,望遠鏡,nouns,0.04
+2331,kudhibiti,控制,verbs,0.73
+2332,isiyo dhahiri,模糊,adjectives,4.53
+2333,gari,胎壓計,nouns,0.05
+2334,mwenye woga,焦慮,adjectives,3.98
+2335,mkono,肩膀,nouns,1.92
+2336,kucheza,玩,verbs,0.18
+2337,mnyenyekevu,謙遜,adjectives,5.18
+2338,kuchechemea,跛行,verbs,2.42
+2339,kamusi,字典,nouns,2.58
+2340,kukomaa,成熟,adjectives,0.28
+2341,halali,合法,adjectives,0.46
+2342,siku ya mwisho,大災變,nouns,0.14
+2343,jukumu,作業,nouns,3.03
+2344,pasile,香芹,nouns,0.04
+2345,uhalifu,盜竊,nouns,3.77
+2346,menyu,點菜,nouns,0.81
+2347,kujaribu,嘗試,verbs,0.04
+2348,gwaride,人群,nouns,0.75
+2349,sakafu,甲板,nouns,0.23
+2350,kuganda,凍結,verbs,0.05
+2351,mfalme,國王,nouns,0.04
+2352,mpera,樹木,nouns,3.68
+2353,gauni,裙,nouns,0.0
+2354,amani,幸福,nouns,2.06
+2355,kupuuza,問,verbs,0.05
+2356,mwanasayansi,護士,nouns,0.2
+2357,govi,包皮,nouns,1.77
+2358,uchavushi,授粉,nouns,1.6
+2359,demokrasia,民主,nouns,0.5
+2360,wimbo,故事,nouns,0.54
+2361,kutawala,克服,verbs,0.6
+2362,kosa,故障,nouns,0.04
+2363,kukubali,同意,verbs,2.22
+2364,dira,指南針,nouns,0.04
+2365,julikana,聞名,adjectives,0.0
+2366,mwanaume,男人,nouns,0.18
+2367,mtoto wa kike,嬰兒,nouns,1.25
+2368,mwanamke,男人,nouns,0.57
+2369,bega,手臂,nouns,1.92
+2370,rafiki,母親,nouns,0.28
+2371,zawadi,禮物,nouns,0.04
+2372,agizo,菜單,nouns,0.81
+2373,mgonjwa,病人,nouns,0.32
+2374,kujitawala,自由,nouns,4.52
+2375,kukuunga,參加,verbs,0.0
+2376,mapigano,征服,nouns,0.46
+2377,akili,無知,nouns,0.24
+2378,si mwaminifu,不誠實,adjectives,0.1
+2379,kufunda,大口地吃,verbs,0.33
+2380,nyanyua,電梯,verbs,0.47
+2381,pazia,竿,nouns,0.18
+2382,kuongeza,增加,verbs,1.21
+2383,kupata,購買,verbs,0.15
+2384,mwenye furaha,嬲,adjectives,0.29
+2385,kipande,片,nouns,0.0
+2386,kugombana,說服,verbs,0.38
+2387,kujumlisha,乘,verbs,0.71
+2388,saladi,醋,nouns,0.33
+2389,mara kwa mara,頻繁,adjectives,0.34
+2390,kuelewa,原諒,verbs,0.28
+2391,pepo,惡魔,nouns,0.29
+2392,pembe,彎曲,nouns,1.65
+2393,kuleta,恢復,verbs,0.83
+2394,kuaibisha,羞辱,verbs,0.0
+2395,bidii,困難,nouns,0.15
+2396,hoteli,公寓,nouns,1.25
+2397,rubani msaidizi,副駕駛,nouns,0.04
+2398,kuruhusu,准許,verbs,3.88
+2399,meno,牙,nouns,0.04
+2400,maafikiano,便宜貨,nouns,0.09
+2401,kuiba,給,verbs,0.04
+2402,kuuliza,唔睬,verbs,0.05
+2403,mvulana,小孩,nouns,3.08
+2404,kutokana,發現,verbs,0.38
+2405,poteza,失去,verbs,0.04
+2406,fonolojia,音系學,nouns,0.15
+2407,alfajiri,槍,nouns,0.0
+2408,misuli,舌頭,nouns,0.29
+2409,kubuni,對抗,verbs,0.18
+2410,ubao wa theluji,滑雪板,nouns,1.56
+2411,gari,的士,nouns,4.24
+2412,mwenye nguvu,自豪,adjectives,0.23
+2413,nyota,星,nouns,3.79
+2414,kuepa,唔睬,verbs,1.69
+2415,kwa jeuri,自豪地,adverbs,0.28
+2416,dhahabu,金,nouns,1.64
+2417,mbinu,沖涼,nouns,0.04
+2418,mchoro,畫畫,nouns,0.04
+2419,iba,偷,verbs,0.33
+2420,kitabu,主題,nouns,0.23
+2421,walau,理想地,adverbs,0.39
+2422,mchana,晚上,nouns,0.34
+2423,endesha,騎,verbs,0.0
+2424,kutaka,需求,verbs,0.0
+2425,jukumu,工作,nouns,3.19
+2426,kwa kujiamini,信心十足地,adverbs,0.05
+2427,mtunzi,讀者,nouns,0.28
+2428,kuingia,欠,verbs,0.0
+2429,bwawa,湖,nouns,2.67
+2430,kuosha,洗,verbs,4.05
+2431,mwanaume,哨兵,nouns,0.85
+2432,sisimka,興奮,adjectives,0.53
+2433,kusikiliza,明白,verbs,0.39
+2434,kuhudhuria,到達,verbs,2.91
+2435,dirisha,門,nouns,0.92
+2436,umuhimu zaidi,重要的,adverbs,0.66
+2437,juisi,果汁,nouns,0.18
+2438,padri,天神,nouns,0.57
+2439,kusumbua,打稿,verbs,0.05
+2440,kusaidia,協助,verbs,4.54
+2441,kugombana,同意,verbs,0.15
+2442,kufunika,偽裝,verbs,3.33
+2443,kuiba,購買,verbs,0.0
+2444,kimondo,小行星,nouns,3.79
+2445,mkosaji,聖,nouns,0.1
+2446,kuuliza,求情,verbs,0.7
+2447,rahisi,簡單,adjectives,5.28
+2448,kuokoa,拯救,verbs,5.08
+2449,teleza,幻灯片,nouns,0.14
+2450,mnyama,人,nouns,0.43
+2451,chumba cha rubani,座艙,nouns,0.43
+2452,padri,僧侶,nouns,3.04
+2453,kwa ubaya,負面地,adverbs,0.41
+2454,kawaida,普通,adjectives,0.1
+2455,haswa,主要,adverbs,0.15
+2456,mada,故事,nouns,0.56
+2457,kutuma,出席,verbs,0.09
+2458,kiwiko,踝,nouns,0.62
+2459,mtawa,神職人員,nouns,3.04
+2460,kushangaza,使驚奇,verbs,0.04
+2461,kua na njaa,飢餓,adjectives,0.28
+2462,undugu,男人,nouns,1.4
+2463,subira,樂隊,nouns,0.0
+2464,wa ghadhabu,開心,adjectives,0.29
+2465,kutetea,拗撬,verbs,0.33
+2466,hiari,意志,nouns,1.35
+2467,kunata,黏,adjectives,0.43
+2468,mdalasini,肉桂,nouns,0.33
+2469,kweli,真實地,adverbs,0.58
+2470,kuingia,走,verbs,0.46
+2471,kufanikisha,達到,verbs,4.59
+2472,neno,提示,nouns,0.34
+2473,kuelewa,聽,verbs,0.39
+2474,kinyume,相反,adjectives,0.39
+2475,stameni,蕊,nouns,1.6
+2476,teksi,巴士,nouns,2.47
+2477,njia,模式,nouns,0.7
+2478,ugenini,在別處,adverbs,0.09
+2479,zika upya,重新安葬,nouns,1.25
+2480,ua,軌,nouns,0.0
+2481,kushawishi,說服,verbs,0.04
+2482,mguu,手,nouns,1.31
+2483,kujiunga,獲得,verbs,0.05
+2484,pigo,打,nouns,0.14
+2485,akili,智慧,nouns,3.9
+2486,kuchanganya,拖著腳走,verbs,0.0
+2487,kutolewa,清醒,adjectives,0.09
+2488,kumaliza,完成,verbs,1.25
+2489,uhakika,精確,adjectives,0.14
+2490,kufanya utafiti,發現,verbs,2.67
+2491,mkutano,訂婚,nouns,0.75
+2492,changanya,聯合,nouns,0.0
+2493,kupanga,成為,verbs,0.19
+2494,hapa ndani,本地,adverbs,0.0
+2495,kuonja,啜,verbs,0.33
+2496,filamu,電影,nouns,0.09
+2497,mfupi,長,adjectives,0.18
+2498,maziwa,果汁,nouns,0.57
+2499,kanga,包裝紙,nouns,0.04
+2500,awamu,半學年,nouns,4.63
+2501,kusubiri,等待,verbs,1.18
+2502,ncha kali,尖,adjectives,0.0
+2503,mweka mipango,陰謀家,nouns,2.56
+2504,uhuru,自由,nouns,4.52
+2505,taabu,絕望,nouns,2.97
+2506,kuhudhuria,出席,verbs,0.04
+2507,mtawala,皇帝,nouns,0.33
+2508,nyama,三明治,nouns,0.34
+2509,shingo,骨頭,nouns,0.47
+2510,wali,男孩,nouns,0.04
+2511,ubadilishaji,交換,nouns,0.33
+2512,kiti,沙發,nouns,3.29
+2513,sanamu,雕塑,nouns,4.43
+2514,kitanzi,帶,nouns,1.89
+2515,kifundo cha mguu,肘,nouns,0.62
+2516,bibi arusi,公主,nouns,0.28
+2517,ugonjwa wa neurosis,神經官能症,nouns,0.72
+2518,malaika,天使,nouns,0.29
+2519,kupa,偷,verbs,0.04
+2520,bega,頭,nouns,0.68
+2521,kununua,偷,verbs,0.0
+2522,nguo,衣櫃,nouns,0.56
+2523,mbaya,壞,adjectives,0.37
+2524,kiwango,水平,nouns,0.42
+2525,mtawa,僧侣,nouns,0.14
+2526,acetaminopheni,對乙酰氨基酚,nouns,0.15
+2527,kutafiti,想,verbs,0.29
+2528,namna,方法,nouns,4.53
+2529,sungura,貓,nouns,1.02
+2530,mama,監護人,nouns,3.25
+2531,kushindwa,保持,verbs,0.04
+2532,boti,車,nouns,0.57
+2533,kukubali,推介,verbs,0.25
+2534,kuni,紙,nouns,0.38
+2535,mlingoti,杆,nouns,0.71
+2536,kamera,總統,nouns,0.0
+2537,kueleza,討論,verbs,1.16
+2538,mgeni,古怪,adjectives,4.73
+2539,alama,得分,nouns,0.42
+2540,kwa matuamini,樂觀地,adverbs,0.78
+2541,hewa,分子,nouns,0.52
+2542,taji,王冠,nouns,0.04
+2543,kompyuta,磁盘,nouns,0.89
+2544,wepesi,輕輕地,adverbs,0.14
+2545,rais,小學生,nouns,0.1
+2546,kila siku,日常,adverbs,2.99
+2547,tamu,甜,adjectives,0.0
+2548,ngozi,油,nouns,0.04
+2549,kuteua,選舉,verbs,0.0
+2550,kondoo,牛,nouns,2.6
+2551,silabu,音節,nouns,0.66
+2552,wengine,其他,adjectives,0.09
+2553,sherehe,服裝,nouns,0.1
+2554,ndovu,大象,nouns,0.11
+2555,jitihada,目標,nouns,0.29
+2556,kutenganisha,分化,verbs,0.0
+2557,kuokoa,救,verbs,0.04
+2558,mke,稻草,nouns,0.0
+2559,macheo,日落,nouns,1.27
+2560,roho ,兄弟,nouns,0.05
+2561,vyombo vya habari,新聞,nouns,2.46
+2562,mbio,種族,nouns,0.0
+2563,kujitokeza,離開,verbs,0.45
+2564,kugombana,合理地解釋,verbs,0.1
+2565,manyoya,女人,nouns,0.0
+2566,undugu,門,nouns,0.0
+2567,kona,地區,nouns,0.29
+2568,jini,威士忌酒,nouns,3.13
+2569,kukubali,原諒,verbs,0.57
+2570,mchemraba,立方體,nouns,0.09
+2571,baba,男人,nouns,2.67
+2572,bahari,海灘,nouns,2.53
+2573,matofaa,檸檬,nouns,0.57
+2574,majani makavu,妻子,nouns,0.0
+2575,onyesha,節目,nouns,0.04
+2576,chakula,晚飯,nouns,3.46
+2577,neva,腸子,nouns,0.29
+2578,viwanda,商業,nouns,2.17
+2579,jengo,大厦,nouns,0.58
+2580,kuweka,借,verbs,0.05
+2581,diski,磁盤,nouns,0.0
+2582,kuficha,掩飾,verbs,3.33
+2583,kushindwa,得到,verbs,0.15
+2584,joystiki,操縱桿,nouns,0.39
+2585,kina,大小,nouns,0.58
+2586,chombo,小提琴,nouns,1.85
+2587,akiba,股票,nouns,3.08
+2588,kazi,工作,nouns,0.83
+2589,aibu,害羞,adjectives,0.0
+2590,kitanda cha mtoto,搖床,nouns,3.55
+2591,kuchambua,分析,verbs,4.28
+2592,wanga,醣類,nouns,1.69
+2593,mama,妻子,nouns,2.71
+2594,tarehe,日曆,nouns,3.71
+2595,umati,束,nouns,0.05
+2596,jeshi,軍團,nouns,3.43
+2597,kuondoka,離開,verbs,0.0
+2598,kiroho,心靈,adjectives,0.81
+2599,mfupa,手臂,nouns,0.48
+2600,mshipa,容器,nouns,0.28
+2601,gari,電梯,nouns,0.44
+2602,mkubwa,重,adjectives,1.32
+2603,mshindi,目標,nouns,0.23
+2604,kusini,北,nouns,0.69
+2605,kanisa kuu,大教堂,nouns,4.83
+2606,kupuuza,避免,verbs,1.69
+2607,mpira,籃子,nouns,0.24
+2608,kufika,出席,verbs,2.91
+2609,miche,幼苗,nouns,1.15
+2610,nama,大,adjectives,0.2
+2611,akili,技巧,nouns,2.25
+2612,biskuti,餅乾,nouns,0.0
+2613,ua,灌木,nouns,1.11
+2614,mzito,滿載,adjectives,1.26
+2615,starehe,安全,nouns,0.45
+2616,kutangatanga,徘徊,verbs,0.88
+2617,kichwa,指甲,nouns,0.15
+2618,kondoo,羊肉,nouns,3.76
+2619,labda,也許,adverbs,3.25
+2620,herufi,段,nouns,0.25
+2621,kugawanya,加,verbs,0.56
+2622,ugonjwa wa ngozi,皮炎,nouns,3.17
+2623,fasihi,書,nouns,2.55
+2624,rubani msaidizi,副駕駛,nouns,0.43
+2625,kuoga,氣球,nouns,0.0
+2626,muswada,手稿,nouns,1.98
+2627,kuadhibu,懲罰,verbs,0.43
+2628,kamera,鏡片,nouns,1.51
+2629,kulalamika,帶來,verbs,0.05
+2630,kuziba,扼殺,verbs,0.23
+2631,kuzimu,後世,nouns,0.74
+2632,kwa mabavu,好鬥,adjectives,0.29
+2633,ini,器官,nouns,2.47
+2634,mtunzi,創造者,nouns,3.02
+2635,nadharia,化學,nouns,0.29
+2636,kupooza,被動,adjectives,0.04
+2637,miaka kumi,世紀,nouns,0.75
+2638,kwaya,教堂,nouns,1.07
+2639,kibodi,鍵盤,nouns,0.09
+2640,ukuta,裝飾,nouns,0.33
+2641,maendeleo,發展,nouns,0.19
+2642,mbaya,偉大,adjectives,0.1
+2643,kuoka,烘烤,verbs,2.08
+2644,karatasi,木,nouns,0.38
+2645,chizi,麵包,nouns,0.38
+2646,daftari,筆記本,nouns,0.2
+2647,msumbufu,頑固,adjectives,0.68
+2648,hadithi,歌曲,nouns,0.54
+2649,kunong'oneza,低語,verbs,1.19
+2650,vyema,積極地,adverbs,0.36
+2651,habari za kubuniwa,傳記,nouns,1.27
+2652,huduma,部,nouns,0.04
+2653,kuazima,賣,verbs,0.04
+2654,jino,嘴巴,nouns,0.92
+2655,chumba cha kulala,單車,nouns,0.0
+2656,insha,文章,nouns,1.01
+2657,mwanasiasa,總統,nouns,3.04
+2658,kupika,煮,verbs,0.11
+2659,kitaifa,國民,adjectives,0.0
+2660,kufaida,獲得,verbs,1.08
+2661,mke,一分錢,nouns,0.0
+2662,chaguo,選擇,nouns,2.68
+2663,gazeti,字,nouns,0.6
+2664,kuchukua,收集,verbs,0.0
+2665,kujua,忘記,verbs,0.1
+2666,imani,印象,nouns,0.33
+2667,shetani,天神,nouns,0.04
+2668,kutazama,觀察,verbs,4.93
+2669,kadi,橋,nouns,0.1
+2670,sela,門,nouns,0.09
+2671,mbio,賽跑,nouns,0.09
+2672,mnyenyekevu,謙虛,adjectives,0.14
+2673,kwa kidete,堅固地,adverbs,0.04
+2674,kukana,給予,verbs,0.05
+2675,jifanya,假扮,verbs,2.6
+2676,kuruka,跳躍,nouns,0.0
+2677,chuma,錫,nouns,1.69
+2678,kuja,到達,verbs,2.83
+2679,sukari,蜜糖,nouns,2.48
+2680,choka,累,adjectives,0.28
+2681,kikosi,軍隊,nouns,3.43
+2682,enzi,十,nouns,0.25
+2683,uchumba,訂婚,nouns,0.83
+2684,utamaduni,文化,nouns,1.11
+2685,kitanda,房間,nouns,0.43
+2686,kukumbatia,摟抱,verbs,4.92
+2687,diplomasia,外交,nouns,1.89
+2688,kukinga,保護,verbs,4.08
+2689,kugundua,起源,verbs,0.38
+2690,kushika,捕獲,verbs,0.0
+2691,uhuru,自由,nouns,0.1
+2692,milionea,百萬富翁,nouns,0.93
+2693,kujua,明白,verbs,4.06
+2694,kuhepa,逃逸,verbs,0.0
+2695,kukanya,失敗,verbs,0.23
+2696,kwa unyenyekevu,謙遜地,adverbs,0.14
+2697,hali ya hewa,天氣,nouns,0.45
+2698,kupeleka,接受,verbs,0.0
+2699,wanaume,兄弟會,nouns,1.4
+2700,nyota,星星,nouns,2.7
+2701,kwa amani,和平地,adverbs,0.28
+2702,mwembamba,寬大,adjectives,0.14
+2703,ushairi,十四行詩,nouns,0.0
+2704,tumbo,睡房,nouns,0.04
+2705,kuhudhuria,聚集,verbs,0.47
+2706,korti,法庭,nouns,1.51
+2707,kienyeji,本地,adverbs,0.09
+2708,wa dhambi,非法,adjectives,2.62
+2709,kwa hakika,肯定地,adverbs,4.47
+2710,acetylcholine,乙酰膽鹼,nouns,0.0
+2711,juisi,蘋果,nouns,0.86
+2712,pua,噴嘴,nouns,0.14
+2713,maziwa,乳製品,nouns,0.14
+2714,ukubwa,大小,nouns,4.22
+2715,paka,兔子,nouns,1.02
+2716,jela,選擇,nouns,0.1
+2717,krocheti,鈎織編織,nouns,0.0
+2718,mkubalika,允許,adjectives,2.88
+2719,mke,母親,nouns,2.71
+2720,wasiwasi,緊張,adjectives,3.25
+2721,mkubwa sana,壞,adjectives,0.04
+2722,mwerevu,奇怪,adjectives,0.41
+2723,mchawi,巫師,nouns,0.0
+2724,undugu,裙帶關係,nouns,0.04
+2725,ustadi,能力,nouns,4.09
+2726,mvulana,朋友,nouns,0.6
+2727,kuoga,妻子,nouns,0.04
+2728,kuhudhuria,出現,verbs,3.48
+2729,atomu,碳,nouns,1.04
+2730,tumbo,靜脈,nouns,0.24
+2731,capacitor,電容器,nouns,1.98
+2732,chumvi,水,nouns,0.15
+2733,baba,兒子,nouns,1.25
+2734,kucheka,大笑,verbs,3.38
+2735,mwanaume,武士,nouns,0.95
+2736,shampeni,威士忌酒,nouns,3.62
+2737,wingu,雲,nouns,0.23
+2738,shairi,詩,nouns,0.77
+2739,watu,元,nouns,0.35
+2740,chini,側面,nouns,0.48
+2741,ukiwa,苦難,nouns,2.97
+2742,njia,肚,nouns,0.05
+2743,kuning'inia,放,verbs,0.46
+2744,mali,資產,nouns,3.08
+2745,koni,杯子,nouns,0.15
+2746,pembe zaidi ya sita,多面體,nouns,0.28
+2747,raketi,球拍,nouns,0.67
+2748,kukubali,拒絕,verbs,0.39
+2749,sufuri,零,nouns,0.28
+2750,wa kutisha,壞,adjectives,1.02
+2751,mavazi,球,nouns,0.1
+2752,lifti,汽車,nouns,0.44
+2753,mfadhili,募捐活動,nouns,0.28
+2754,fremu,陷害,nouns,0.14
+2755,kwa uaminifu,忠誠地,adverbs,3.74
+2756,funguo,鎖匙,nouns,1.1
+2757,piga,打中,verbs,1.1
+2758,mwajiriwa,僱主,nouns,0.38
+2759,ukumbi,劇院,nouns,0.09
+2760,kichwa,頭,nouns,0.54
+2761,chuo,職業,nouns,0.39
+2762,kudanganya,講大話,verbs,2.6
+2763,nanga,船,nouns,0.82
+2764,sahani,碗,nouns,2.73
+2765,mchungaji,拉比,nouns,0.45
+2766,jiwe,石,nouns,0.32
+2767,mwanasheria,銀行家,nouns,1.11
+2768,kitanda,沙發,nouns,2.06
+2769,hasa,主要,adverbs,2.31
+2770,si kwa haki,不公平,adverbs,0.1
+2771,figo,器官,nouns,2.92
+2772,mlinzi,男人,nouns,0.85
+2773,mpwa,阿姨,nouns,0.69
+2774,mlazi,幼兒床,nouns,3.55
+2775,mwalimu,幫手,nouns,0.53
+2776,boriti,鳶尾花,nouns,0.0
+2777,chanzo,資源,nouns,0.04
+2778,mradi,程序,nouns,0.0
+2779,kulivu,乏味,adjectives,0.04
+2780,mwathirika,受害者,nouns,0.04
+2781,machimbo,礦,nouns,0.46
+2782,kibanzi,微晶片,nouns,0.04
+2783,saizi,戲法,nouns,0.0
+2784,kupondwa,摔碎,verbs,2.54
+2785,kumbakumba,雜,adjectives,0.14
+2786,hatari,疾病,nouns,0.71
+2787,lowa,濕,adjectives,1.02
+2788,wakufunzi,運動鞋,nouns,0.34
+2789,kuwazia,假扮,verbs,0.14
+2790,kisiwa,海灘,nouns,0.76
+2791,kusikiliza,學習,verbs,0.28
+2792,mkono,腿,nouns,0.98
+2793,machungwa,柑橘,nouns,5.5
+2794,mara nyingine,有時,adverbs,0.28
+2795,kibanda,避難所,nouns,0.63
+2796,wimbo,歌謠,nouns,3.53
+2797,kuonyesha mahali pa,搵到,verbs,0.38
+2798,watu,派對,nouns,0.56
+2799,kutengeneza,賺,verbs,0.2
+2800,nyota,星,nouns,2.67
+2801,chakula,晚餐,nouns,3.16
+2802,mtoto mke wa mfalme,公主,nouns,0.0
+2803,dhoruba,雪,nouns,0.46
+2804,utajiri,貧困,nouns,0.29
+2805,jamii,社會生物學,nouns,0.14
+2806,uwepo,優勝者,nouns,0.1
+2807,kupokea,發送,verbs,0.2
+2808,muziki,音樂,nouns,1.27
+2809,mkali,鈍,adjectives,0.14
+2810,kubaki,離開,verbs,0.1
+2811,balaa,死亡,nouns,1.47
+2812,sofa,椅子,nouns,3.29
+2813,kukizuizi,限制,verbs,0.36
+2814,mjeshi,軍士,nouns,0.68
+2815,kanisa dogo,尖頂,nouns,0.42
+2816,usio na mwisho,無窮,nouns,0.28
+2817,kupotea,收縮,verbs,0.81
+2818,kipasha joto,暖爐,nouns,0.04
+2819,kiti,床,nouns,1.21
+2820,mtihani,考試,nouns,0.7
+2821,haramu,非法,adjectives,0.19

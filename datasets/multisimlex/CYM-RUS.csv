@@ -1,0 +1,3197 @@
+ID,CYM,RUS,PoS,score
+1,braich,шея,nouns,0.45
+2,pen,нос,nouns,0.85
+3,chwilio,странствовать,verbs,1.6
+4,brwydro,укусить,verbs,0.4
+5,glaswellt,корень,nouns,0.55
+6,brechdan,мясо,nouns,0.5
+7,mynnu,выговаривать,verbs,0.4
+8,cwmwl,окно,nouns,0.2
+9,gwraig,ванна,nouns,0.0
+10,arloeswr,лучник,nouns,0.35
+11,carchariad,клетка,nouns,1.35
+12,rhyfedd,обычный,adjectives,0.05
+13,ffôn clyfar,ананас,nouns,0.0
+14,gwraig,господин,nouns,1.2
+15,gwneud,создавать,verbs,4.55
+16,dyn,воин,nouns,0.85
+17,yn amlwg,благоразумно,adverbs,0.25
+18,yn anhygoel,удивительно,adverbs,3.7
+19,dadlau,посещать,verbs,0.0
+20,dwyn,приобретать,verbs,0.6
+21,symbol,криптограмма,nouns,2.2
+22,parsel,грузовик,nouns,0.5
+23,tlodi,богатство,nouns,0.3
+24,cadw,оставаться,verbs,0.65
+25,annisgwyl,непредвиденный,adjectives,4.9
+26,tynnu,толкать,verbs,0.35
+27,crosio,форма,nouns,0.2
+28,bawd,кисть,nouns,1.05
+29,sanctaidd,драгоценный,adjectives,1.95
+30,terfyn,граница,nouns,4.25
+31,yn hawdd,удобно,adverbs,1.4
+32,digid,число,nouns,5.0
+33,rhesymol,трезвый,adjectives,1.95
+34,gwn,мех,nouns,0.1
+35,coch,синий,adjectives,0.4
+36,gwaed,мозг,nouns,0.6
+37,aderyn,индейка,nouns,2.45
+38,archwilio,исследовать,verbs,4.3
+39,gwyn,узкий,adjectives,0.0
+40,dibynnu,провалиться,verbs,0.15
+41,ceffyl,бык,nouns,0.75
+42,enillydd,кандидат,nouns,0.8
+43,dirmygu,обвинять,verbs,0.15
+44,athletwr,бегун,nouns,2.45
+45,sglodion,курсор,nouns,0.1
+46,wedi'i ferwi,варёный,adjectives,2.4
+47,dilyniant,камера,nouns,0.0
+48,morthwyl,зубы,nouns,0.05
+49,ffrâm,удар,nouns,0.0
+50,crio,смеяться,verbs,0.1
+51,cardbord,бумага,nouns,2.55
+52,actor,телевидение,nouns,1.0
+53,dinas,городок,nouns,2.9
+54,dyn,охранник,nouns,0.85
+55,duw,дух,nouns,1.7
+56,cyfrifiadur,машина,nouns,1.65
+57,gadael,встретить,verbs,0.05
+58,sioe,математик,nouns,0.0
+59,caets,пруток,nouns,0.1
+60,awst,месяц,nouns,2.45
+61,ysgwydd,голова,nouns,0.75
+62,hurt,огромный,adjectives,0.0
+63,tagu,убивать,verbs,1.85
+64,partner,парень,nouns,1.35
+65,eira,лёд,nouns,2.7
+66,hyfforddwr,учитель,nouns,4.65
+67,tasg,автострада,nouns,0.1
+68,yn beryglus,внимательно,adverbs,0.15
+69,hurt,сообразительный,adjectives,0.15
+70,busnes,корпорация,nouns,3.05
+71,eglwys gadeiriol,потолок,nouns,0.2
+72,sinema,попкорн,nouns,0.9
+73,hwyl,игра,nouns,1.3
+74,sgwrs,общение,nouns,4.5
+75,plesio,развлекать,verbs,1.3
+76,trychineb,смерть,nouns,1.55
+77,gwybod,понимать,verbs,1.65
+78,traethu,напоминать,verbs,0.7
+79,rhyfedd,необычный,adjectives,3.6
+80,caniatáu,утвердить,verbs,2.7
+81,mynd,продавать,verbs,0.4
+82,yn nerfus,тревожно,adverbs,3.25
+83,tafod,мускул,nouns,1.3
+84,mynychu,появляться,verbs,0.9
+85,canolig,незначительный,adjectives,0.6
+86,beirniadaeth,спор,nouns,1.35
+87,dugiaeth,княжество,nouns,2.0
+88,perygl,угроза,nouns,4.3
+89,dinistrio,разлагаться,verbs,0.95
+90,minc,мех,nouns,2.3
+91,main,узкий,adjectives,3.1
+92,galaeth,астроном,nouns,0.9
+93,gwellt,задача,nouns,0.05
+94,claddu,умереть,verbs,0.95
+95,rhewi,дрожать,verbs,1.55
+96,drwm,гитара,nouns,0.95
+97,blawd,хлеб,nouns,1.15
+98,bioleg,биотоп,nouns,0.5
+99,arolygu,изучать,verbs,3.3
+100,dal,получать,verbs,1.2
+101,cyhuddo,судить,verbs,2.85
+102,palmwydd,палец,nouns,0.5
+103,cael,оставаться,verbs,0.0
+104,twp,доверчивый,adjectives,0.75
+105,hysbysu,признавать,verbs,0.6
+106,hapusrwydd,умиротворенность,nouns,1.6
+107,gwanwyn,гейзер,nouns,0.1
+108,yn uchel,мягко,adverbs,0.0
+109,chwyrnu,проснуться,verbs,0.2
+110,canu,смеяться,verbs,0.3
+111,clywed,воспринимать,verbs,1.05
+112,newydd,старый,adjectives,0.1
+113,lleihau,ограничивать,verbs,2.95
+114,carchar,выбор,nouns,0.0
+115,i ffwrdd,домой,adverbs,0.3
+116,priodfab,невеста,nouns,1.35
+117,amgylchiad,ситуация,nouns,4.65
+118,anhrefn,урок,nouns,0.15
+119,cywilydd,расстроенный,adjectives,0.6
+120,ymddengys,становиться,verbs,1.25
+121,yn fawr,ярко,adverbs,0.65
+122,gwellt,жена,nouns,0.0
+123,benthyg,хотеть,verbs,0.1
+124,ymofyn,искать,verbs,0.55
+125,cwrw,шампанское,nouns,1.2
+126,cynorthwyo,просить,verbs,0.25
+127,injan,мотор,nouns,4.4
+128,gwresogydd,зонтик,nouns,0.0
+129,symudol,гибкий,adjectives,1.45
+130,gwyddoniadur,словарь,nouns,1.8
+131,car,автострада,nouns,0.95
+132,bws,автотранспорт,nouns,2.45
+133,yn ddelfrydol,механически,adverbs,0.05
+134,dinistrio,строить,verbs,0.05
+135,madfall,змея,nouns,1.2
+136,seren,планета,nouns,2.4
+137,bachgen,ребенок,nouns,1.9
+138,geiriadur,слово,nouns,1.25
+139,tudalen,абзац,nouns,0.8
+140,gwallgof,ужасный,adjectives,0.3
+141,newydd,недавний,adjectives,2.45
+142,goresgyn,доминировать,verbs,2.6
+143,sobr,рациональный,adjectives,1.95
+144,yn ysgafn,любезно,adverbs,0.7
+145,dyn,победитель,nouns,0.55
+146,duw,священник,nouns,0.95
+147,casglu,решать,verbs,1.0
+148,brwnt,липкий,adjectives,1.2
+149,diog,драгоценный,adjectives,0.0
+150,uchder,преобразование,nouns,0.0
+151,dewis,хотеть,verbs,0.85
+152,gogledd,юг,nouns,0.6
+153,gwybodaeth,книга,nouns,1.1
+154,cytundeb,спор,nouns,0.3
+155,llwyddo,пытаться,verbs,0.6
+156,difetha,нюхать,verbs,0.0
+157,rhedeg,ездить,verbs,0.25
+158,rhoi,разрешать,verbs,1.3
+159,yn wir,совершенно,adverbs,1.35
+160,dyweddïo,жениться,verbs,1.45
+161,sant,грешник,nouns,0.5
+162,trefnu,становиться,verbs,0.15
+163,harddwch,возраст,nouns,0.5
+164,cyfrifiadur,диск,nouns,1.1
+165,disgybl,учащийся,nouns,5.15
+166,cynfas,самолет,nouns,0.0
+167,arbed,выручать,verbs,4.5
+168,eisiau,выбирать,verbs,0.85
+169,castell,стена,nouns,0.6
+170,heulwen,луч,nouns,1.85
+171,ffidil,инструмент,nouns,2.45
+172,plymio,создавать,verbs,0.0
+173,yn graff,зрело,adverbs,0.55
+174,log,дерево,nouns,3.5
+175,maddau,забывать,verbs,1.25
+176,bod mewn dyled,одалживать,verbs,1.6
+177,ceg,губа,nouns,1.95
+178,cyflog,деньги,nouns,2.85
+179,dod â,жаловаться,verbs,0.1
+180,cyfuniad,соединение,nouns,2.4
+181,cadno,гончая,nouns,0.55
+182,wedi'i goginio,кипячёный,adjectives,2.4
+183,yn ddibynadwy,пассивно,adverbs,0.1
+184,afal,сладость,nouns,0.55
+185,cyfarfod,приветствовать,verbs,1.55
+186,gwraidd,трава,nouns,0.55
+187,corff,позвоночник,nouns,0.95
+188,anaml,обычно,adverbs,0.05
+189,cwtsh,обнимать,verbs,3.25
+190,rhannu,складывать,verbs,0.1
+191,pleidlais,выход,nouns,0.05
+192,ffrio,печь,verbs,1.35
+193,bedd,перезахоронения,nouns,1.25
+194,meddu ,хранить,verbs,2.1
+195,rhoi,вкладывать,verbs,1.0
+196,newyddion,редакционный,nouns,0.7
+197,pwerus,слабый,adjectives,0.05
+198,dde,правосудие,nouns,0.65
+199,annheg,жестокий,adjectives,1.8
+200,benthyg,задолжать,verbs,1.6
+201,llunio,делать,verbs,3.45
+202,pencampwr,победитель,nouns,5.05
+203,brandi,вино,nouns,1.2
+204,stumog,курс,nouns,0.1
+205,corws,певец,nouns,1.25
+206,bywyd wedi marwolaeth,чистилище,nouns,1.85
+207,bachgen,ребенок,nouns,2.35
+208,perygl,болезнь,nouns,0.4
+209,o ddifrif,искренне,adverbs,0.85
+210,annog,отговаривать,verbs,0.05
+211,holi,искать,verbs,0.95
+212,llygoden,контейнер,nouns,0.0
+213,merch,отец,nouns,0.85
+214,rhyddid,оазис,nouns,0.45
+215,ffordd,шоссе,nouns,4.35
+216,byr,длинный,adjectives,0.1
+217,maer,президент,nouns,1.4
+218,dodrefn,квартира,nouns,0.75
+219,cyfuniad,сахарный тростник,nouns,0.1
+220,blwch,источник,nouns,0.0
+221,cyhoeddi,провозглашать,verbs,4.8
+222,rhad,грязный,adjectives,0.0
+223,cerdd,ритм,nouns,1.3
+224,tebyg,подобный,adjectives,5.15
+225,dwywaith,один раз,adverbs,0.35
+226,rhyfeddol,странный,adjectives,3.1
+227,gwirod,вино,nouns,2.05
+228,enfawr,тупой,adjectives,0.0
+229,yn ofalus,опасно,adverbs,0.15
+230,cymryd,нести,verbs,0.5
+231,gwartheg,бык,nouns,2.95
+232,cwch,автомобиль,nouns,0.7
+233,dec,судно,nouns,1.35
+234,braich,запястье,nouns,1.3
+235,glaswellt,мох,nouns,1.45
+236,yn hael,любезно,adverbs,2.55
+237,cynghori,рекомендовать,verbs,4.45
+238,newynog,иссохший,adjectives,1.35
+239,gofyn,помогать,verbs,0.25
+240,stopio,контролировать,verbs,0.4
+241,bysellfwrdd,свет,nouns,0.0
+242,troed,база,nouns,0.6
+243,reis,курятина,nouns,0.4
+244,disgyn,уменьшаться,verbs,0.55
+245,gorsedd,меч,nouns,0.45
+246,siwmper,хлопок,nouns,0.55
+247,croes,монах,nouns,1.05
+248,gwaelod,верх,nouns,0.3
+249,archwilio,осматривать,verbs,3.3
+250,ysgyfaint,печень,nouns,0.85
+251,ffasiwn,форма,nouns,0.4
+252,brawd,отец,nouns,0.9
+253,ystafell,кровать,nouns,0.5
+254,dod yn,казаться,verbs,1.13
+255,agoriad,разрыв,nouns,1.2
+256,creulon,несправедливый,adjectives,1.8
+257,da,пятый,adjectives,0.0
+258,pleserdaith,путешествие,nouns,3.7
+259,arae,список,nouns,0.9
+260,lemwn,чай,nouns,0.8
+261,diymhongar,покладистый,adjectives,1.15
+262,rhyfelgarwch,бой,nouns,2.0
+263,maneg,мяч,nouns,0.1
+264,cynhesu,подогрев,nouns,3.4
+265,hapus,рассерженный,adjectives,0.05
+266,cyw iâr,стейк,nouns,1.0
+267,moleciwl,атом,nouns,1.4
+268,ardal,угол,nouns,0.45
+269,ysgytlaeth,сок,nouns,0.75
+270,tŷ,амбар,nouns,0.7
+271,tywysogaeth,герцогство,nouns,2.0
+272,tywydd,снег,nouns,1.1
+273,yn ddiweddar,реалистично,adverbs,0.0
+274,arfordir,пляж,nouns,2.2
+275,gorffen,решать,verbs,0.95
+276,balch,печальный,adjectives,0.15
+277,ffatri,автомобиль,nouns,0.25
+278,top,бок,nouns,0.4
+279,rheolwr,глава,nouns,3.95
+280,cerbyd,автобус,nouns,2.45
+281,mynd  ,покидать,verbs,1.1
+282,plaladdwr,вредитель,nouns,0.9
+283,ffa,бекон,nouns,0.2
+284,papur newydd,информация,nouns,1.65
+285,gwas,рабыня,nouns,2.0
+286,beic,кожа,nouns,0.0
+287,dimai,жена,nouns,0.05
+288,tyfu,сжиматься,verbs,0.05
+289,trên,трамвай,nouns,2.45
+290,llawr,крыша,nouns,0.5
+291,gwirod,группа,nouns,0.15
+292,car,подъемник,nouns,0.5
+293,plesio,ладить,verbs,1.0
+294,edau,пряжа,nouns,3.7
+295,diangen,необходимый,adjectives,0.05
+296,dydd ,ночь,nouns,0.2
+297,amddiffyn,убивать,verbs,0.3
+298,ynys,полуостров,nouns,2.1
+299,mynd,входить,verbs,1.5
+300,fel arfer,ненормально,adverbs,0.15
+301,cred,цветок,nouns,0.05
+302,trwm,большой,adjectives,1.35
+303,helmed,оружие,nouns,0.95
+304,morwyn,девочка,nouns,2.75
+305,cyllell,ружье,nouns,0.9
+306,byddin,флот,nouns,3.1
+307,bara,мука,nouns,1.15
+308,awdur,роман,nouns,1.15
+309,nos,день,nouns,0.2
+310,anhawster,усилие,nouns,1.3
+311,organ,почка,nouns,2.4
+312,bychanu,утешать,verbs,0.05
+313,mynd o'r golwg,пропадать,verbs,5.25
+314,cwest,цель,nouns,1.5
+315,allwedd,корона,nouns,0.0
+316,beirniadol,грубый,adjectives,0.75
+317,diemwnt,деньги,nouns,0.9
+318,anghwrtais,громкий,adjectives,0.75
+319,ffa,рис,nouns,0.7
+320,tarian,защита,nouns,2.1
+321,mam,жена,nouns,1.85
+322,awyrgylch,загрязнение,nouns,1.0
+323,bowlen,хвост,nouns,0.0
+324,malu,разбивать,verbs,4.9
+325,llynges,армия,nouns,3.1
+326,asgwrn,шея,nouns,0.35
+327,dweud,подтверждать,verbs,0.45
+328,neigaredd,король,nouns,0.3
+329,gwaelod,бок,nouns,0.7
+330,derbyn,соглашаться,verbs,2.5
+331,creulon,жесткий,adjectives,1.8
+332,log,ванна,nouns,0.0
+333,drws,звонок,nouns,0.7
+334,brawd,сестра,nouns,1.6
+335,ystafell ymolchi,спальня,nouns,1.3
+336,troseddu,беспокоить,verbs,0.45
+337,cwch,дерево,nouns,0.3
+338,sgriblo,записывать,verbs,2.6
+339,ffabrig,лен,nouns,2.2
+340,anghofio,помнить,verbs,0.05
+341,opera,кино,nouns,0.55
+342,yn gyfrinachgar,вежливо,adverbs,0.4
+343,gêm,сноровка,nouns,0.95
+344,babi,взрослый,nouns,0.5
+345,ffilm,нигилизм,nouns,0.0
+346,cysuro,унижать,verbs,0.05
+347,datgelwyd,покрытый,adjectives,0.05
+348,caledwedd,дело,nouns,0.15
+349,gwn,нож,nouns,0.9
+350,yn hawdd,грубо,adverbs,0.05
+351,estron,чужеземец,nouns,3.3
+352,dyffryn,депрессия,nouns,0.3
+353,atgoffa,сказать,verbs,0.7
+354,ap,галакси,nouns,0.3
+355,syniad,образ,nouns,1.3
+356,amaethyddiaeth,монокультура,nouns,0.45
+357,balchder,бедный,adjectives,0.1
+358,caban,хижина,nouns,3.35
+359,gwerthfawr,священный,adjectives,1.95
+360,menyw,мужчина,nouns,0.3
+361,teiffŵn,циклон,nouns,3.7
+362,siart,график,nouns,3.95
+363,tywysoges,король,nouns,0.9
+364,eglur,очевидный,adjectives,2.3
+365,yn realistig,идеально,adverbs,0.65
+366,gwlychu,уменьшить,verbs,0.0
+367,erydu,разрешать,verbs,0.0
+368,paragraff,страница,nouns,0.8
+369,arbennig,ценный,adjectives,2.05
+370,cyhuddo,осуждать,verbs,4.7
+371,testun,книга,nouns,1.5
+372,cytuno,спорить,verbs,0.15
+373,rhodio,бродить,verbs,4.0
+374,neidr,ящерица,nouns,1.2
+375,cynilwr,сбережения,nouns,1.55
+376,plentyn,девочка,nouns,1.45
+377,sgil,ум,nouns,1.15
+378,codi,пить,verbs,0.0
+379,bàth,жена,nouns,0.0
+380,dicter,настроение,nouns,1.1
+381,digid,цитоплазма,nouns,0.0
+382,stryd,переулок,nouns,2.75
+383,cyfaddef,отрицать,verbs,0.05
+384,yn wael,смиренно,adverbs,0.05
+385,dillad,шкаф,nouns,0.75
+386,yn ddibynadwy,грубо,adverbs,0.05
+387,asgwrn,мускул,nouns,0.5
+388,hyfforddwraig,игрок,nouns,0.5
+389,llywodraeth,ящерица,nouns,0.0
+390,yn ddiweddarach,никогда,adverbs,0.1
+391,lifft,автомобиль,nouns,0.5
+392,garddwrn,рука,nouns,1.3
+393,bwlch,открытие,nouns,1.2
+394,yn hapus,безопасно,adverbs,0.15
+395,hyrwyddo,продвигаться,verbs,1.65
+396,gwely,мебель,nouns,2.15
+397,gwraig,цент,nouns,0.05
+398,ystafell,камера,nouns,1.6
+399,sawl,дважды,adverbs,0.4
+400,siampên,виски,nouns,1.05
+401,cyhyrau,кость,nouns,0.5
+402,stori,карандаш,nouns,0.15
+403,gwddf,язык,nouns,0.6
+404,brwydro,противоречить,verbs,0.7
+405,yn anaml,часто,adverbs,0.1
+406,drws,подвал,nouns,0.4
+407,beddrod,гробница,nouns,1.25
+408,yma,сейчас,adverbs,1.6
+409,deallus,тупой,adjectives,0.05
+410,arbed,тонуть,verbs,0.1
+411,blanced,шторм,nouns,0.0
+412,archesgob,епископ,nouns,2.85
+413,rheolaidd,средний,adjectives,1.5
+414,llwybr,тоннель,nouns,0.95
+415,sudd,яблоко,nouns,0.95
+416,stoc,актив,nouns,2.8
+417,cynorthwyo,защищать,verbs,1.9
+418,cymysgu,комбинировать,verbs,3.55
+419,cymryd rhan,сотрудничать,verbs,1.9
+420,gwersyll,домик,nouns,1.05
+421,gwerthu,занимать,verbs,0.2
+422,gwerth,вера,nouns,0.55
+423,gwych,плохой,adjectives,0.0
+424,crochenwaith,керамика,nouns,3.95
+425,diogelu,отстаивать,verbs,4.2
+426,cig,хлеб,nouns,0.3
+427,traeth,остров,nouns,0.9
+428,meddwl,пытаться,verbs,0.3
+429,lliain,ткань,nouns,2.2
+430,tric,ванна,nouns,0.0
+431,dadl,критика,nouns,1.35
+432,staff,вокалист,nouns,0.0
+433,stori,тема,nouns,0.85
+434,da,известный,adjectives,0.1
+435,gwadu,принимать,verbs,0.15
+436,pennu,предсказывать,verbs,0.95
+437,cefnogwr,крикет,nouns,0.05
+438,gweiddi,спорить,verbs,1.1
+439,pêl-fas,кушетка,nouns,0.0
+440,mynychu,приходить,verbs,2.65
+441,degawd,век,nouns,0.35
+442,jin,виски,nouns,1.9
+443,wisgi,шампанское,nouns,1.05
+444,gwadu,признание,nouns,0.2
+445,plasty,скульптор,nouns,0.4
+446,yn gyfan gwbl,минимально,adverbs,0.1
+447,dirmygu,ненавидеть,verbs,2.35
+448,dimai,размер,nouns,0.3
+449,anwybyddu,забывать,verbs,1.55
+450,gweithred,курс,nouns,0.35
+451,ymddangos,становиться,verbs,1.0
+452,mawr,крупный,adjectives,4.55
+453,amddiffyn,защищать,verbs,4.2
+454,mintys poethion,жвачка,nouns,0.35
+455,ungnwd,сельское хозяйство,nouns,0.45
+456,mynd  ,позволять,verbs,0.1
+457,mwydyn,вредоносные программы,nouns,0.5
+458,yn anarferol,обычно,adverbs,0.15
+459,tymer,врач,nouns,0.15
+460,galaeth,приложение,nouns,0.3
+461,ofnus,стеснительный,adjectives,1.25
+462,saws,яблоко,nouns,0.7
+463,dosbarth,беспорядок,nouns,0.15
+464,gwael,одинокий,adjectives,0.25
+465,cario ,брать,verbs,0.5
+466,penderfynu,судить,verbs,2.05
+467,syml,легкий,adjectives,2.55
+468,oen,овца,nouns,3.15
+469,mynach,священник,nouns,2.7
+470,derbyn,признавать,verbs,2.8
+471,dinistrio,создавать,verbs,0.1
+472,angel,демон,nouns,0.15
+473,barnu,решать,verbs,2.05
+474,eglwys,хор,nouns,0.95
+475,brawdgarwch,дверь,nouns,0.0
+476,rhestr,матрица,nouns,0.9
+477,anadlu,задыхаться,verbs,0.8
+478,nerth,способность,nouns,1.5
+479,anhygoel,грязный,adjectives,0.0
+480,canol,трапеза,nouns,0.0
+481,priodferch,жених,nouns,1.35
+482,derbyn,прощать,verbs,1.15
+483,cas,аппара́тное обеспече́ние,nouns,0.15
+484,beirniadu,замечать,verbs,1.05
+485,cnoi,драться,verbs,0.4
+486,dweud yn gyhoeddus,объявлять,verbs,4.45
+487,polyhedron,актер,nouns,0.0
+488,llywydd,ученик,nouns,0.2
+489,chwalu,разгромить,verbs,4.9
+490,cyferbyn,уникальный,adjectives,0.15
+491,cornel,область,nouns,0.45
+492,braich,колено,nouns,0.7
+493,matrics,вектор,nouns,1.4
+494,topoleg,структура,nouns,2.05
+495,crwydro,покидать,verbs,0.65
+496,heddiw,сегодня ночью,adverbs,1.5
+497,telesgop,стул,nouns,0.0
+498,enillydd,чемпион,nouns,5.05
+499,cyhoeddi,информировать,verbs,4.4
+500,yn aeddfed,бойко,adverbs,0.55
+501,cwympo,ушибить,verbs,1.25
+502,fel arfer,редко,adverbs,0.05
+503,gwylio,наблюдать,verbs,3.2
+504,mynd  ,приходить,verbs,1.0
+505,atgoffa,продавать,verbs,0.05
+506,amwys,неясный,adjectives,4.5
+507,reis,боб,nouns,0.7
+508,disg,зарядное устройство,nouns,0.6
+509,bore,день,nouns,1.2
+510,gweithiwr,фотоаппарат,nouns,0.25
+511,bri,богатство,nouns,0.15
+512,nerfus,уверенный,adjectives,0.05
+513,ystadegau,теннис,nouns,0.0
+514,diplomyddiaeth,переговоры,nouns,2.15
+515,ffynnu,пытаться,verbs,1.35
+516,mam,подруга,nouns,1.05
+517,brecwast,ужин,nouns,0.7
+518,llynges,остров,nouns,0.45
+519,cymryd,получать,verbs,1.53
+520,bowlio,игрок в боулинг,nouns,1.65
+521,arbediad,бережливый человек,nouns,1.55
+522,cyfreithiol,безопасный,adjectives,1.05
+523,trwm,груженный,adjectives,3.25
+524,cyflawni,получать,verbs,0.7
+525,siarad,признавать,verbs,0.5
+526,dod yn,завершать,verbs,0.85
+527,dosbarth,колледж,nouns,1.05
+528,cwmni,предприятие,nouns,3.9
+529,pur,скромный,adjectives,0.85
+530,cymryd,доставлять,verbs,0.35
+531,o bosibl,оптимистически,adverbs,1.0
+532,hynafol,современный,adjectives,0.05
+533,wedi tyfu,незрелый,adjectives,0.1
+534,yn syml,видимо,adverbs,0.8
+535,rhannu,объединять,verbs,0.1
+536,addurn,стена,nouns,0.7
+537,llyfr,статья,nouns,0.9
+538,corff,грудь,nouns,1.2
+539,calendr,дата,nouns,1.95
+540,merch,ребенок,nouns,1.25
+541,deall,знать,verbs,1.65
+542,benthyca,давать,verbs,1.65
+543,yn rheolaidd,иногда,adverbs,0.35
+544,pont,карта,nouns,0.5
+545,theori,химия,nouns,0.7
+546,styden,парень,nouns,0.75
+547,yr wyddor,ручка,nouns,0.25
+548,diflannu,находить,verbs,0.05
+549,yn llachar,слегка,adverbs,0.0
+550,parêd,оркестр,nouns,0.95
+551,llawr,палуба,nouns,1.65
+552,stumog,спальня,nouns,0.0
+553,gallu,сила,nouns,1.5
+554,ffon reoli,радар,nouns,0.3
+555,afon,долина,nouns,0.8
+556,gofyn,игнорировать,verbs,0.0
+557,crio,реветь,verbs,4.15
+558,sudd,молочный коктейль,nouns,0.75
+559,cerdded,стоять,verbs,0.55
+560,busnes,компания,nouns,3.9
+561,blits,атака,nouns,3.3
+562,yn fras,приблизительно,adverbs,0.4
+563,colli,сохранять,verbs,0.25
+564,ffôn,потерпевший,nouns,0.0
+565,yn wahanol,странно,adverbs,1.65
+566,yn ofalus,осторожно,adverbs,2.8
+567,trwyn,горло,nouns,0.6
+568,brechdan,обед,nouns,1.1
+569,sigâr,пачка,nouns,0.45
+570,cwyno,ругаться,verbs,0.9
+571,cyhoeddus,частный,adjectives,0.05
+572,mêl,сахар,nouns,1.45
+573,braf,великодушный,adjectives,1.35
+574,menyn,картофель,nouns,0.4
+575,cyflawni,достигать,verbs,2.35
+576,tudalen,слово,nouns,0.8
+577,dewis,избирать,verbs,3.85
+578,anialwch,дюна,nouns,1.45
+579,campws,университет,nouns,1.4
+580,clywed,говорить,verbs,0.5
+581,pryd bwyd,ужин,nouns,3.2
+582,gwario,копить,verbs,0.1
+583,meddwl,помнить,verbs,0.75
+584,addysgu,учить,verbs,3.2
+585,annibynadwy,коварный,adjectives,1.7
+586,gwrthod,лгать,verbs,0.65
+587,rhannu,отрывать,verbs,1.3
+588,car,гудок,nouns,0.65
+589,gyrru,останавливаться,verbs,0.1
+590,brifo ,падать,verbs,1.25
+591,artist,искусства,nouns,1.25
+592,arwres,герой,nouns,3.2
+593,ongl,изгиб,nouns,2.0
+594,yn bennaf,глубоко,adverbs,0.15
+595,bàth,шар,nouns,0.0
+596,dermatitis,экзема,nouns,3.65
+597,cadair,скамейка,nouns,2.35
+598,haint,сгибание,nouns,0.0
+599,wastad,дважды,adverbs,0.25
+600,plismon,политик,nouns,0.2
+601,flwyddyn,век,nouns,1.0
+602,cwch,якорь,nouns,0.95
+603,yfed,выращивать,verbs,0.0
+604,dillad,ящик,nouns,0.65
+605,chwerthin,хихикать,verbs,4.55
+606,y rhan fwyaf,в основном,adverbs,2.85
+607,nerf,мужество,nouns,1.05
+608,banereg,флаг,nouns,0.9
+609,gwregys,петля,nouns,0.45
+610,casáu,критиковать,verbs,0.85
+611,apocalyps,пожар,nouns,0.9
+612,car,шланг,nouns,0.4
+613,llygad,бровь,nouns,0.9
+614,cymdeithas,культура,nouns,0.95
+615,môr,пляж,nouns,1.5
+616,rhoi,одалживать,verbs,1.55
+617,bwrdd,закат,nouns,0.0
+618,bwrw,ущипнуть,verbs,0.9
+619,handlen,белок,nouns,0.0
+620,swcros,углевод,nouns,1.55
+621,anfoesol,плохой,adjectives,2.75
+622,trefnu,собирать,verbs,1.6
+623,rhaglen,питание,nouns,0.3
+624,goruchafiath,победа,nouns,4.15
+625,planhigyn,сельское хозяйство,nouns,0.8
+626,ymchwilio,изучать,verbs,4.3
+627,cefndir,обои,nouns,1.45
+628,canon,ядро,nouns,0.9
+629,dŵr,лед,nouns,2.1
+630,deall,читать,verbs,0.8
+631,cystadlu,заканчивать,verbs,0.0
+632,gwych,выдающийся,adjectives,4.7
+633,hyblyg,крупный,adjectives,0.1
+634,sinamon,конфеты,nouns,0.6
+635,yn ddiogel,счастливо,adverbs,0.15
+636,car,автомобиль,nouns,5.35
+637,chwedl,мораль,nouns,0.5
+638,prysur,ленивый,adjectives,0.05
+639,gorchuddio,маскировать,verbs,2.5
+640,drws,проем,nouns,3.55
+641,hyblyg,скромный,adjectives,1.15
+642,hael,дружелюбный,adjectives,2.25
+643,casáu,наслаждаться,verbs,0.0
+644,actor,певец,nouns,1.05
+645,bydysawd,небо,nouns,1.1
+646,penelin,лодыжка,nouns,0.65
+647,yn ddigynnwrf,тонко,adverbs,0.3
+648,pobl,партия,nouns,1.2
+649,pibell,сад,nouns,0.4
+650,dwywaith,множественный,adverbs,0.4
+651,cyffes,отрицание,nouns,0.2
+652,amsugno,иметь,verbs,0.35
+653,gwawr,день,nouns,1.05
+654,offeiriad,бог,nouns,0.95
+655,ewin,шляпка,nouns,0.65
+656,drôr,одежда,nouns,0.65
+657,ffroenell,жидкость,nouns,0.0
+658,disgleirio,светиться,verbs,4.65
+659,diymhongar,чистый,adjectives,0.85
+660,dec,мышь,nouns,0.4
+661,camera,работник,nouns,0.25
+662,ton,погода,nouns,0.25
+663,yn heddychlon,с гордостью,adverbs,0.05
+664,disgybl,президент,nouns,0.2
+665,gwisgo,рвать,verbs,0.0
+666,ysbyty,койка,nouns,0.85
+667,gwneud,происходить,verbs,1.3
+668,gwerthfawr,особый,adjectives,2.05
+669,presenoldeb,дверь,nouns,0.1
+670,cryf,гордый,adjectives,0.85
+671,derbyn,принимать,verbs,3.5
+672,sinc,золото,nouns,0.35
+673,potel,баллончик,nouns,0.5
+674,alcohol,виски,nouns,2.3
+675,diflannu,сжиматься,verbs,1.5
+676,esgob,мусульман,nouns,0.3
+677,radical,агрессивный,adjectives,0.95
+678,perllan,страус,nouns,0.0
+679,gwn,шалость,nouns,0.05
+680,cyfansoddiad,сенат,nouns,0.8
+681,bargen,пенни,nouns,0.55
+682,diymhongar,пристыженный,adjectives,0.25
+683,gorchuddio,закапывать,verbs,0.7
+684,tywynnu,щуриться,verbs,0.35
+685,chwilio,просить,verbs,0.55
+686,oedran,красота,nouns,0.5
+687,brenin,принц,nouns,1.2
+688,alcohol,коктейль,nouns,1.7
+689,cyfrwng,новость,nouns,0.35
+690,gwrando,слышать,verbs,2.95
+691,seren,астероид,nouns,2.0
+692,gwallgof,счастливый,adjectives,0.05
+693,ffenestr,крыша,nouns,0.55
+694,braich,тело,nouns,1.0
+695,arian,наличные,nouns,3.95
+696,gwirio,говорить,verbs,0.45
+697,pâr,чета,nouns,5.55
+698,tref,город,nouns,2.9
+699,heno,завтра,adverbs,0.4
+700,dal,выпускать,verbs,0.6
+701,taith,завование,nouns,0.2
+702,anelu,ударять,verbs,0.85
+703,geiriadur,энциклопедия,nouns,1.8
+704,amlen,украшение,nouns,0.1
+705,diwydiant,предприятие,nouns,1.75
+706,crybwyll,критиковать,verbs,1.05
+707,cydsyniad,валюта,nouns,0.0
+708,derbyn,посылать,verbs,0.1
+709,gadael,выселять,verbs,0.65
+710,sarsiant,пистолет,nouns,0.55
+711,ymddangos,покидать,verbs,0.1
+712,torri,трескаться,verbs,2.0
+713,ymerawdwr,конституция,nouns,0.25
+714,cyfarfod,покидать,verbs,0.05
+715,trafodaeth,спор,nouns,3.5
+716,balch ,счастливый,adjectives,2.7
+717,claddu,покрывать,verbs,0.7
+718,craig,мина,nouns,0.25
+719,yn annaturiol,отрицательно,adverbs,0.45
+720,radar,джойстик,nouns,0.3
+721,bacwn,мясо,nouns,2.55
+722,yn heddychlon,хаотично,adverbs,0.1
+723,blodyn,фиалка,nouns,1.8
+724,fideo,кинолента,nouns,4.1
+725,gwasgu,схватывать,verbs,1.6
+726,edafedd,нить,nouns,3.7
+727,babi,дочь,nouns,1.25
+728,marwolaeth,погребение,nouns,1.4
+729,lluosiad,деление,nouns,0.75
+730,aer,гелий,nouns,2.15
+731,cig,стейк,nouns,3.65
+732,niwl,дождь,nouns,2.0
+733,teledu,коммуникация,nouns,1.5
+734,ffwr,ружье,nouns,0.1
+735,parti,маска,nouns,0.5
+736,calon,операция,nouns,0.5
+737,digwyddiad codi arian,event,nouns,1.35
+738,yn ddelfrydol,реалистично,adverbs,0.65
+739,caseg,лошадь,nouns,4.5
+740,gadael,прибывать,verbs,0.05
+741,siarad,слышать,verbs,0.5
+742,hawdd,тяжелый,adjectives,0.05
+743,mainc,стул,nouns,2.35
+744,denu,ударять,verbs,0.0
+745,gwartheg,йогурт,nouns,0.2
+746,dosbarthu,принимать,verbs,0.15
+747,gair,фраза,nouns,1.55
+748,dadelfennu,факторизация,nouns,1.35
+749,wal,кирпич,nouns,1.1
+750,bacwn,завтрак,nouns,0.75
+751,gair,газета,nouns,0.95
+752,arsylwi,смотреть,verbs,3.2
+753,awyr,вселенная,nouns,1.1
+754,canolig,плохой,adjectives,0.7
+755,dannedd,молоток,nouns,0.05
+756,crys,кардиган,nouns,0.8
+757,cyfreithiol,допущенный,adjectives,2.7
+758,amlwg,заметный,adjectives,3.35
+759,bowlen,дорожка,nouns,0.0
+760,miliwnydd,доллар,nouns,0.95
+761,afal,солнце,nouns,0.0
+762,yn enfawr,открыто,adverbs,0.45
+763,adref,далеко,adverbs,0.3
+764,cyrchwr,чип,nouns,0.1
+765,crogi,убивать,verbs,1.85
+766,deall,удовлетворять,verbs,0.5
+767,diflas,захватывающий,adjectives,0.1
+768,miniog,гладкий,adjectives,0.2
+769,dysgu,забывать,verbs,0.25
+770,yn fanwl gywir,неправильный,adjectives,0.05
+771,arferol,необычный,adjectives,0.4
+772,cloch,башня,nouns,0.55
+773,enfawr,крошечный,adjectives,0.05
+774,sychder,вода,nouns,0.3
+775,bol,живот,nouns,4.75
+776,canrif,год,nouns,1.0
+777,pili-pala,роза,nouns,0.5
+778,hael,приятный,adjectives,1.35
+779,car,датчик,nouns,0.5
+780,gweddïo,просить,verbs,1.65
+781,sigarét,табак,nouns,2.35
+782,lleihau,пропитывать,verbs,0.0
+783,alaw,музыка,nouns,3.6
+784,brwydr,завоевание,nouns,2.2
+785,patholeg,гематология,nouns,1.15
+786,plesio,умолять,verbs,0.5
+787,gwaith cartref,сочинение,nouns,1.95
+788,olew,норка,nouns,0.2
+789,anonest,плохой,adjectives,1.4
+790,stopio,ехать,verbs,0.1
+791,deallus,сообразительный,adjectives,2.65
+792,crynnu,замерзать,verbs,1.55
+793,ysgwydd,тело,nouns,1.05
+794,chwibanu,останавливаться,verbs,0.05
+795,helpu,помогать,verbs,5.25
+796,amhosib,возможный,adjectives,0.5
+797,ochr,верх,nouns,0.4
+798,anwybyddu,распечатать,verbs,0.0
+799,coffi,боб,nouns,0.8
+800,anniben,уродливый,adjectives,0.7
+801,tywysoges,остров,nouns,0.0
+802,sinema,опера,nouns,0.55
+803,eilradd,значительный,adjectives,0.05
+804,piano,гармония,nouns,0.75
+805,asgwrn,зубы,nouns,1.05
+806,masarnen,дерево,nouns,2.95
+807,derbyn,ловить,verbs,1.2
+808,maint,глубина,nouns,1.2
+809,gwybodaeth,энтропия,nouns,0.15
+810,ffôl,ребячливый,adjectives,1.95
+811,arweinydd,руководитель,nouns,3.95
+812,coeden,лист,nouns,1.2
+813,llwythog,тяжелый,adjectives,3.25
+814,siwgr,мед,nouns,1.45
+815,synhwyrydd,радиатор,nouns,0.3
+816,bronceitus,ацетаминофен,nouns,0.55
+817,cytundeb,прореха,nouns,0.0
+818,oren,цитрус,nouns,3.6
+819,eryr,сокол,nouns,1.8
+820,mewnwelediad,ум,nouns,2.2
+821,ffêr,кость,nouns,1.25
+822,hen,свежий,adjectives,0.05
+823,telesgop,мозговой штурм,nouns,0.0
+824,gwely,комната,nouns,0.5
+825,pêl-fas,братство,nouns,0.3
+826,cerflunydd,особняк,nouns,0.4
+827,gosod,давать,verbs,1.0
+828,dychmygu,притворяться,verbs,2.0
+829,dewis,вена,nouns,0.0
+830,papur,дерево,nouns,0.6
+831,dweud ar goedd,объявлять,verbs,4.8
+832,argyhoeddi,пытаться,verbs,0.25
+833,nos,глава,nouns,0.0
+834,pennu,эвакуировать,verbs,0.1
+835,gwawr,ночь,nouns,0.5
+836,dychan,миф,nouns,0.5
+837,anghyfreithlon,законный,adjectives,0.15
+838,clyfar,хитрый,adjectives,1.1
+839,dyddiad,календарь,nouns,1.95
+840,blin,счастливый,adjectives,0.05
+841,rhanbarth,область,nouns,4.85
+842,caniau,бутылка,nouns,0.5
+843,cloch,дверь,nouns,0.7
+844,yn bennaf,обычно,adverbs,2.85
+845,balchder,дерзкий,adjectives,1.25
+846,rinsio,мыть,verbs,2.8
+847,niwrosis,разум,nouns,0.7
+848,anodd ei gael,редкий,adjectives,1.3
+849,gŵr,мужчина,nouns,3.4
+850,hynod,ненормальный,adjectives,3.6
+851,dynwared,захватить,verbs,0.0
+852,cenedlaethol,известный,adjectives,0.05
+853,ymholi,думать,verbs,0.9
+854,dweud,выражать,verbs,3.2
+855,ffrog,танец,nouns,0.5
+856,yn rhyfedd,необычно,adverbs,3.8
+857,seren,яркость,nouns,1.25
+858,mefus,вишня,nouns,0.95
+859,gwefrydd,диск,nouns,0.6
+860,heb ei ddatgelu,открытый,adjectives,0.15
+861,gwneud,прекращать,verbs,0.1
+862,dyffryn,река,nouns,0.8
+863,llenyddiaeth,книга,nouns,2.3
+864,cyrraedd,посещать,verbs,1.05
+865,bagiau,кругосветное плавание,nouns,0.5
+866,tynnu,создавать,verbs,0.45
+867,ymadael,отделять,verbs,1.1
+868,yn ddibynadwy,ответственно,adverbs,3.25
+869,dod â,нести,verbs,2.05
+870,anaml,скудный,adjectives,1.3
+871,gwacáu,определить,verbs,0.1
+872,drwg,безнравственный,adjectives,2.75
+873,datblygiad,сбор пожертвований,nouns,0.2
+874,swil,напуганный,adjectives,1.25
+875,anaeddfed,взрослый,adjectives,0.1
+876,atom,углерод,nouns,1.15
+877,ffrind,парень,nouns,1.2
+878,penwythnos,неделя,nouns,1.1
+879,crëwr,изготовитель,nouns,4.6
+880,pêl,волейбол,nouns,1.75
+881,cymysg,комбинированный,adjectives,3.65
+882,braich,нога,nouns,0.65
+883,mynychu,спорить,verbs,0.0
+884,tywod,ступня,nouns,0.05
+885,cyflwr,ситуация,nouns,2.4
+886,pobl,доллар,nouns,0.0
+887,mynnu,спорить,verbs,1.4
+888,brawd,сын,nouns,0.9
+889,rhoi,красть,verbs,0.05
+890,stondin,телефон,nouns,0.45
+891,ffurfdroad,инфекция,nouns,0.0
+892,iâ,снег,nouns,2.7
+893,gwrthod,осуждать,verbs,0.35
+894,blodyn,выносливость,nouns,0.1
+895,gweithredu,алгебра,nouns,0.2
+896,crwm,прямой,adjectives,0.1
+897,coron,ключ,nouns,0.0
+898,clecian,хрустеть,verbs,1.65
+899,cracio,ломать,verbs,2.0
+900,cadw,занимать,verbs,0.2
+901,buddugoliaeth,триумф,nouns,4.15
+902,eglwys,собор,nouns,3.6
+903,nam,система,nouns,0.05
+904,hanfodol,необходимый,adjectives,4.2
+905,dadlau,соглашаться,verbs,0.15
+906,canon,ружье,nouns,2.15
+907,ffôn,будка,nouns,0.45
+908,malu,ударяться,verbs,0.6
+909,yn fawr,невероятно,adverbs,0.65
+910,hawdd,трудный,adjectives,0.1
+911,iâr,индейка,nouns,1.5
+912,gwisg unffurf,вязание,nouns,0.2
+913,hedyn,мельница,nouns,0.6
+914,eira,снежный обвал,nouns,1.5
+915,hawdd,простой,adjectives,2.55
+916,môr,дельта,nouns,0.65
+917,ffensio,гимнастика,nouns,0.4
+918,ymgyrch,обезьяна,nouns,0.0
+919,atgyweirio,восстановить,verbs,3.7
+920,wylo,плакать,verbs,4.7
+921,gadael,выселять,verbs,0.5
+922,creu,делать,verbs,4.55
+923,yn ddigynnwrf,решительно,adverbs,0.85
+924,yn gadarnhaol,наверное,adverbs,0.5
+925,cyfathrebu,язык,nouns,1.55
+926,gwely,стул,nouns,0.4
+927,byth,щедро,adverbs,0.0
+928,grawnfwyd,пшеница,nouns,2.5
+929,cymryd,отказывать,verbs,0.05
+930,sigâr,трубка,nouns,1.35
+931,ffactorio,разложение,nouns,1.35
+932,twp,упрямый,adjectives,0.45
+933,ewythr,кузен,nouns,1.05
+934,natur,флора,nouns,2.45
+935,yn sicr,очевидно,adverbs,2.6
+936,yn emosiynol,грустно,adverbs,1.45
+937,canwr,хор,nouns,1.25
+938,adnewid,менять,verbs,2.4
+939,gwerthuso,анализировать,verbs,3.75
+940,harddwch,сонет,nouns,0.2
+941,swyddog,лейтенант,nouns,1.5
+942,eliffant,компас,nouns,0.0
+943,tynnu,потерять,verbs,0.3
+944,arogli,портить,verbs,0.0
+945,yn negyddol,неестественно,adverbs,0.45
+946,cymryd,оставлять,verbs,0.1
+947,nendwr,дворец,nouns,0.55
+948,tramgwyddo,отговаривать,verbs,0.4
+949,cadw,защищать,verbs,1.55
+950,casglu,посещать,verbs,0.25
+951,emyn,библия,nouns,1.35
+952,maddau,понимать,verbs,1.35
+953,edmygu,обожать,verbs,3.05
+954,camera,линза,nouns,1.4
+955,yn wreiddiol,творчески,adverbs,0.7
+956,coflaid,душить,verbs,0.4
+957,angen,устраивать,verbs,0.0
+958,darlun,волдырь,nouns,0.0
+959,haf,зима,nouns,0.65
+960,mynegi,сказать,verbs,3.2
+961,ynys,пляж,nouns,0.9
+962,ynys,задача,nouns,0.0
+963,yn garedig,осторожно,adverbs,0.7
+964,gwan,пряный,adjectives,0.0
+965,nihiliaeth,фильм,nouns,0.0
+966,gadael,отходить,verbs,2.75
+967,rhesymoli,думать,verbs,2.1
+968,maes awyr,кусок,nouns,0.0
+969,carchar,пруток,nouns,0.2
+970,hwyliau,злость,nouns,1.1
+971,cyfnos,вечер,nouns,3.45
+972,deinosor,слон,nouns,0.35
+973,enwogrwydd,богатство,nouns,0.85
+974,hawdd,ранимый,adjectives,0.05
+975,cymysgu,встряхивать,verbs,1.55
+976,côr,церковь,nouns,0.95
+977,priodferch,принцесса,nouns,0.7
+978,dod â,восстанавливать,verbs,0.05
+979,chwydu,закрыть,verbs,0.0
+980,presenoldeb,отсутствие,nouns,0.7
+981,meddu ar,поглощать,verbs,0.35
+982,amnewid,восстанавливать,verbs,0.7
+983,bricsen,стена,nouns,1.1
+984,nodadwy,очевидный,adjectives,3.35
+985,athronydd,разгон,nouns,0.0
+986,mwslim,епископ,nouns,0.3
+987,offeryn,скрипка,nouns,2.45
+988,cawl,ужин,nouns,1.15
+989,clwb,марка,nouns,0.0
+990,creu,нырять,verbs,0.0
+991,ysgol,класс,nouns,0.85
+992,enillydd,человек,nouns,0.55
+993,yn weithredol,пассивно,adverbs,0.05
+994,amlwg,неизвестный,adjectives,0.15
+995,gwraig,муж,nouns,1.35
+996,gwybod,забывать,verbs,0.1
+997,yn bryderus,нервно,adverbs,3.25
+998,trist,смешной,adjectives,0.0
+999,entropi,информация,nouns,0.15
+1000,awdur,создатель,nouns,3.8
+1001,disgwyl,покидать,verbs,0.1
+1002,busnes,промышленность,nouns,1.75
+1003,buwch,коза,nouns,0.85
+1004,ffonoleg,экран,nouns,0.0
+1005,aloi,сталь,nouns,2.05
+1006,hanesyddiaethwr,историк,nouns,2.9
+1007,nod,победитель,nouns,0.2
+1008,cyhuddo,лгать,verbs,0.4
+1009,anwybodaeth,ум,nouns,0.3
+1010,therapi,бихевиоризм,nouns,1.15
+1011,cyw iâr,рис,nouns,0.4
+1012,alltud,пришелец,nouns,3.3
+1013,gwrthod,принимать,verbs,0.08
+1014,yn wir,важно,adverbs,0.55
+1015,sudd,ложка,nouns,0.2
+1016,gadael,начинать,verbs,0.05
+1017,symbol,код,nouns,1.6
+1018,credu,принимать,verbs,1.15
+1019,erthygl,книга,nouns,0.9
+1020,cosbi,ударять,verbs,0.9
+1021,dysgu,спутывать,verbs,0.0
+1022,moleciwl,воздух,nouns,0.65
+1023,danfon,приносить,verbs,0.75
+1024,cael,терять,verbs,0.05
+1025,allwedd,замок,nouns,1.0
+1026,canser,болезнь,nouns,2.4
+1027,dyn,ребенок,nouns,0.45
+1028,marwolaeth,бедствие,nouns,1.55
+1029,maes awyr,самолет,nouns,1.5
+1030,cae,овёс,nouns,0.6
+1031,swil,дорогой,adjectives,0.0
+1032,cân,баллада,nouns,3.9
+1033,rhybuddio,останавливаться,verbs,0.8
+1034,priffordd,задача,nouns,0.1
+1035,cinio,бутерброд,nouns,1.1
+1036,parasetamol,бронхит,nouns,0.55
+1037,wedi ymlacio,спокойный,adjectives,1.75
+1038,twf,удобрение,nouns,0.5
+1039,ofnus,неуверенный,adjectives,1.7
+1040,dicter,досада,nouns,1.8
+1041,dygnwch,цветок,nouns,0.1
+1042,botwm,одежда,nouns,0.75
+1043,darllenydd,писатель,nouns,0.6
+1044,pêl,ракетка,nouns,1.05
+1045,gwallgof,довольный,adjectives,0.05
+1046,cot,шляпа,nouns,0.8
+1047,tiwtora,воспитывать,verbs,3.2
+1048,ar ôl,до,adverbs,0.05
+1049,cyflogwr,работник,nouns,0.8
+1050,dyn,муж,nouns,3.4
+1051,gair,литература,nouns,1.2
+1052,cyfoeth,репутация,nouns,0.15
+1053,cwrs,желудок,nouns,0.1
+1054,mwnci,кампания,nouns,0.0
+1055,digwydd,действовать,verbs,1.3
+1056,argyhoeddi,спорить,verbs,0.95
+1057,twll,соглашение,nouns,0.0
+1058,o ychydig,полностью,adverbs,0.1
+1059,yn unffurf,иногда,adverbs,0.05
+1060,biotop,биология,nouns,0.5
+1061,cynhwysor,диод,nouns,0.85
+1062,sefyll,ходить,verbs,0.55
+1063,hyblyg,покладистый,adjectives,1.6
+1064,hwyl,футбол,nouns,0.7
+1065,balŵn,народ,nouns,0.0
+1066,menyw,секретарь,nouns,0.5
+1067,llawr,потолок,nouns,0.35
+1068,myffin,петрушка,nouns,0.15
+1069,deffro,храпеть,verbs,0.2
+1070,cynyddu,расти,verbs,3.55
+1071,yn ansicr,испуганный,adjectives,1.7
+1072,diflannu,исчезать,verbs,5.25
+1073,drwg  ,потрясающий,adjectives,0.15
+1074,credu,знать,verbs,1.2
+1075,pwysig,решающий,adjectives,3.75
+1076,yn drist,безумно,adverbs,0.25
+1077,crocodeil,ящерица,nouns,0.9
+1078,bowliwr,боулинг,nouns,1.65
+1079,cwt,убежище,nouns,1.65
+1080,losin,яблоко,nouns,0.55
+1081,symbol,знак,nouns,4.45
+1082,coginio,жарить,verbs,1.65
+1083,ymennydd,нерв,nouns,0.95
+1084,dŵr,соль,nouns,0.4
+1085,hanesydd,историограф,nouns,2.9
+1086,afon,море,nouns,1.0
+1087,iris,ацетилхолин,nouns,0.05
+1088,plesio,удовлетворять,verbs,2.95
+1089,gludiog,грязный,adjectives,1.2
+1090,smart,интеллектуальный,adjectives,2.65
+1091,machlud haul,вечер,nouns,2.75
+1092,sbeislyd,слабый,adjectives,0.0
+1093,smart,тупой,adjectives,0.15
+1094,pot,прибор,nouns,0.25
+1095,siriol,восхитительный,adjectives,3.15
+1096,terfysg,рисование,nouns,0.0
+1097,anghwrtais,критичный,adjectives,0.75
+1098,llac,гибкий,adjectives,0.8
+1099,cyn,после,adverbs,0.05
+1100,roboteg,симуляция,nouns,0.6
+1101,bàth,комната,nouns,0.95
+1102,personol,частный,adjectives,3.95
+1103,eglwys gadeiriol,церковь,nouns,3.6
+1104,yn gyfrifol,независимо,adverbs,0.05
+1105,pryd bynnag,иногда,adverbs,0.2
+1106,offeiriad,пророк,nouns,1.3
+1107,yn hapus,активно,adverbs,0.05
+1108,brest,тело,nouns,1.2
+1109,cenedlaethol,большой,adjectives,0.35
+1110,metr,дюйм,nouns,1.05
+1111,yn hanfodol,критично,adverbs,0.25
+1112,peiriannydd,работник,nouns,1.95
+1113,cerddoriaeth,флейта,nouns,1.05
+1114,ar hyn o bryd,на днях,adverbs,0.65
+1115,yn sicr,иногда,adverbs,0.15
+1116,yn aml,редко,adverbs,0.1
+1117,senedd,конституция,nouns,0.8
+1118,tric,размер,nouns,0.05
+1119,crwt,дочь,nouns,1.25
+1120,yn bwysig,официально,adverbs,1.55
+1121,llaw,ноготь,nouns,1.1
+1122,beiddgar,гордый,adjectives,1.25
+1123,esgob,архиепископ,nouns,2.85
+1124,blodyn,луковица,nouns,0.6
+1125,sobr,пьяный,adjectives,0.1
+1126,yn swyddogol,сильно,adverbs,0.3
+1127,athro,доктор,nouns,1.0
+1128,caethwas,слуга,nouns,2.0
+1129,pêl,перчатка,nouns,0.1
+1130,safbwynt,расстояние,nouns,0.45
+1131,ffres,старый,adjectives,0.05
+1132,creulon,милый,adjectives,0.0
+1133,cyngres,парламент,nouns,2.15
+1134,llygad,слеза,nouns,0.95
+1135,cadw,забывать,verbs,0.05
+1136,llywydd,политик,nouns,1.75
+1137,creu,разрушать,verbs,0.1
+1138,mam,опекунша,nouns,1.65
+1139,ofnadwy,печальный,adjectives,1.3
+1140,disgyn,отходить,verbs,0.5
+1141,hurt,дурацкий,adjectives,4.15
+1142,pen-glin,кость,nouns,1.45
+1143,yn union,точно,adverbs,2.6
+1144,cytuno,противоречить,verbs,0.1
+1145,tystio,судить,verbs,0.45
+1146,camera,президент,nouns,0.1
+1147,casglu,организовать,verbs,1.6
+1148,athro,студент,nouns,0.8
+1149,trin,платить,verbs,0.1
+1150,datrys,заканчивать,verbs,0.95
+1151,anghywir,точный,adjectives,0.05
+1152,diddanu,угождать,verbs,1.3
+1153,ymbarél,калибр,nouns,0.0
+1154,côn,стакан,nouns,0.35
+1155,llen,карниз,nouns,0.4
+1156,deall,слушать,verbs,0.85
+1157,cwmwl,дымка,nouns,2.5
+1158,coroni,воды,nouns,0.0
+1159,offeryn,работа,nouns,0.4
+1160,pen,алфавит,nouns,0.25
+1161,yn derfynol,иначе,adverbs,0.05
+1162,plentyn,мужчина,nouns,0.45
+1163,dis,куб,nouns,2.85
+1164,twnnel,дорожка,nouns,0.95
+1165,sitrws,апельсин,nouns,3.6
+1166,dafad,ягненок,nouns,3.15
+1167,geiser,весна,nouns,0.1
+1168,cyffrous,скучный,adjectives,0.1
+1169,rhith,реальность,nouns,0.4
+1170,doler,народ,nouns,0.0
+1171,sychu,ухудшать,verbs,0.3
+1172,ffraeo,убеждать,verbs,0.95
+1173,gwych,прекрасный,adjectives,5.05
+1174,sbeislyd,хороший,adjectives,0.35
+1175,cyfrwys,выносливый,adjectives,0.65
+1176,diflas,безопасный,adjectives,0.0
+1177,crebachu,уменьшаться,verbs,3.05
+1178,codi,тащить,verbs,1.2
+1179,dicter,ярость,nouns,4.15
+1180,darostyngedig,скромный,adjectives,1.9
+1181,brwydro,убивать,verbs,0.6
+1182,darganfod,изучать,verbs,2.2
+1183,go iawn,фальшивый,adjectives,0.2
+1184,modrwy,помолвка,nouns,1.45
+1185,cerflunwaith,статуя,nouns,4.5
+1186,ceirios,клубника,nouns,0.95
+1187,pîn-afal,смартфон,nouns,0.0
+1188,derbyn,рекомендовать,verbs,0.45
+1189,llygredd,атмосфера,nouns,1.0
+1190,peiriant,компьютер,nouns,1.65
+1191,cyflwr,мальчик,nouns,0.0
+1192,benthyg,продавать,verbs,0.2
+1193,cryfder,мощь,nouns,4.4
+1194,cred,ценность,nouns,0.55
+1195,ci,кошка,nouns,0.75
+1196,siocled,пирог,nouns,0.55
+1197,cymryd rhan,высказываться,verbs,0.3
+1198,stopio,свистеть,verbs,0.05
+1199,strwythur,топология,nouns,2.05
+1200,cyfathrebu,телевидение,nouns,1.5
+1201,tymor,зима,nouns,2.05
+1202,creadigol,инновационный,adjectives,3.0
+1203,microsgop,биолог,nouns,0.95
+1204,bara,сыр,nouns,0.5
+1205,nai,тетя,nouns,0.85
+1206,cyfreithlon,нелегальный,adjectives,0.15
+1207,yn gyflym,срочно,adverbs,4.3
+1208,damwain,книга,nouns,0.0
+1209,casglu,встряхивать,verbs,0.0
+1210,deallusrwydd,проницательность,nouns,2.2
+1211,colli,получать,verbs,0.05
+1212,gwydr,хрусталь,nouns,2.45
+1213,bustach,конь,nouns,0.75
+1214,unigryw,противоположный,adjectives,0.15
+1215,gwydn,твердый,adjectives,3.1
+1216,cwrw,алкоголь,nouns,2.5
+1217,dŵr,засуха,nouns,0.3
+1218,cynorthwy-ydd,наставник,nouns,2.1
+1219,diogel,легальный,adjectives,1.05
+1220,asgwrn cefn,шея,nouns,1.2
+1221,rhythm,стих,nouns,1.3
+1222,homoffon,фотофон,nouns,0.25
+1223,dod,приносить,verbs,1.25
+1224,syniad,мнение,nouns,2.35
+1225,gwaith celf,художник,nouns,1.25
+1226,ffuglen,биография,nouns,0.5
+1227,allanfa,проход,nouns,2.45
+1228,yn ddi-drefn,мирно,adverbs,0.1
+1229,cywilydd,виноватый,adjectives,2.25
+1230,pren,бревно,nouns,3.05
+1231,ciwb,игрушка,nouns,0.4
+1232,dadansoddi,сравнивать,verbs,2.65
+1233,sychedig,голодный,adjectives,1.35
+1234,od,странный,adjectives,3.65
+1235,yn amlwg,локально,adverbs,0.0
+1236,glân,беспорядочный,adjectives,0.0
+1237,pen,гвоздь,nouns,0.65
+1238,lluosi,складывать,verbs,1.05
+1239,cul,широкий,adjectives,0.1
+1240,cod,символ,nouns,1.6
+1241,bwlch,сигара,nouns,0.45
+1242,mae'n debyg,просто,adverbs,0.8
+1243,argymell,принимать,verbs,0.45
+1244,rhyfedd,скрытный,adjectives,0.65
+1245,ar hyn o bryd,деликатно,adverbs,0.0
+1246,llwch,метла,nouns,0.75
+1247,casglu,сохранять,verbs,2.0
+1248,gwely,больница,nouns,0.85
+1249,band,парад,nouns,0.95
+1250,llyfr,текст,nouns,1.5
+1251,beibl,псалом,nouns,1.35
+1252,erfyn,занимать,verbs,0.65
+1253,wisgi,джин,nouns,1.9
+1254,etholi,отклонять,verbs,0.1
+1255,dyn,дядя,nouns,1.55
+1256,diwylliant,общество,nouns,0.95
+1257,cyflogwr,работник,nouns,0.8
+1258,treth,доход,nouns,0.65
+1259,golau,клавиатура,nouns,0.0
+1260,lluosi,делить,verbs,0.35
+1261,stêc,курятина,nouns,1.0
+1262,braf,жестокий,adjectives,0.0
+1263,gyferbyn,другой,adjectives,1.1
+1264,dewis,тюрьма,nouns,0.0
+1265,myfyriwr,профессор,nouns,0.8
+1266,gweithiwr,офис,nouns,0.8
+1267,corwynt,буря,nouns,3.8
+1268,archeoleg,антропология,nouns,1.2
+1269,llygoden,управление,nouns,0.35
+1270,arnofio,петь,verbs,0.05
+1271,sesiwn,пациент,nouns,0.15
+1272,pry,пчела,nouns,1.6
+1273,coeden,лодка,nouns,0.3
+1274,bachgen,рис,nouns,0.0
+1275,blodyn,вера,nouns,0.05
+1276,yn lleol,очевидно,adverbs,0.0
+1277,tenis,статистика,nouns,0.0
+1278,tad,мать,nouns,1.35
+1279,dysgu,наказать,verbs,0.05
+1280,dan straen,расслабленный,adjectives,0.05
+1281,diffiniad,словарь,nouns,2.1
+1282,cyfartaledd,обычный,adjectives,1.5
+1283,amherchnogi,давать,verbs,0.5
+1284,cysylltu,отделять,verbs,0.05
+1285,gwddf,рука,nouns,0.45
+1286,lemwn,яблоко,nouns,0.95
+1287,mwsogl,трава,nouns,1.45
+1288,myfyrio,думать,verbs,4.5
+1289,bar,клетка,nouns,0.1
+1290,cyfiawnder,право,nouns,0.65
+1291,pen-blwydd,год,nouns,1.2
+1292,alcohol,джин,nouns,2.05
+1293,ychwanegu,соединять,verbs,1.2
+1294,gwaethygu,нападать,verbs,0.1
+1295,niwtral,спокойный,adjectives,1.5
+1296,metr,ярд,nouns,1.35
+1297,cywilydd,счастливый,adjectives,0.0
+1298,pryf sidan,гусеница,nouns,2.45
+1299,corff,желудок,nouns,1.3
+1300,caled,простой,adjectives,0.0
+1301,yn feirniadol,практически,adverbs,0.25
+1302,ystafell ymolchi,кухня,nouns,0.8
+1303,lan,побережье,nouns,3.2
+1304,ceiniog,оплата,nouns,0.95
+1305,ffin,рубеж,nouns,4.25
+1306,yn fras,минимально,adverbs,0.0
+1307,rhyddid,цензура,nouns,0.4
+1308,sedd,наклон,nouns,0.05
+1309,crwydro,странствовать,verbs,4.0
+1310,anodd,тяжелый,adjectives,4.7
+1311,serameg,глиняная посуда,nouns,3.95
+1312,miniog,мягкий,adjectives,0.05
+1313,swper,завтрак,nouns,0.9
+1314,yn fras,надежно,adverbs,0.05
+1315,yn dynn,твердо,adverbs,1.55
+1316,ceisio,убеждать,verbs,0.25
+1317,bardd,журналист,nouns,0.55
+1318,synnwyr,интуиция,nouns,3.8
+1319,machlud haul,строка,nouns,0.0
+1320,creu,строить,verbs,2.6
+1321,urddas,значки,nouns,0.15
+1322,yn wahanol,терминально,adverbs,0.05
+1323,dur,сплав,nouns,2.05
+1324,nerthol,мощный,adjectives,4.25
+1325,post,скорость,nouns,0.0
+1326,gogledd,запад,nouns,0.7
+1327,fel arfer,нерегулярно,adverbs,0.1
+1328,twr,колокол,nouns,0.55
+1329,sillaf,лемма,nouns,0.25
+1330,ffrind,гость,nouns,0.9
+1331,cyfarch,встречать,verbs,1.55
+1332,hiliaeth,ксенофобия,nouns,3.15
+1333,llo,бык,nouns,2.0
+1334,marw,закапывать,verbs,0.95
+1335,deiet,яблоко,nouns,0.65
+1336,adeiladu,разрушать,verbs,0.05
+1337,ardderchog,великолепный,adjectives,5.05
+1338,mynd,путешествовать,verbs,2.1
+1339,clymu,объединять,verbs,3.1
+1340,darganfod,исчезать,verbs,0.05
+1341,rhoi,вешать,verbs,0.35
+1342,lladrad,преступлениe,nouns,2.1
+1343,cael,назначать,verbs,0.3
+1344,popcorn,кино,nouns,0.9
+1345,trist,гордый,adjectives,0.15
+1346,iselder,долина,nouns,0.3
+1347,yn hysbys,национальный,adjectives,0.05
+1348,yn gywir,именно,adverbs,2.6
+1349,dadansoddi,оценивать,verbs,3.75
+1350,anghofio,узнавать,verbs,0.25
+1351,twrci,птица,nouns,2.45
+1352,yn oddefol,активно,adverbs,0.05
+1353,gwyliwr,человек,nouns,0.85
+1354,ergyd,рамка,nouns,0.0
+1355,argraffu,игнорировать,verbs,0.0
+1356,cymharu,анализировать,verbs,2.65
+1357,malware,червяк,nouns,0.5
+1358,parêd,толпа,nouns,1.7
+1359,ecosystem,экономика,nouns,0.4
+1360,hyll,беспорядочный,adjectives,0.7
+1361,glaswelltir,луг,nouns,2.55
+1362,calendr,праздник,nouns,0.75
+1363,aur,цинк,nouns,0.35
+1364,pledio,умолять,verbs,3.95
+1365,ffwr,женщина,nouns,0.25
+1366,yn anhygoel,плотно,adverbs,0.0
+1367,gwenith,злак,nouns,2.5
+1368,gadael,делать,verbs,0.1
+1369,corff,рука,nouns,1.0
+1370,glaw,изморось,nouns,2.0
+1371,canfod,слышать,verbs,1.05
+1372,dadl,соглашение,nouns,0.3
+1373,swltan,министерство,nouns,0.15
+1374,fel arfer,повседневно,adverbs,4.2
+1375,amau,арестовывать,verbs,0.2
+1376,fformiwla,журнал,nouns,0.6
+1377,batri,энергия,nouns,2.3
+1378,ansicr,нуждающийся,adjectives,0.4
+1379,bisged,принцесса,nouns,0.0
+1380,tyfu,расширяться,verbs,3.65
+1381,hysteria,помрачение,nouns,1.9
+1382,datgymalu,умереть,verbs,0.4
+1383,cwch,мотор,nouns,0.85
+1384,gweithiwr,работодатель,nouns,0.8
+1385,mecanyddol,электрический,adjectives,0.35
+1386,amherchnogi,отрекаться,verbs,2.55
+1387,dychmygu,создавать,verbs,0.65
+1388,encilio,покидать,verbs,2.75
+1389,ysgwyd,размешать,verbs,1.55
+1390,undeb,комбинация,nouns,2.4
+1391,ymwrthod,подавлять,verbs,0.15
+1392,dwyn,покупать,verbs,0.05
+1393,aderyn,ястреб,nouns,1.95
+1394,dewis,выборы,nouns,2.7
+1395,rheolaidd,невежественный,adjectives,0.05
+1396,gŵr bonheddig,госпожа,nouns,1.2
+1397,heno,сегодня,adverbs,1.5
+1398,ci hela,лиса,nouns,0.55
+1399,proffwyd,священник,nouns,1.3
+1400,colli,вычитать,verbs,0.3
+1401,deall,прощать,verbs,1.35
+1402,carbohydrad,сахароза,nouns,1.55
+1403,poen,вред,nouns,1.55
+1404,gwisg,бал,nouns,0.55
+1405,preifat,общественный,adjectives,0.05
+1406,democratiaeth,монархия,nouns,0.2
+1407,twll,жена,nouns,0.0
+1408,gwydn,ловкий,adjectives,0.65
+1409,hynafol,новый,adjectives,0.0
+1410,swigen,пена,nouns,0.95
+1411,modd,привычка,nouns,3.8
+1412,meddwl,обосновывать,verbs,2.1
+1413,gwddf,позвоночник,nouns,1.2
+1414,cymylog,прогноз,nouns,0.6
+1415,cliw,слово,nouns,0.25
+1416,dianc,находить,verbs,0.05
+1417,gwydn,легкий,adjectives,0.1
+1418,danfon,получать,verbs,0.1
+1419,prawf,вердикт,nouns,1.65
+1420,haul,небо,nouns,0.85
+1421,ased,акции,nouns,2.8
+1422,eang,свежий,adjectives,0.05
+1423,cath,кролик,nouns,0.65
+1424,gwm,мята,nouns,0.35
+1425,gwrthod,признавать,verbs,0.05
+1426,iâ,вода,nouns,2.1
+1427,anhapus,рассерженный,adjectives,0.8
+1428,euog,пристыженный,adjectives,2.25
+1429,yn gynnil,спокойно,adverbs,0.3
+1430,prynu,воровать,verbs,0.05
+1431,cynnyrch llaeth,мед,nouns,0.2
+1432,afal,лимон,nouns,0.95
+1433,yn syth,один раз,adverbs,0.6
+1434,ffôl,тупой,adjectives,4.15
+1435,wedi blino,скучный,adjectives,0.6
+1436,siarad,шептать,verbs,1.7
+1437,eisiau,желать,verbs,5.1
+1438,blwyddyn,юбилей,nouns,1.2
+1439,wythnosol,ежемесячный,adjectives,0.55
+1440,cinio,завтрак,nouns,0.7
+1441,peilot,водитель,nouns,2.35
+1442,dod yn,делать,verbs,0.45
+1443,pelydr,солнце,nouns,1.85
+1444,presenoldeb,победитель,nouns,0.05
+1445,fitamin,железо,nouns,0.8
+1446,go fach,карликовый,adjectives,2.4
+1447,gwrtaith,развитие,nouns,0.5
+1448,rhiant,отец,nouns,3.3
+1449,harmoni,пианино,nouns,0.75
+1450,pennod,конец,nouns,0.1
+1451,methu,преуспевать,verbs,0.05
+1452,brawdgarwch,мужчины,nouns,0.75
+1453,anghefnogi,подбодрять,verbs,0.05
+1454,gwybod,давать,verbs,0.2
+1455,madfall,правительство,nouns,0.0
+1456,medrydd,автомобиль,nouns,0.5
+1457,ailgynhesu,прогрев,nouns,3.4
+1458,ffêr,локоть,nouns,0.65
+1459,fflat,мебель,nouns,0.75
+1460,oedolyn,родитель,nouns,1.75
+1461,acwsteg,звук,nouns,2.95
+1462,cwrw,напиток,nouns,2.3
+1463,datgysylltu,раскалывать,verbs,1.3
+1464,silff,гора,nouns,0.5
+1465,llwyddo,завершать,verbs,2.35
+1466,cadw,владеть,verbs,2.1
+1467,cynffon,глава,nouns,0.1
+1468,cath,собака,nouns,0.75
+1469,yn dawel,громко,adverbs,0.0
+1470,môr,река,nouns,1.0
+1471,ceg,нос,nouns,0.7
+1472,llyfr,информация,nouns,1.1
+1473,asteroid,звезда,nouns,2.0
+1474,fel arfer,искренне,adverbs,0.25
+1475,hapus,злой,adjectives,0.05
+1476,gwawr,ружье,nouns,0.0
+1477,cyfarfod,плавать,verbs,0.0
+1478,soned,красота,nouns,0.2
+1479,ffres,широкий,adjectives,0.05
+1480,benthyg,давать,verbs,1.55
+1481,matrics,молекула,nouns,0.65
+1482,maint,трюк,nouns,0.05
+1483,allanfa,избирательное право,nouns,0.05
+1484,arbed,тратить,verbs,0.1
+1485,coleg,профессия,nouns,0.5
+1486,yn hyfryd,элегантно,adverbs,3.0
+1487,carreg,дерево,nouns,0.15
+1488,prin,необычный,adjectives,3.9
+1489,canrif,десятилетие,nouns,0.35
+1490,gwych,ужасный,adjectives,0.0
+1491,anhrefnu,организованный,verbs,0.05
+1492,reidio,шаркать,verbs,0.1
+1493,dyfarniad,разбирательство,nouns,1.65
+1494,yn feddal,твердо,adverbs,0.25
+1495,yn realistig,недавно,adverbs,0.0
+1496,ciledrych,пялиться,verbs,0.35
+1497,gwaith llaw,традиция,nouns,0.4
+1498,gitâr,форель,nouns,0.0
+1499,cyfalaf,деньги,nouns,3.55
+1500,anghrybwylladwy,внебрачный,adjectives,0.05
+1501,yn gain,красиво,adverbs,3.0
+1502,hylif,сопло,nouns,0.0
+1503,ceg,зуб,nouns,0.95
+1504,mintys,музей,nouns,0.0
+1505,prifysgol,кампус,nouns,1.4
+1506,yn gadarn,плотно,adverbs,1.55
+1507,dod,идти,verbs,1.0
+1508,rhwystredigaeth,злость,nouns,1.8
+1509,gwenynen,насекомое,nouns,1.6
+1510,gwthio,обвинять,verbs,0.05
+1511,coleddu,хранить,verbs,1.35
+1512,troi allan,освобождать,verbs,0.65
+1513,diafol,бог,nouns,0.6
+1514,pwyll,забота,nouns,2.45
+1515,tarw,теленок,nouns,2.0
+1516,hir,узкий,adjectives,0.35
+1517,yn drist,эмоционально,adverbs,1.45
+1518,ffliwt,музыка,nouns,1.05
+1519,gên,кость,nouns,1.05
+1520,gwaethygu,беспокоить,verbs,0.4
+1521,pêl-fas,баскетбол,nouns,1.55
+1522,caffael,объединяться,verbs,0.2
+1523,llaw,палец,nouns,1.05
+1524,yn annibynnol,ответственно,adverbs,0.05
+1525,caffael,украсть,verbs,0.6
+1526,dillad,ткань,nouns,1.38
+1527,priffordd,автомобиль,nouns,0.95
+1528,angenrheidiol,ненужный,adjectives,0.05
+1529,gwythïen,желудок,nouns,0.45
+1530,newyddiadurwr,поэт,nouns,0.55
+1531,salad,уксус,nouns,0.5
+1532,ffêr,окно,nouns,0.0
+1533,bachgen,состояние,nouns,0.0
+1534,eira,погода,nouns,1.1
+1535,gwalch,птица,nouns,1.95
+1536,clwstwr,толпа,nouns,2.55
+1537,milwr,мир,nouns,0.4
+1538,enfawr,астрономический,adjectives,0.6
+1539,tywysoges,невеста,nouns,0.7
+1540,twyn,пустыня,nouns,1.45
+1541,diogel,утомительный,adjectives,0.0
+1542,breuddwyd,небо,nouns,0.3
+1543,cig eidion,скот,nouns,2.95
+1544,gadael,игнорировать,verbs,0.75
+1545,carped,дом,nouns,0.55
+1546,prin,немой,adjectives,0.0
+1547,trwyn,голова,nouns,0.85
+1548,glaw,град,nouns,1.55
+1549,pellter,перспектива,nouns,0.45
+1550,neidio,забор,nouns,0.3
+1551,ebol,конь,nouns,3.15
+1552,boddi,спасти,verbs,0.1
+1553,adeiladwaith,разрушение,nouns,0.2
+1554,pryd bwyd,ужин,nouns,3.05
+1555,gwaed,плоть,nouns,1.1
+1556,caban,коттедж,nouns,3.95
+1557,darganfod,осознавать,verbs,3.15
+1558,mab,отец,nouns,0.9
+1559,cyflawni,становиться,verbs,0.85
+1560,cyfuno,смешивать,verbs,3.55
+1561,ymosodol,изогнутый,adjectives,0.0
+1562,cyntedd,коридор,nouns,4.0
+1563,deallusrwydd,мудрость,nouns,3.5
+1564,asetylocolin,ирис,nouns,0.05
+1565,llinyn,закат,nouns,0.0
+1566,asgwrn,лодыжка,nouns,1.25
+1567,llawdriniaeth,сердце,nouns,0.5
+1568,ynys,принцесса,nouns,0.0
+1569,taro,целиться,verbs,0.85
+1570,clariffeio,объяснять,verbs,3.55
+1571,nod,поиск,nouns,1.5
+1572,minc,масло,nouns,0.2
+1573,yn gyfrinachol,уверенно,adverbs,0.15
+1574,tagu,дышать,verbs,0.8
+1575,yn obeithiol,возможно,adverbs,1.0
+1576,dweud celwydd,обвинять,verbs,0.4
+1577,ceryddu,требовать,verbs,0.4
+1578,codiad haul,закат,nouns,0.85
+1579,gwyliau,календарь,nouns,0.75
+1580,pathogen,микроб,nouns,4.3
+1581,anghytuno,соглашаться,verbs,0.1
+1582,caban,лагерь,nouns,1.05
+1583,ysgol,юриспруденция,nouns,0.55
+1584,braich,вена,nouns,0.6
+1585,coes,рука,nouns,0.65
+1586,tad,бог,nouns,1.8
+1587,doethineb,ум,nouns,3.5
+1588,parch,честь,nouns,3.15
+1589,cynhwysydd,платформа,nouns,0.05
+1590,erthygl,журнал,nouns,2.1
+1591,cysur,безопасность,nouns,0.85
+1592,preifat,личный,adjectives,3.95
+1593,lens,фотоаппарат,nouns,1.4
+1594,gwn,сержант,nouns,0.55
+1595,cig,говядина,nouns,2.7
+1596,cytuno,угождать,verbs,1.0
+1597,cymryd,воспользоваться,verbs,1.4
+1598,llawr,дверь,nouns,0.35
+1599,nodyn,оплата,nouns,0.05
+1600,arian cyfred,обмен,nouns,0.7
+1601,medal,тренери,nouns,0.3
+1602,yn gyfiawn,зрело,adverbs,0.6
+1603,tynnu'n ôl,отвергать,verbs,1.85
+1604,cwrtais,приличный,adjectives,1.85
+1605,doniol,серьезный,adjectives,0.05
+1606,protestaniaid,кристиан,nouns,1.25
+1607,sgleinio,сообщить,verbs,0.0
+1608,yn agored i niwed,беспомощный,adjectives,1.55
+1609,agwedd,уверенность,nouns,1.4
+1610,halen,вода,nouns,0.4
+1611,traeth,море,nouns,1.5
+1612,dilyn,гнаться,verbs,2.2
+1613,sylweddoli,обнаруживать,verbs,3.15
+1614,anifail,человек,nouns,0.5
+1615,ymwrthod,отрицать,verbs,2.55
+1616,seler,дверь,nouns,0.4
+1617,creu,становиться,verbs,0.45
+1618,delwedd,отражение,nouns,1.3
+1619,yn aeddfed,праведно,adverbs,0.6
+1620,dydd  ,рассвет,nouns,1.05
+1621,myfyriwr,ученик,nouns,5.15
+1622,brenhines,пчела,nouns,0.75
+1623,anghofio,игнорировать,verbs,1.55
+1624,di-fau,чистый,adjectives,3.25
+1625,reidio,бежать,verbs,0.25
+1626,cab,автомобиль,nouns,3.45
+1627,yn ddiffuant,честно говоря,adverbs,4.4
+1628,gaeaf,сезон,nouns,2.05
+1629,o ddifrif,важно,adverbs,2.1
+1630,cyfnewid,валюта,nouns,0.7
+1631,car,грузовик,nouns,2.05
+1632,ffenestr,облако,nouns,0.2
+1633,prif fwrdd,материнская плата,nouns,3.1
+1634,sylfaen,кислота,nouns,0.05
+1635,cyffredin,странный,adjectives,0.05
+1636,salwch,рак,nouns,2.4
+1637,cyfreithiwr,банкир,nouns,0.8
+1638,aros,сохранять,verbs,0.65
+1639,clymu,ткать,verbs,0.65
+1640,teclyn,кастрюля,nouns,0.25
+1641,rhyddhau,нажимать,verbs,0.05
+1642,beio,толкать,verbs,0.05
+1643,gwrthod,отодвигать,verbs,1.85
+1644,germ,патогенный микроорганизм,nouns,4.3
+1645,afu,орган,nouns,1.75
+1646,yn rhyfedd,иначе,adverbs,1.65
+1647,canlyn,убеждать,verbs,0.75
+1648,nawr,здесь,adverbs,1.6
+1649,gorffwyll,безумный,adjectives,4.8
+1650,emyn,завоевание,nouns,0.0
+1651,yn garedig,щедро,adverbs,2.55
+1652,troi allan,покидать,verbs,0.5
+1653,trydanol,механический,adjectives,0.35
+1654,gwynt,шквал,nouns,3.35
+1655,basilica,мозаика,nouns,0.5
+1656,fisa,глобализм,nouns,0.3
+1657,deilen,саженец,nouns,1.05
+1658,dydd  ,утро,nouns,1.2
+1659,tywydd,волна,nouns,0.25
+1660,soffa,бейсбол,nouns,0.0
+1661,hedyn,горчица,nouns,0.85
+1662,awyren,аэропорт,nouns,1.5
+1663,jar,бутылка,nouns,2.15
+1664,car,мост,nouns,0.35
+1665,gwraig,солома,nouns,0.0
+1666,menyw,задача,nouns,0.0
+1667,de,север,nouns,0.6
+1668,weithiau,часто,adverbs,0.6
+1669,deintydd,полковник,nouns,0.0
+1670,cyd-beilot,кокпит,nouns,0.2
+1671,trwyn,рот,nouns,0.7
+1672,rhythm,мелодия,nouns,2.25
+1673,awyr,солнце,nouns,0.85
+1674,dyn,друг,nouns,1.2
+1675,gorffen,выпуститься,verbs,1.7
+1676,ymosod,раздражать,verbs,0.1
+1677,mawr,огромный,adjectives,4.3
+1678,duw,жертва,nouns,0.15
+1679,ysgrifennu,строчить,verbs,2.6
+1680,eira,шторм,nouns,1.05
+1681,brenin,принцесса,nouns,0.9
+1682,arwr,героиня,nouns,3.2
+1683,hanfodol,важный,adjectives,3.75
+1684,anodd,легкий,adjectives,0.1
+1685,mynychu,посылать,verbs,0.1
+1686,pêl-droed,развлечение,nouns,0.7
+1687,yn gryf,официально,adverbs,0.3
+1688,cwmwl,буря,nouns,1.05
+1689,asgwrn,локоть,nouns,1.2
+1690,iaith,общение,nouns,1.55
+1691,dewis,глава,nouns,0.3
+1692,teledu,сценарист,nouns,0.65
+1693,sy'n dod i mewn,уходящий,adjectives,0.05
+1694,abdomen,брюшко,nouns,4.75
+1695,yn gadarn,спокойно,adverbs,0.85
+1696,caws,хлеб,nouns,0.5
+1697,gymnasteg,фехтование,nouns,0.4
+1698,lladd,защищать,verbs,0.3
+1699,ysgwydd,рука,nouns,1.65
+1700,yn ysgafn,ярко,adverbs,0.0
+1701,anfeidredd,ноль,nouns,0.2
+1702,twrci,курица,nouns,1.5
+1703,ewyllys,намерение,nouns,2.05
+1704,eang,узкий,adjectives,0.1
+1705,penderfynu,представлять,verbs,0.5
+1706,dal,подражать,verbs,0.0
+1707,cyw iâr,ужин,nouns,0.7
+1708,angenrheidiol,важный,adjectives,3.35
+1709,log,формула,nouns,0.6
+1710,dawnsio,платье,nouns,0.5
+1711,gwaed,вирус,nouns,0.7
+1712,hawdd,гибкий,adjectives,1.6
+1713,papur newydd,известие,nouns,0.95
+1714,carbon,атом,nouns,1.15
+1715,iogwrt,коро́ва,nouns,0.2
+1716,goruchafu,побеждать,verbs,2.6
+1717,ffenestr,дверь,nouns,0.7
+1718,oeraidd,ранимый,adjectives,0.1
+1719,cyfarch,выступать,verbs,0.55
+1720,llun,бунт,nouns,0.0
+1721,cystrawen,заглавное слово,nouns,0.3
+1722,anghefnogi,огорчать,verbs,0.4
+1723,trosedd,мошенничество,nouns,2.25
+1724,dôl,пастбище,nouns,2.55
+1725,yn oddefol,надёжно,adverbs,0.1
+1726,dyn,отец,nouns,1.65
+1727,anwybyddu,избегать,verbs,3.4
+1728,barnwr,суд,nouns,1.25
+1729,tad,мужчина,nouns,1.65
+1730,yn onest,никогда,adverbs,0.0
+1731,asgwrn,рука,nouns,1.25
+1732,mêl,молочные продукты,nouns,0.2
+1733,gadael,присоединиться,verbs,0.05
+1734,pwyntydd,слайд,nouns,0.0
+1735,modryb,племянник,nouns,0.85
+1736,dyweddïad,кольцо,nouns,1.45
+1737,dewis,мнение,nouns,1.1
+1738,delwedd,идея,nouns,1.3
+1739,traeth,риф,nouns,0.8
+1740,cadw,лелеять,verbs,1.35
+1741,greddf,чувство,nouns,3.8
+1742,llonydd,нейтральный,adjectives,1.5
+1743,athro,преподаватель,nouns,4.65
+1744,anwybyddu,покидать,verbs,0.75
+1745,cyfoeth,бедность,nouns,0.3
+1746,amrwd,уродливый,adjectives,0.7
+1747,mygu,обнимать,verbs,0.4
+1748,ystafell wely,ванная,nouns,1.3
+1749,gwerthfawr,ленивый,adjectives,0.0
+1750,trafod,объяснять,verbs,1.35
+1751,nenfwd,собор,nouns,0.2
+1752,brwydr,воинственность,nouns,2.0
+1753,clun,губа,nouns,0.4
+1754,anarferol,чудной,adjectives,4.35
+1755,jîns,женщина,nouns,0.2
+1756,allbriodasol,неприличный,adjectives,0.05
+1757,dryswch,истерика,nouns,1.9
+1758,pwysig,необходимый,adjectives,3.35
+1759,oedolyn,ребенок,nouns,0.8
+1760,car,такси,nouns,3.45
+1761,ras,выходные,nouns,0.0
+1762,pêl-fasged,бейсбол,nouns,1.55
+1763,pen,ступня,nouns,0.5
+1764,yn annhebygol,дружелюбно,adverbs,0.0
+1765,disgleirdeb,звезда,nouns,1.25
+1766,corff,плечо,nouns,1.05
+1767,cydio,сжимать,verbs,1.6
+1768,yn amlwg,конечно,adverbs,2.6
+1769,cyfyngu,уменьшить,verbs,2.95
+1770,aseiniad,примечание,nouns,0.65
+1771,gwlyb,липкий,adjectives,0.55
+1772,cyntedd,класс,nouns,0.55
+1773,plentyn,мальчик,nouns,1.9
+1774,cipio,ловить,verbs,2.7
+1775,dinistrio,спасти,verbs,0.05
+1776,taro,привлекать,verbs,0.0
+1777,lamp,джинн,nouns,0.1
+1778,aneglur,смутный,adjectives,4.5
+1779,cyfieithydd,иностранец,nouns,0.5
+1780,tric,игра,nouns,0.95
+1781,trochion,пузырь,nouns,0.95
+1782,anrhydedd,почтение,nouns,3.15
+1783,yn gywir,активно,adverbs,0.4
+1784,bachgen,партнер,nouns,0.45
+1785,papur lapio,убежище,nouns,0.1
+1786,priodi,обручаться,verbs,1.45
+1787,aros,достигать,verbs,0.0
+1788,ufuddhau,слушать,verbs,1.65
+1789,angor,лодка,nouns,0.95
+1790,batri,театр,nouns,0.0
+1791,troed,голова,nouns,0.5
+1792,cath,мышка,nouns,0.6
+1793,pren,камень,nouns,0.15
+1794,gradd,школа,nouns,0.85
+1795,styfnig,глупый,adjectives,0.45
+1796,modd,мода,nouns,0.4
+1797,uchel,грубый,adjectives,0.75
+1798,moesol,легенда,nouns,0.5
+1799,tun,металл,nouns,2.15
+1800,amgylchedd,меч,nouns,0.2
+1801,gwahanu,отходить,verbs,1.1
+1802,biolegydd,микроскоп,nouns,0.95
+1803,yn hapus,смертельно,adverbs,0.1
+1804,symud,ткать,verbs,0.0
+1805,anystwyth,легкий,adjectives,0.0
+1806,plentyn,мальчик,nouns,2.35
+1807,ychwanegu,умножать,verbs,1.05
+1808,gwehyddu,двигаться,verbs,0.0
+1809,gweinidogaeth,султан,nouns,0.15
+1810,arferol,ненормальный,adjectives,0.05
+1811,yn onest,искренне,adverbs,4.4
+1812,seren,часовня,nouns,0.7
+1813,dadl,дискуссия,nouns,3.5
+1814,rhad,недорогой,adjectives,4.55
+1815,hyder,настрой,nouns,1.4
+1816,morgrugyn,пчела,nouns,0.65
+1817,difrifol,смешной,adjectives,0.05
+1818,siaced,свитер,nouns,1.45
+1819,ysgubor,дом,nouns,0.7
+1820,gwddf,кость,nouns,0.35
+1821,deigryn,глаз,nouns,0.95
+1822,corn,барабан,nouns,0.5
+1823,trefnu,беспорядочный,verbs,0.05
+1824,ychwanegu,строить,verbs,0.8
+1825,glofa,камень,nouns,0.25
+1826,dirprwy,офицер,nouns,1.5
+1827,sgriptiwr,телевидение,nouns,0.65
+1828,addoli,восхищаться,verbs,3.05
+1829,pwnc,история,nouns,0.85
+1830,creu,разрушать,verbs,0.1
+1831,main,худенький,adjectives,3.65
+1832,noswaith,сумерки,nouns,3.45
+1833,orthodontydd,врач,nouns,1.6
+1834,cynorthwyo,ассистировать,verbs,5.25
+1835,ymgeisydd,победитель,nouns,0.8
+1836,adeiladu,добавлять,verbs,0.8
+1837,beic,автомобиль,nouns,0.9
+1838,caled,трудный,adjectives,4.7
+1839,machlud haul,стол,nouns,0.0
+1840,tybio,предсказывать,verbs,1.55
+1841,hapusrwydd,печаль,nouns,0.25
+1842,llwy,чашка,nouns,0.9
+1843,pibell,сигара,nouns,1.35
+1844,dysgu,слушать,verbs,0.65
+1845,gorynys,остров,nouns,2.1
+1846,pinsio,бить,verbs,0.9
+1847,dod â,приходить,verbs,1.25
+1848,trefnu,нуждаться,verbs,0.0
+1849,cwpl,пара,nouns,5.55
+1850,harbwr,обертка,nouns,0.1
+1851,boch,язык,nouns,0.85
+1852,archwilio,обнаруживать,verbs,2.2
+1853,tram,поезд,nouns,2.45
+1854,allwedd,дом,nouns,0.55
+1855,gadael,забирать,verbs,0.1
+1856,rheoli,останавливать,verbs,0.4
+1857,siampên,пиво,nouns,1.2
+1858,canwr,штат сотрудников,nouns,0.0
+1859,papur,картон,nouns,2.55
+1860,cicio,ушибить,verbs,1.95
+1861,llys,судья,nouns,1.25
+1862,dec,пол,nouns,1.65
+1863,ofnadwy,плохой,adjectives,3.65
+1864,ehangu,расти,verbs,3.65
+1865,newydd,неиспользуемый,adjectives,3.55
+1866,seicoleg,наука,nouns,1.85
+1867,coginio,потерять,verbs,0.0
+1868,gwellt,псалом,nouns,0.0
+1869,methu,полагаться,verbs,0.15
+1870,nos,рассвет,nouns,0.5
+1871,enaid,брат,nouns,0.5
+1872,disgyrchiant,метеор,nouns,0.4
+1873,gwrthod,соглашаться,verbs,0.05
+1874,croen,велосипед,nouns,0.0
+1875,rheiddiadur,датчик,nouns,0.3
+1876,milwr,мальчик,nouns,0.7
+1877,gwyddonydd,медбрат,nouns,0.25
+1878,dadlau,спорить,verbs,2.75
+1879,dinistrio,убивать,verbs,3.8
+1880,ffa,кофе,nouns,0.8
+1881,seryddwr,галактика,nouns,0.9
+1882,tenau,стройный,adjectives,3.65
+1883,cul,грязный,adjectives,0.0
+1884,llymeitio,глотать,verbs,2.6
+1885,pobi,жарить,verbs,1.35
+1886,barn,предубеждение,nouns,2.4
+1887,dal,гнаться,verbs,1.6
+1888,collfarnu,отклонять,verbs,0.35
+1889,amddiffyn,хранить,verbs,1.55
+1890,llwyn,цветок,nouns,1.1
+1891,balchder,радость,nouns,1.6
+1892,marw,распадаться,verbs,0.4
+1893,siwmper,пиджак,nouns,1.45
+1894,cyflymder,пост,nouns,0.0
+1895,encilio,спускаться,verbs,0.5
+1896,mab,брат,nouns,0.9
+1897,gêm,веселье,nouns,1.3
+1898,crebachu,расти,verbs,0.05
+1899,gwin,бренди,nouns,1.2
+1900,ergydio,упускать,verbs,0.05
+1901,baco,сигарета,nouns,2.35
+1902,fioled,цветок,nouns,1.8
+1903,drysu,учить,verbs,0.0
+1904,modur,машина,nouns,5.35
+1905,ymadael,подождать,verbs,0.1
+1906,cymysgu,готовить,verbs,0.6
+1907,amsugno,отделяться,verbs,0.4
+1908,diweddar,новый,adjectives,2.45
+1909,anarferol,эксцентричный,adjectives,3.1
+1910,crwydro,искать,verbs,1.6
+1911,seryddol,массивный,adjectives,0.6
+1912,beirniadu,ненавидеть,verbs,0.85
+1913,ardderchog,рассерженный,adjectives,0.3
+1914,pen,плечо,nouns,0.75
+1915,blwch,лифт,nouns,0.35
+1916,anghofio,напоминать,verbs,0.05
+1917,codi arian,развитие,nouns,0.2
+1918,yn dynn,невероятно,adverbs,0.0
+1919,brwnt,удивительный,adjectives,0.0
+1920,reis,мальчик,nouns,0.0
+1921,rhif,цифра,nouns,5.0
+1922,storm,туча,nouns,1.05
+1923,tafod,щека,nouns,0.85
+1924,yn dawel,естественно,adverbs,0.15
+1925,yn bwysig,действительно,adverbs,0.55
+1926,yn naturiol,неестественно,adverbs,0.1
+1927,llesteirio,отговаривать,verbs,1.05
+1928,llenwi,презирать,verbs,0.15
+1929,priodol,вежливый,adjectives,1.85
+1930,balch ,рассерженный,adjectives,0.05
+1931,benthyg,держать,verbs,0.2
+1932,yn swyddogol,важно,adverbs,1.55
+1933,lladd,бороться,verbs,0.6
+1934,brwydro,играть,verbs,0.15
+1935,asgwrn,колено,nouns,1.45
+1936,car,завод,nouns,0.25
+1937,torf,орава,nouns,4.35
+1938,cymysg,старый,adjectives,0.1
+1939,archwilio,игнорировать,verbs,0.05
+1940,pensil,сказка,nouns,0.15
+1941,heb fod yn ddrud,дешевый,adjectives,4.55
+1942,planed,звезда,nouns,2.4
+1943,pobl,ружье,nouns,0.1
+1944,rasio,философ,nouns,0.0
+1945,pledio,угождать,verbs,0.5
+1946,awyren,простынь,nouns,0.0
+1947,chwerthin,петь,verbs,0.3
+1948,drud,стеснительный,adjectives,0.0
+1949,gwrthod,избирать,verbs,0.1
+1950,datgan,провозглашать,verbs,4.45
+1951,sylfaen,ступня,nouns,0.6
+1952,llyfr,литература,nouns,2.3
+1953,ymarfer,повторять,verbs,1.3
+1954,afal,диета,nouns,0.65
+1955,ifanc,неугомонный,adjectives,0.6
+1956,gweriniaeth,герцог,nouns,0.2
+1957,heddwch,солдат,nouns,0.4
+1958,drwg,нечестный,adjectives,1.4
+1959,deiet,салат,nouns,0.75
+1960,perfformio,приветствовать,verbs,0.55
+1961,dyrchafu,продвигать,verbs,1.65
+1962,raced,мяч,nouns,1.05
+1963,sudd,молоко,nouns,0.55
+1964,yn ddwfn,значительно,adverbs,0.95
+1965,rhagolwg,облачность,nouns,0.6
+1966,to,окно,nouns,0.55
+1967,chwarae,драться,verbs,0.15
+1968,rhoi,отказывать,verbs,0.05
+1969,dygnwch,повязка,nouns,0.0
+1970,cadair,табуретка,nouns,2.9
+1971,yn afreolaidd,обычно,adverbs,0.1
+1972,credyd,заёмщик,nouns,1.55
+1973,cansen siwgr,комбайн,nouns,0.1
+1974,gwrthwynebydd,противник,nouns,3.15
+1975,llyfr,история,nouns,1.6
+1976,haematoleg,патология,nouns,1.15
+1977,hen,новый,adjectives,0.1
+1978,wal,отделка,nouns,0.7
+1979,gwneuthurio,строить,verbs,3.45
+1980,ymadrodd,слово,nouns,1.55
+1981,amaethyddiaeth,растение,nouns,0.8
+1982,asgwrn,челюсть,nouns,1.05
+1983,beibl,книга,nouns,1.8
+1984,ael,глаз,nouns,0.9
+1985,polyn,флаг,nouns,0.7
+1986,eirlithriad,снег,nouns,1.5
+1987,ymuno,покидать,verbs,0.05
+1988,dirmygus,презрительный,adjectives,3.9
+1989,llywydd,загрязнение,nouns,0.0
+1990,glân,аккуратный,adjectives,2.85
+1991,digio,оскорблять,verbs,2.9
+1992,rhifyddeg,логика,nouns,1.0
+1993,arfordir,берег,nouns,3.2
+1994,lladd,уничтожать,verbs,3.8
+1995,talwrn,штурман,nouns,0.2
+1996,derbyn,давать,verbs,0.1
+1997,poster,бумага,nouns,1.6
+1998,cadernid,сила,nouns,4.4
+1999,hyblyg,движимый,adjectives,1.45
+2000,ifanc,счастливый,adjectives,0.25
+2001,yn falch,мирно,adverbs,0.05
+2002,llwy,сок,nouns,0.2
+2003,bar,тюрьма,nouns,0.2
+2004,caniatáu,идти,verbs,0.1
+2005,tad,брат,nouns,0.9
+2006,yn hysbys,хороший,adjectives,0.1
+2007,pont,автомобиль,nouns,0.35
+2008,yn greadigol,первоначально,adverbs,0.7
+2009,cyfrwys,умный,adjectives,1.1
+2010,dadlau,вопить,verbs,1.1
+2011,ffwr,норка,nouns,2.3
+2012,gwrando,узнавать,verbs,0.65
+2013,stopio,предупреждать,verbs,0.8
+2014,braich,плечо,nouns,1.65
+2015,alwminiwm,металл,nouns,2.35
+2016,osgoi,отвергать,verbs,1.3
+2017,anatomeg,биология,nouns,2.15
+2018,curo,смешивать,verbs,0.6
+2019,anniben,чистый,adjectives,0.0
+2020,mynach,крест,nouns,1.05
+2021,stumog,талия,nouns,0.7
+2022,ysgoloriaeth,обучение,nouns,0.85
+2023,uno,делить,verbs,0.1
+2024,trefnu,устраивать,verbs,5.25
+2025,tasg,остров,nouns,0.0
+2026,treisgar,пассивный,adjectives,0.05
+2027,cwpan,ложка,nouns,0.9
+2028,orthodontydd,дантист,nouns,4.2
+2029,bys,ладонь,nouns,0.5
+2030,wedi eu cyfuno,смешанный,adjectives,3.65
+2031,llaeth,сок,nouns,0.55
+2032,sefyllfa,состояние,nouns,2.4
+2033,gwn,рассвет,nouns,0.0
+2034,mwtant,социобиология,nouns,0.35
+2035,persli,маффин,nouns,0.15
+2036,gwerthu,продаваться,verbs,0.4
+2037,cadw,терять,verbs,0.25
+2038,trosedd,кража,nouns,2.1
+2039,fflora,природа,nouns,2.45
+2040,bywgraffiad,роман,nouns,0.5
+2041,dodrefn,кровать,nouns,2.15
+2042,cyfiawnder,суд,nouns,1.25
+2043,mwynhau,ненавидеть,verbs,0.0
+2044,hyblyg,свободный,adjectives,0.8
+2045,mam,отец,nouns,1.35
+2046,mynd  ,посылать,verbs,0.6
+2047,corff,нижняя одежда,nouns,0.25
+2048,traeth,берег,nouns,2.2
+2049,ewin,кисть,nouns,1.1
+2050,tarddu,открывать,verbs,0.25
+2051,sleid,указатель,nouns,0.0
+2052,cuddwisgo,покрывать,verbs,2.5
+2053,barnu,обвинять,verbs,2.85
+2054,llonydd,расслабленный,adjectives,1.75
+2055,nadu,отклонять,verbs,2.45
+2056,nyrs,ученый,nouns,0.25
+2057,ceffyl,собака,nouns,0.6
+2058,gwely,спальня,nouns,1.7
+2059,dinistrio,создавать,verbs,0.1
+2060,tywydd,облако,nouns,0.9
+2061,graff,диаграмма,nouns,3.95
+2062,ceirchen,поле,nouns,0.6
+2063,rhythm,каденция,nouns,0.2
+2064,arloesol,творческий,adjectives,3.0
+2065,ceffyl,жеребенок,nouns,3.15
+2066,unig,бедный,adjectives,0.25
+2067,alcohol,пиво,nouns,2.5
+2068,corfforaeth,предприятие,nouns,3.05
+2069,cân,исполнитель,nouns,1.0
+2070,talu,лечить,verbs,0.1
+2071,arian,капитал,nouns,3.55
+2072,cwyno,приносить,verbs,0.1
+2073,newyddion,сплетня,nouns,2.6
+2074,car,судно,nouns,0.7
+2075,gwefus,рот,nouns,1.95
+2076,syfrdanu,праздновать,verbs,0.1
+2077,petrusgar,гневный,adjectives,0.1
+2078,aderyn,курица,nouns,2.05
+2079,gwirod,век,nouns,0.0
+2080,ceisio,думать,verbs,0.3
+2081,gwael,гордый,adjectives,0.1
+2082,marcio,оценивать,verbs,2.4
+2083,cymeriad,человек,nouns,2.8
+2084,llygredd,президент,nouns,0.0
+2085,ofnadwy,прекрасный,adjectives,0.0
+2086,wagen,контейнер,nouns,0.05
+2087,haearn,витамин,nouns,0.8
+2088,baner,изучение флагов,nouns,0.9
+2089,gwythïen,выбор,nouns,0.0
+2090,danfon,посещать,verbs,0.1
+2091,hydwyll,глупый,adjectives,0.75
+2092,cafflo,обманывать,verbs,4.15
+2093,bwrw,наказать,verbs,0.9
+2094,asgwrn cefn,тело,nouns,0.95
+2095,absenoldeb,пристуствие,nouns,0.7
+2096,car,улица,nouns,0.75
+2097,bachgen,солдат,nouns,0.7
+2098,tristwch,счастье,nouns,0.25
+2099,anghofio,знать,verbs,0.1
+2100,lema,слог,nouns,0.25
+2101,arf,шлем,nouns,0.95
+2102,athro,ученик,nouns,0.8
+2103,chwim,быстрый,adjectives,4.8
+2104,gwrando,понимать,verbs,0.85
+2105,achub,спасать,verbs,4.5
+2106,tân,апокалипсис,nouns,0.9
+2107,gadael,идти,verbs,1.1
+2108,mob,толпа,nouns,4.35
+2109,cristion,протестант,nouns,1.25
+2110,arwydd,символ,nouns,4.45
+2111,cwpan,кувшин,nouns,1.2
+2112,diod,пиво,nouns,2.3
+2113,cyfrwys,странный,adjectives,0.65
+2114,cas,электричество,nouns,0.3
+2115,ceisio,преуспевать,verbs,0.6
+2116,gludedd,всплеск,nouns,0.2
+2117,ystafell,ванна,nouns,0.95
+2118,llygoden,крыса,nouns,2.65
+2119,bygythiad,опасность,nouns,4.3
+2120,modur,двигатель,nouns,4.4
+2121,blaengau,стараться,verbs,0.15
+2122,anarferol,редкий,adjectives,3.9
+2123,dymuno,хотеть,verbs,5.1
+2124,cywilydd,скромный,adjectives,0.25
+2125,pwnc,книга,nouns,0.7
+2126,rhyfelwr,мужчина,nouns,0.85
+2127,yn ofalus,теперь,adverbs,0.0
+2128,trafferthu,обострять,verbs,0.4
+2129,bwcler,щит,nouns,2.1
+2130,gwerthu,напоминать,verbs,0.05
+2131,ymwybyddiaeth,внимание,nouns,1.6
+2132,oer,обычный,adjectives,0.0
+2133,portreadu,решать,verbs,0.5
+2134,yn ystyrlon,глубоко,adverbs,0.95
+2135,incwm,налог,nouns,0.65
+2136,cwpwrdd,одежда,nouns,0.75
+2137,doler,миллионер,nouns,0.95
+2138,fector,матрица,nouns,1.4
+2139,oedolyn,младенец,nouns,0.5
+2140,sgrechian,вопить,verbs,4.6
+2141,swyddfa,работник,nouns,0.8
+2142,llywydd,фотоаппарат,nouns,0.1
+2143,clo,ключ,nouns,1.0
+2144,gadael,появляться,verbs,0.1
+2145,bwthyn,домик,nouns,3.95
+2146,arian parod,деньги,nouns,3.95
+2147,deintydd,ортодонт,nouns,4.2
+2148,losin,корица,nouns,0.6
+2149,brithyll,гитара,nouns,0.0
+2150,yn agored,массивно,adverbs,0.45
+2151,pothell,иллюстрация,nouns,0.0
+2152,gorffen,соревноваться,verbs,0.0
+2153,bàth,бревно,nouns,0.0
+2154,ysgrifennydd,женщина,nouns,0.5
+2155,cerdded,хромать,verbs,0.45
+2156,ffordd,манера,nouns,3.8
+2157,yn gwrtais,благоразумно,adverbs,0.4
+2158,gwych,потрясающий,adjectives,5.3
+2159,ewythr,мужчина,nouns,1.55
+2160,cawod,монастырь,nouns,0.0
+2161,mynychu,собираться,verbs,0.25
+2162,realiti,иллюзия,nouns,0.4
+2163,pechadur,святой,nouns,0.5
+2164,ffrio,кипятить,verbs,0.9
+2165,gwneuthurwr,создатель,nouns,4.6
+2166,dyn,женщина,nouns,0.3
+2167,yn uchel,безумно,adverbs,0.25
+2168,rhesymeg,арифметика,nouns,1.0
+2169,ymaflyd,брать,verbs,1.4
+2170,bwlb,цветок,nouns,0.6
+2171,treisgar,радикальный,adjectives,0.95
+2172,gwn,народ,nouns,0.1
+2173,pla,пестицид,nouns,0.9
+2174,coginio,микшировать,verbs,0.6
+2175,disg,компьютер,nouns,1.1
+2176,dolen,пояс,nouns,0.45
+2177,offeiriad,монах,nouns,2.7
+2178,taith,поездка,nouns,3.7
+2179,drws,присутствие,nouns,0.1
+2180,ymuno,вкладывать,verbs,1.05
+2181,yn berffaith,действительно,adverbs,1.35
+2182,het,коробка,nouns,0.25
+2183,llidiog,нерешительный,adjectives,0.1
+2184,mynd i mewn,задолжать,verbs,0.1
+2185,oedolyn,опекун,nouns,1.4
+2186,doniol,печальный,adjectives,0.0
+2187,pennod,ночь,nouns,0.0
+2188,sgert,часы,nouns,0.1
+2189,lleihau,сжиматься,verbs,3.05
+2190,ofnus,встревоженный,adjectives,3.85
+2191,gwydr,значок,nouns,0.0
+2192,gwarcheidwad,взрослый,nouns,1.4
+2193,traethawd,книга,nouns,1.2
+2194,unwaith,немедленно,adverbs,0.6
+2195,bws,таксомотор,nouns,0.8
+2196,mathemategydd,показ,nouns,0.0
+2197,troed,песок,nouns,0.05
+2198,braich,ветка,nouns,0.75
+2199,esgeuluso,отрекаться,verbs,0.15
+2200,gwn,тетрадь,nouns,0.0
+2201,diniwed,свободный,adjectives,0.0
+2202,colli,готовить,verbs,0.0
+2203,yn weithredol,точно,adverbs,0.4
+2204,awdur,читатель,nouns,0.6
+2205,dechrau,идти,verbs,0.35
+2206,cywilydd,печаль,nouns,1.0
+2207,dyn,товарищ,nouns,1.35
+2208,tristwch,стыд,nouns,1.0
+2209,mawr,национальный,adjectives,0.35
+2210,portreadu,уведомлять,verbs,0.15
+2211,beio,обвинять,verbs,4.7
+2212,gwrthddadlau,обсуждать,verbs,2.75
+2213,swper,трапеза,nouns,3.2
+2214,yn bwysig,серьезно,adverbs,2.1
+2215,cynffon,миска,nouns,0.0
+2216,potel,банка,nouns,2.15
+2217,deallusrwydd,логика,nouns,2.2
+2218,realiti,фантазия,nouns,0.55
+2219,tyfu,увеличивать,verbs,3.55
+2220,anghytuno,бороться,verbs,0.7
+2221,perl,деньги,nouns,0.3
+2222,cleddyf,окружение,nouns,0.2
+2223,anghefnogi,проваливать,verbs,0.35
+2224,bacwn,боб,nouns,0.2
+2225,am ddim,невинный,adjectives,0.0
+2226,dyn,девушка,nouns,0.45
+2227,geiriadur,толкование,nouns,2.1
+2228,ysgafn,средний,adjectives,0.6
+2229,addurn,конверт,nouns,0.1
+2230,byth,потом,adverbs,0.1
+2231,lluwchwynt,дождь,nouns,0.85
+2232,tad,сын,nouns,0.9
+2233,sgrîn,фонология,nouns,0.0
+2234,mynd  ,начинать,verbs,0.35
+2235,hyfforddwyr,медаль,nouns,0.3
+2236,tric,ружье,nouns,0.05
+2237,ystafell wely,желудок,nouns,0.0
+2238,penderfynu,думать,verbs,1.85
+2239,niwroseicoleg,парапсихология,nouns,1.75
+2240,syth,изогнутый,adjectives,0.1
+2241,baner,столб,nouns,0.7
+2242,proffesiwn,колледж,nouns,0.5
+2243,rhyddhau,ловить,verbs,0.6
+2244,tanc,машина,nouns,1.1
+2245,newid,изменять,verbs,2.4
+2246,hawdd,жесткий,adjectives,0.0
+2247,anarchiaeth,хаос,nouns,4.4
+2248,ffug,настоящий,adjectives,0.2
+2249,uno,связывать,verbs,3.1
+2250,car,велосипед,nouns,0.9
+2251,ceinder,стиль,nouns,3.1
+2252,pastai,шоколад,nouns,0.55
+2253,gwythïen,рука,nouns,0.6
+2254,anrheg,писатель,nouns,0.4
+2255,yn arbennig,значительно,adverbs,0.75
+2256,ewythr,тетя,nouns,1.45
+2257,masarnen,дуб,nouns,1.25
+2258,hyfryd,радостный,adjectives,3.15
+2259,gwleidydd,президент,nouns,1.75
+2260,fflat,гостиница,nouns,0.5
+2261,wedi ymlacio,напряжённый,adjectives,0.05
+2262,cadair,телескоп,nouns,0.0
+2263,creu,представлять,verbs,0.65
+2264,weithiau,конечно,adverbs,0.15
+2265,amgueddfa,mинт,nouns,0.0
+2266,gwahanu,прикреплять,verbs,0.05
+2267,pren,бревно,nouns,3.5
+2268,cyd-beilot,полицейский,nouns,0.05
+2269,ffrio,готовить,verbs,1.65
+2270,goruchafu,выигрывать,verbs,2.25
+2271,corff,нерв,nouns,0.45
+2272,yn anhygoel,значительно,adverbs,0.65
+2273,bioleg gymdeithasol,мутант,nouns,0.35
+2274,duw,отец,nouns,1.8
+2275,heddwch,счастье,nouns,1.6
+2276,ystlum,вампир,nouns,0.6
+2277,mawr,гибкий,adjectives,0.1
+2278,egluro,обсуждать,verbs,1.35
+2279,pren,бумага,nouns,0.6
+2280,cell,комната,nouns,1.6
+2281,caniatáu,давать,verbs,1.3
+2282,rhifyddeg,ритм,nouns,0.1
+2283,meteor,сила тяжести,nouns,0.4
+2284,rheoli,мышь,nouns,0.35
+2285,ffens,прыжки,nouns,0.3
+2286,gweinidog,раввин,nouns,2.6
+2287,yn derfynol,в основном,adverbs,0.55
+2288,dod â,посылать,verbs,0.75
+2289,cosbi,подчиниться,verbs,0.3
+2290,wedi blino,голодный,adjectives,0.35
+2291,dosbarthu,брать,verbs,0.35
+2292,stori,книга,nouns,1.6
+2293,tad,дочь,nouns,0.85
+2294,penelin,кость,nouns,1.2
+2295,ychwanegu,делить,verbs,0.1
+2296,graddio,заканчивать,verbs,1.7
+2297,atom,молекула,nouns,1.4
+2298,yn weithredol,счастливо,adverbs,0.05
+2299,maddau,принимать,verbs,1.15
+2300,hwyliau,эмоция,nouns,2.35
+2301,diflas,тоскливый,adjectives,3.25
+2302,amlwg,кажущийся,adjectives,2.3
+2303,glaw,морось,nouns,4.05
+2304,seiclon,тайфун,nouns,3.7
+2305,nodyn,задание,nouns,0.65
+2306,banc,сиденье,nouns,0.05
+2307,ar unwaith,скоро,adverbs,2.05
+2308,cario ,приносить,verbs,2.05
+2309,aflonydd,молодой,adjectives,0.6
+2310,atodi,соединять,verbs,1.05
+2311,gwisgedig,покрытый,adjectives,1.25
+2312,plentynaidd,безрассудный,adjectives,1.95
+2313,yn ddarostyngedig,гордо,adverbs,0.15
+2314,brwnt,узкий,adjectives,0.0
+2315,dyn,подозреваемый,nouns,0.45
+2316,yn anarferol,странно,adverbs,3.8
+2317,meddwl,решать,verbs,1.85
+2318,syml,трудный,adjectives,0.0
+2319,anwybodus,униформа,adjectives,0.0
+2320,llyfr nodiadau,пистолет,nouns,0.0
+2321,alaw,ритм,nouns,2.25
+2322,drwg,посредственный,adjectives,0.7
+2323,aseiniad,задача,nouns,4.35
+2324,ewin,палец,nouns,1.2
+2325,darganfod,происходить,verbs,0.25
+2326,yn ddiffuant,обычно,adverbs,0.25
+2327,meddal,агрессивный,adjectives,0.0
+2328,ffabrig,одежда,nouns,1.65
+2329,dathlu,удивлять,verbs,0.1
+2330,bwyd,программа,nouns,0.3
+2331,cynddaredd,злость,nouns,4.15
+2332,cerddoriaeth,мелодия,nouns,3.6
+2333,yn wallgof,громко,adverbs,0.25
+2334,penwythnos,гонка,nouns,0.0
+2335,duw,дьявол,nouns,0.6
+2336,drws,пол,nouns,0.35
+2337,iâr,птица,nouns,2.05
+2338,gaeaf,лето,nouns,0.65
+2339,da,пряный,adjectives,0.35
+2340,tywynnu,сиять,verbs,4.65
+2341,treisgar,мягкий,adjectives,0.0
+2342,cyfamod,соглашение,nouns,4.9
+2343,coflaid,прижиматься,verbs,3.25
+2344,niweidio,пинать,verbs,1.95
+2345,gitâr,барабан,nouns,0.95
+2346,rabi,священник,nouns,2.6
+2347,theatr,батарейка,nouns,0.0
+2348,ffilm,фильм,nouns,4.1
+2349,rhwygo,одевать,verbs,0.0
+2350,cosbi,учить,verbs,0.05
+2351,cadach,одежда,nouns,1.1
+2352,llygoden,кошка,nouns,0.6
+2353,barn,выбор,nouns,1.1
+2354,car,танк,nouns,1.1
+2355,ystafell ddosbarth,коридор,nouns,0.55
+2356,rhoi,отрекаться,verbs,0.5
+2357,cot,одежда,nouns,1.6
+2358,yn dawel,пассивно,adverbs,1.45
+2359,ochr,низ,nouns,0.7
+2360,eang,узкий,adjectives,0.1
+2361,cael,брать,verbs,1.35
+2362,cyfarwyddwr,кинематография,nouns,1.05
+2363,euog,честный,adjectives,0.05
+2364,stumog,вена,nouns,0.45
+2365,gwialen,занавеска,nouns,0.4
+2366,ysgubell,пыль,nouns,0.75
+2367,danfon,идти,verbs,0.6
+2368,digon,изобилие,nouns,4.5
+2369,llygoden fawr,мышь,nouns,2.65
+2370,sensoriaeth,свобода,nouns,0.4
+2371,golchi,полоскать,verbs,2.8
+2372,gitâr,скрипка,nouns,0.95
+2373,meddw,трезвый,adjectives,0.1
+2374,gynfad,берег,nouns,0.15
+2375,beic,спальня,nouns,0.0
+2376,llyfr,библия,nouns,1.8
+2377,anwybyddu,исследовать,verbs,0.05
+2378,nofio,встретить,verbs,0.0
+2379,mosäig,базилика,nouns,0.5
+2380,system,вина,nouns,0.05
+2381,poenus,пристыженный,adjectives,0.6
+2382,ufuddhau,наказывать,verbs,0.3
+2383,yn ddiamynedd,грубо,adverbs,0.65
+2384,dadlau,различаться,verbs,0.5
+2385,machlud haul,рассвет,nouns,0.85
+2386,cell,запирание,nouns,1.35
+2387,cytuno,принимать,verbs,2.5
+2388,yn achlysurol,регулярно,adverbs,0.35
+2389,egni,батарейка,nouns,2.3
+2390,gofyn,умолять,verbs,2.65
+2391,gludiog,мокрый,adjectives,0.55
+2392,cyfnod,десятилетие,nouns,1.2
+2393,anhygoel,обычный,adjectives,0.1
+2394,adeiladu,создавать,verbs,2.6
+2395,drwg,ужасный,adjectives,3.65
+2396,gardd,шланг,nouns,0.4
+2397,anghofio,прощать,verbs,1.25
+2398,ystafell wely,велосипед,nouns,0.0
+2399,darganfod,убегать,verbs,0.05
+2400,mynd i mewn,идти,verbs,1.5
+2401,oeraidd,грубый,adjectives,0.4
+2402,bod yn ddyledus,входить,verbs,0.1
+2403,porth,выход,nouns,2.45
+2404,rhaniad,умножение,nouns,0.75
+2405,angenrheidiol,неотъемлемый,adjectives,4.2
+2406,gwin,спиртное,nouns,2.05
+2407,tywysoges,бисквит,nouns,0.0
+2408,cig eidion,мясо,nouns,2.7
+2409,stôl,стул,nouns,2.9
+2410,berwi,жарить,verbs,0.9
+2411,pibell,автомобиль,nouns,0.4
+2412,cegin,ванная,nouns,0.8
+2413,yn aml,иногда,adverbs,0.6
+2414,modfedd,ярд,nouns,1.2
+2415,person dan amheuaeth,человек,nouns,0.45
+2416,llywydd,мэр,nouns,1.4
+2417,ffenestr,лодыжка,nouns,0.0
+2418,casáu,презирать,verbs,2.35
+2419,afal,сок,nouns,0.95
+2420,mwstard,зерно,nouns,0.85
+2421,thema,книга,nouns,0.5
+2422,diflas,смешной,adjectives,0.1
+2423,swydd,инструмент,nouns,0.4
+2424,chwedl,сатира,nouns,0.5
+2425,caffael,находить,verbs,1.15
+2426,deallusrwydd,навык,nouns,1.15
+2427,piston,мотор,nouns,2.2
+2428,yn ddyddiol,обычно,adverbs,1.4
+2429,danfon,запускать,verbs,1.75
+2430,mawr,тяжелый,adjectives,1.35
+2431,anonest,правдивый,adjectives,0.05
+2432,arholiad,учебный план,nouns,0.5
+2433,llwyddo,проваливать,verbs,0.05
+2434,yfed,перемешать,verbs,0.2
+2435,merch,дева,nouns,2.75
+2436,cymhwysedd,способность,nouns,3.4
+2437,drwm,рожок,nouns,0.5
+2438,capten,моряк,nouns,1.55
+2439,hongian,класть,verbs,0.35
+2440,tasg,женщина,nouns,0.0
+2441,melys,электрический,adjectives,0.0
+2442,trasiedi,смерть,nouns,1.55
+2443,lifft,коробка,nouns,0.35
+2444,derbyn,доставлять,verbs,0.15
+2445,llyncu,хлебать,verbs,2.6
+2446,llygoden,палуба,nouns,0.4
+2447,gwrthod,избегать,verbs,1.3
+2448,bachgen,брат,nouns,1.4
+2449,theatr,фильм,nouns,0.85
+2450,hapus,радостный,adjectives,4.8
+2451,ail,минута,nouns,0.55
+2452,gwyddoniaeth,психология,nouns,1.85
+2453,brecwast,бекон,nouns,0.75
+2454,ynys,флот,nouns,0.45
+2455,eisiau,занимать,verbs,0.1
+2456,eirfwrdd,лыжи,nouns,1.95
+2457,sgïo,сноуборд,nouns,1.95
+2458,gŵr,жена,nouns,1.35
+2459,syml,тяжелый,adjectives,0.05
+2460,garddwrn,кисть,nouns,1.95
+2461,osôn,атмосфера,nouns,1.65
+2462,difeddiannu,запускать,verbs,0.15
+2463,estrys,плодовый сад,nouns,0.0
+2464,ciwb,игральная кость,nouns,2.85
+2465,gwenynen,муравей,nouns,0.65
+2466,dillad isaf,тело,nouns,0.25
+2467,storm,снег,nouns,1.05
+2468,madfall,крокодил,nouns,0.9
+2469,tŷ,ключ,nouns,0.55
+2470,bodloni,понимать,verbs,0.5
+2471,lloches,хижина,nouns,1.65
+2472,gorllewin,север,nouns,0.7
+2473,gwern,озеро,nouns,0.9
+2474,yn ddwfn,в основном,adverbs,0.15
+2475,diymadferth,ранимый,adjectives,1.55
+2476,yn wahanol,обычный,adjectives,0.4
+2477,llyfr,авария,nouns,0.0
+2478,cinio,курятина,nouns,0.7
+2479,gwerddon,свобода,nouns,0.45
+2480,aer,молекула,nouns,0.65
+2481,canu,плавать,verbs,0.05
+2482,moleciwl,матрица,nouns,0.65
+2483,buan,скорый,adjectives,4.4
+2484,cadair,кровать,nouns,0.4
+2485,pydru,уничтожить,verbs,0.95
+2486,braich,мускул,nouns,0.85
+2487,fformiwla,уравнение,nouns,3.6
+2488,ymbarél,нагреватель,nouns,0.0
+2489,yn naturiol,тихо,adverbs,0.15
+2490,llaw,запястье,nouns,1.95
+2491,torf,парад,nouns,1.7
+2492,dysgu,поглощать,verbs,0.5
+2493,ethol,выбирать,verbs,3.85
+2494,hysbysu,полировать,verbs,0.0
+2495,sefyllfa,обстоятельство,nouns,4.65
+2496,cul,белый,adjectives,0.0
+2497,dyfalu,раздражать,verbs,0.0
+2498,plentyn,взрослый,nouns,0.8
+2499,yn oddefol,молча,adverbs,1.45
+2500,brandi,алкоголь,nouns,2.25
+2501,yn deg,несправедливо,adverbs,0.15
+2502,cymeryd,получать,verbs,3.5
+2503,emyn,солома,nouns,0.0
+2504,mynd i mewn,покидать,verbs,0.1
+2505,awdur,дар,nouns,0.4
+2506,brenin,непотизм,nouns,0.3
+2507,llyfr,эссе,nouns,1.2
+2508,benthyciwr,кредит,nouns,1.55
+2509,yn falch,смиренно,adverbs,0.15
+2510,melin,семя,nouns,0.6
+2511,atgoffa,забывать,verbs,0.05
+2512,arfordir,канонерская лодка,nouns,0.15
+2513,rhesymeg,интеллект,nouns,2.2
+2514,balch ,сильный,adjectives,0.85
+2515,chwilio,находить,verbs,1.2
+2516,ysbryd,фонарь,nouns,0.1
+2517,tafod,горло,nouns,0.6
+2518,ardderchog,плохой,adjectives,0.15
+2519,fel mater o drefn,обычно,adverbs,4.2
+2520,wedi ei orchuddio,непокрытый,adjectives,0.05
+2521,swydd,управление,nouns,0.85
+2522,rhedwr,спортсмен,nouns,2.45
+2523,golygyddol,новости,nouns,0.7
+2524,newydd,свежий,adjectives,3.7
+2525,yn fras,легко,adverbs,0.05
+2526,yn gadarn,мягко,adverbs,0.25
+2527,dillad,пуговица,nouns,0.75
+2528,gwallgof,несчастный,adjectives,0.8
+2529,cymysgu,бить,verbs,0.6
+2530,gwraig,дыра,nouns,0.0
+2531,dimai,народ,nouns,0.0
+2532,weithiau,когда,adverbs,0.2
+2533,merch,парень,nouns,0.45
+2534,gofyn,молиться,verbs,1.65
+2535,cwmwl,погода,nouns,0.9
+2536,yn sylfaenol,вполне,adverbs,0.3
+2537,newyddiadur,статья,nouns,2.1
+2538,yn gyfforddus,легко,adverbs,1.4
+2539,yn agored i niwed,удобный,adjectives,0.05
+2540,trydanol,сладкий,adjectives,0.0
+2541,ymddygiadaeth,терапия,nouns,1.15
+2542,llyncu,пить,verbs,2.15
+2543,dillad,пальто,nouns,1.6
+2544,cynllun,идея,nouns,2.2
+2545,modern,старинный,adjectives,0.05
+2546,hydoddi,смешивать,verbs,1.8
+2547,anghefnogi,расстраивать,verbs,1.05
+2548,protein,ручка,nouns,0.0
+2549,unwaith,дважды,adverbs,0.35
+2550,meddwl,размышлять,verbs,4.5
+2551,deallusrwydd,невежество,nouns,0.3
+2552,bara,мясо,nouns,0.3
+2553,clywed,слушать,verbs,2.95
+2554,adeilad,комната,nouns,0.95
+2555,blanced ,постель,nouns,1.15
+2556,cyfoeth,слава,nouns,0.85
+2557,porth,дверь,nouns,3.55
+2558,argymell,советовать,verbs,4.45
+2559,trafferthu,обижать,verbs,0.45
+2560,sylw,осведомленность,nouns,1.6
+2561,derwen,клен,nouns,1.25
+2562,iard,метр,nouns,1.35
+2563,hurt,интеллектуальный,adjectives,0.05
+2564,llyn,облако,nouns,0.3
+2565,dechrau,прекращать,verbs,0.05
+2566,meddwl,спрашивать,verbs,0.9
+2567,lleihau,спускаться,verbs,0.55
+2568,lladd,вешать,verbs,1.85
+2569,cân,история,nouns,0.6
+2570,yfed,хлебать,verbs,2.1
+2571,gafr,корова,nouns,0.85
+2572,sinematograffeg,режиссер,nouns,1.05
+2573,pêl,корзина,nouns,0.45
+2574,gwybod,верить,verbs,1.2
+2575,nyddu,завязать,verbs,0.65
+2576,person,животное,nouns,0.5
+2577,pledio,просить,verbs,2.65
+2578,adfer,ремонтировать,verbs,3.7
+2579,gwraig,мать,nouns,1.85
+2580,sgwâr,карта,nouns,0.4
+2581,delta,море,nouns,0.65
+2582,cyfreithiwr,галерея,nouns,0.0
+2583,erfyn,просить,verbs,3.95
+2584,sero,бесконечность,nouns,0.2
+2585,yn amlwg,грубо,adverbs,0.2
+2586,ardal,регион,nouns,4.85
+2587,cyflym,скоростной,adjectives,4.8
+2588,afal,повидло,nouns,0.7
+2589,gadael,входить,verbs,0.1
+2590,ffrind,мать,nouns,1.05
+2591,rhoi,знать,verbs,0.2
+2592,trychineb,авария,nouns,3.5
+2593,caniatáu,разъедать,verbs,0.0
+2594,bawd,ноготь,nouns,1.2
+2595,balŵn,ванна,nouns,0.0
+2596,yn fras,нетерпеливо,adverbs,0.65
+2597,hydoddi,плавиться,verbs,2.6
+2598,wedi ei orchuddio,тканевый,adjectives,1.25
+2599,arwyddluniau,достоинство,nouns,0.15
+2600,hercio,ходить,verbs,0.45
+2601,cyrnol,дантист,nouns,0.0
+2602,benthyg,нищенствовать,verbs,0.65
+2603,cymyl,туман,nouns,2.1
+2604,dieithr,необычный,adjectives,3.65
+2605,ffidil,гитара,nouns,0.95
+2606,dweud celwydd,отрицать,verbs,0.65
+2607,chwilio,охотиться,verbs,1.95
+2608,mwgwd,вечеринка,nouns,0.5
+2609,dug,республика,nouns,0.2
+2610,paraseicoleg,нейропсихология,nouns,1.75
+2611,perfformiwr,песня,nouns,1.0
+2612,lleuad,планета,nouns,2.35
+2613,gwybodaeth,газета,nouns,1.65
+2614,log,древесина,nouns,3.05
+2615,actor,многогранник,nouns,0.0
+2616,cyffredin,холодный,adjectives,0.0
+2617,niwed,боль,nouns,1.55
+2618,dadlau,жаловаться,verbs,0.9
+2619,to,пол,nouns,0.5
+2620,gwddf,нос,nouns,0.6
+2621,metel,алюминий,nouns,2.35
+2622,amsugno,учиться,verbs,0.5
+2623,pwffian chwerthin,смеяться,verbs,4.55
+2624,adfer,приносить,verbs,0.05
+2625,modryb,дядя,nouns,1.45
+2626,magma,вулкан,nouns,1.9
+2627,llaw,ступня,nouns,0.4
+2628,twyllo,мошенничать,verbs,4.15
+2629,cyfathrebu,молиться,verbs,0.55
+2630,yn sicr,явно,adverbs,2.65
+2631,canol,желудок,nouns,0.7
+2632,penderfynu,завершать,verbs,1.0
+2633,ffilm,театр,nouns,0.85
+2634,cyhyr,рука,nouns,0.85
+2635,arbed,уничтожить,verbs,0.05
+2636,parti,электорат,nouns,1.2
+2637,gwawdlyd,пренебрежительный,adjectives,3.9
+2638,cab,автобус,nouns,0.8
+2639,torf,группа,nouns,2.55
+2640,dal,захватить,verbs,2.7
+2641,yn hael,никогда,adverbs,0.0
+2642,cul,широкий,adjectives,0.1
+2643,brecwast,ужин,nouns,0.9
+2644,lindys,шелкопряд,nouns,2.45
+2645,taliad,примечание,nouns,0.05
+2646,yn debygol,положительно,adverbs,0.5
+2647,cnocio,разбивать,verbs,0.6
+2648,ailadrodd,практиковаться,verbs,1.3
+2649,darllen,понимать,verbs,0.8
+2650,ymlid,следовать,verbs,2.2
+2651,ystafell,здание,nouns,0.95
+2652,gohirio,заканчивать,verbs,0.4
+2653,corff,кровь,nouns,0.95
+2654,cadw,давать,verbs,0.15
+2655,rhosyn,бабочка,nouns,0.5
+2656,ale,шар,nouns,0.0
+2657,rhadlon,приходящий,adjectives,0.05
+2658,mynachlog,душ,nouns,0.0
+2659,bwydlen,заказ,nouns,0.7
+2660,gwrando,подчиняться,verbs,1.65
+2661,deall,знать,verbs,2.1
+2662,gwin,алкоголь,nouns,2.0
+2663,yn bennaf,терминально,adverbs,0.55
+2664,bryn,утес,nouns,2.05
+2665,anhrefn,анархия,nouns,4.4
+2666,arall,противолежащий,adjectives,1.1
+2667,môr,цунами,nouns,1.25
+2668,bach,огромный,adjectives,0.05
+2669,gwallgof,сумасшедший,adjectives,4.8
+2670,diweddeb,ритм,nouns,0.2
+2671,clecs,новость,nouns,2.6
+2672,noswaith,закат,nouns,2.75
+2673,trefn,меню,nouns,0.7
+2674,nenfwd,пол,nouns,0.35
+2675,siriol,счастливый,adjectives,4.8
+2676,corachaidd,коротковатый,adjectives,2.4
+2677,caniatáu,опровергать,verbs,0.05
+2678,siofinist,предубеждение,nouns,2.0
+2679,diogelwch,комфорт,nouns,0.85
+2680,cau,срыгивать,verbs,0.0
+2681,sugnwr gwaed,летучая мышь,nouns,0.6
+2682,afiechyd,опасность,nouns,0.4
+2683,ystafell wely,кровать,nouns,1.7
+2684,gwahaniaethu,соответствовать,verbs,0.0
+2685,salad,диета,nouns,0.75
+2686,byth,честно говоря,adverbs,0.0
+2687,anthropoleg,археология,nouns,1.2
+2688,partner,мальчик,nouns,0.45
+2689,derbyn,достигать,verbs,0.7
+2690,munud,секунда,nouns,0.55
+2691,person,персонаж,nouns,2.8
+2692,brenhiniaeth,демократия,nouns,0.2
+2693,gwastraffu,беспокоиться,verbs,0.0
+2694,newynog,усталый,adjectives,0.35
+2695,darganfod,приобретать,verbs,1.15
+2696,tywysog,король,nouns,1.2
+2697,glas,красный,adjectives,0.4
+2698,cangen,рука,nouns,0.75
+2699,pêl,пушка,nouns,0.9
+2700,menyw,мех,nouns,0.25
+2701,senedd,конгресс,nouns,2.15
+2702,gorffwyll,больной,adjectives,0.9
+2703,rhiant,взрослый,nouns,1.75
+2704,arian,жемчуг,nouns,0.3
+2705,bodloni,угождать,verbs,2.95
+2706,concwest,псалом,nouns,0.0
+2707,organ,печень,nouns,1.75
+2708,cwmwl,озеро,nouns,0.3
+2709,gwely,одеяло,nouns,1.15
+2710,poeni,тратить,verbs,0.0
+2711,rhagorol,отличный,adjectives,4.7
+2712,cylchfordaith,багаж,nouns,0.5
+2713,pryd bwyd,талия,nouns,0.0
+2714,dyfnder,величина,nouns,1.2
+2715,brwnt,дешевый,adjectives,0.0
+2716,awyr,мечта,nouns,0.3
+2717,cinio,суп,nouns,1.15
+2718,anghenus,неуверенный,adjectives,0.4
+2719,derbyn,брать,verbs,1.7
+2720,wythnos,выходной,nouns,1.1
+2721,enillydd,гол,nouns,0.2
+2722,llyfr,тема,nouns,0.6
+2723,taliad,гонорар,nouns,4.35
+2724,hen,смешанный,adjectives,0.1
+2725,perlysieuyn,марихуана,nouns,2.1
+2726,tynnu'n ôl,поглощать,verbs,0.4
+2727,arestio,подозревать,verbs,0.2
+2728,ar frys,быстро,adverbs,4.3
+2729,cyhyrau,язык,nouns,1.3
+2730,dwywaith,всегда,adverbs,0.25
+2731,cwningen,кот,nouns,0.65
+2732,dyn,бабник,nouns,0.75
+2733,llym,жестокий,adjectives,1.8
+2734,cnoi,читать,verbs,0.0
+2735,trafodaeth,дипломатия,nouns,2.15
+2736,crebachu,исчезать,verbs,1.5
+2737,morwr,капитан,nouns,1.55
+2738,coleg,класс,nouns,1.05
+2739,ceffyl,кобыла,nouns,4.5
+2740,yn rhyfeddol,фантастически,adverbs,3.7
+2741,band,износоустойчивость,nouns,0.0
+2742,mis,август,nouns,2.45
+2743,finegr,салат,nouns,0.5
+2744,yn annheg,довольно,adverbs,0.15
+2745,llythyr,абзац,nouns,0.9
+2746,bioleg,анатомия,nouns,2.15
+2747,barnu,давать показания,verbs,0.45
+2748,sarhau,обижать,verbs,2.9
+2749,yn angheuol,счастливо,adverbs,0.1
+2750,merch,младенец,nouns,1.25
+2751,jin,алкоголь,nouns,2.05
+2752,aros,покидать,verbs,0.05
+2753,adfer,заменять,verbs,0.7
+2754,saethydd,следопыт,nouns,0.35
+2755,crisial,стекло,nouns,2.45
+2756,asid,основание,nouns,0.05
+2757,tegan,куб,nouns,0.4
+2758,diflas,усталый,adjectives,0.6
+2759,stumog,тело,nouns,1.3
+2760,diymhongar,смиренный,adjectives,1.9
+2761,cartref,государство,nouns,0.25
+2762,beichio,плакать,verbs,4.15
+2763,gwrthbrofi,разрешать,verbs,0.05
+2764,ecsema,дерматит,nouns,3.65
+2765,yn arw,грубо,adverbs,0.4
+2766,cwch,палуба,nouns,1.35
+2767,myfyrdod,образ,nouns,1.3
+2768,injan,поршень,nouns,2.2
+2769,llawenydd,гордость,nouns,1.6
+2770,anodd,простой,adjectives,0.05
+2771,tarth,облако,nouns,2.3
+2772,hedfan,муравей,nouns,0.3
+2773,newydd,старый,adjectives,0.0
+2774,gwestai,друг,nouns,0.9
+2775,glaw mân,дождь,nouns,4.05
+2776,meithrinfa,детский сад,nouns,5.4
+2777,clogwyn,холм,nouns,2.05
+2778,angau,трагедия,nouns,1.55
+2779,cymeradwyo,разрешать,verbs,2.7
+2780,esgus,воображать,verbs,2.0
+2781,llosgfynydd,магма,nouns,1.9
+2782,cynhwysydd,мышь,nouns,0.0
+2783,heliwm,воздух,nouns,2.15
+2784,tatws,масло,nouns,0.4
+2785,crensian,щёлкать,verbs,1.65
+2786,yn amlwg,конечно,adverbs,2.65
+2787,top,низ,nouns,0.3
+2788,cyrraedd,покидать,verbs,0.05
+2789,modur,лодка,nouns,0.85
+2790,doniol,скучный,adjectives,0.1
+2791,pryderus,испуганный,adjectives,3.85
+2792,onest,нечестный,adjectives,0.05
+2793,ymddangos,посещать,verbs,0.9
+2794,taclus,чистый,adjectives,2.85
+2795,ennill,доминировать,verbs,2.25
+2796,cleddyf,трон,nouns,0.45
+2797,arbed,защищать,verbs,1.85
+2798,yn anghywir,точно,adverbs,0.0
+2799,crwm,агрессивный,adjectives,0.0
+2800,yn uchel,тонко,adverbs,0.0
+2801,ffynhonnell,коробка,nouns,0.0
+2802,rhyfedd,странный,adjectives,4.35
+2803,palas,небоскреб,nouns,0.55
+2804,brigeryn,опыление,nouns,1.25
+2805,dynion,братство,nouns,0.75
+2806,newyddion,носитель,nouns,0.35
+2807,creigres,пляж,nouns,0.8
+2808,nerf,мозг,nouns,0.95
+2809,gair,ключ,nouns,0.25
+2810,mêr,кровь,nouns,0.6
+2811,poen,горе,nouns,1.9
+2812,llenyddiaeth,слово,nouns,1.2
+2813,oriel,адвокат,nouns,0.0
+2814,brawdgarwch,бейсбол,nouns,0.3
+2815,bydiaeth,виза,nouns,0.3
+2816,lori,автомобиль,nouns,2.05
+2817,aflonyddu,попугать,verbs,1.15
+2818,miniog,тупой,adjectives,0.15
+2819,ceisio,достигать,verbs,1.35
+2820,cydnabod,говорить,verbs,0.5
+2821,tasg,пустяк,nouns,0.05
+2822,jar,чашка,nouns,1.2
+2823,galar,мука,nouns,1.9
+2824,pren,одеяло,nouns,0.0
+2825,meddyg,самообладание,nouns,0.15
+2826,traethawd,домашнее задание,nouns,1.95
+2827,egluro,прояснять,verbs,3.55
+2828,cul,тонкий,adjectives,3.1
+2829,meddwl,невроз,nouns,0.7
+2830,cwrs,действие,nouns,0.35
+2831,planed,луна,nouns,2.35
+2832,dillad,пиджак,nouns,1.7
+2833,ffotoffon,омофон,nouns,0.25
+2834,darganfod,искать,verbs,1.2
+2835,anwybyddu,обращаться,verbs,0.0
+2836,lori,посылка,nouns,0.5
+2837,tröedigaeth,высота,nouns,0.0
+2838,cythraul,ангел,nouns,0.15
+2839,braich,кость,nouns,1.25
+2840,mynychu,прибывать,verbs,1.05
+2841,brawd,мальчик,nouns,1.4
+2842,traddodiad,ремесло,nouns,0.4
+2843,weithiau,равномерно,adverbs,0.05
+2844,gorffen,откладывать,verbs,0.4
+2845,clyfar,тупой,adjectives,0.05
+2846,eliffant,динозавр,nouns,0.35
+2847,methu,обескураживать,verbs,0.35
+2848,cebl,волшебник,nouns,0.0
+2849,cerdyn,бридж,nouns,0.5
+2850,hurt,редкий,adjectives,0.0
+2851,paragraff,письмо,nouns,0.9
+2852,gormesu,отрекаться,verbs,0.15
+2853,dadlau,требовать,verbs,1.4
+2854,baw,слякоть,nouns,4.8
+2855,cefnder,дядя,nouns,1.05
+2856,rhythm,арифметика,nouns,0.1
+2857,perfedd,хладнокровие,nouns,1.05
+2858,yn annaturiol,естественно,adverbs,0.1
+2859,cymysgu,растворять,verbs,1.8
+2860,cydnabod,принимать,verbs,2.8
+2861,tramorwr,переводчик,nouns,0.5
+2862,mwd,грязь,nouns,4.8
+2863,onest,виноватый,adjectives,0.05
+2864,yn fras,очевидно,adverbs,0.2
+2865,yn llachar,значительно,adverbs,0.65
+2866,amddiffyn,помогать,verbs,1.9
+2867,menyw,джинсы,nouns,0.2
+2868,coeden,клен,nouns,2.95
+2869,ysgol feithrin,детский сад,nouns,5.4
+2870,baled,песня,nouns,3.9
+2871,yn wallgof,грустно,adverbs,0.25
+2872,deuod,конденсатор,nouns,0.85
+2873,derbyn,отвергать,verbs,0.13
+2874,apwyntiad,обязательство,nouns,0.65
+2875,teledu,актер,nouns,1.0
+2876,glân,безупречный,adjectives,3.25
+2877,dweud,участвовать,verbs,0.3
+2878,llyn,болото,nouns,0.9
+2879,sylweddol,незначительный,adjectives,0.05
+2880,dewin,кабель,nouns,0.0
+2881,trydan,ящик,nouns,0.3
+2882,dannedd,кость,nouns,1.05
+2883,cludo,поднимать,verbs,1.2
+2884,pen-glin,рука,nouns,0.7
+2885,diffinio,уточнить,verbs,3.4
+2886,hapus,довольный,adjectives,2.7
+2887,blanced,дерево,nouns,0.0
+2888,algebra,операция,nouns,0.2
+2889,stryd,автомобиль,nouns,0.75
+2890,iard,дюйм,nouns,1.2
+2891,cystadleuwr,соперник,nouns,3.15
+2892,yr un peth,похожий,adjectives,5.15
+2893,deilen,дерево,nouns,1.2
+2894,yn ddiffuant,серьезно,adverbs,0.85
+2895,ymuno,добавлять,verbs,1.2
+2896,cyfansoddiad,император,nouns,0.25
+2897,dyweddïad,назначение,nouns,0.65
+2898,darn,аэропорт,nouns,0.0
+2899,myfyriwr,учитель,nouns,0.8
+2900,mamfwrdd,главная плата,nouns,3.1
+2901,gwthio,тянуть,verbs,0.35
+2902,cyflwr,дом,nouns,0.25
+2903,yn ochelgar,внимательно,adverbs,2.8
+2904,hir,короткий,adjectives,0.1
+2905,yn ddarostyngedig,неудачно,adverbs,0.05
+2906,liberti,свобода,nouns,5.75
+2907,gweddïo,общаться,verbs,0.55
+2908,te,лимон,nouns,0.8
+2909,cydnabod,уведомлять,verbs,0.6
+2910,yn fuan,немедленно,adverbs,2.05
+2911,pumed,первый,adjectives,0.0
+2912,priodol,официальный,adjectives,0.85
+2913,sblash,вязкость,nouns,0.2
+2914,rhagfarn,шовинист,nouns,2.0
+2915,mawr,легкий,adjectives,0.0
+2916,yn union,неаккуратно,adverbs,0.0
+2917,dwyn,давать,verbs,0.05
+2918,geneth,ребенок,nouns,1.45
+2919,hysbysu,сообщать,verbs,4.4
+2920,yn sicr,нервный,adjectives,0.05
+2921,crio,рыдать,verbs,4.7
+2922,enillydd,присутствие,nouns,0.05
+2923,digartref,миллиардер,nouns,0.1
+2924,gwyliadwraeth,юбка,nouns,0.1
+2925,cotwm,свитер,nouns,0.55
+2926,awyrgylch,озон,nouns,1.65
+2927,alcohol,вино,nouns,2.0
+2928,gofal,осторожность,nouns,2.45
+2929,priffordd,дорога,nouns,4.35
+2930,rhoi,получать,verbs,0.2
+2931,graddio,отмечать,verbs,2.4
+2932,llyfn,острый,adjectives,0.2
+2933,drwg,великолепный,adjectives,0.0
+2934,concwest,битва,nouns,2.2
+2935,gwarcheidwad,мать,nouns,1.65
+2936,cyffredin,потрясающий,adjectives,0.1
+2937,fel arfer,ежедневно,adverbs,1.4
+2938,damwain,бедствие,nouns,3.5
+2939,actores,актер,nouns,3.3
+2940,taliad,монета,nouns,0.95
+2941,unffurf,бесформенный,adjectives,0.0
+2942,coctel,алкоголь,nouns,1.7
+2943,bathodyn,стекло,nouns,0.0
+2944,cynffon,затылок,nouns,0.55
+2945,maint,цент,nouns,0.3
+2946,misol,еженедельный,adjectives,0.55
+2947,calibr,зонтик,nouns,0.0
+2948,creu,рисовать,verbs,0.45
+2949,trist,ужасный,adjectives,1.3
+2950,gyrrwr,пилот,nouns,2.35
+2951,degawd,эпоха,nouns,1.2
+2952,trefnus,беспорядочный,adjectives,0.2
+2953,llyfr,рукопись,nouns,1.5
+2954,caled,легкий,adjectives,0.05
+2955,pêl-foli,мяч,nouns,1.75
+2956,rhannu,умножать,verbs,0.35
+2957,cyfraith,факультет,nouns,0.55
+2958,cryptogram,символ,nouns,2.2
+2959,cofio,думать,verbs,0.75
+2960,gwasgu,освобождать,verbs,0.05
+2961,anniben,порядоченный,adjectives,0.2
+2962,teithio,ходить,verbs,2.1
+2963,yn hyderus,тайно,adverbs,0.15
+2964,hawdd,большой,adjectives,0.0
+2965,arbed,коллекционировать,verbs,2.0
+2966,hel,ловить,verbs,1.6
+2967,dirywio,протирать,verbs,0.3
+2968,gweiddi,орать,verbs,4.6
+2969,capel,кабель,nouns,0.0
+2970,gadael,оставаться,verbs,0.05
+2971,stori,песня,nouns,0.6
+2972,cymysgu,пить,verbs,0.2
+2973,tâl,платеж,nouns,4.35
+2974,crefydd,секулярист,nouns,0.8
+2975,alcohol,бренди,nouns,2.25
+2976,targed,стрела,nouns,0.8
+2977,tuedd,мнение,nouns,2.4
+2978,blwch  ,шляпа,nouns,0.25
+2979,het,пальто,nouns,0.8
+2980,arian,зарплата,nouns,2.85
+2981,gwleidydd,полицейский,nouns,0.2
+2982,cromlin,угол,nouns,2.0
+2983,gwn,пушка,nouns,2.15
+2984,hapus,молодой,adjectives,0.25
+2985,yn llawn,в принципе,adverbs,0.3
+2986,pêl,костюм,nouns,0.55
+2987,bregus,бесстрастный,adjectives,0.1
+2988,ffres,новый,adjectives,3.7
+2989,ysgwyd,собирать,verbs,0.0
+2990,dod,посещать,verbs,2.65
+2991,tribiwnlys,справедливость,nouns,1.25
+2992,proffwydo,полагать,verbs,1.55
+2993,papur wal,фон,nouns,1.45
+2994,cwpan,рожок,nouns,0.35
+2995,meddyg,ортодонт,nouns,1.6
+2996,caniataëdig,легальный,adjectives,2.7
+2997,gosod mewn trefn,организовывать,verbs,5.25
+2998,nerf,тело,nouns,0.45
+2999,cwt,домик,nouns,3.35
+3000,dŵr,коронация,nouns,0.0
+3001,cnawd,кровь,nouns,1.1
+3002,blodyn,куст,nouns,1.1
+3003,gwybod,понимать,verbs,2.1
+3004,proffwydo,определять,verbs,0.95
+3005,plisman,штурман,nouns,0.05
+3006,eginblanhigyn,лист,nouns,1.05
+3007,chwaraewr,тренер,nouns,0.5
+3008,wisgi,алкоголь,nouns,2.3
+3009,basged,мяч,nouns,0.45
+3010,afu,легкое,nouns,0.85
+3011,gair,страница,nouns,0.8
+3012,ffrind,наставник,nouns,1.25
+3013,chwilio,спрашивать,verbs,0.95
+3014,seciwlarydd,религия,nouns,0.8
+3015,gwaed,тело,nouns,0.95
+3016,meddyg,профессор,nouns,1.0
+3017,dod yn,организовывать,verbs,0.15
+3018,darllen,укусить,verbs,0.0
+3019,trafod syniadau,телескоп,nouns,0.0
+3020,efelychiad,робототехника,nouns,0.6
+3021,gwesty,квартира,nouns,0.5
+3022,rhyddid,свобода,nouns,5.75
+3023,morgrugyn,муха,nouns,0.3
+3024,cythruddo,угадывать,verbs,0.0
+3025,sain,акустика,nouns,2.95
+3026,metel,олово,nouns,2.15
+3027,cytuno,различаться,verbs,0.0
+3028,prif air,синтаксис,nouns,0.3
+3029,sgol,ветер,nouns,3.35
+3030,cinio,трапеза,nouns,3.05
+3031,cytoplasm,цифра,nouns,0.0
+3032,glaw,метель,nouns,0.85
+3033,tsunami,море,nouns,1.25
+3034,lansio,отправить,verbs,1.75
+3035,egluro,определять,verbs,3.4
+3036,llawysgrif,книга,nouns,1.5
+3037,hysbysu,изображать,verbs,0.15
+3038,cardigan,рубашка,nouns,0.8
+3039,camera,продолжение,nouns,0.0
+3040,rhoddi,занимать,verbs,1.65
+3041,ceiniog,сделка,nouns,0.55
+3042,heb ei ddefnyddio,новый,adjectives,3.55
+3043,emosiwn,настроение,nouns,2.35
+3044,pobl,цент,nouns,0.0
+3045,nod,клуб,nouns,0.0
+3046,pwerus,могущественный,adjectives,4.25
+3047,peilliad,тычинка,nouns,1.25
+3048,euog,плохой,adjectives,0.8
+3049,pobl,население,nouns,2.45
+3050,hyfforddiant,стипендия,nouns,0.85
+3051,modfedd,метр,nouns,1.05
+3052,cyfeiliornus,ненадёжный,adjectives,1.7
+3053,gwrthod,отказаться,verbs,2.45
+3054,aren,орган,nouns,2.4
+3055,ysgafn,острый,adjectives,0.05
+3056,ymosodiad,блицкриг,nouns,3.3
+3057,gadael,странствовать,verbs,0.65
+3058,braisg,большой,adjectives,4.55
+3059,gwan,мощный,adjectives,0.05
+3060,syniad,план,nouns,2.2
+3061,llwm,скучный,adjectives,3.25
+3062,canwr,актер,nouns,1.05
+3063,ysglyfaeth,бог,nouns,0.15
+3064,storm,ураган,nouns,3.8
+3065,tymestl,покрывало,nouns,0.0
+3066,gweithiwr,работодатель,nouns,0.8
+3067,mariwana,трава,nouns,2.1
+3068,biliwnydd,бездомный,nouns,0.1
+3069,drachtio,глотать,verbs,2.2
+3070,dichonadwy,невозможный,adjectives,0.5
+3071,dioddefwr,телефон,nouns,0.0
+3072,rheolaeth,работа,nouns,0.85
+3073,purdan,загробный мир,nouns,1.85
+3074,athro,помощник,nouns,2.1
+3075,yn ddiweddar,теперь,adverbs,0.65
+3076,polyester,хлопок,nouns,0.9
+3077,yn gyfrifol,надежно,adverbs,3.25
+3078,cymysgu,ездить,verbs,0.1
+3079,yn ystyrlon,специально,adverbs,0.75
+3080,caled,прочный,adjectives,3.1
+3081,methu,ударять,verbs,0.05
+3082,crëwr,автор,nouns,3.8
+3083,gwahaniaethu,спорить,verbs,0.5
+3084,maes llafur,экзамен,nouns,0.5
+3085,yfory,сегодня ночью,adverbs,0.4
+3086,brawd,человек,nouns,0.5
+3087,bàth,шалость,nouns,0.0
+3088,saeth,мишень,nouns,0.8
+3089,drwg,виноватый,adjectives,0.8
+3090,siaced,одежда,nouns,1.7
+3091,dychryn,преследовать,verbs,1.15
+3092,map,площадь,nouns,0.4
+3093,criced,сторонник,nouns,0.05
+3094,wal,замок,nouns,0.6
+3095,hafaliad,формула,nouns,3.6
+3096,lladd,душить,verbs,1.85
+3097,rhyfedd,нормальный,adjectives,0.05
+3098,cig,бутерброд,nouns,0.5
+3099,hela,искать,verbs,1.95
+3100,ysbryd,бог,nouns,1.7
+3101,cemeg,теория,nouns,0.7
+3102,cenllysg,дождь,nouns,1.55
+3103,claddedigaeth,смерть,nouns,1.4
+3104,concwest,путешествие,nouns,0.2
+3105,cytundeb,пакт,nouns,4.9
+3106,derbyn,верить,verbs,1.15
+3107,diog,занятый,adjectives,0.05
+3108,cig,бекон,nouns,2.55
+3109,dinistr,построение,nouns,0.2
+3110,ci,лошадь,nouns,0.6
+3111,lwcus,пристыженный,adjectives,0.0
+3112,osgoi,игнорировать,verbs,3.4
+3113,cerflun,скульптура,nouns,4.5
+3114,mynydd,выступ,nouns,0.5
+3115,steil,элегантность,nouns,3.1
+3116,ardderchog,прекрасный,adjectives,5.3
+3117,athro,друг,nouns,1.25
+3118,ffantasi,реальность,nouns,0.55
+3119,rhoi,держать,verbs,0.15
+3120,yn fecanyddol,идеально,adverbs,0.05
+3121,tad,родитель,nouns,3.3
+3122,stêc,мясо,nouns,3.65
+3123,poblogaeth,народ,nouns,2.45
+3124,ale,улица,nouns,2.75
+3125,yn gyfrinachgar,очевидно,adverbs,0.25
+3126,claf,сессия,nouns,0.15
+3127,drws,кухня,nouns,0.5
+3128,ymdrech,трудность,nouns,1.3
+3129,banciwr,юрист,nouns,0.8
+3130,toddi,растворяться,verbs,2.6
+3131,hebog,орел,nouns,1.8
+3132,tŷ,ковер,nouns,0.55
+3133,yn gynnil,громко,adverbs,0.0
+3134,sibrwd,говорить,verbs,1.7
+3135,capel,шпиль,nouns,0.7
+3136,firws,кровь,nouns,0.7
+3137,pobl,шар,nouns,0.0
+3138,digwyddiad,сбор пожертвований,nouns,1.35
+3139,pennod,выбор,nouns,0.3
+3140,chwerthin,плакать,verbs,0.1
+3141,yn gyfeillgar,навряд ли,adverbs,0.0
+3142,cul,длинный,adjectives,0.35
+3143,cydweithredu,участвовать,verbs,1.9
+3144,corn,автомобиль,nouns,0.65
+3145,troed,кисть,nouns,0.4
+3146,nofel,писатель,nouns,1.15
+3147,coridor,дверь,nouns,0.5
+3148,garw,равнодушный,adjectives,0.4
+3149,actor,актриса,nouns,3.3
+3150,chwaer,брат,nouns,1.6
+3151,drws,коридор,nouns,0.5
+3152,drws,братство,nouns,0.0
+3153,gallu,компетенция,nouns,3.4
+3154,gwefus,бедро,nouns,0.4
+3155,goddefol,агрессивный,adjectives,0.05
+3156,barn,идея,nouns,2.35
+3157,arian,бриллиант,nouns,0.9
+3158,cwmpawd,слон,nouns,0.0
+3159,perswadio,добиваться,verbs,0.75
+3160,heulwen,яблоко,nouns,0.0
+3161,gwenynen,матка,nouns,0.75
+3162,sâl,сумасшедший,adjectives,0.9
+3163,drws,окно,nouns,0.7
+3164,cotwm,полиэстер,nouns,0.9
+3165,arian cyfred,совпадение,nouns,0.0
+3166,bwriad,воля,nouns,2.05
+3167,coridor,проход,nouns,4.0
+3168,anwybodus,обычный,adjectives,0.05
+3169,gweithiwr,механик,nouns,1.95
+3170,clou,скоростной,adjectives,4.4
+3171,gair,словарь,nouns,1.25
+3172,dant,рот,nouns,0.95
+3173,amddiffyn,сохранять,verbs,1.85
+3174,hyll,грубый,adjectives,0.7
+3175,ymdrechu,предрешать,verbs,0.15
+3176,cefn,хвост,nouns,0.55
+3177,enfawr,большой,adjectives,4.3
+3178,ymuno,приобретать,verbs,0.2
+3179,twyll,преступление,nouns,2.25
+3180,etholiad,выбор,nouns,2.7
+3181,economi,экосистема,nouns,0.4
+3182,senoffobia,расизм,nouns,3.15
+3183,anrhagweledig,неожиданный,adjectives,4.9
+3184,cyfathrebu,беседа,nouns,4.5
+3185,diflas,острый,adjectives,0.15
+3186,ffurfiol,приличный,adjectives,0.85
+3187,papur,плакат,nouns,1.6
+3188,canrif,спиртное,nouns,0.0
+3189,digonedd,множество,nouns,4.5
+3190,tasg,задание,nouns,4.35
+3191,ychydig,грубо,adverbs,0.0
+3192,hurt,умный,adjectives,0.05
+3193,cebl,часовня,nouns,0.0
+3194,cyfeillgar,великодушный,adjectives,2.25
+3195,band,спиртное,nouns,0.15
+3196,cegin,дверь,nouns,0.5

@@ -1,0 +1,2846 @@
+ID,EST,SWA,PoS,score
+1,tööline,kamera,nouns,0.05
+2,paindlik,mwenye kiasi,adjectives,0.9
+3,lööma,kupiga,verbs,1.32
+4,nina,koo,nouns,0.95
+5,kitsas,nyembamba,adjectives,0.1
+6,rünnak,shambulio,nouns,3.05
+7,autopasun,gari,nouns,0.8
+8,süüa tegema,kupika,verbs,0.23
+9,lämmatama,kuwa nyororo,verbs,0.35
+10,süsinik,atomu,nouns,1.05
+11,puhastustuli,purigatori,nouns,1.35
+12,solvama,kutukana,verbs,3.2
+13,mõte,mpango,nouns,1.3
+14,ühiskond,klabu,nouns,0.7
+15,lagunema,kuoza,verbs,1.85
+16,kutt,rafiki,nouns,1.0
+17,leidma,pata,verbs,0.6
+18,klassiruum,ushoroba,nouns,0.45
+19,teadma,kusahau,verbs,0.25
+20,laulja,mchezaji,nouns,1.25
+21,pidulik,sahihi,adjectives,1.3
+22,uks,korido,nouns,1.05
+23,emotsionaalselt,kwa hisia,adverbs,1.55
+24,tüdruk,mfanyakazi wa nyumbani,nouns,1.25
+25,peenike,nyembamba,adjectives,4.85
+26,tsink,zinki,nouns,1.1
+27,kurv,pembe,nouns,1.45
+28,õhtueine,chakula,nouns,3.35
+29,hävitama,kutengeneza,verbs,0.45
+30,haru,shina,nouns,0.3
+31,eitama,kupa,verbs,0.2
+32,hambaarst,daktari wa meno,nouns,5.0
+33,auto,boti,nouns,0.75
+34,lisama,kujiunga,verbs,1.1
+35,president,kamera,nouns,0.2
+36,linnapea,rais,nouns,1.05
+37,nina,kinywa,nouns,0.85
+38,sviiter,fulana,nouns,0.65
+39,piitsutama,kubuta,verbs,2.35
+40,ebaselge,haijulikani,adjectives,4.6
+41,teesklema,kudhani,verbs,0.6
+42,keel,uzi,nouns,0.05
+43,korraldama,kuhitaji,verbs,0.45
+44,ülestunnistus,kanusho,nouns,0.6
+45,kast,sanduku,nouns,0.0
+46,udu,wingu,nouns,2.3
+47,punane,nyekundu,adjectives,0.55
+48,haihtuma,kupotea,verbs,5.3
+49,õhk,molekuli,nouns,0.7
+50,päikeseloojang,machweo,nouns,0.05
+51,kahur,bunduki,nouns,2.1
+52,eesnahk,govi,nouns,1.65
+53,jõgi,bahari,nouns,2.0
+54,meri,bahari,nouns,1.0
+55,nihilism,kutoamini dini,nouns,0.2
+56,riided,koti,nouns,2.4
+57,raske,mzigo,adjectives,1.5
+58,lamp,taa,nouns,0.4
+59,varastama,kupa,verbs,0.15
+60,närviliselt,kwa woga,adverbs,4.8
+61,osalema,kushirikiana,verbs,3.15
+62,pehme,laini,adjectives,0.0
+63,pilv,wingu,nouns,0.25
+64,süüdistama,kulaumu,verbs,0.25
+65,ebaloomulikult,si asili,adverbs,0.55
+66,aluspesu,chupi,nouns,0.4
+67,pärinema,kugundua,verbs,0.3
+68,suhtlus,mazungumzo,nouns,4.25
+69,kallistama,kumbatia,verbs,4.75
+70,taskukohane,nafuu,adjectives,3.4
+71,printima,kuchapisha,verbs,0.0
+72,anuma,kujipendekeza,verbs,0.3
+73,vine,wingu,nouns,1.25
+74,psühholoogia,sayansi,nouns,2.2
+75,advokaat,wakili,nouns,4.55
+76,karm,mwerevu,adjectives,0.65
+77,illegaalne,wa dhambi,adjectives,2.45
+78,vann,gogo,nouns,0.0
+79,graafik,jedwali,nouns,3.35
+80,kalender,tarehe,nouns,2.8
+81,pagas,mzigo,nouns,0.45
+82,äri,viwanda,nouns,1.9
+83,eelarvamus,ubaguzi,nouns,1.7
+84,iidne,mpya,adjectives,0.3
+85,kõrs,jukumu,nouns,0.1
+86,tušš,shower,nouns,0.1
+87,atmosfäär,hali ya anga,nouns,2.5
+88,jalg,kichwa,nouns,0.6
+89,torn,kengele,nouns,0.8
+90,auto,kiwanda,nouns,0.3
+91,rist,msalaba,nouns,0.55
+92,ebamoraalne,mbaya,adjectives,2.85
+93,matma,kuzikwa,verbs,1.4
+94,nõudma,hitaji,verbs,0.75
+95,lahustama,kuyeyusha,verbs,0.3
+96,romaan,simulizi,nouns,0.85
+97,planeet,sayari,nouns,2.85
+98,kandma,kupeleka,verbs,1.1
+99,uks,dirisha,nouns,1.15
+100,saar,mtoto wa mfalme,nouns,0.0
+101,kolb,pistoni,nouns,1.55
+102,sitke,ngumu,adjectives,2.7
+103,kandma,kuvaa,verbs,0.6
+104,katteta,haijafunikwa,adjectives,0.35
+105,taotlus,maombi,nouns,1.85
+106,kaine,kutolewa,adjectives,0.3
+107,kampsun,fulana,nouns,1.6
+108,nõustuma,kugombana,verbs,0.5
+109,putukas,nyuki,nouns,2.55
+110,algebra,algebra,nouns,0.7
+111,juur,nyasi,nouns,0.75
+112,käituma,kutii,verbs,1.2
+113,käsi,mkono,nouns,0.3
+114,reis,safari,nouns,4.15
+115,saatma,kuhudhuria,verbs,0.35
+116,lihtne,ngumu,adjectives,0.3
+117,rahulikult,kwa utulivu,adverbs,2.5
+118,laadija,chaja,nouns,0.15
+119,mitte kunagi,kamwe,adverbs,0.23
+120,vallutus,nyimbo,nouns,0.2
+121,ärritunud,kasirika,adjectives,0.1
+122,mõõk,sime,nouns,0.3
+123,naljakas,mwenye huzuni,adjectives,0.4
+124,raev,hasira,nouns,4.8
+125,mutant,jitu,nouns,0.35
+126,soovima,kutaka,verbs,4.35
+127,ühendama,kuunganisha,verbs,0.7
+128,maskeerima,kuficha,verbs,2.8
+129,lehekülg,neno,nouns,0.4
+130,vildakas,isiyonyooka,adjectives,4.85
+131,kärbes,nzi,nouns,0.95
+132,hütt,makao,nouns,1.05
+133,ulatus,saizi,nouns,4.2
+134,abikaasa (naine),mwanamke,nouns,3.9
+135,fakt,umaizi,nouns,1.55
+136,puit,gogo,nouns,3.15
+137,peatükk,mkia,nouns,0.05
+138,lahutama,toa ,verbs,0.6
+139,kael,mkono,nouns,0.6
+140,modernne,wa kale,adjectives,0.35
+141,kõver,pinda,adjectives,0.4
+142,päästma,kulinda,verbs,1.55
+143,tükk,kipande,nouns,0.0
+144,sassis,chafu,adjectives,0.92
+145,saavutama,kufaida,verbs,0.75
+146,müüt,hadithi,nouns,1.7
+147,alus,besi,nouns,0.75
+148,enne,kabla,adverbs,0.35
+149,riistvara,kifaa,nouns,0.25
+150,unistus,ndoto,nouns,0.45
+151,kriitiline,muhimu,adjectives,0.6
+152,põrand,dari,nouns,0.7
+153,surmavalt,mwishoni,adverbs,0.1
+154,terav,mbutu,adjectives,0.4
+155,hiir,sitaha,nouns,0.15
+156,kaks korda,mara mbili,adverbs,0.4
+157,režissöör,mkurugenzi,nouns,0.7
+158,tass,kijiko,nouns,0.95
+159,kombinatsioon,mjumuiko,nouns,2.25
+160,pära,mkia,nouns,2.75
+161,hommikusöök,nyama ya nguruwe,nouns,0.8
+162,kontrollima,kudhibiti,verbs,0.8
+163,mesi,asali,nouns,0.15
+164,armee,kikosi,nouns,3.4
+165,kari,mifugo,nouns,0.25
+166,klaver,kinanda,nouns,0.6
+167,taassoojendama,choma,nouns,0.75
+168,avalik,hadharani,adjectives,0.6
+169,tee,limau,nouns,0.4
+170,hoidma,kushikilia,verbs,2.55
+171,rahvasumm,umati,nouns,4.85
+172,kahju,maumivu,nouns,2.55
+173,vägivaldne,kigomvi,adjectives,0.13
+174,otsustama,kufikiria,verbs,2.2
+175,kalender,kalenda,nouns,0.6
+176,otsustama,kuchagua,verbs,2.85
+177,sünnipäev,mwaka,nouns,0.8
+178,makse,malipo,nouns,1.3
+179,inimene,mnyama,nouns,1.0
+180,magamistuba,tumbo,nouns,0.1
+181,surmavalt,hatari sana,adverbs,0.05
+182,pahkluu,kiwiko,nouns,0.9
+183,mängija,mchezaji,nouns,1.3
+184,uss,mnyoo,nouns,0.4
+185,sõrm,kiganja,nouns,1.0
+186,lill,kichaka,nouns,0.9
+187,president,meya,nouns,1.05
+188,sõjamees,mwanaume,nouns,1.35
+189,kõndima,kutembea ,verbs,0.3
+190,valu,madhara,nouns,2.55
+191,omama,kufyonza,verbs,0.5
+192,silp,silabu,nouns,0.85
+193,armee,jeshi la wanamaji,nouns,3.25
+194,sisalik,mjusi,nouns,0.0
+195,toru,sigara,nouns,0.45
+196,pruut,bwana arusi,nouns,0.8
+197,jaanalind,mbuni,nouns,0.0
+198,hävitama,kuua,verbs,2.25
+199,aitama,kusaidia,verbs,0.65
+200,haarama,kufahamu,verbs,0.4
+201,informeerima,arifu,verbs,0.0
+202,lühike,mrefu,adjectives,0.3
+203,teksad,jinzi,nouns,0.15
+204,administratsioon,menejimenti,nouns,3.75
+205,piibel,nyimbo,nouns,0.15
+206,homme,kesho,adverbs,0.15
+207,alamprogramm,subroutine,nouns,0.45
+208,sekularist,mwanaisilamu,nouns,1.75
+209,korjandus,mchango,nouns,0.35
+210,varjend,kibanda,nouns,1.05
+211,teema,kitabu,nouns,0.53
+212,kongress,mkutano,nouns,2.7
+213,keeruline,rahisi,adjectives,0.3
+214,toll,yadi,nouns,1.45
+215,kirss,cheri,nouns,1.55
+216,leidma,kujipatia,verbs,1.15
+217,sõdur,mvulana,nouns,0.5
+218,mantel,kofia,nouns,0.75
+219,veendunud,uhakika,adjectives,0.15
+220,ebamäärane,isiyo dhahiri,adjectives,4.6
+221,ortodont,daktari,nouns,3.05
+222,mõtlema,kutafiti,verbs,0.6
+223,mõtlema,kujaribu,verbs,0.45
+224,tabama,kuchapa,verbs,0.4
+225,mehaaniline,a kifundi,adjectives,0.35
+226,putukamürk,dawa ya wadudu,nouns,0.95
+227,hakk,ndege,nouns,3.05
+228,oksendama,kutapika,verbs,0.0
+229,meelt lahutama,kufurahia,verbs,2.7
+230,igakuine,kila mwezi,adjectives,0.65
+231,täiskasvanu,mtoto,nouns,0.65
+232,abikaasa (mees),mwanaume,nouns,4.1
+233,jagama,kuzidisha,verbs,0.4
+234,kaotama,kupoteza,verbs,0.6
+235,rakendus,programu tumishi,nouns,0.1
+236,lahendama,kutoa suluhisho,verbs,2.25
+237,ilu,uzuri,nouns,0.35
+238,putka,simu,nouns,1.8
+239,automobiil,motokaa,nouns,5.4
+240,tuba,kitanda,nouns,0.6
+241,depressioon,huzuni,nouns,0.3
+242,rahutult,kwa wasiwasi,adverbs,4.8
+243,vaidlus,mapatano,nouns,0.55
+244,kuningas,mfalme,nouns,0.65
+245,raiskama,takataka,verbs,0.15
+246,kirjandus,neno,nouns,1.1
+247,tramm,tramu,nouns,1.95
+248,maatriks,matriksi,nouns,0.85
+249,dieet,matofaa,nouns,0.35
+250,sild,kadi,nouns,0.25
+251,magamistuba,kitanda,nouns,1.15
+252,ebaaus,jeuri,adjectives,2.3
+253,vend,baba,nouns,0.85
+254,isa,mzazi,nouns,3.4
+255,keeruline,bila jasho,adjectives,0.4
+256,heledus,nuru,nouns,2.1
+257,märg,lowa,adjectives,1.15
+258,umbes,kwa kukadiria,adverbs,0.1
+259,suhtlema,kusali,verbs,0.45
+260,raevukas,mkali,adjectives,0.25
+261,papp,karatasi,nouns,2.25
+262,heegeldus,krocheti,nouns,0.2
+263,õhtusöök,chakula,nouns,3.55
+264,nõrk,dhaifu,adjectives,0.2
+265,kitarr,ngoma,nouns,1.85
+266,põrand,mlango,nouns,0.65
+267,passivselt,pasipo tu,adverbs,0.6
+268,avastama,kutokana,verbs,0.3
+269,skulptuur,sanamu,nouns,4.55
+270,raske,mkubwa,adjectives,2.05
+271,vana,mbivu,adjectives,0.15
+272,põgenema,kutoroka,verbs,4.8
+273,tunnel,shimo,nouns,0.45
+274,sidrun,chai,nouns,0.4
+275,täiskasvanu,mlezi,nouns,2.1
+276,pikk,mfupi,adjectives,0.3
+277,kursor,mshale,nouns,0.2
+278,puuvill,plastiki,nouns,0.55
+279,peapiiskop,askofu,nouns,4.2
+280,käsitöö,kazi za mikono,nouns,0.7
+281,külg,juu,nouns,0.7
+282,maasikas,strouberi,nouns,1.55
+283,ülaosa,chini,nouns,0.55
+284,ajaloouurija,mwanahistoria,nouns,5.5
+285,aken,dirisha,nouns,0.15
+286,katus,paa,nouns,0.6
+287,mootor,boti,nouns,1.3
+288,imenduma,kujifunza,verbs,0.45
+289,saama,kupa,verbs,0.7
+290,valvur,mwanaume,nouns,1.0
+291,legend,hadithi,nouns,0.35
+292,diood,diode,nouns,1.6
+293,loomulikult,kwa uhalisia,adverbs,0.55
+294,loomulikult,kiasili,adverbs,0.45
+295,tulema,kuhudhuria,verbs,2.4
+296,loll,mkubwa mno,adjectives,0.1
+297,imlselgelt,ni wazi,adverbs,0.1
+298,kael,uti,nouns,0.95
+299,relv,manyoya,nouns,0.3
+300,kombineerima,kujumuisha,verbs,2.2
+301,artikkel,kitabu,nouns,1.15
+302,kuulsus,utajiri,nouns,0.65
+303,kõikvõimsus,uwezaji,nouns,2.65
+304,tõbi,ugonjwa wa kuambukiza ,nouns,3.4
+305,lihas,ulimi,nouns,0.55
+306,ori,falahi,nouns,2.55
+307,reaalsus,njozi,nouns,0.55
+308,allkirjastama,kuimba,verbs,0.0
+309,sisenema,kwenda,verbs,0.75
+310,vend,mvulana,nouns,2.3
+311,trumm,gitaa,nouns,1.85
+312,kohtumenetlus,wamuzi,nouns,1.6
+313,lämbuma,kupumua,verbs,0.4
+314,harilik,kawaida,adjectives,0.45
+315,sõbralik,mkarimu,adjectives,2.6
+316,põhiliselt,kimsingi,adverbs,0.65
+317,hämmastavalt,kwa kushangaza,adverbs,4.25
+318,uks,undugu,nouns,0.15
+319,tavaline,kawaida,adjectives,0.2
+320,hotell,fleti,nouns,0.85
+321,klaas,glasi,nouns,0.15
+322,sõber,mwalimu,nouns,0.8
+323,üle saama,kutawala,verbs,0.9
+324,auto,mtaa,nouns,0.4
+325,palk,hela,nouns,3.2
+326,uudised,porojo,nouns,1.65
+327,mahl,matofaa,nouns,1.35
+328,kahanema,kupotea,verbs,1.3
+329,paluma,kusihi,verbs,4.55
+330,valima,kuamua,verbs,2.85
+331,uus,wa kale,adjectives,0.3
+332,lehm,mbuzi,nouns,0.8
+333,kolledž,weledi,nouns,0.7
+334,säilitama,kusahau,verbs,0.35
+335,suhkruroog,muwa,nouns,0.45
+336,kaasa arvama,kukuhusisha,verbs,2.3
+337,arreteerima,kukamatwa,verbs,0.65
+338,süda,upasuaji,nouns,0.6
+339,saama,kupokea,verbs,2.17
+340,vähendama,kupunguza,verbs,1.32
+341,üks kord,mara moja,adverbs,0.4
+342,siiralt,kwa ukweli,adverbs,0.88
+343,ühinema,kujumlisha,verbs,1.1
+344,tuli,moto,nouns,0.4
+345,org,mto,nouns,0.9
+346,energia,nishati,nouns,1.3
+347,sõitma,endesha,verbs,0.2
+348,portreteerima,kujifanya,verbs,0.7
+349,segatud,changanywa,adjectives,3.05
+350,küüs,mkono,nouns,0.8
+351,leib,chizi,nouns,0.75
+352,kohtuma,kukusanya,verbs,2.25
+353,teostama,kuwa,verbs,0.8
+354,teenija,mtumishi,nouns,2.55
+355,eestkostja,mtu mzima,nouns,2.1
+356,ebavajalik,lazima,adjectives,0.3
+357,nurk,tao,nouns,1.45
+358,keel,mawasiliano,nouns,2.1
+359,mäng,mbinu,nouns,1.1
+360,ostma,kununua,verbs,2.45
+361,kell,mnara,nouns,0.8
+362,krõmpsutama,kuteketa,verbs,0.8
+363,väärtuslik,yenye thamani,adjectives,2.75
+364,naerma,kucheka,verbs,0.38
+365,pöörane,ana kichaa,adjectives,5.25
+366,luu,goti,nouns,0.75
+367,haavama,kukashifu,verbs,3.2
+368,kerge,bila jasho,adjectives,4.6
+369,jard,mita,nouns,2.4
+370,vihje,neno,nouns,0.55
+371,kitarr,gita,nouns,0.65
+372,põhi,upande,nouns,0.8
+373,stressis,kusisitiza,adjectives,0.3
+374,müüma,kwenda,verbs,0.15
+375,vältima,kukataa,verbs,1.65
+376,kulm,jicho,nouns,0.95
+377,konteiner,chupa,nouns,0.85
+378,käsi,mfupa,nouns,0.95
+379,nurjuma,kushidwa,verbs,0.05
+380,saama,kutengeneza,verbs,0.8
+381,pesapall,undugu,nouns,0.1
+382,tööline,mfanyakazi,nouns,0.65
+383,vihje,ukweli,nouns,1.55
+384,pettus,ulaghai,nouns,2.65
+385,trumm,pembe,nouns,0.7
+386,nüüd,sasahivi,adverbs,1.65
+387,pankur,mwanasheria,nouns,0.85
+388,kroonimine,kusimikwa ufalme,nouns,0.1
+389,aritmeetika,pigo,nouns,0.65
+390,heameelt tegema,kusihi,verbs,0.3
+391,pull,ndama,nouns,1.85
+392,luu,kiwiko,nouns,0.9
+393,osalema,kuja,verbs,2.4
+394,jumal,padri,nouns,0.95
+395,valik,chaguo,nouns,3.05
+396,magamistuba,bafu,nouns,0.8
+397,kahanema,kukua,verbs,0.35
+398,rahul,ana hasira,adjectives,0.3
+399,veenma,kushawishi,verbs,0.7
+400,nahkhiir,popo,nouns,0.95
+401,naps,bendi,nouns,0.35
+402,täiskasvanud,umekua,adjectives,0.2
+403,liikuma,kutoka,verbs,0.25
+404,jõgi,bonde,nouns,0.9
+405,keha,tumbo,nouns,1.25
+406,saatma,kwenda,verbs,0.4
+407,nakkus,maambukizo,nouns,0.75
+408,kokpit,chumba cha rubani,nouns,0.85
+409,lift,sanduku,nouns,0.15
+410,tagasi võtma,kufyonza,verbs,0.85
+411,veri,uboho,nouns,0.9
+412,tõsine,makini,adjectives,0.45
+413,sümbol,msimbo,nouns,1.85
+414,aatom,molekuli,nouns,2.1
+415,otseloomulikult,ni wazi,adverbs,0.25
+416,aed,uzio,nouns,0.45
+417,tabama,piga,verbs,1.55
+418,telefon,kibanda cha simu,nouns,1.8
+419,selgroog,mwili,nouns,1.0
+420,merevägi,jeshi,nouns,3.25
+421,luu,taya,nouns,0.65
+422,perfektselt,kiukamilifu,adverbs,0.75
+423,jalg,mkono,nouns,1.15
+424,käsi,misuli,nouns,0.85
+425,sarnane,sawasawa,adjectives,4.5
+426,rind,mwili,nouns,1.9
+427,entroopia,kuzorota,nouns,0.75
+428,nõudma,kutaka,verbs,0.3
+429,tank,tenki,nouns,0.85
+430,kaitsma,kukinga,verbs,4.65
+431,kandidaat,mshindi,nouns,1.15
+432,teoreem,nadharia,nouns,2.3
+433,valima,kuteua,verbs,0.45
+434,kaamera,mfanyakazi,nouns,0.05
+435,teravili,ngano,nouns,2.7
+436,koer,farasi,nouns,0.65
+437,kirjandus,kitabu,nouns,2.25
+438,lahkuma,kubaki,verbs,0.3
+439,ema,baba,nouns,0.8
+440,alluma,kusikiliza,verbs,1.4
+441,naine,mke,nouns,3.9
+442,õpilane,rais,nouns,0.25
+443,kõrs,nyimbo,nouns,0.0
+444,süntaks,sintaksia,nouns,0.85
+445,uhkus,furaha,nouns,0.8
+446,kirjanik,mwandishi,nouns,0.85
+447,lugema,kusoma,verbs,0.1
+448,neutraalne,upande wowote,adjectives,0.8
+449,ketas,kompyuta,nouns,0.55
+450,voodi,hospitali,nouns,0.8
+451,kohtlema,tibu,verbs,0.15
+452,klubi,jamii,nouns,0.7
+453,kuritegu,kosa,nouns,3.5
+454,luu,shingo,nouns,0.65
+455,auto,gari,nouns,3.5
+456,uudised,habari,nouns,0.8
+457,unustama,kujua,verbs,0.25
+458,naps,karne,nouns,0.0
+459,esineja,mwigizaji,nouns,0.8
+460,ausalt,kwa haki,adverbs,0.3
+461,neuroos,ugonjwa wa neurosis,nouns,1.1
+462,põhi,magharibi,nouns,0.65
+463,auk,mke,nouns,0.05
+464,korporatsioon,baseball,nouns,0.1
+465,evakueerima,kuondoka,verbs,0.05
+466,käänamine,inflection,nouns,0.75
+467,soetama,kupata,verbs,0.35
+468,hammustama,kung'ata,verbs,0.7
+469,pärima,ulizia,verbs,1.8
+470,kuritegu,udanganyifu,nouns,3.25
+471,heameelt tegema,kukubali,verbs,0.5
+472,sein,pambo,nouns,0.65
+473,ümbrik,bahasha,nouns,0.25
+474,saabuma,kuondoka,verbs,0.45
+475,kerge,ngumu,adjectives,0.45
+476,näitleja,mchezaji wa kike,nouns,4.3
+477,õppekava,mtaala,nouns,0.75
+478,film,sinema,nouns,4.9
+479,luide,dune,nouns,1.8
+480,innovatiivne,bunifu,adjectives,3.65
+481,vabastama,okoa,verbs,4.5
+482,kissitama,kufinya macho,verbs,0.8
+483,relv,watu,nouns,0.1
+484,kallis,yenye thamani,adjectives,1.07
+485,täna,leo,adverbs,1.95
+486,fantastiliselt,kimaajabu,adverbs,4.25
+487,ignorantne,mjinga,adjectives,0.2
+488,jõllitama,kukondoa macho,verbs,0.8
+489,abiline,mfanyakazi wa nyumbani,nouns,3.0
+490,kavatsema,kuania,verbs,1.85
+491,pööraselt,kwa hasira,adverbs,1.35
+492,autojuht,rubani,nouns,2.2
+493,ründama,kushambulia,verbs,0.65
+494,kunstiteos,mchoro,nouns,1.15
+495,hing,mungu,nouns,1.5
+496,uskuma,kukubali,verbs,1.8
+497,kaitsma,kuokoa,verbs,1.55
+498,riided,kifungo,nouns,0.7
+499,tehing,maafikiano,nouns,0.05
+500,mast,mlingoti,nouns,1.1
+501,purustamine,ujenzi,nouns,0.5
+502,kummaline,mwerevu,adjectives,0.5
+503,kuulutama,kuhubiri,verbs,2.6
+504,looma,kuunda,verbs,3.85
+505,kalju,kilima,nouns,2.6
+506,lipp,bendera,nouns,1.1
+507,tööandja,mwajiriwa,nouns,0.9
+508,käsikiri,muswada,nouns,1.55
+509,tööline,mwajiri,nouns,1.0
+510,panema,kupa,verbs,0.3
+511,flööt,filimbi,nouns,1.1
+512,välja tõstma,kufukuza,verbs,0.75
+513,nööp,nguo,nouns,0.7
+514,mood,mtindo,nouns,2.95
+515,kuu,sayari,nouns,1.55
+516,majandus,uchumi,nouns,0.75
+517,näitleja,mwigaji,nouns,0.48
+518,mitte kunagi,kamwe,adjectives,0.25
+519,tark,mpumbavu,adjectives,0.4
+520,metsamajake,nyumba ndogo,nouns,3.6
+521,õun,juisi,nouns,1.35
+522,avastama,kufanya utafiti,verbs,2.75
+523,ekseem,uwasho,nouns,2.7
+524,odav,rahisi,adjectives,3.4
+525,täpne,uhakika,adjectives,0.25
+526,meedium,habari,nouns,1.7
+527,looma,kuharibu,verbs,0.35
+528,džinn,jini,nouns,0.4
+529,odav,si ghali,adjectives,5.3
+530,ühtne,sare,adjectives,0.35
+531,kuulama,kuelewa,verbs,0.95
+532,kass,panya,nouns,0.5
+533,hümn,biblia,nouns,0.15
+534,kaotama,poteza,verbs,0.0
+535,lind,mwewe,nouns,3.05
+536,õhtu,giza kuingia,nouns,4.45
+537,räpane,rahisi,adjectives,0.7
+538,post,nguzo,nouns,0.15
+539,kitarr,gitaa,nouns,0.0
+540,pakk,furushi,nouns,0.65
+541,märge,kumbuku,nouns,0.35
+542,heidutama,kukatisha tamaa,verbs,1.2
+543,bioloog,mbiolojia,nouns,0.85
+544,kardin,nguzo,nouns,0.2
+545,mäng,burudani,nouns,2.8
+546,kindlus,mtazamo,nouns,0.4
+547,raamat,insha,nouns,1.0
+548,umbes,takriban,adverbs,0.3
+549,põsk,ulimi,nouns,0.7
+550,ebakohane,haionekani,adjectives,0.55
+551,täring,kete,nouns,1.65
+552,üdi,damu,nouns,0.9
+553,võimalikult,ikiwezekana,adverbs,2.8
+554,seelik,sketi,nouns,0.1
+555,käsi,shingo,nouns,0.6
+556,kokkukutsumine,mkutano,nouns,4.0
+557,sajand,pombe,nouns,0.0
+558,vihm,manyunyu,nouns,4.3
+559,illusioon,uhalisi,nouns,0.55
+560,saama,kupanga,verbs,0.45
+561,sild,gari,nouns,0.35
+562,sõber,mvulana,nouns,1.0
+563,kannatused,ukiwa,nouns,2.4
+564,sõnaraamat,kamusi,nouns,2.4
+565,kokku põrkama,kugonga,verbs,1.85
+566,tõend,ukweli,nouns,2.35
+567,delikaatselt,kwa uangalifu,adverbs,0.2
+568,mäng,tendo,nouns,1.25
+569,meelde tuletama,kusahau,verbs,0.4
+570,hobune,ng'ombe dume,nouns,0.8
+571,ala,mkoa,nouns,3.7
+572,pühkima,kupanguza,verbs,0.05
+573,põhiseadus,katiba,nouns,0.73
+574,silm,nyusi,nouns,0.95
+575,meenutama,kuuza,verbs,0.0
+576,auto,gari,nouns,3.13
+577,heidutama,katisha tamaa,verbs,2.35
+578,ütlema,kusema,verbs,2.7
+579,samasugune,sawa,adjectives,4.5
+580,võtma,kumiliki,verbs,1.6
+581,ettevaatlikult,kwa uangalifu,adverbs,3.05
+582,naine,manyoya,nouns,0.2
+583,tipp,upande,nouns,0.7
+584,kass,mnyama,nouns,2.75
+585,raha,lulu,nouns,0.25
+586,kohtuma,kusalimia,verbs,1.3
+587,sulgema,kufunga,verbs,0.0
+588,märksõna,nenokuu,nouns,0.85
+589,uskumus,ua,nouns,0.1
+590,tsivilisatsioon,ustaarabu,nouns,1.35
+591,uskumus,fikra,nouns,1.4
+592,põlv,mkono,nouns,0.7
+593,liha,nyama ya nguruwe,nouns,3.55
+594,tagasi lükkama,kukataa,verbs,0.95
+595,teadus,saikolojia,nouns,2.2
+596,veendunud,ana hakika,adjectives,4.75
+597,menüü,agizo,nouns,1.0
+598,päästma,kuokoa,verbs,2.45
+599,pudel,chupa,nouns,1.6
+600,õppima,kuchambua,verbs,0.85
+601,kohtuma,kupatana,verbs,0.0
+602,torm,theluji,nouns,0.9
+603,vihane,mwenye furaha,adjectives,0.3
+604,biograafia,habari za kubuniwa,nouns,1.2
+605,iiris,boriti,nouns,0.35
+606,elustiil,mtindo wa maisha,nouns,1.35
+607,torm,upepo mkali,nouns,3.55
+608,vanduma,kuapa,verbs,3.8
+609,keha,bega,nouns,0.85
+610,seisma,kusimama,verbs,0.3
+611,terav,kali,adjectives,0.15
+612,uhke,kujivunia,adjectives,0.0
+613,rahvas,sherehe,nouns,0.65
+614,poeg,baba,nouns,1.15
+615,hoidma,kumiliki,verbs,1.3
+616,närviline,wasiwasi,adjectives,2.8
+617,vahepeal,mara nyingine,adverbs,0.78
+618,munk,mtawa,nouns,0.55
+619,nädalavahetus,wikiendi,nouns,0.0
+620,kritseldama,kuandika,verbs,2.45
+621,vahemaa,umbali,nouns,0.35
+622,hukka mõistma,laani,verbs,0.95
+623,siin,papa hapa,adverbs,1.65
+624,jätma,kuchukua,verbs,0.4
+625,koridor,mlango,nouns,1.05
+626,arvuti,kompyuta,nouns,2.4
+627,leht,gombo,nouns,0.15
+628,kindlalt,hakika,adverbs,1.57
+629,maantee,barabara kuu,nouns,4.6
+630,näima,kuwa,verbs,0.45
+631,võti,funguo,nouns,1.35
+632,tööriist,kitendea kazi,nouns,1.35
+633,valik,jela,nouns,0.3
+634,lubama,kuweka ahadi,verbs,3.8
+635,lagi,sakafu,nouns,0.7
+636,hiir,paka,nouns,0.5
+637,galerii,nyumba ya sanaa,nouns,0.0
+638,vähendama,kupungua,verbs,3.05
+639,emaplaat,bodi mama(mama as central),nouns,4.05
+640,saar,ufuko,nouns,0.9
+641,põletama,kuunguza,verbs,0.2
+642,tool,benchi,nouns,4.25
+643,lambatall,kondoo,nouns,3.9
+644,võlts,bandia,adjectives,4.65
+645,täpselt,kwa usahihi,adverbs,0.35
+646,portreteerima,kuamua,verbs,0.25
+647,kohus,korti,nouns,1.85
+648,väljapääs,mahali ya kutokea,nouns,0.15
+649,kass,simba,nouns,1.2
+650,sirge,nyooka,adjectives,0.4
+651,seade,chungu,nouns,0.45
+652,ajaleht,neno,nouns,0.65
+653,rand,bahari,nouns,2.25
+654,periood,muhula,nouns,4.3
+655,ülesanne,kazi,nouns,3.45
+656,kalju,mwamba,nouns,0.0
+657,kõht,mwili,nouns,1.25
+658,kokkulepe,tundu,nouns,0.05
+659,sool,maji,nouns,0.5
+660,tasu,malipo,nouns,4.05
+661,naine,sekretari,nouns,0.95
+662,lammas,mifugo,nouns,2.55
+663,uitama,kuondoka,verbs,0.75
+664,diivan,kitanda,nouns,1.95
+665,kindlalt,kwa hakika,adverbs,4.4
+666,valik,sura,nouns,0.45
+667,naljakas,wa kuchosha,adjectives,0.15
+668,põiktänav,bakuli,nouns,0.05
+669,torbik,kikombe,nouns,0.35
+670,küün,nyumba,nouns,2.05
+671,ebaviisakas,jeuri,adjectives,2.1
+672,organiseeritud,kupanga,verbs,0.35
+673,korvpall,baseball,nouns,0.8
+674,võitja,uwepo,nouns,0.4
+675,erinevalt,kitofauti,adverbs,0.1
+676,puit,mbao,nouns,0.55
+677,hing,kaka,nouns,0.35
+678,suur,mpana,adjectives,3.7
+679,põhi,kusini,nouns,0.65
+680,haige,ana wazimu,adjectives,0.85
+681,tulema,kuleta,verbs,0.85
+682,hertsogkond,dukedom,nouns,2.45
+683,kott,pochi,nouns,4.1
+684,hobune,farasi wa kiume,nouns,3.65
+685,madrus,kapteni,nouns,1.65
+686,patarei,betri,nouns,0.2
+687,osariik,nyumba,nouns,0.4
+688,kaisutama,kukumbatia,verbs,4.75
+689,mära,farasi,nouns,3.45
+690,planeet,mwezi,nouns,1.55
+691,külm,baridi,adjectives,0.2
+692,tuba,chumba,nouns,1.3
+693,auto,gari la farasi,nouns,1.25
+694,saar,kisiwa,nouns,0.2
+695,auk,mapatano,nouns,0.05
+696,saabuma,kuja,verbs,3.65
+697,seebivaht,puto,nouns,2.0
+698,arvamus,chaguo,nouns,1.35
+699,veri,damu,nouns,0.8
+700,lai,mbivu,adjectives,0.05
+701,merevägi,jeshi la wanamaji,nouns,0.2
+702,president,mwanasiasa,nouns,3.1
+703,tööandja,mfanyakazi,nouns,1.0
+704,ette kujutama,kujifanya,verbs,0.8
+705,lõuna,ugali,nouns,1.45
+706,ostma,kuiba,verbs,0.3
+707,issi,mama,nouns,0.8
+708,lõug,mfupa,nouns,0.65
+709,kõver,yenye pindo,adjectives,0.3
+710,süüdistama,kushtaki,verbs,2.25
+711,kaliiber,kaliba,nouns,0.05
+712,pära,jabali,nouns,0.0
+713,lehm,mifugo,nouns,2.15
+714,panus,mchango,nouns,2.2
+715,raputama,kutikisa,verbs,1.17
+716,loobuma,kukataa,verbs,0.93
+717,õnnelik,ana hasira,adjectives,0.95
+718,televisioon,mawasiliano,nouns,1.8
+719,intelligentne,mpumbavu,adjectives,0.45
+720,passiivne,kupooza,adjectives,0.25
+721,traditsioon,utamaduni,nouns,0.7
+722,luuletaja,mshairi,nouns,0.9
+723,tehas,gari,nouns,0.3
+724,hambad,meno,nouns,0.1
+725,keemia,nadharia,nouns,0.55
+726,käsi,mguu,nouns,1.15
+727,peigmees,bibi arusi,nouns,0.8
+728,kari,nyama ya ng'ombe,nouns,0.6
+729,mugavus,usalama,nouns,1.15
+730,välja tõstma,kufukuza,verbs,0.5
+731,imelikult,kiajabu,adverbs,1.4
+732,täkk,mvulana,nouns,0.75
+733,abieluväline,nje ya ndoa,adjectives,0.55
+734,ootama,kungoja,verbs,0.1
+735,tossud,wakufunzi,nouns,0.45
+736,mööda lööma,kukosa,verbs,0.4
+737,lugu,kitabu,nouns,1.9
+738,vaesus,utajiri,nouns,0.55
+739,vesi,chumvi,nouns,0.5
+740,lõdvestunud,kupumzika,adjectives,0.3
+741,keha,neva,nouns,0.75
+742,usaldusväärselt,kwa kuaminika,adverbs,0.15
+743,teadustama,kutangaza,verbs,2.6
+744,allikas,kisima,nouns,3.15
+745,sent,watu,nouns,0.05
+746,masin,injini,nouns,3.05
+747,puu,mpera,nouns,2.7
+748,laulma,kuimba,verbs,0.2
+749,ülikond,sare,nouns,0.2
+750,aju,neva,nouns,1.05
+751,muffin,muffini,nouns,0.2
+752,veok,gari la mzigo,nouns,0.65
+753,raamat,mada,nouns,0.65
+754,hingama,kukaba,verbs,0.4
+755,kuningas,mtoto wa mfalme,nouns,2.4
+756,minema,kuingia,verbs,0.75
+757,eesmärk,jitihada,nouns,0.9
+758,voodi,kochi,nouns,1.95
+759,äri,ushirika,nouns,1.05
+760,relv,bunduki,nouns,0.0
+761,kaotama,kuweka,verbs,0.2
+762,vahekäik,njia,nouns,0.6
+763,lind,batamzinga,nouns,3.05
+764,päike,anga,nouns,1.3
+765,deemon,pepo,nouns,0.85
+766,müts,koti,nouns,0.75
+767,laud,meza,nouns,0.05
+768,radiaator,radiator,nouns,0.4
+769,nüri,wa kuchekesha,adjectives,0.15
+770,vann,puto,nouns,0.1
+771,osoon,ozoni,nouns,2.5
+772,avalikustamata,haijafichuliwa,adjectives,0.5
+773,tuul,upepo,nouns,3.55
+774,meeleheide,taabu,nouns,2.4
+775,korrutama,kugawanya,verbs,0.4
+776,proovima,kufikiria,verbs,0.45
+777,austus,pongezi,nouns,1.85
+778,segatud,kumbakumba,adjectives,0.1
+779,forell,samaki,nouns,0.0
+780,fantaasia,uhalisi,nouns,0.5
+781,number,tarakimu,nouns,0.05
+782,õhtusöök,supu,nouns,0.95
+783,küünarnukk,kifundo cha mguu,nouns,0.9
+784,ookean,bahari,nouns,2.95
+785,alandama,kuaibisha,verbs,0.0
+786,vahekohus,mahakama,nouns,1.85
+787,taganema,kurudia,verbs,0.55
+788,keha,kifua,nouns,1.9
+789,keha,mkono,nouns,1.45
+790,vihkama,chukia,verbs,0.35
+791,laulja,mwimbaji,nouns,0.8
+792,looja,mtengenezaji,nouns,4.4
+793,monokultuur,kilima cha zao moja,nouns,2.3
+794,tapma,kuharibu,verbs,2.25
+795,kuupäev,siku ya kuzaliwa,nouns,1.7
+796,ärritama,kusumbua,verbs,0.43
+797,selgitama,fafanua,verbs,4.6
+798,kerge,ana shida,adjectives,0.3
+799,võtma,kurithi,verbs,1.7
+800,advokaat,mwanasheria,nouns,0.0
+801,mägi,mwamba,nouns,1.5
+802,osalema,kusema,verbs,0.4
+803,šokolaad,keki,nouns,0.85
+804,kuld,dhahabu,nouns,1.1
+805,tuntud,inayojulikana,adjectives,0.3
+806,keskpärane,mtumba,adjectives,1.0
+807,itsitama,kukenua,verbs,3.55
+808,hea,salama,adjectives,0.3
+809,kaotama,kupata,verbs,0.2
+810,kahtlustama,kushukia,verbs,0.65
+811,terav,ncha kali,adjectives,0.4
+812,loom,mtu,nouns,1.0
+813,vaidlema,kufikiria,verbs,0.6
+814,paindlik,rahisi kubadilika,adjectives,1.4
+815,poleerima,kung'arisha,verbs,0.0
+816,puhas,safi,adjectives,0.45
+817,unustama,kupuuza,verbs,1.7
+818,vastu võtma,kukataa,verbs,0.35
+819,rong,treni,nouns,1.95
+820,põngerjas,mtoto wa kike,nouns,1.3
+821,agressiivne,kua na hasira,adjectives,0.3
+822,püüdma,kukamata,verbs,3.95
+823,kummaline,wa kigeni,adjectives,4.85
+824,parlament,bunge,nouns,2.7
+825,taastama,kubadilisha,verbs,0.4
+826,märgatav,wazi,adjectives,2.95
+827,kirg,hisia,nouns,3.3
+828,köök,mlango,nouns,0.3
+829,kapten,mwanamaji,nouns,1.65
+830,koer,paka,nouns,0.9
+831,sotsiobioloogia,jamii,nouns,0.35
+832,võlgnema,kukopesha,verbs,0.75
+833,kõht,mshipa,nouns,0.25
+834,laps,mvulana,nouns,1.5
+835,jää,barafu,nouns,3.3
+836,harima,kuelimisha,verbs,5.05
+837,vill,malengelenge,nouns,0.05
+838,sajand,miaka kumi,nouns,0.95
+839,nutma,kulia,verbs,0.55
+840,salat,mpangilio wa chakula,nouns,0.7
+841,praegu,kwa sasa,adverbs,0.2
+842,ideaalselt,walau,adverbs,0.5
+843,meeter,yadi,nouns,2.4
+844,onu,mwanaume,nouns,2.3
+845,käsivars,kifundo,nouns,1.5
+846,patune,mtakatifu,nouns,0.45
+847,võrevoodi,mlazi,nouns,3.1
+848,steik,nyama,nouns,4.55
+849,minema,kuuza,verbs,0.15
+850,moslem,mwislamu,nouns,0.5
+851,seisund,makubaliano,nouns,0.15
+852,org,bonde,nouns,0.3
+853,vaatenurk,mtazamo,nouns,0.35
+854,aktsepteerima,kuitikia,verbs,4.7
+855,osuti,kionyeshi,nouns,0.05
+856,imiteerima,kuiga,verbs,0.45
+857,ohutus,starehe,nouns,1.15
+858,hommik,mchana,nouns,1.3
+859,võitja,lengo,nouns,0.45
+860,kaootiliselt,kwa vurugu,adverbs,0.25
+861,koguma,kuchukua,verbs,0.05
+862,pensionile jääma,kustaafu,verbs,0.2
+863,motell,hoteli,nouns,3.25
+864,kallistama,kukumbatia,verbs,1.23
+865,lemmikloom,paka,nouns,2.75
+866,poiss,mazingira,nouns,0.05
+867,puhas,safi,adjectives,4.85
+868,teispoolsus,kuzimu,nouns,1.35
+869,aitama,saidia,verbs,1.25
+870,kõht,njia,nouns,0.1
+871,enamasti,zaidi,adverbs,0.55
+872,kana,chakula cha usiku,nouns,0.55
+873,häbenev,jisikia aibu,adjectives,0.1
+874,pahavara,programu hatarishi,nouns,0.4
+875,müüma,kukumbusha,verbs,0.0
+876,määrima,kupaka,verbs,0.65
+877,poiss,kijana,nouns,3.25
+878,võitja,mwanaume,nouns,0.25
+879,president,mwanachuo,nouns,0.25
+880,praadima,kukaanga,verbs,3.05
+881,jalg,mguu,nouns,0.25
+882,muusika,muziki,nouns,1.1
+883,vihmavari,mwamvuli,nouns,0.05
+884,uba,wali,nouns,0.85
+885,proovima,kutimiza,verbs,0.8
+886,pealik,meya,nouns,2.1
+887,takso,basi,nouns,2.0
+888,atsetüülkoliin,acetylcholine,nouns,0.35
+889,liblikas,kipepeo,nouns,0.25
+890,kuritegu,uhalifu,nouns,1.65
+891,dieet,saladi,nouns,0.7
+892,tõmbama,kuvuta,verbs,0.8
+893,ideaalselt,walau,adverbs,0.8
+894,odav,mchafu,adjectives,0.7
+895,hoiatama,onya,verbs,0.2
+896,sõbralik,kirafiki,adverbs,0.0
+897,lõuna,kaskazini,nouns,0.65
+898,ilmuma,kuwa,verbs,0.95
+899,rikkuma,kuharibu,verbs,0.0
+900,teooria,kemia,nouns,0.55
+901,ütlema,kusema,verbs,1.2
+902,ehmunud,kua na uoga,adjectives,1.35
+903,mull,mapovu,nouns,2.0
+904,pärima,kuwaza,verbs,0.6
+905,vestlus,mawasiliano,nouns,4.25
+906,ülesanne,majani makavu,nouns,0.1
+907,täkkvarss,farasi,nouns,3.65
+908,valima,kutaka,verbs,1.1
+909,täna õhtul,usiku huu,adverbs,1.95
+910,kahuripaat,meli ya vita,nouns,0.45
+911,ilm,hali ya hewa,nouns,0.6
+912,kannatamatult,bila subira,adverbs,0.25
+913,nahk,ngozi,nouns,0.1
+914,vajalik,muhimu,adjectives,3.1
+915,ühinema,kukuunga,verbs,0.15
+916,haigus,ugonjwa wa kuambukiza ,nouns,1.75
+917,luu,misuli,nouns,1.0
+918,riff,ufuko,nouns,0.75
+919,võitja,bingwa,nouns,5.15
+920,tütar,mtoto mchanga,nouns,1.05
+921,käepide,mpini,nouns,0.15
+922,naine,mwanaume,nouns,0.8
+923,sõnaraamat,neno,nouns,1.7
+924,loll,adimu,adjectives,0.0
+925,mikroskoop,darubini,nouns,0.85
+926,sünnipäev,tarehe,nouns,1.7
+927,kops,ini,nouns,0.75
+928,purjus,mlevi,adjectives,0.3
+929,otsustama,kuamua,verbs,2.55
+930,voolik,bustani,nouns,0.5
+931,rahustama,kufaraja,verbs,0.0
+932,kael,mfupa,nouns,0.65
+933,õpetaja,rafiki,nouns,0.8
+934,valelik,si mwaminifu,adjectives,0.35
+935,kuu,agosti,nouns,2.45
+936,korporatsioon,mlango,nouns,0.15
+937,mees,mtoto,nouns,0.75
+938,refrään,kiitiko,nouns,0.8
+939,auto,lifti,nouns,0.7
+940,stipendium,ufadhili wa elimu,nouns,1.65
+941,muretsema,kuwa na wasiwasi,verbs,0.15
+942,palvetama,kuuliza,verbs,1.15
+943,prognoos,utabiri,nouns,0.65
+944,naine,jukumu,nouns,0.1
+945,miljardär,bilionea,nouns,0.4
+946,tunnus,insilia,nouns,0.05
+947,tina,tini,nouns,1.85
+948,kergelt,kiurahisi,adverbs,0.5
+949,igav,boreka,adjectives,1.85
+950,säilitama,kubaki,verbs,0.75
+951,informatsioon,habari,nouns,0.75
+952,komistama,kujikwaa,verbs,2.1
+953,alkohol,jini,nouns,2.35
+954,kindel,ana kujiamini,adjectives,3.35
+955,kihlus,uchumba,nouns,0.8
+956,tass,koni,nouns,0.35
+957,videvik,jioni,nouns,4.45
+958,meri,ufuko,nouns,2.25
+959,riputama,kuweka,verbs,0.85
+960,kätte toimetama,kuchukua,verbs,0.5
+961,kõrb,jangwa,nouns,1.8
+962,võrevoodi,kitanda,nouns,4.3
+963,tõstma,kulea,verbs,0.4
+964,lõhnama,kunusia,verbs,2.15
+965,puus,mdomo,nouns,0.35
+966,dollar,watu,nouns,0.4
+967,jänes,paka,nouns,0.7
+968,andma,kuweka,verbs,0.35
+969,kohalolek,mshindi,nouns,0.4
+970,nõbu,mjomba,nouns,1.2
+971,maks,pafu,nouns,0.75
+972,pea,mguu,nouns,0.6
+973,uskumus,maadili,nouns,1.3
+974,kodutöö,jukumu,nouns,3.45
+975,buss,teksi,nouns,2.0
+976,luu,kifundo cha mguu,nouns,2.3
+977,hea,nzuri,adjectives,0.55
+978,särama,kuangaza,verbs,2.85
+979,unustama,kukumbusha,verbs,0.4
+980,kaduma,kupungua,verbs,1.3
+981,kauss,sahani,nouns,2.75
+982,omama,kuweka,verbs,1.3
+983,toetaja,msaidizi,nouns,0.0
+984,sõna,sentensi,nouns,2.2
+985,armee,kundi,nouns,1.7
+986,lipp,bendera,nouns,1.2
+987,tragöödia,kifo,nouns,1.85
+988,kuupäev,kalenda,nouns,2.8
+989,pakt,mazingira,nouns,0.15
+990,fakt,ushahidi,nouns,2.35
+991,ennustama,kudhani,verbs,2.65
+992,liha,damu,nouns,1.15
+993,käsi,bega,nouns,1.75
+994,korrapärane,kwa mpangilio,adjectives,0.25
+995,paber,kadibodi,nouns,2.25
+996,laenama,kupa,verbs,2.5
+997,koidik,bunduki,nouns,0.05
+998,heidutama,kufeli,verbs,0.7
+999,viisa,mhuri,nouns,0.55
+1000,preester,mtawa,nouns,2.45
+1001,osalema,kutuma,verbs,0.35
+1002,ekraan,kiwambo,nouns,0.25
+1003,närv,akili,nouns,1.05
+1004,õhtusöök,kuku,nouns,0.55
+1005,maksma,kulipa,verbs,1.3
+1006,realistlikult,kihalisia,adverbs,0.8
+1007,päev,alfajiri,nouns,1.4
+1008,kostüüm,sherehe,nouns,0.75
+1009,mees,mshindi,nouns,0.25
+1010,eksamineerima,kukagua,verbs,3.25
+1011,võtma,kuondoka,verbs,0.4
+1012,kleit,gauni,nouns,0.45
+1013,ülesanne,mgawo,nouns,0.35
+1014,ballaad,wimbo,nouns,3.0
+1015,väärtus,imani,nouns,1.3
+1016,väide,ukosoaji,nouns,0.95
+1017,kümnend,karne,nouns,0.95
+1018,ulatuslik,mwembamba,adjectives,0.2
+1019,karistama,kuadhibu,verbs,1.38
+1020,tänav,gari,nouns,0.4
+1021,etendus,onyesha,nouns,0.05
+1022,kast,kibanda,nouns,0.6
+1023,tagasi lükkama,kukataa,verbs,0.45
+1024,jäädvustama,kushika,verbs,0.45
+1025,võtma,kupeleka,verbs,0.5
+1026,räpane,chafu,adjectives,0.25
+1027,segama,kuchanganya,verbs,0.2
+1028,jalg,mguu,nouns,0.05
+1029,tõesti,kiukweli,adverbs,0.5
+1030,veen,mkono,nouns,0.65
+1031,sile,nyororo,adjectives,0.4
+1032,peatuma,kusimamisha,verbs,0.8
+1033,äsja,hivi karibuni,adverbs,0.15
+1034,pöörane,mwenye furaha,adjectives,0.95
+1035,kleepuv,natanata,adjectives,1.15
+1036,kaudne,njia za panya,adjectives,1.05
+1037,küüs,kidole gumba,nouns,1.2
+1038,väsinud,iliyochoka,adjectives,1.85
+1039,idee,picha,nouns,0.9
+1040,lükkama,kusukuma,verbs,0.8
+1041,kokkulepe,makubaliano,nouns,5.05
+1042,treener,kocha,nouns,1.3
+1043,koguma,kukusanya,verbs,2.4
+1044,organ,figo,nouns,2.25
+1045,brändi,kileo,nouns,2.7
+1046,katus,dari,nouns,3.85
+1047,vaidlema,kujadili,verbs,0.75
+1048,iseseisvalt,kwa kujitegemea,adverbs,1.3
+1049,päev,asubuhi,nouns,1.3
+1050,mehed,undugu,nouns,0.95
+1051,imepisike,mkubwa mno,adjectives,0.3
+1052,lõpetama,kufanya,verbs,0.7
+1053,radar,rada,nouns,0.5
+1054,vastu võtma,kukubali,verbs,0.4
+1055,osalema,kukusanya,verbs,1.05
+1056,ühtlaselt,sawa,adverbs,0.3
+1057,rahu,amani,nouns,0.3
+1058,anuma,kuomba,verbs,4.55
+1059,ruum,mahabusu,nouns,1.2
+1060,lükkama,kusukuma,verbs,0.25
+1061,lihtsalt,kirahisi,adverbs,0.65
+1062,jooksma,kimbia,verbs,0.4
+1063,uks,uwepo,nouns,0.2
+1064,põllumajandus,kilimo,nouns,1.92
+1065,tolmendamine,uchavushi,nouns,2.1
+1066,robootika,roboti,nouns,0.7
+1067,pea,msumari,nouns,0.35
+1068,andma,kutoa,verbs,0.2
+1069,allikas,chanzo,nouns,0.0
+1070,lennuk,uwanja wa ndege,nouns,1.55
+1071,oletama,kutabiri,verbs,2.65
+1072,klaviatuur,kibodi,nouns,0.1
+1073,lahkuma,kuzurura,verbs,0.75
+1074,raamat,dhima,nouns,0.4
+1075,kahtlusalune,mshukiwa,nouns,0.45
+1076,osalema,kuhudhuria,verbs,0.1
+1077,tuba,kuoga,nouns,0.4
+1078,kokkulepe,pambano,nouns,0.55
+1079,mosaiik,mosaic,nouns,0.4
+1080,rutiinselt,kila baada ya muda fulani,adverbs,1.95
+1081,kast,lifti,nouns,0.15
+1082,tehislik,sio asili,adjectives,4.65
+1083,kuul,mzinga,nouns,0.8
+1084,piim,juisi,nouns,0.8
+1085,rahvas,idadi ya watu,nouns,3.1
+1086,tila,pua,nouns,0.6
+1087,nurk,eneo,nouns,0.5
+1088,mahl,juisi,nouns,0.3
+1089,fotofon,picha,nouns,0.1
+1090,tädi,mjomba,nouns,0.85
+1091,kaamera,rais,nouns,0.2
+1092,kallama,kumwaga,verbs,0.9
+1093,läbi kukkuma,kufanikiwa,verbs,0.35
+1094,abistama,kufadhili,verbs,4.7
+1095,õun,malimau,nouns,0.8
+1096,kriitika,hoja,nouns,0.95
+1097,õudne,mbaya,adjectives,2.0
+1098,vastu võtma,kupeleka,verbs,0.3
+1099,imenduma,kutoa,verbs,0.85
+1100,tekk,kitanda,nouns,1.25
+1101,hiir,chombo,nouns,0.2
+1102,tsoon,eneo,nouns,4.75
+1103,taevas,anga,nouns,0.45
+1104,kukkuma,kuanguka,verbs,2.1
+1105,kinnitama,kutetea,verbs,0.9
+1106,kalkun,kuku,nouns,1.2
+1107,tugevalt,kwa kidete,adverbs,0.3
+1108,semester,awamu,nouns,4.3
+1109,suusatamine,skiing,nouns,2.2
+1110,pärinema,kuanza,verbs,1.2
+1111,paber,kuni,nouns,0.9
+1112,varvas,kidole cha mkono,nouns,1.4
+1113,saal,ukumbi,nouns,0.6
+1114,piloot,dereva,nouns,2.2
+1115,noor,isiyotulia,adjectives,0.65
+1116,jõud,makadara,nouns,3.6
+1117,otsima,tafuta,verbs,1.55
+1118,meeter,inchi,nouns,1.9
+1119,usaldusväärselt,pasipo tu,adverbs,0.2
+1120,saak,mungu,nouns,0.1
+1121,paber,karatasi,nouns,1.0
+1122,kood,alama,nouns,1.85
+1123,kunaiganes,kila wakati,adverbs,0.75
+1124,tapma,kukinga,verbs,0.35
+1125,voodi,blanketi,nouns,1.25
+1126,auto,geji,nouns,0.65
+1127,ilm,wingu,nouns,1.5
+1128,tüdruk,mvulana,nouns,0.6
+1129,teenima,kutengeneza,verbs,0.55
+1130,abikaasa (naine),kuoga,nouns,0.0
+1131,mehaaniliselt,kwa ustadi,adverbs,0.5
+1132,privaatne,binafsi,adjectives,0.6
+1133,otsing,lengo,nouns,0.9
+1134,halvenema,kuzorota,verbs,0.05
+1135,tegu,mchezo,nouns,1.25
+1136,tervitama,kukutana,verbs,1.3
+1137,normaalselt,kwa kawaida,adverbs,3.25
+1138,nautima,kufurahia,verbs,0.05
+1139,valetama,kudanganya,verbs,0.42
+1140,vibukütt,mpiga mishale,nouns,0.3
+1141,boss,bosi,nouns,4.0
+1142,võõras,mgeni,nouns,0.5
+1143,mõtlema,kuamua,verbs,2.2
+1144,tekst,kitabu,nouns,2.85
+1145,patrull,jeshi,nouns,1.7
+1146,pastakas,kalamu,nouns,0.3
+1147,tekk,blanketi,nouns,0.15
+1148,klubi,klabu,nouns,0.35
+1149,mitte nõustuma,kataa,verbs,0.35
+1150,vabadus,uhuru,nouns,4.95
+1151,normaalne,tofauti,adjectives,0.45
+1152,ksenofoobia,ubaguzi,nouns,3.8
+1153,saama,kujitokeza,verbs,0.95
+1154,vallutus,safari,nouns,0.55
+1155,lai,mwembamba,adjectives,0.3
+1156,viies,wa tano,adjectives,0.35
+1157,inimene,mtu,nouns,2.55
+1158,õlg,mwili,nouns,0.85
+1159,surm,balaa,nouns,1.78
+1160,medal,medali,nouns,0.45
+1161,kahtlemata,hakika,adverbs,4.4
+1162,operatsioon,moyo,nouns,0.6
+1163,suur,rahisi,adjectives,0.15
+1164,turvama,kulinda,verbs,4.65
+1165,lisama,kujiunga,verbs,0.8
+1166,omama,kuchukua,verbs,1.6
+1167,kaste,matofaa,nouns,0.25
+1168,oht,ugonjwa,nouns,0.7
+1169,viiul,chombo,nouns,2.1
+1170,tavaline,kawaida,adjectives,0.35
+1171,küsima,kuomba,verbs,3.0
+1172,raha,mshahara,nouns,3.2
+1173,õnnelikult,kwa furaha,adverbs,0.45
+1174,ruupor,ngoma,nouns,0.7
+1175,lill,chavua,nouns,1.2
+1176,sõna,fasihi,nouns,1.1
+1177,tahtma,kuchagua,verbs,1.1
+1178,hävitama,kuharibu,verbs,0.15
+1179,vana,mpya,adjectives,0.4
+1180,sõrm,kidole cha mguu,nouns,1.4
+1181,vend,kaka,nouns,1.45
+1182,meteoor,meteor,nouns,0.4
+1183,kitsas,mrefu,adjectives,0.55
+1184,käsikiri,muswada,nouns,2.3
+1185,arutama,kueleza,verbs,1.9
+1186,sihtmärk,mshale,nouns,0.75
+1187,voodi,kiti,nouns,0.75
+1188,liha,mkate,nouns,0.45
+1189,arendus,maendeleo,nouns,0.35
+1190,ankur,boti,nouns,1.1
+1191,küpselt,kiukomavu,adverbs,0.4
+1192,ära tõukama,kutelekeza,verbs,0.85
+1193,teadlane,muuguzi,nouns,0.25
+1194,keskkond,mazingira,nouns,0.0
+1195,heroiin,mwanaume wa shujaa,nouns,1.3
+1196,mootor,mashine,nouns,3.05
+1197,hiljuti,hivi majuzi,adverbs,3.95
+1198,käelaba,kifundo,nouns,1.2
+1199,vaidlema,kupinga,verbs,0.1
+1200,märkmik,daftari,nouns,0.23
+1201,näljane,kua na njaa,adjectives,0.45
+1202,võimalikult,inawezekana,adverbs,1.15
+1203,senat,seneti,nouns,0.9
+1204,sigar,sanduku ,nouns,0.25
+1205,prints,mfalme,nouns,2.4
+1206,bänd,pombe,nouns,0.35
+1207,võitma,kufanikiwa,verbs,4.6
+1208,ukseava,mlango,nouns,3.25
+1209,ebaausalt,si kwa haki,adverbs,0.3
+1210,valge,nyeupe,adjectives,0.1
+1211,ebamoraalne,haramu,adjectives,2.45
+1212,jard,inchi,nouns,1.45
+1213,taotleja,mwombaji,nouns,1.85
+1214,rannik,ufuko,nouns,3.3
+1215,arst,mtaalamu wa meno,nouns,3.05
+1216,ühendama,kuchanganya,verbs,0.3
+1217,kaduma,kutafuta,verbs,0.45
+1218,vektor,vector,nouns,1.35
+1219,õpetaja,mkufunzi,nouns,3.9
+1220,otsustamata,kuwa yumba,adjectives,0.8
+1221,tegema,kuwa,verbs,0.8
+1222,komm,matofaa,nouns,0.55
+1223,püüdma,kamata,verbs,1.25
+1224,uudised,vyombo vya habari,nouns,1.7
+1225,eine,kiuno,nouns,0.15
+1226,lugema,kufahamu,verbs,0.95
+1227,kõrs,mke,nouns,0.0
+1228,ühinema,kuambatisha,verbs,0.8
+1229,pilv,wingu,nouns,0.15
+1230,valik,oni,nouns,1.35
+1231,pigistama,kuminya,verbs,0.8
+1232,kukkuma,kuanguka,verbs,1.0
+1233,päikesetõus,machweo,nouns,1.5
+1234,näts,fizi,nouns,0.4
+1235,maja,banda,nouns,2.05
+1236,mõjutama,kubagua,verbs,3.5
+1237,informatsioon,kitabu,nouns,0.9
+1238,üritama,kujaribu,verbs,1.85
+1239,uks,sela,nouns,0.5
+1240,kõver,pinda,adjectives,4.85
+1241,äsja,hivi karibuni,adverbs,3.95
+1242,raamat,makala,nouns,1.15
+1243,tants,densi,nouns,0.45
+1244,põlv,mfupa,nouns,0.75
+1245,meel,akili,nouns,1.1
+1246,hoidma,kuazima,verbs,0.3
+1247,ots,sura,nouns,0.05
+1248,kohalikult,kienyeji,adverbs,0.05
+1249,vaene,masikini,adjectives,1.3
+1250,printskond,mfalme,nouns,2.45
+1251,valmistaja,muumbaji,nouns,4.4
+1252,penn,peni,nouns,0.05
+1253,täielikult,kwa ukamilifu,adverbs,1.13
+1254,informeerima,kujulisha,verbs,5.4
+1255,kogunema,kukusanyika,verbs,2.4
+1256,saama,kushindwa,verbs,0.2
+1257,kätte toimetama,kukubali,verbs,0.3
+1258,parim,juu,adjectives,0.35
+1259,trikk,mchezo,nouns,1.1
+1260,rivi,areyi,nouns,1.25
+1261,laager,kibanda,nouns,0.85
+1262,hämmastav,kushangaza,adjectives,0.25
+1263,suund,tumbo,nouns,0.1
+1264,sõna,kamusi,nouns,1.7
+1265,kombineeritud,iliyojumuishwa,adjectives,3.05
+1266,lihtne,ana shida,adjectives,0.4
+1267,soovitama,kushauri,verbs,4.35
+1268,tool,kitanda,nouns,0.75
+1269,reket,raketi,nouns,0.85
+1270,tähistama,kusherekea,verbs,0.35
+1271,vend,roho ,nouns,0.35
+1272,hobune,mbwa,nouns,0.65
+1273,võlts,feki,adjectives,0.35
+1274,intelligentsus,ujinga,nouns,0.5
+1275,koridor,darasa,nouns,0.45
+1276,vaip,nyumba,nouns,0.4
+1277,seaduslik,halali,adjectives,0.45
+1278,harva,nadra,adverbs,0.3
+1279,juhtkang,joystiki,nouns,0.5
+1280,vajama,kuandaa,verbs,0.45
+1281,monarhia,ufalme,nouns,1.1
+1282,kohut mõistma,kuhukumu,verbs,2.4
+1283,vilistama,mluzi,verbs,0.15
+1284,voolik,gari,nouns,0.2
+1285,hankima,kuchukua,verbs,1.7
+1286,kalju,mkia,nouns,0.0
+1287,jalgratas,chumba cha kulala,nouns,0.05
+1288,kohv,maharagwe,nouns,0.9
+1289,eitama,kukana,verbs,2.1
+1290,imperaator,mtawala,nouns,0.55
+1291,instrument,zeze,nouns,2.1
+1292,ball,glavu,nouns,0.9
+1293,plekitu,bila doa,adjectives,4.85
+1294,lisama,kubandika,verbs,0.15
+1295,juhe,kamba,nouns,1.05
+1296,pakkumine,toleo,nouns,2.2
+1297,pesapall,kochi,nouns,0.1
+1298,maja,kapeti,nouns,0.4
+1299,uppuma,kutota,verbs,0.4
+1300,trikk,bunduki,nouns,0.25
+1301,selgroog,shingo,nouns,0.95
+1302,ala,kanda,nouns,4.75
+1303,pliiats,penseli,nouns,0.25
+1304,heidutama,kutia moyo,verbs,0.15
+1305,optimistlikult,kwa matuamini,adverbs,1.15
+1306,õigustama,kuhakikisha,verbs,0.9
+1307,leedi,bwana,nouns,0.7
+1308,galaktika,giligili,nouns,0.1
+1309,küpsis,biskuti,nouns,0.05
+1310,põrand,paa,nouns,0.55
+1311,kaasamine,mkutano,nouns,0.6
+1312,hoidma,kutunza,verbs,2.9
+1313,üritus,tukio,nouns,0.5
+1314,uks,mlangoni,nouns,3.25
+1315,igapäevaselt,kila siku,adverbs,3.25
+1316,kriitiliselt,kwa uweledi,adverbs,0.55
+1317,baas,msingi,nouns,0.25
+1318,algama,kwenda,verbs,0.35
+1319,eelsoojendama,pasha kabla,nouns,0.75
+1320,imelik,mgeni,adjectives,4.85
+1321,üliõpilane,mwanachuo,nouns,4.05
+1322,vägivaldne,wa ghadhabu,adjectives,1.75
+1323,male,chess,nouns,2.25
+1324,lahustama,kuyeyuka,verbs,0.75
+1325,valk,protini,nouns,0.15
+1326,aed,reli,nouns,0.1
+1327,särk,shati,nouns,1.6
+1328,tekk,sakafu,nouns,0.6
+1329,vihm,mvua,nouns,3.05
+1330,ettevaatlikult,kwa utaratibu,adverbs,0.2
+1331,saama,kubaki,verbs,0.1
+1332,vampiir,vampire,nouns,0.95
+1333,võileib,chakula cha mchana,nouns,1.45
+1334,simulatsioon,onyesho,nouns,0.7
+1335,kurb,mbovu,adjectives,0.6
+1336,kodutu,wasio na makazi,nouns,0.4
+1337,oskus,akili,nouns,2.05
+1338,tormakas,wa haraka,adjectives,4.25
+1339,kutt,mtu mzuri,nouns,0.75
+1340,puhkus,likizo,nouns,0.6
+1341,neer,kiungo,nouns,2.25
+1342,pritsess,mtoto mke wa mfalme,nouns,0.05
+1343,pihk,kidole,nouns,1.0
+1344,langetama,kushusha,verbs,2.4
+1345,hindama,kuchanganua,verbs,3.6
+1346,meelespea,baki,nouns,0.35
+1347,rõõm,kiburi,nouns,0.8
+1348,rahvastik,watu,nouns,3.1
+1349,haruldane,mpumbavu,adjectives,0.0
+1350,kohalikult,hapa ndani,adverbs,0.75
+1351,esinema,kutumbuiza,verbs,0.2
+1352,suurus,mbinu,nouns,0.05
+1353,lennuk,ndege,nouns,0.15
+1354,lääs,kaskazini,nouns,0.65
+1355,keel,misuli,nouns,0.55
+1356,kasutamata,haijatumika,adjectives,4.6
+1357,palk,kuoga,nouns,0.0
+1358,naarits,manyoya,nouns,2.9
+1359,sadam,bandari,nouns,0.0
+1360,katedraal,kanisa kuu,nouns,4.25
+1361,pilv,hali ya hewa,nouns,1.5
+1362,skeem,wazo,nouns,1.3
+1363,piiskop,askofu mkuu,nouns,4.2
+1364,andma,kukopesha,verbs,2.5
+1365,õppima,kufyonza,verbs,0.45
+1366,lõpetama,kuanza,verbs,0.35
+1367,valitsus,serikali,nouns,0.0
+1368,ahv,nyani,nouns,0.05
+1369,kaaspiloot,rubani msaidizi,nouns,0.85
+1370,autor,msomaji,nouns,0.6
+1371,surema,kufariki,verbs,1.4
+1372,tunnistama,kujulisha,verbs,0.95
+1373,leegion,jeshi,nouns,3.4
+1374,võimas,mwenye nguvu,adjectives,0.2
+1375,rõõm,furaha,nouns,0.6
+1376,käsi,kidole gumba,nouns,1.5
+1377,vaidlema,kukubaliana,verbs,0.5
+1378,haamer,nyundo,nouns,0.1
+1379,paluma,kuuliza,verbs,3.0
+1380,nakkus,utapiamlo,nouns,1.75
+1381,kool,sheria,nouns,0.25
+1382,paat,sitaha,nouns,0.5
+1383,pühak,mkosaji,nouns,0.45
+1384,ignoreerima,kuondoka,verbs,0.95
+1385,auto,daraja,nouns,0.35
+1386,laps,msichana,nouns,1.1
+1387,uurima,kugundua,verbs,2.75
+1388,tunnistama,kukubali,verbs,0.45
+1389,palk,kuni,nouns,3.15
+1390,homofoon,nyumba ya nyumbani,nouns,0.1
+1391,tagasihoidlik,pole,adjectives,0.9
+1392,regulaarne,mara kwa mara,adjectives,0.2
+1393,mööbel,fleti,nouns,0.6
+1394,nõu andma,kupendekeza,verbs,4.35
+1395,õpetama,kufundisha,verbs,2.67
+1396,saama,kufanikisha,verbs,0.8
+1397,jääma,kupata,verbs,0.1
+1398,tüütama,kusumbua,verbs,0.45
+1399,troon,kiti cha enzi,nouns,0.3
+1400,uskumus,ono,nouns,0.75
+1401,valimine,uchaguzi,nouns,3.05
+1402,püha,takatifu,adjectives,2.0
+1403,teraapia,tiba,nouns,0.65
+1404,laul,wimbo,nouns,0.8
+1405,äri,kampuni,nouns,3.35
+1406,halb,mkubwa sana,adjectives,0.05
+1407,jagama,kugawanya,verbs,0.7
+1408,kohtumine,shughuli,nouns,0.6
+1409,vabadus,uhuru,nouns,0.35
+1410,kaval,mjanja,adjectives,4.3
+1411,metall,chuma,nouns,2.7
+1412,mäss,mgomo,nouns,0.05
+1413,paindlik,flexibo,adjectives,1.3
+1414,minema,kuenda,verbs,2.5
+1415,aus,ana hatia,adjectives,0.5
+1416,vihm,mvua,nouns,0.85
+1417,vannituba,chumba cha kulala,nouns,0.8
+1418,seaduserikkuja,mkosaji,nouns,4.9
+1419,värav,mshindi,nouns,0.45
+1420,rikkumine,uhalifu,nouns,3.5
+1421,piire,ukingo,nouns,3.75
+1422,võimatu,kutowekana,adjectives,0.4
+1423,pahkluu,mfupa,nouns,2.3
+1424,onu,binamu,nouns,1.2
+1425,mees,mlinzi,nouns,1.0
+1426,vann,chumba,nouns,0.4
+1427,veider,wa kawaida,adjectives,0.45
+1428,trikk,kuoga,nouns,0.0
+1429,pall,mpira,nouns,1.75
+1430,nool,lengo,nouns,0.75
+1431,sale,mwembamba,adjectives,4.85
+1432,massiivselt,kwa ukubwa,adverbs,0.25
+1433,lähedaselt,kwa karibu,adverbs,0.75
+1434,liit,umoja,nouns,1.8
+1435,korporatsioon,wanaume,nouns,0.95
+1436,suu,jino,nouns,1.15
+1437,mees,mwanaume,nouns,0.45
+1438,teleskoop,darubini,nouns,0.0
+1439,tagasi lükkama,kuepa,verbs,1.65
+1440,saama,kuonekana,verbs,0.45
+1441,ülesanne,kisiwa,nouns,0.0
+1442,maavärin,tetemeko la ardhi,nouns,2.5
+1443,sein,tofali,nouns,1.5
+1444,laps,mwanaume,nouns,0.75
+1445,kauss,mkia,nouns,0.0
+1446,unustama,kudumisha,verbs,0.35
+1447,marginaalselt,mara kwa mara,adverbs,0.7
+1448,õpetaja,rabai,nouns,0.7
+1449,õun,mwanga wa jua,nouns,0.25
+1450,nõu andma,kushauri,verbs,4.3
+1451,mäletama,kukumbuka,verbs,1.8
+1452,õppemaks,ada,nouns,1.65
+1453,rütm,hesabu,nouns,0.65
+1454,molekul,hewa,nouns,0.7
+1455,poliitik,rais,nouns,3.1
+1456,meelde tuletama,kumbusha,verbs,1.2
+1457,keel,koo,nouns,1.2
+1458,küsima,kusihi,verbs,2.1
+1459,jänes,mwalimu,nouns,0.7
+1460,härg,farasi,nouns,0.8
+1461,mesilane,malkia,nouns,0.5
+1462,vöö,kitanzi,nouns,1.25
+1463,muu,wengine,adjectives,0.25
+1464,list,orodha,nouns,1.25
+1465,kaks korda,mara mbili,adverbs,0.72
+1466,jumal,windo,nouns,0.1
+1467,laskuma,teremka,verbs,0.95
+1468,jää,maji,nouns,2.4
+1469,pädevus,uelekevu,nouns,3.35
+1470,onu,shangazi,nouns,0.85
+1471,mesilane,mdudu,nouns,2.55
+1472,elektriline,chenye umeme,adjectives,0.35
+1473,lõbu,mpira wa miguu,nouns,0.85
+1474,vara,mali,nouns,2.9
+1475,bänd,subira,nouns,0.15
+1476,käsi,mshipa,nouns,0.65
+1477,joonistama,kuchora,verbs,0.7
+1478,suurepärane,wa kutisha,adjectives,0.3
+1479,küttekeha,kipasha joto,nouns,0.05
+1480,pettus,uhalifu,nouns,3.25
+1481,aktiivselt,kwa juhudi,adverbs,0.45
+1482,märkima,kutoa maoni,verbs,0.85
+1483,tamm,mpera,nouns,1.15
+1484,lõbu,mchezo,nouns,2.8
+1485,julm,mwema,adjectives,0.05
+1486,sügavalt,kwa undani,adverbs,0.55
+1487,kivisüsi,makaa,nouns,3.1
+1488,passiivselt,kwa kutegemewa,adverbs,0.2
+1489,isa,mwanaume,nouns,2.4
+1490,avastama,kupuuza,verbs,0.1
+1491,maamaja,kibanda,nouns,3.6
+1492,alluma,kutenda,verbs,1.2
+1493,oluliselt,bila masihara,adverbs,2.3
+1494,taburet,kigoda,nouns,3.55
+1495,sisenev,inayoingia,adjectives,0.5
+1496,kohane,rasmi,adjectives,1.3
+1497,haistma,kunusa,verbs,0.0
+1498,kurb,huzuni,adjectives,0.0
+1499,vaene,maskini,adjectives,0.3
+1500,ühinema,kushirikiana,verbs,2.6
+1501,täiuslik,malizika,adjectives,3.2
+1502,teenijanna,msichana,nouns,1.25
+1503,uhke,kujivunia,adjectives,0.3
+1504,tunnistama,kushuhudia,verbs,0.75
+1505,lift,gari,nouns,0.7
+1506,lahkuma,kujitokeza,verbs,0.6
+1507,viski,jini,nouns,2.1
+1508,vabastama,kuondoka,verbs,0.5
+1509,rass,mbio,nouns,0.0
+1510,ilu,umri,nouns,0.5
+1511,jagamine,mgawanyiko,nouns,0.8
+1512,uskumatult,kwa umaradufu,adverbs,0.75
+1513,suurepärane,mbaya,adjectives,0.2
+1514,stiil,fesheni,nouns,4.7
+1515,ortodont,mtaalamu wa meno,nouns,5.0
+1516,edu saavutama,kutimiza,verbs,3.4
+1517,viiul,fidia,nouns,0.65
+1518,leidma,kupata,verbs,0.2
+1519,ütlema,kushiriki,verbs,0.4
+1520,võrkpall,mpira wa wavu,nouns,2.65
+1521,apokalüpsis,siku ya mwisho,nouns,0.4
+1522,loogika,akili,nouns,2.6
+1523,toores,mbaya,adjectives,2.1
+1524,lumi,hali ya hewa,nouns,1.0
+1525,džinn,wiski,nouns,2.1
+1526,õun,peremende,nouns,0.55
+1527,slaid,teleza,nouns,0.05
+1528,saama,kuweka,verbs,0.25
+1529,masin,mashine,nouns,2.4
+1530,võti,kifunguo,nouns,0.45
+1531,rannik,pwani,nouns,0.45
+1532,tõsiselt,kwa umakini,adverbs,1.25
+1533,mõtlema,kutafakari,verbs,4.8
+1534,ülesanne,mwanamke,nouns,0.1
+1535,raamat,kitabu,nouns,0.05
+1536,omandama,kutafuta,verbs,1.15
+1537,sultan,sultani,nouns,0.1
+1538,ananass,nanasi,nouns,0.05
+1539,teater,ukumbi,nouns,0.2
+1540,arst,daktari,nouns,5.1
+1541,normaalselt,kwa kawaida,adverbs,1.13
+1542,aktsepteerima,kuamini,verbs,1.8
+1543,uhkelt,kwa jeuri,adverbs,0.32
+1544,tugevalt,kiukakamavu,adverbs,0.45
+1545,kaamera,lenzi,nouns,1.85
+1546,müüma,kuazima,verbs,0.3
+1547,segama,kunyanyasa,verbs,2.75
+1548,harva,mara chache,adverbs,0.38
+1549,ranne,mkono,nouns,1.35
+1550,paat,gari,nouns,0.75
+1551,märk,ishara,nouns,0.35
+1552,minema,kuanza,verbs,0.35
+1553,vargus,uhalifu,nouns,3.6
+1554,pesema,kuosha,verbs,3.7
+1555,rajaleidja,njia,nouns,0.3
+1556,veenma,kufuatilia,verbs,0.45
+1557,eraldama,kutenganisha,verbs,0.22
+1558,silmus,mkanda,nouns,1.25
+1559,tädi,mpwa,nouns,0.7
+1560,koor,kanisa,nouns,1.55
+1561,moraal,adili,nouns,0.35
+1562,defineerima,kufafanua,verbs,4.6
+1563,ebaviisakas,jeuri,adjectives,0.6
+1564,sosistama,kunong'oneza,verbs,1.7
+1565,ühiskond,jamii,nouns,2.05
+1566,iidne,wa kisasa,adjectives,0.35
+1567,avalik,bila siri,adjectives,0.5
+1568,kaklema,kupigana,verbs,0.35
+1569,summa,jumla,nouns,1.8
+1570,köök,bafu,nouns,0.75
+1571,alluma,kutii,verbs,0.3
+1572,rahvas,puto,nouns,0.1
+1573,abikaasa (naine),senti,nouns,0.05
+1574,auto,njia kuu,nouns,0.8
+1575,muru,mwani,nouns,1.6
+1576,talv,msimu wa joto,nouns,0.7
+1577,teooria,kanuni,nouns,2.3
+1578,takso,teksi,nouns,3.4
+1579,tõesti,kweli,adverbs,0.75
+1580,õrnalt,kijanja,adverbs,0.0
+1581,julgustama,kukanya,verbs,0.15
+1582,ilm,theluji,nouns,1.0
+1583,nurjuma,kukanya,verbs,0.7
+1584,segama,koroga,verbs,2.3
+1585,vaidlema,kulalamika,verbs,1.05
+1586,õhtueine,chakula cha asubuhi,nouns,0.8
+1587,koidik,mchana,nouns,1.4
+1588,kunstnik,msanii,nouns,1.15
+1589,elevant,ndovu,nouns,0.48
+1590,häll,kitanda cha mtoto,nouns,3.1
+1591,lusikas,kikombe,nouns,0.95
+1592,koosseis,wafanyakazi,nouns,0.55
+1593,müts,sanduku,nouns,0.2
+1594,avatult,wazi,adverbs,0.25
+1595,kogunema,kuhudhuria,verbs,1.05
+1596,väljendama,kujielezea,verbs,2.7
+1597,taasmatmine,zika upya,nouns,1.25
+1598,hambaarst,kanali,nouns,0.1
+1599,ooper,opera,nouns,1.15
+1600,veiseliha,mifugo,nouns,0.6
+1601,paat,meli,nouns,0.0
+1602,kohtunik,hakimu,nouns,1.85
+1603,sisenema,kuondoka,verbs,0.3
+1604,teguriteks lahutamine,sababu,nouns,0.5
+1605,rahuldama,kufahamu,verbs,0.1
+1606,saatma,kuleta,verbs,0.35
+1607,mänguasi,kichezeo,nouns,0.35
+1608,kari,ngombe,nouns,2.15
+1609,tolmukas,stameni,nouns,2.1
+1610,priius,kujitawala,nouns,4.95
+1611,otsima,kutafuta,verbs,1.3
+1612,klaaspurk,kikombe,nouns,0.85
+1613,konteiner,panya,nouns,0.2
+1614,rahvas,senti,nouns,0.05
+1615,hirmus,mwenye huzuni,adjectives,0.6
+1616,klass,chuo,nouns,1.95
+1617,seletama,kufafanua,verbs,4.45
+1618,tapma,ua,verbs,0.6
+1619,piiskop,askofu,nouns,0.5
+1620,laadima,kutiachaji,verbs,0.3
+1621,organiseerima,kuandaa,verbs,4.75
+1622,jooma,kunywa,verbs,2.37
+1623,põõsas,ua,nouns,0.9
+1624,strateeg,mkakati,nouns,2.75
+1625,ümber lükkama,kukanusha,verbs,0.0
+1626,pool,chini,nouns,0.8
+1627,kabel,mnara,nouns,0.85
+1628,kuubik,mchemraba,nouns,1.65
+1629,anne,zawadi,nouns,0.3
+1630,intelligentsus,ustadi,nouns,2.05
+1631,tekk,panya,nouns,0.15
+1632,positiivselt,vyema,adverbs,0.45
+1633,riided,kitambaa,nouns,2.7
+1634,anuma,kuuliza,verbs,2.1
+1635,vasikas,fahali,nouns,1.85
+1636,halb,wa kutisha,adjectives,2.0
+1637,vabastama,kuachilia,verbs,0.2
+1638,haigutama,kung'orota,verbs,0.55
+1639,skeemitaja,mweka mipango,nouns,2.75
+1640,seisund,mvulana,nouns,0.05
+1641,mees,mume,nouns,4.1
+1642,ilmselge,wa kuona,adjectives,2.95
+1643,kohutav,poa,adjectives,0.3
+1644,peekon,nyama,nouns,3.55
+1645,sülearvuti,kipakatio,nouns,0.45
+1646,ärkama,kuamka,verbs,0.55
+1647,loll,mjanja,adjectives,0.35
+1648,aed,mpira wa maji,nouns,0.5
+1649,uus,ya zamani,adjectives,0.4
+1650,heli,sauti,nouns,2.95
+1651,relv,bunduki,nouns,0.85
+1652,täiskasvanu,mzazi,nouns,3.0
+1653,umbes,takribani,adverbs,0.7
+1654,närviline,kuoga,adjectives,0.15
+1655,õpetaja,msaidizi,nouns,1.2
+1656,näitlejanna,mchezaji,nouns,4.3
+1657,voodi,kitanda cha mtoto,nouns,4.3
+1658,unustama,kujifunza,verbs,0.4
+1659,kino,sinema,nouns,1.43
+1660,tagasi lükkama,kukubali,verbs,0.35
+1661,näidik,gari,nouns,0.65
+1662,hävitama,kujenga,verbs,0.1
+1663,põlgama,kuchukia,verbs,0.3
+1664,varras,pazia,nouns,0.2
+1665,peegeldus,picha,nouns,1.3
+1666,õhupall,kuoga,nouns,0.1
+1667,sümbol,ishara,nouns,4.3
+1668,käivitama,kuzindua,verbs,0.25
+1669,kodu,jimbo,nouns,0.4
+1670,kummaliselt,ya kustajabisha,adverbs,4.65
+1671,jõukus,umaarufu,nouns,0.65
+1672,teesklema,kuonyesha,verbs,0.7
+1673,maantee,jukumu,nouns,0.2
+1674,kenasti,kwa uzuri,adverbs,3.3
+1675,väärtus,thamani,nouns,1.65
+1676,pagema,kukimbia,verbs,4.8
+1677,uskumatu,maradufu,adjectives,0.35
+1678,ohvitser,ofisa,nouns,0.6
+1679,rahvuslik,kitaifa,adjectives,0.5
+1680,süsteem,mfumo,nouns,0.3
+1681,rütm,mahadhi,nouns,1.05
+1682,saatma,kupokea,verbs,0.45
+1683,välistama,kukuifungia,verbs,0.0
+1684,voodi,chumba,nouns,0.6
+1685,etteaste,utendaji,nouns,0.95
+1686,mugul,ua,nouns,1.2
+1687,luu,mkono,nouns,0.95
+1688,edu saavutama,kushinda,verbs,4.6
+1689,vahe,uwazi,nouns,2.75
+1690,küps,kukomaa,adjectives,0.6
+1691,aktiivselt,kwa uhai,adverbs,0.2
+1692,tüütu,kulivu,adjectives,0.25
+1693,küsima,kuuliza,verbs,0.65
+1694,printsess,bibi arusi,nouns,0.75
+1695,turvaline,lindwa,adjectives,0.25
+1696,pisar,jicho,nouns,1.4
+1697,koostööd tegema,kushiriki,verbs,3.15
+1698,ümberlõikus,tohara,nouns,1.65
+1699,süüdi,mbaya,adjectives,1.6
+1700,juhtkiri,uhariri,nouns,0.8
+1701,stsenarist,mwandishi wa filamu,nouns,0.75
+1702,abiline,mwalimu,nouns,1.2
+1703,haisema,kutoa harufu,verbs,2.15
+1704,heaks kiitma,kukubali,verbs,4.05
+1705,ujuma,kuogelea,verbs,0.0
+1706,väljuma,kuondoka,verbs,0.3
+1707,raamat,biblia,nouns,2.15
+1708,harima,elimisha,verbs,3.15
+1709,nädal,wikendi,nouns,1.55
+1710,pärast,baada ya,adverbs,0.35
+1711,tabamus,pigo,nouns,0.25
+1712,kitsas,mchafu,adjectives,0.25
+1713,riided,kabati,nouns,0.72
+1714,pilv,dhoruba,nouns,0.8
+1715,tähelepanuta jätma,kupuuzia,verbs,1.65
+1716,peatükk,usiku,nouns,0.05
+1717,puusüsi,makaa ya mawe,nouns,3.1
+1718,mees,mjomba,nouns,2.3
+1719,compass,dira,nouns,0.55
+1720,juhtkond,panya,nouns,0.0
+1721,välja vihastama,kuongeza,verbs,0.65
+1722,vanem,mtu mzima,nouns,3.0
+1723,krediit,mkopo,nouns,1.35
+1724,vastu võtma,kuitikia,verbs,2.8
+1725,katma,kufunika,verbs,2.8
+1726,noor,mwenye furaha,adjectives,0.5
+1727,teleskoop,darubini,nouns,0.0
+1728,fonoloogia,fonolojia,nouns,0.25
+1729,päev,usiku,nouns,0.75
+1730,päris,halisi,adjectives,0.35
+1731,täiskasvanu,mtoto mchanga,nouns,0.55
+1732,pilt,kioo,nouns,1.3
+1733,hape,asidi,nouns,0.75
+1734,lõikama,kuvuna,verbs,0.75
+1735,vannituba,jiko,nouns,0.75
+1736,poiss,mtoto,nouns,1.5
+1737,komm,peremende,nouns,0.55
+1738,küngas,jabali,nouns,2.6
+1739,saavutama,kupata,verbs,2.45
+1740,lammas,mwanakondoo,nouns,3.9
+1741,teater,ukumbi,nouns,0.6
+1742,bioloogia,biolojia,nouns,1.0
+1743,toit,chakula,nouns,0.15
+1744,sõdur,mwanajeshi,nouns,0.3
+1745,kihluma,kuoa,verbs,2.25
+1746,atmosfäär,uchafuzi,nouns,0.5
+1747,püüdma,kudaka,verbs,0.4
+1748,taust,mandharinyuma,nouns,2.25
+1749,kondensaator,capacitor,nouns,1.6
+1750,karjuma,kuguta,verbs,0.5
+1751,sikutama,kuvuta,verbs,0.75
+1752,valimisõigus,haki ya upigaji kura,nouns,0.15
+1753,riie,nguo,nouns,2.7
+1754,helde,wa kirafiki,adjectives,2.6
+1755,haigla,kitanda,nouns,0.8
+1756,teavitama,kufahamisha,verbs,5.4
+1757,kahtlev,sitasita,adjectives,0.25
+1758,küsima,kupuuza,verbs,0.15
+1759,plärtsatus,chubwi,nouns,0.1
+1760,pöial,ukucha,nouns,1.2
+1761,järv,ziwa,nouns,0.25
+1762,sent,saizi,nouns,0.4
+1763,jääma,kubaki,verbs,1.45
+1764,tütar,kijana,nouns,1.3
+1765,liigutatav,inayo hamishika,adjectives,1.3
+1766,tuju,daktari,nouns,0.1
+1767,magamistuba,baisikeli,nouns,0.05
+1768,kuhjatud,mzito,adjectives,1.5
+1769,sessioon,kikao,nouns,0.4
+1770,pärl,hela,nouns,0.25
+1771,üliõpilane,profesa,nouns,0.85
+1772,salaja,kwa siri,adverbs,0.45
+1773,mobiiltelefon,simu ya mkononi,nouns,4.2
+1774,andma,kujua,verbs,0.0
+1775,vitamiin,chuma,nouns,0.4
+1776,tsensuur,udhibiti,nouns,0.35
+1777,hellitama,kuweka,verbs,2.9
+1778,peekon,maharagwe,nouns,0.35
+1779,vesi,maji,nouns,0.3
+1780,naksama,kuvunja,verbs,0.8
+1781,kaval,mgeni,adjectives,0.5
+1782,rassism,ubaguzi wa rangi,nouns,3.8
+1783,auto,mpira wa maji,nouns,0.2
+1784,hoone,jengo,nouns,1.3
+1785,lahkuma,kuingia,verbs,0.3
+1786,kultuur,utamaduni,nouns,2.05
+1787,intelligentsus,mantiki,nouns,2.6
+1788,printsess,kisiwa,nouns,0.0
+1789,erinema,kukubali,verbs,0.25
+1790,film,filamu,nouns,0.6
+1791,piir,mpaka,nouns,3.75
+1792,kana,wali,nouns,0.5
+1793,vormimata,kutobadilishwa,adjectives,0.35
+1794,tita,mtoto wa kike,nouns,1.05
+1795,säär,mkono,nouns,1.6
+1796,kaduma,kutoweka,verbs,5.3
+1797,rahvahulk,kikundi,nouns,4.85
+1798,tooma,kuja,verbs,0.85
+1799,meri,mto,nouns,2.0
+1800,piin,huzuni,nouns,2.3
+1801,oaas,oasisi,nouns,0.35
+1802,negatiivne,hasi,adjectives,0.6
+1803,õun,sosi,nouns,0.25
+1804,lill,subira,nouns,0.15
+1805,erinevalt,tofauti,adverbs,1.4
+1806,arvuti,cd,nouns,0.55
+1807,taim,mmea,nouns,1.55
+1808,steik,kuku,nouns,0.6
+1809,münt,sarafu,nouns,1.3
+1810,jätma,kupuuza,verbs,0.95
+1811,lugu,hadithi,nouns,0.25
+1812,rand,uwanda wa bahari,nouns,2.9
+1813,pehmelt,kwa ulaini,adverbs,0.3
+1814,regulaarselt,mara kwa mara,adverbs,1.15
+1815,vastutustundlikult,kwa uwajibikaji,adverbs,1.3
+1816,raud,vitamini,nouns,0.4
+1817,algvorm,lemma,nouns,0.85
+1818,lind,kuku,nouns,2.6
+1819,karistama,kuadhibu,verbs,0.3
+1820,taevas,jua,nouns,1.3
+1821,päikeseloojang,macheo,nouns,1.5
+1822,sõjalaev,meli ya vita,nouns,5.3
+1823,makse,ada,nouns,4.05
+1824,ehitamine,uharibifu,nouns,0.5
+1825,juhtkond,utawala,nouns,3.75
+1826,leidma,kupotea,verbs,0.45
+1827,metsamajake,kambi,nouns,0.85
+1828,makse,malipo,nouns,1.2
+1829,hommikusöök,chakula cha usiku,nouns,0.95
+1830,episood,kutokea kwenye onyesho,nouns,0.95
+1831,krokodill,mamba,nouns,2.55
+1832,proovima,kufanikiwa,verbs,1.15
+1833,ärritama,kuchukiza,verbs,1.2
+1834,ratsionaliseerima,kugombana,verbs,0.6
+1835,iga,urembo,nouns,0.5
+1836,segunema,kuchanganya,verbs,2.2
+1837,relv,mzinga,nouns,2.1
+1838,eellane,antecedent,nouns,1.3
+1839,organ,ini,nouns,2.25
+1840,jahu,mkate,nouns,1.2
+1841,hindama,kujifunza,verbs,0.85
+1842,minema,kuja,verbs,0.35
+1843,segama,kuchanganya,verbs,0.45
+1844,vabastama,kukutolewa,verbs,0.4
+1845,kirjutama,kuchorachora,verbs,2.45
+1846,kaamera,kamera,nouns,0.05
+1847,klass,darasa,nouns,0.15
+1848,leib,nyama,nouns,0.45
+1849,taju,kuona,nouns,2.25
+1850,tähendusrikkalt,kwa maana,adverbs,1.8
+1851,jogurt,mgando,nouns,0.25
+1852,linnapea,mkuu,nouns,2.1
+1853,kitsas,mpana,adjectives,0.2
+1854,ebaregulaarselt,isivyo kawaida,adverbs,0.2
+1855,geiser,chemchemi ya maji ya moto,nouns,3.15
+1856,nüri,mkali,adjectives,0.4
+1857,nautima,kuburudisha,verbs,2.7
+1858,laul,tuni,nouns,3.0
+1859,lämmatama,kuziba,verbs,0.2
+1860,hümn,majani makavu,nouns,0.0
+1861,abikaasa (naine),majani makavu,nouns,0.0
+1862,õepoeg,shangazi,nouns,0.7
+1863,viirus,kirusi,nouns,0.8
+1864,lein,uchungu,nouns,2.3
+1865,pigem,uwezekano,adverbs,2.8
+1866,saavutama,kufanikiwa,verbs,3.4
+1867,lubama,kwenda,verbs,0.25
+1868,küsima,kusali,verbs,1.15
+1869,eine,karamu,nouns,3.35
+1870,ajurünnak,changamsha bongo,nouns,0.0
+1871,liha,nyama,nouns,3.1
+1872,kell,mlango,nouns,0.35
+1873,saba,bakuli,nouns,0.0
+1874,öö,sura,nouns,0.05
+1875,õlg,kichwa,nouns,0.95
+1876,lennujaam,ndege,nouns,1.55
+1877,realistlikult,kwelikweli,adverbs,0.15
+1878,pilt,wazo,nouns,0.9
+1879,auto,honi,nouns,0.8
+1880,käsi,ukucha,nouns,0.8
+1881,televisioon,runinga,nouns,0.75
+1882,kolledž,darasa,nouns,1.95
+1883,kompilaator,mkusanyaji,nouns,0.45
+1884,raamat,taarifa,nouns,0.9
+1885,president,uchafuzi,nouns,0.15
+1886,kommunikatsioon,televisheni,nouns,1.8
+1887,laisk,mvivu,adjectives,0.17
+1888,käsi,goti,nouns,0.7
+1889,päästma,kuokoa,verbs,0.15
+1890,artikkel,makala,nouns,1.55
+1891,soodne,rahisi,adjectives,5.3
+1892,nädalavahetus,wiki,nouns,1.55
+1893,puuvill,pamba,nouns,0.65
+1894,molekul,molekuli,nouns,0.35
+1895,korv,mpira,nouns,0.55
+1896,magus,tamu,adjectives,0.1
+1897,polüester,pamba,nouns,0.55
+1898,uus,mpya,adjectives,4.6
+1899,suu,pua,nouns,0.85
+1900,naarits,mafuta,nouns,0.2
+1901,väljapääs,mlangoni,nouns,2.6
+1902,kuningas,mtoto wa mfalme,nouns,2.15
+1903,liha,ugali,nouns,0.75
+1904,nõustuma,kutofautiana,verbs,0.25
+1905,tee,barabara,nouns,4.6
+1906,ratas,baiskeli,nouns,0.1
+1907,puuvijaaed,kiunga,nouns,0.0
+1908,liha,steki,nouns,4.55
+1909,pöörane,safi,adjectives,0.3
+1910,ümbris,kanga,nouns,0.0
+1911,palvetama,kuwasiliana,verbs,0.45
+1912,kohalolek,mlango,nouns,0.2
+1913,pööraselt,kwa ghadhabu,adverbs,0.65
+1914,frustreerima,kufadhaisha,verbs,2.35
+1915,tegema,kutukia,verbs,0.6
+1916,jalgpall,burudani,nouns,0.85
+1917,akustika,akustik,nouns,2.95
+1918,kodus,nyumbani,adverbs,0.35
+1919,patsient,mgonjwa,nouns,0.4
+1920,pakt,mapatano,nouns,5.05
+1921,sinep,mbegu,nouns,0.6
+1922,hammustama,uma,verbs,0.1
+1923,reaalsus,ndoto,nouns,0.5
+1924,otsustama,kuhitimisha,verbs,0.75
+1925,kätte toimetama,kubeba,verbs,1.1
+1926,töö,kazi,nouns,1.35
+1927,tagasi võtma,kutoa,verbs,0.2
+1928,õiglaselt,kwa ,adverbs,0.4
+1929,kana,steki,nouns,0.6
+1930,taotlema,kutazamia,verbs,1.3
+1931,vajalik,sio wa lazima,adjectives,0.3
+1932,kuulama,kutii,verbs,1.4
+1933,reostus,rais,nouns,0.15
+1934,kallis,ghali,adjectives,0.05
+1935,ignoreerima,kusahau,verbs,1.7
+1936,kurvalt,kwa huzuni,adverbs,1.1
+1937,ohver,mwathirika,nouns,0.15
+1938,kuju,kinyagu,nouns,4.55
+1939,kuup,mchemraba,nouns,0.35
+1940,ehitama,kujumlisha,verbs,0.55
+1941,tütar,baba,nouns,0.65
+1942,saavutama,kujaribu,verbs,0.8
+1943,isa,kaka,nouns,0.85
+1944,leotama,kulowesha,verbs,0.25
+1945,põud,ukame,nouns,0.5
+1946,jumal,roho,nouns,1.5
+1947,närv,mwili,nouns,0.75
+1948,tool,kiti,nouns,3.55
+1949,loputama,kusuuza,verbs,3.7
+1950,võlgnema,kuingia,verbs,0.05
+1951,pesapall,mpira wa kikapu,nouns,0.8
+1952,lõvi,paka,nouns,1.2
+1953,puitmaterjal,gogo,nouns,2.9
+1954,kõri,ulimi,nouns,1.2
+1955,pistrik,kozi,nouns,1.1
+1956,telliskivi,ukuta,nouns,1.5
+1957,taldrik,bakuli,nouns,2.75
+1958,mõtisklema,kuwaza,verbs,4.8
+1959,spetsiaalselt,makusudi,adverbs,1.8
+1960,tool,kiti,nouns,0.0
+1961,laenama,kuweka,verbs,0.3
+1962,kulutama,kumomonyoka,verbs,0.6
+1963,ebanormaalselt,sikawaida,adverbs,0.3
+1964,ruut,mraba,nouns,0.25
+1965,tegema,kuacha,verbs,0.7
+1966,suund,tendo,nouns,0.85
+1967,pink,kiti,nouns,4.25
+1968,raamat,kitabu,nouns,2.3
+1969,võidusõit,mbio,nouns,0.0
+1970,katus,sakafu,nouns,0.55
+1971,ausalt,kwa kweli,adverbs,1.6
+1972,kõri,pua,nouns,0.95
+1973,paindlik,mkubwa sana,adjectives,0.35
+1974,dinosaurus,mijusi ya kale,nouns,0.4
+1975,paat,nanga,nouns,1.1
+1976,vajalikult,kwa ulazima,adverbs,0.75
+1977,aasta,siku ya kuzaliwa,nouns,0.8
+1978,voolama,kumtiririko,verbs,0.95
+1979,paraad,bendi,nouns,1.45
+1980,vähenema,kupungua,verbs,0.95
+1981,nõustuma,kujipendekeza,verbs,0.5
+1982,värske,mpana,adjectives,0.05
+1983,väetis,samadi,nouns,0.75
+1984,korrutama,kujumlisha,verbs,0.95
+1985,süüdi,mkweli,adjectives,0.5
+1986,taevas,ulimwengu,nouns,1.3
+1987,kõndima,kutembea,verbs,2.25
+1988,mulje,imani,nouns,0.75
+1989,tolm,vumbi,nouns,0.75
+1990,ingel,malaika,nouns,0.85
+1991,tihti,mara nyingi,adverbs,0.8
+1992,teekond,ushindi,nouns,0.55
+1993,patarei,betri,nouns,1.3
+1994,kitsas,mpana,adjectives,0.3
+1995,täielik,kamili,adjectives,3.2
+1996,laenama,kutaka,verbs,0.6
+1997,kohut mõistma,hakimu,verbs,0.75
+1998,käsivars,mguu,nouns,1.6
+1999,lagi,kanisa kuu,nouns,0.6
+2000,kaabel,amari,nouns,0.0
+2001,rahakorjamine,mfadhili,nouns,0.5
+2002,võimekus,ustadi,nouns,4.2
+2003,kaetud,funikwa,adjectives,0.35
+2004,loominguline,mbunifu,adjectives,3.65
+2005,kaval,imara,adjectives,0.65
+2006,valitseja,mtawala,nouns,4.6
+2007,teadma,kupa,verbs,0.0
+2008,hoidma,kushindwa,verbs,0.2
+2009,andma,kuiba,verbs,0.15
+2010,jätma,kuondoka,verbs,0.0
+2011,globalism,utandawazi,nouns,0.55
+2012,pank,benki,nouns,0.2
+2013,maja,ufunguo,nouns,0.9
+2014,asetäitja,msaidizi,nouns,0.6
+2015,sõitma,kuendesha,verbs,0.4
+2016,teadma,kuamini,verbs,1.35
+2017,peekon,chakula cha asubuhi,nouns,0.8
+2018,kontor,ofisi,nouns,0.65
+2019,küüs,kichwa,nouns,0.35
+2020,mõis,nyumba,nouns,0.1
+2021,seeme,mbegu,nouns,0.65
+2022,ajaloolane,mtalaamu wa historia,nouns,5.5
+2023,hävitama,haribu,verbs,1.85
+2024,andur,sensa,nouns,0.4
+2025,roos,waridi,nouns,0.25
+2026,määrama,kutabiri,verbs,1.15
+2027,kuritegu,wizi,nouns,3.6
+2028,sisalik,mjusi,nouns,2.55
+2029,unustama,kusamehe,verbs,0.65
+2030,tilkuma,dondoka,verbs,0.9
+2031,kogunemine,kusanyiko,nouns,4.0
+2032,hirmunud,ogopa,adjectives,2.8
+2033,puudumine,kuwepo,nouns,0.6
+2034,võime,ustadi,nouns,3.35
+2035,kotkas,tai,nouns,1.1
+2036,mantel,nguo,nouns,2.4
+2037,kurat,mungu,nouns,0.6
+2038,õde,dada,nouns,1.45
+2039,isa,mtoto wa kiume,nouns,1.15
+2040,varastama,iba,verbs,0.35
+2041,kuluma,kumomonyoka,verbs,1.3
+2042,panema,kuning'inia,verbs,0.85
+2043,suurus,ukubwa,nouns,4.2
+2044,pall,kikapu,nouns,0.55
+2045,määrama,kutambulisha,verbs,0.05
+2046,ära tõukama,kukataliwa,verbs,1.65
+2047,üllatama,kushangaza,verbs,0.35
+2048,korruptsioon,rushwa,nouns,2.65
+2049,maitsetaim,bangi,nouns,1.1
+2050,kiirus,mwendo,nouns,0.15
+2051,joonistus,mchoro,nouns,0.05
+2052,vastandlik,kinyume,adjectives,0.8
+2053,kaklema,kupigana,verbs,0.6
+2054,poliitik,mwanasiasa,nouns,0.25
+2055,näitleja,mwimbaji,nouns,1.25
+2056,gravitatsioon,mvuto,nouns,0.4
+2057,imiteerima,kuonyesha,verbs,2.3
+2058,varastama,kununua,verbs,0.3
+2059,mängima,kucheza,verbs,0.35
+2060,saatma,kutuma,verbs,0.25
+2061,valik,mshipa,nouns,0.1
+2062,paberraha,noti,nouns,1.2
+2063,nõrk,dhaifu,adjectives,0.0
+2064,muru,mzizi,nouns,0.75
+2065,järgima,kushawishi,verbs,0.45
+2066,karusnahk,bunduki,nouns,0.3
+2067,panema,kupata,verbs,0.25
+2068,programm,mradi,nouns,0.15
+2069,võileib,nyama,nouns,0.75
+2070,oletama,kujifanya,verbs,0.6
+2071,raamat,andiko,nouns,2.85
+2072,suhkur,asali,nouns,2.3
+2073,kampaania,kampeni,nouns,0.05
+2074,reisima,kusafiri,verbs,2.5
+2075,vana,zamani,adjectives,0.1
+2076,popkorn,bisi,nouns,0.6
+2077,kokku põrkama,kumgongano,verbs,3.4
+2078,jagama,kujumlisha,verbs,0.35
+2079,katma,kufunika,verbs,1.52
+2080,töö,jukumu,nouns,3.2
+2081,juust,mkate,nouns,0.75
+2082,üksildane,mpweke,adjectives,1.3
+2083,riis,maharagwe,nouns,0.85
+2084,hammas,kinywa,nouns,1.15
+2085,petersell,pasile,nouns,0.2
+2086,närv,matumbo,nouns,0.4
+2087,huul,nyonga,nouns,0.35
+2088,vaikselt,kwa ukimya,adverbs,0.45
+2089,lubama,kuruhusu,verbs,1.38
+2090,seemik,miche,nouns,1.05
+2091,deemant,hela,nouns,0.85
+2092,keha,uti,nouns,1.0
+2093,kole,mbaya,adjectives,1.4
+2094,meloodia,pigo,nouns,1.4
+2095,järg,mwendelezo,nouns,0.05
+2096,mehaanik,mfanyakazi,nouns,1.95
+2097,matemaatik,mwanamahesabu,nouns,0.05
+2098,turvaliselt,kwa ulinzi,adverbs,3.05
+2099,poiss,mwanajeshi,nouns,0.5
+2100,lärm,ghasia ,nouns,1.4
+2101,hüppamine,kuruka,nouns,0.45
+2102,sekund,dakika,nouns,2.25
+2103,suruma,kuvyombo vya habari,verbs,0.2
+2104,kõht,chumba cha kulala,nouns,0.1
+2105,tundma,kuhisi,verbs,0.95
+2106,soovitama,kupendekeza,verbs,4.3
+2107,koostama,kuharibu,verbs,0.1
+2108,amet,chuo,nouns,0.7
+2109,aastaeg,msimu wa baridi,nouns,2.9
+2110,vastandlik,kinyume,adjectives,0.25
+2111,pudel,chombo,nouns,0.85
+2112,puu,mti,nouns,1.0
+2113,omandama,kupata,verbs,3.1
+2114,lusikas,kijiko,nouns,0.3
+2115,jahtima,kuwinda,verbs,2.75
+2116,ilmselge,wa kuonekana,adjectives,4.9
+2117,looma,kutengeneza,verbs,1.65
+2118,kaebama,kugombana,verbs,1.05
+2119,kinnas,mpira,nouns,0.9
+2120,kaneel,mdalasini,nouns,0.55
+2121,selgitama,kueleza,verbs,4.45
+2122,rahumeelselt,kwa amani,adverbs,0.25
+2123,enesekindel,ana hakika,adjectives,3.35
+2124,relv,silaha,nouns,0.5
+2125,reostus,angahewa,nouns,0.5
+2126,arst,tabia,nouns,0.1
+2127,rumal,mpumbavu,adjectives,3.17
+2128,august,mwezi,nouns,2.45
+2129,korratu,kutopangilia,verbs,0.35
+2130,minema,kutuma,verbs,0.4
+2131,tagasihoidlik,mnyenyekevu,adjectives,0.55
+2132,paratsetamol,acetaminopheni,nouns,0.65
+2133,hulktahukas,pembe zaidi ya sita,nouns,0.15
+2134,uskuma,kuamini,verbs,0.95
+2135,preester,mungu,nouns,0.95
+2136,kaunistus,mapambo,nouns,0.25
+2137,ülesanne,kazi,nouns,3.2
+2138,diskreetselt,kwa siri,adverbs,0.25
+2139,öö,mchana,nouns,0.75
+2140,eriline,maalumu,adjectives,2.75
+2141,kõrgus,urefu,nouns,0.1
+2142,vann,mke,nouns,0.0
+2143,lisama,kuzidisha,verbs,0.95
+2144,moodus,njia,nouns,1.2
+2145,väljuv,inayotoka,adjectives,0.5
+2146,informatsioon,gazeti,nouns,1.8
+2147,raamat,hadithi,nouns,1.9
+2148,tsunaami,sunami,nouns,1.05
+2149,ülesanne,njia kuu,nouns,0.2
+2150,lill,imani,nouns,0.1
+2151,hoomama,kuridhisha,verbs,0.1
+2152,õrnalt,wepesi,adverbs,0.3
+2153,nägemine,utambuzi,nouns,2.25
+2154,seeme,viungo,nouns,0.6
+2155,õli,ngozi,nouns,0.2
+2156,koostööd tegema,kujiunga,verbs,2.6
+2157,kurbus,aibu,nouns,0.85
+2158,aasta,mwaka,nouns,1.2
+2159,hobune,farasi wa kike,nouns,3.45
+2160,kerge,mkubwa,adjectives,0.15
+2161,viga,kosa,nouns,0.3
+2162,ustavalt,kwa uaminifu,adverbs,3.2
+2163,solvama,kukosea,verbs,0.45
+2164,direktor,mkurugenzi,nouns,4.0
+2165,keha,mwili,nouns,0.6
+2166,kokku hoidma,kutumia,verbs,0.6
+2167,tooma,kurudisha,verbs,0.75
+2168,karp,sigara,nouns,0.25
+2169,tagasihoidlikult,kwa unyenyekevu,adverbs,0.3
+2170,hiljem,baadae,adverbs,0.05
+2171,relv,mbinu,nouns,0.25
+2172,soovitama,kukubali,verbs,0.5
+2173,vaher,mti,nouns,2.7
+2174,sisenema,kudaiwa,verbs,0.05
+2175,tugev,wa kujivunia,adjectives,0.45
+2176,talv,msimu,nouns,2.9
+2177,vappumine,kutetemeka,nouns,2.5
+2178,lihas,mkono,nouns,0.85
+2179,õnnelik,mchanga,adjectives,0.5
+2180,kuningas,mfalme,nouns,4.6
+2181,peen,kisasa,adjectives,0.6
+2182,analüüsima,kuchambua,verbs,3.6
+2183,kena,mkorofi,adjectives,0.05
+2184,lõpmatus,usio na mwisho,nouns,0.5
+2185,vaenlaseks tegema,kuteteleza,verbs,0.65
+2186,võõrastemaja,hosteli,nouns,3.25
+2187,püsimatu,mchanga,adjectives,0.65
+2188,lihas,mfupa,nouns,1.0
+2189,miin,machimbo,nouns,0.0
+2190,liiv,mchanga,nouns,0.05
+2191,vale,kosa,adjectives,0.25
+2192,valjusti,kwa sauti,adverbs,0.1
+2193,lumelaud,ubao wa theluji,nouns,2.2
+2194,kolonel,daktari wa meno,nouns,0.1
+2195,riis,kuku,nouns,0.5
+2196,ohtlikult,kwa uhatari,adverbs,0.2
+2197,nina,pua,nouns,0.85
+2198,margniaalselt,mara kwa mara,adverbs,0.7
+2199,diivan,baseball,nouns,0.1
+2200,torm,wingu,nouns,0.8
+2201,tooma,kutuma,verbs,0.35
+2202,vihmavari,mwavuli,nouns,0.05
+2203,võmm,polisi,nouns,0.15
+2204,tuntud,julikana,adjectives,0.5
+2205,ilmne,wazi,adjectives,4.9
+2206,täht,aya,nouns,0.6
+2207,hull,ana wazimu,adjectives,5.25
+2208,vastupidavus,ua,nouns,0.15
+2209,minevik,zamani,nouns,1.3
+2210,hertsog,mjuzi,nouns,0.35
+2211,tähestik,alphabeti,nouns,0.3
+2212,lõpetama,kumaliza,verbs,1.27
+2213,suur,mkubwa sana,adjectives,4.0
+2214,edu saavutama,kufeli,verbs,0.35
+2215,süsteemiplaat,bodi kuu,nouns,4.05
+2216,teostatav,inawezekana,adjectives,0.4
+2217,suur,kubwa,adjectives,0.5
+2218,voodi,chumba cha kulala,nouns,1.15
+2219,ruumikas,mkubwa,adjectives,4.0
+2220,teadma,kuelewa,verbs,3.65
+2221,leht,jani,nouns,1.02
+2222,filosoof,mphilisophia,nouns,0.0
+2223,või,kiazi,nouns,0.6
+2224,jõukus,umasikini,nouns,0.55
+2225,sekretär,mwanamke,nouns,0.95
+2226,kokkulangevus,mapatano,nouns,0.05
+2227,hommikusöök,karamu,nouns,0.8
+2228,kohtuma,kukutana,verbs,0.0
+2229,palk,mbao,nouns,2.9
+2230,uduvihm,mvua,nouns,4.3
+2231,õhupall,watu,nouns,0.1
+2232,molekul,atomu,nouns,2.1
+2233,kaitsma,kuua,verbs,0.35
+2234,ilmuma,kuondoka,verbs,0.6
+2235,halb,mbaya,adjectives,1.0
+2236,sfäär,mviringo,nouns,1.65
+2237,põikpäine,msumbufu,adjectives,1.6
+2238,teekond,mwendo,nouns,4.15
+2239,tõsiselt,kwa umakini,adverbs,2.3
+2240,delta,delta,nouns,0.95
+2241,kohalolek,kutokuwepo,nouns,0.6
+2242,valuuta,sarafu,nouns,0.38
+2243,ebaseaduslik,haramu,adjectives,0.45
+2244,õpetaja,mwalimu,nouns,1.2
+2245,seletama,kujadili,verbs,1.9
+2246,pädevus,uwezo,nouns,4.2
+2247,võitja,mgombea wa uchaguzi,nouns,1.15
+2248,otsima,kutafuta,verbs,1.85
+2249,sõrmus,pete,nouns,0.8
+2250,põgenema,kuhepa,verbs,0.2
+2251,soolikas,neva,nouns,0.4
+2252,ava,kufungua,nouns,2.75
+2253,loll,mjinga,adjectives,4.7
+2254,ukseava,mlango wa kutoka,nouns,2.6
+2255,tooma,kulalamika,verbs,0.1
+2256,putka,sanduku,nouns,0.6
+2257,toll,mita,nouns,1.9
+2258,intelligentsus,hekima,nouns,4.25
+2259,triivima,kuteleza,verbs,0.95
+2260,suruma,kukandamiza,verbs,0.35
+2261,sõna,ishara,nouns,0.55
+2262,diagramm,chati,nouns,3.35
+2263,hävitama,kuumba,verbs,0.35
+2264,vaikselt,kwa ukimya,adverbs,0.6
+2265,kerge,imara,adjectives,0.1
+2266,tuginema,tegemea,verbs,0.05
+2267,täht,nyota,nouns,2.82
+2268,kaos,vurugu,nouns,0.15
+2269,firma,biashara,nouns,3.35
+2270,õpilane,mwanafunzi,nouns,2.63
+2271,ilukirjandus,wasifu,nouns,1.2
+2272,rüüpama,kukunywa,verbs,4.45
+2273,kandma,kuleta,verbs,2.2
+2274,lahingulaev,manowari,nouns,5.3
+2275,kaaspiloot,rubani msaidizi,nouns,0.15
+2276,aken,mlango,nouns,1.15
+2277,sõna,ukurasa,nouns,0.4
+2278,eneseväärikus,hadhi,nouns,0.05
+2279,klatš,habari,nouns,1.65
+2280,pöörane,mgonjwa,adjectives,0.85
+2281,juhtuma,kufanya,verbs,0.6
+2282,vältima,kujiweka mbali,verbs,2.1
+2283,võlur,mchawi,nouns,0.0
+2284,eksam,mtihani,nouns,0.75
+2285,õun,mpangilio wa chakula,nouns,0.35
+2286,loogika,hesabu,nouns,0.9
+2287,taastama,kuleta,verbs,0.75
+2288,jääma,kudumisha,verbs,0.75
+2289,põhiliselt,haswa,adverbs,0.1
+2290,demokraatia,demokrasia,nouns,1.1
+2291,korraldama,kupanga,verbs,4.75
+2292,maks,kiungo,nouns,2.25
+2293,ainulaadne,ya pekee,adjectives,0.8
+2294,hõljuma,kuelea,verbs,0.0
+2295,assisteerima,kusaidia,verbs,4.7
+2296,kuulma,kuzungumza,verbs,0.55
+2297,naerma,kucheka,verbs,3.55
+2298,silm,chozi,nouns,1.4
+2299,võistlema,kushindana,verbs,0.3
+2300,oluline,muhimu,adjectives,0.3
+2301,suhtlus,lugha,nouns,2.1
+2302,sinine,bluu,adjectives,0.55
+2303,võib-olla,labda,adverbs,2.85
+2304,praadima,kaanga,verbs,0.95
+2305,loll,ana akili,adjectives,0.4
+2306,kinni püüdma,kudaka,verbs,3.95
+2307,ajaleht,taarifa,nouns,1.8
+2308,sajand,muongo,nouns,1.2
+2309,nöör,waya,nouns,1.05
+2310,sõna,gazeti,nouns,0.65
+2311,tõbi,hatari,nouns,0.7
+2312,puhtalt,kweli,adverbs,1.55
+2313,lonkama,kuchechemea,verbs,2.25
+2314,ignoreerima,kupuuza,verbs,0.0
+2315,kallas,pwani,nouns,3.7
+2316,miljonär,milionea,nouns,1.2
+2317,uba,kahawa,nouns,0.9
+2318,pruut,mtoto wa mfalme,nouns,0.75
+2319,tšempion,mshindi,nouns,5.15
+2320,aatom,kaboni,nouns,1.05
+2321,haiget tegema,kuumia,verbs,1.0
+2322,tarkus,akili,nouns,4.25
+2323,ala,kona,nouns,0.5
+2324,lumi,theluji,nouns,3.3
+2325,varastama,kuchukua,verbs,1.55
+2326,tüütama,kusumbua,verbs,2.75
+2327,tennis,tenisi,nouns,0.2
+2328,kahanema,kupunguza,verbs,3.05
+2329,ilmselgelt,ni wazi,adverbs,0.05
+2330,halb,ana hatia,adjectives,1.6
+2331,õde,mwanasayansi,nouns,0.25
+2332,ebatõenäoline,sio rahisi,adverbs,0.0
+2333,erinevus,tofauti,nouns,0.35
+2334,hiiglasuur,mpumbavu,adjectives,0.1
+2335,kuninganna,nyuki,nouns,0.5
+2336,pahkluu,dirisha,nouns,0.0
+2337,kirik,kwaya,nouns,1.55
+2338,sammal,nyasi,nouns,1.6
+2339,halb,wa dhambi,adjectives,2.85
+2340,vaher,mnazi,nouns,1.15
+2341,au,heshima,nouns,1.85
+2342,hõivatud,bizi,adjectives,0.2
+2343,kiiver,helmeti,nouns,0.5
+2344,keegel,bowling,nouns,1.95
+2345,poster,bango,nouns,1.0
+2346,tõenäoliselt,labda,adverbs,0.45
+2347,inspekteerima,kuchunguza,verbs,3.25
+2348,ministeerium,huduma,nouns,0.1
+2349,vajama,kutafiti,verbs,0.45
+2350,uba,nyama ya nguruwe,nouns,0.35
+2351,pärima,kuhitaji,verbs,0.45
+2352,raamat,fasihi,nouns,2.25
+2353,rõõmustav,wa ajabu,adjectives,1.55
+2354,ignorantsus,akili,nouns,0.5
+2355,säravalt,kwa ukali,adverbs,0.3
+2356,kaitsma,kuliinda,verbs,1.25
+2357,tulema,kwenda,verbs,0.35
+2358,saama,kujipatia,verbs,3.1
+2359,naine,mwanamke,nouns,0.15
+2360,õlg,mkono,nouns,1.75
+2361,dollar,dola,nouns,1.2
+2362,vürtsikas,pilipili,adjectives,0.55
+2363,andma,kukana,verbs,0.2
+2364,õiglus,haki,nouns,1.85
+2365,jumal,shetani,nouns,0.6
+2366,kristlane,mkristo,nouns,3.35
+2367,mootor,injini,nouns,1.55
+2368,pilvkate,kivuli cha mawingu,nouns,0.65
+2369,religioon,dini,nouns,1.75
+2370,iste,kiti,nouns,0.2
+2371,pall,mpira,nouns,1.65
+2372,satiir,satire,nouns,1.7
+2373,sukelduma,piga mbizi,verbs,0.15
+2374,hoidma,kupa,verbs,0.35
+2375,laskuma,kushuka,verbs,0.55
+2376,vinge,mbaya,adjectives,0.05
+2377,sipelgas,nyuki,nouns,0.85
+2378,mõistma,kusikiliza,verbs,0.95
+2379,uitama,kutangatanga,verbs,1.55
+2380,mööbel,kitanda,nouns,2.45
+2381,valjult,kwa sauti,adverbs,0.68
+2382,hädavajalik,lazima,adjectives,3.1
+2383,imik,mtu mzima,nouns,0.55
+2384,nisu,nafaka,nouns,2.7
+2385,maantee,gari,nouns,0.8
+2386,kartmatu,wa kujivunia,adjectives,1.0
+2387,kana,ndege,nouns,2.6
+2388,hõõguma,kumeremeta,verbs,2.85
+2389,karp,kesi,nouns,0.23
+2390,nutikas,mwerevu,adjectives,4.3
+2391,kaasa lööma,kumhusisha,verbs,2.3
+2392,mõõk,panga,nouns,0.0
+2393,mahl,maziwa,nouns,0.8
+2394,härrasmees,bibi,nouns,0.7
+2395,veok,lori,nouns,3.5
+2396,naljakas,inayochekesha,adjectives,0.45
+2397,kaart,daraja,nouns,0.25
+2398,nutitelefon,simu mahiri,nouns,0.05
+2399,lukk,kufuli,nouns,1.35
+2400,meri,ziwa,nouns,2.95
+2401,suurus,senti,nouns,0.4
+2402,uhke,mwenye nguvu,adjectives,0.45
+2403,tüdruk,mtoto,nouns,1.1
+2404,õigus,shule,nouns,0.25
+2405,jääma,kuondoka,verbs,0.3
+2406,suhtumine,hakika,nouns,0.4
+2407,algama,kutokana,verbs,1.2
+2408,meierei,maziwa,nouns,0.15
+2409,piparmünt,mti wa minti,nouns,0.4
+2410,ümbermaailmareis,mzunguko,nouns,0.45
+2411,käsi,mwili,nouns,1.45
+2412,väsinud,choka,adjectives,0.45
+2413,uks,kengele,nouns,0.35
+2414,kiibid,kibanzi,nouns,0.2
+2415,valetama,kudanganya,verbs,2.5
+2416,asteroid,kimondo,nouns,2.8
+2417,noomima,kulaani,verbs,0.3
+2418,suur,nama,adjectives,0.35
+2419,keeglimängija,bowler,nouns,1.95
+2420,kirikutorn,kanisa dogo,nouns,0.85
+2421,nutikas,mpumbavu,adjectives,0.35
+2422,põngerjas,mvulana,nouns,3.25
+2423,tugevalt,kwa nguvu,adverbs,0.5
+2424,skulptor,sonara,nouns,0.1
+2425,professor,mwanafunzi,nouns,0.85
+2426,mitu korda,nyingi zaidi,adverbs,1.2
+2427,räpane,mwembamba,adjectives,0.25
+2428,voodi,fanicha,nouns,2.45
+2429,kokku suruma,kubana,verbs,0.4
+2430,erinev,wa kawaida,adjectives,0.45
+2431,puur,mti,nouns,0.0
+2432,kurbus,huzuni,nouns,0.6
+2433,aru saama,kuelewa,verbs,4.5
+2434,aritmeetika,mantiki,nouns,0.9
+2435,kõva,imara,adjectives,2.7
+2436,ise,hakika,nouns,0.75
+2437,käekott,mfuko,nouns,4.1
+2438,protestant,protestanti,nouns,3.35
+2439,rahutu,mwenye woga,adjectives,4.2
+2440,peatükk,chaguo,nouns,0.45
+2441,omandama,kujiunga,verbs,0.3
+2442,vaimustav,sisimsha,adjectives,0.05
+2443,kanep,mitishamba,nouns,1.1
+2444,tass,kopo,nouns,0.85
+2445,sassis,chafu,adjectives,0.25
+2446,supp,chakula cha usiku,nouns,0.95
+2447,raske,rahisi,adjectives,0.45
+2448,munk,padri,nouns,2.45
+2449,laenama,kuuza,verbs,0.3
+2450,sonett,ushairi,nouns,0.35
+2451,uks,sakafu,nouns,0.65
+2452,veen,chaguo,nouns,0.1
+2453,suvi,msimu wa baridi,nouns,0.7
+2454,värske,mzee,adjectives,0.15
+2455,veen,tumbo,nouns,0.25
+2456,normaalne,si wa kawaida,adjectives,0.45
+2457,veri,nyama,nouns,1.15
+2458,peatuma,kuacha,verbs,0.22
+2459,kutt,msichana,nouns,0.6
+2460,oluliselt,kwa umuhimu,adverbs,0.5
+2461,mees,baba,nouns,2.4
+2462,märk,alama,nouns,4.3
+2463,alati,mara kwa mara,adverbs,0.25
+2464,habras,baridi,adjectives,0.35
+2465,nüri,zorota,adjectives,0.05
+2466,julm,katili,adjectives,2.3
+2467,abielluma,kuchumbia,verbs,2.25
+2468,tõenäoliselt,uwezekano,adverbs,2.85
+2469,rääkima,kusikia,verbs,0.55
+2470,kindel,bila shaka,adjectives,4.75
+2471,sulama,kufuta,verbs,0.75
+2472,jooma,kunywa,verbs,0.3
+2473,rahvas,dola,nouns,0.4
+2474,ema,mke,nouns,2.5
+2475,uks,jiko,nouns,0.3
+2476,lõimima,kufuma,verbs,0.25
+2477,kange,ngumu,adjectives,0.2
+2478,koridor,ushoroba,nouns,4.25
+2479,number,tarakimu,nouns,5.1
+2480,veski,koboa,nouns,0.65
+2481,kabel,kanisa ,nouns,0.0
+2482,häbenev,kua na aibu,adjectives,0.05
+2483,harmoonia,umoja,nouns,0.6
+2484,kohtuotsus,kesi,nouns,1.6
+2485,tõlge,mtafsiri,nouns,0.5
+2486,rakett,kelele,nouns,1.4
+2487,salat,siki,nouns,0.35
+2488,vanem,baba,nouns,3.4
+2489,relv,alfajiri,nouns,0.05
+2490,laenaja,mkopi,nouns,1.35
+2491,purustama,kupondwa,verbs,1.85
+2492,lahtine,pwaya,adjectives,1.4
+2493,andma,kupokea,verbs,0.7
+2494,veiseliha,nyama ya ng'ombe,nouns,3.1
+2495,kindlalt,kwa kujiamini,adverbs,0.45
+2496,kass,mbwa,nouns,0.9
+2497,lihtne,rahisi,adjectives,4.6
+2498,alustama,kuacha,verbs,0.35
+2499,tegema,kuumba,verbs,4.1
+2500,ehitama,kuumba,verbs,3.85
+2501,märk,baji,nouns,0.15
+2502,muuseum,jumba la makumbusho,nouns,0.0
+2503,lagi,paa,nouns,3.85
+2504,halb,poa,adjectives,0.2
+2505,plekkpurk,kopo,nouns,1.6
+2506,ühing,biashara,nouns,1.05
+2507,ihaldama,kua na hamu,verbs,4.35
+2508,emotsioon,hamu,nouns,3.3
+2509,imeline,mwenye kupendeza,adjectives,1.55
+2510,tõld,gari,nouns,1.25
+2511,mees,mpiganaji,nouns,1.35
+2512,kaart,ramani,nouns,0.25
+2513,kerge,pole,adjectives,0.6
+2514,proovima,kujaribu,verbs,0.7
+2515,ignoreerima,kufanya utafiti,verbs,0.1
+2516,konseptsioon,imani,nouns,1.4
+2517,käsipuu,ua,nouns,0.1
+2518,kass,sungura,nouns,0.7
+2519,saama,kutuma,verbs,0.45
+2520,mesi,sukari,nouns,2.3
+2521,kaebama,kuleta,verbs,0.1
+2522,lahkuma,kufika,verbs,0.45
+2523,astronoom,mtaalam wa nyota,nouns,0.6
+2524,sigar,bomba,nouns,0.45
+2525,sisehõõrdumine,mnato,nouns,0.1
+2526,kroon,taji,nouns,0.45
+2527,vokalist,mtaalamu wa sauti,nouns,0.55
+2528,vedelik,majimaji,nouns,0.6
+2529,sahtel,nguo,nouns,0.85
+2530,uber,motokaa,nouns,3.4
+2531,vaidlema,kupinga,verbs,0.5
+2532,poiss,wali,nouns,0.05
+2533,vihane,mjeuri,adjectives,1.75
+2534,ühinema,kujipatia,verbs,0.3
+2535,karusnahk,ngozi,nouns,2.9
+2536,ignoreerima,kuuliza,verbs,0.15
+2537,mask,maski,nouns,0.5
+2538,veri,damu,nouns,0.8
+2539,käekell,saa,nouns,0.1
+2540,vähetähtis,mdogo,adjectives,0.3
+2541,pilv,vumbi,nouns,1.25
+2542,linateos,filamu,nouns,4.9
+2543,vahetama,kurudisha,verbs,0.4
+2544,rahvas,bunduki,nouns,0.1
+2545,poiss,kaka,nouns,2.3
+2546,teenijanna,msaidizi,nouns,3.0
+2547,triumf,ushindi,nouns,4.1
+2548,aeg-ajalt,mara chache,adverbs,1.15
+2549,null,sufuri,nouns,0.5
+2550,korter,fanicha,nouns,0.6
+2551,lääts,kamera,nouns,1.85
+2552,tahtma,kuazima,verbs,0.6
+2553,portreteerima,kuiga,verbs,2.3
+2554,doktor,tabibu,nouns,5.1
+2555,domineerima,kushinda,verbs,0.9
+2556,suur,mzito,adjectives,2.05
+2557,lumetorm,theluji kali,nouns,0.85
+2558,tihti,mara nyingi,adverbs,0.3
+2559,minema,kuruhusu,verbs,0.25
+2560,tavaliselt,kawaida,adverbs,0.33
+2561,lagunemine,utengano,nouns,0.5
+2562,ebausaldusväärne,asiyeaminika,adjectives,1.05
+2563,sihtima,kulenga,verbs,1.55
+2564,liit,shirikisho,nouns,2.25
+2565,ohutult,kwa usalama,adverbs,0.85
+2566,isa,mtoto wa kike,nouns,0.65
+2567,surmavalt,mwisho,adverbs,0.1
+2568,sipelgas,chungu,nouns,0.95
+2569,kogunema,kukutana,verbs,2.25
+2570,aken,dirisha,nouns,0.6
+2571,õppima,kusahau,verbs,0.4
+2572,arvama,kubuni,verbs,0.2
+2573,vesi,barafu,nouns,2.4
+2574,rebima,kuchana,verbs,0.1
+2575,tihedalt,kwa ukakamavu,adverbs,0.75
+2576,kinematograafia,sinema,nouns,0.7
+2577,edu saavutama,kujaribu,verbs,1.15
+2578,sidrun,matofaa,nouns,0.8
+2579,raske,bila jasho,adjectives,0.3
+2580,hajuma,kufifia,verbs,1.3
+2581,kahur,mpira,nouns,0.8
+2582,lisama,kuunda,verbs,0.55
+2583,onupojapoliitika,undugu,nouns,0.65
+2584,õnneseen,enye bahati,adjectives,0.05
+2585,film,filamu,nouns,0.2
+2586,võtma,kuiba,verbs,1.55
+2587,keetma,kuchemsha,verbs,0.95
+2588,paraad,umati,nouns,1.1
+2589,ebatavaliselt,sio kawaida,adverbs,4.65
+2590,jurist,mwanasheria,nouns,4.55
+2591,aru saama,kujua,verbs,3.65
+2592,täna õhtul,leo usiku,adverbs,0.15
+2593,tööline,makanika,nouns,1.95
+2594,tulema,kufika,verbs,3.65
+2595,vangla,chaguo,nouns,0.3
+2596,õhtusöök,chakula cha asubuhi,nouns,0.95
+2597,hirmunud,ogopa,adjectives,2.13
+2598,kurb,wa kuchekesha,adjectives,0.4
+2599,töötaja,mwajiri,nouns,0.9
+2600,katedraal,dari,nouns,0.6
+2601,biheiviorism,somo la tabia,nouns,0.65
+2602,tsütoplasma,cytoplasm,nouns,0.05
+2603,džinn,kileo,nouns,2.35
+2604,kong,chumba,nouns,1.2
+2605,tapeet,karatasi ya kupamba ukuta,nouns,2.25
+2606,kirik,kanisa,nouns,4.25
+2607,häbelik,aibu,adjectives,0.58
+2608,pea,bega,nouns,0.95
+2609,ametlikult,rasmi,adverbs,0.5
+2610,regioon,eneo,nouns,3.7
+2611,õnnelik,wa ghadhabu,adjectives,0.3
+2612,pott,kifaa,nouns,0.45
+2613,lisama,kugawanya,verbs,0.35
+2614,päikesepaiste,matofaa,nouns,0.25
+2615,pikk,mwembamba,adjectives,0.55
+2616,essee,kitabu,nouns,1.0
+2617,matma,kuzika,verbs,1.9
+2618,kartul,siagi,nouns,0.6
+2619,rääkima,kutamka,verbs,1.7
+2620,pidu,sherehe,nouns,0.5
+2621,hiir,menejimenti,nouns,0.0
+2622,õppima,kujifunza,verbs,1.72
+2623,juhtkond,kazi,nouns,1.05
+2624,lennujaam,uwanja wa ndege,nouns,0.0
+2625,lööma,kupiga,verbs,2.45
+2626,vastu võtma,kupendekeza,verbs,0.5
+2627,kari,kondoo,nouns,2.55
+2628,segadusse ajama,kuchanganya,verbs,0.3
+2629,laine,wimbi,nouns,0.6
+2630,hümn,ushindi,nouns,0.2
+2631,põnevil,sisimka,adjectives,1.35
+2632,rumal,mpumbavu,adjectives,4.7
+2633,negatiivselt,kwa ubaya,adverbs,0.55
+2634,rand,kisiwa,nouns,0.9
+2635,kallutama,kupendelea,verbs,3.5
+2636,uhke,mjasiri,adjectives,1.0
+2637,eine,chakula cha usiku,nouns,3.55
+2638,tegema,kuharibu,verbs,0.45
+2639,rütm,tuni,nouns,1.4
+2640,ilmselgelt,ni dhahiri,adverbs,3.05
+2641,teesklema,kuwazia,verbs,0.8
+2642,otsustama,kuonyesha,verbs,0.25
+2643,nakkus,ugonjwa,nouns,3.4
+2644,trikk,saizi,nouns,0.05
+2645,vöökoht,chakula,nouns,0.15
+2646,pirukas,chokoleti,nouns,0.85
+2647,imenduma,kumiliki,verbs,0.5
+2648,võit,fora,nouns,4.1
+2649,loll,hodari,adjectives,0.45
+2650,mõtlema,kufikiria,verbs,1.8
+2651,karm,rahisi,adjectives,0.1
+2652,lahkelt,kwa fadhili,adverbs,3.3
+2653,kivi,jiwe,nouns,0.55
+2654,kritiseerima,kupinga,verbs,0.75
+2655,eitama,kukataa,verbs,0.52
+2656,dermatiit,ugonjwa wa ngozi,nouns,2.7
+2657,illustratsioon,katuni,nouns,0.05
+2658,võõrsil,ugenini,adverbs,0.35
+2659,jäik,mdhaifu,adjectives,0.35
+2660,pilv,mvuke,nouns,2.3
+2661,hiiglasuur,mdogo,adjectives,0.3
+2662,ebaküps,kutokomaa,adjectives,0.2
+2663,politseinik,polisi,nouns,0.25
+2664,amet,menejimenti,nouns,1.05
+2665,aktsia,akiba,nouns,2.9
+2666,küpsetama,kupika,verbs,3.05
+2667,müksama,kugongana,verbs,3.4
+2668,tegu,mwendo,nouns,0.85
+2669,tõstma,nyanyua,verbs,0.75
+2670,rand,mchanga,nouns,0.75
+2671,mõnikord,muda mwingine,adverbs,0.2
+2672,õnnetus,ajali,nouns,0.05
+2673,tehe,uendeshaji,nouns,0.7
+2674,puit,karatasi,nouns,0.9
+2675,muutmine,uongofu,nouns,0.1
+2676,laotama,kuenea,verbs,0.65
+2677,vägi,nguvu,nouns,3.6
+2678,šovinist,chauvinist,nouns,1.7
+2679,paat,mota,nouns,1.3
+2680,prognoosima,kubainisha,verbs,1.15
+2681,ulatuslik,mkubwa,adjectives,3.7
+2682,kurjategija,mhalifu,nouns,4.9
+2683,tunnistama,kuzungumza,verbs,0.85
+2684,viha,ghadhabu,nouns,4.8
+2685,elektriline,chenye umeme,adjectives,0.1
+2686,kits,ngombe,nouns,0.8
+2687,ära ütlema,kukataa,verbs,0.4
+2688,pidu,watu,nouns,0.65
+2689,passiivselt,pasipo tu,adverbs,0.2
+2690,kirjanik,muandishi,nouns,0.3
+2691,leib,unga,nouns,1.2
+2692,aktsepeerima,kukana,verbs,0.2
+2693,televisioon,runinga,nouns,1.67
+2694,väljend,neno,nouns,2.2
+2695,raha,almasi,nouns,0.85
+2696,kannatamatu,ana wasiwasi,adjectives,4.2
+2697,pritsess,mfalme,nouns,2.15
+2698,puit,mbao,nouns,0.05
+2699,võti,nyumba,nouns,0.9
+2700,luud,ufagio,nouns,0.75
+2701,rahumeelselt,kwa amani,adverbs,2.45
+2702,kauss,kichochoro,nouns,0.05
+2703,ilmselt,inaonekana,adverbs,0.65
+2704,orkester,gwaride,nouns,1.45
+2705,tööstus,biashara,nouns,1.9
+2706,juhendaja,mwalimu,nouns,3.9
+2707,piparmünt,minti,nouns,0.0
+2708,kasvama,kupungua,verbs,0.35
+2709,vastupidavus,bendi,nouns,0.15
+2710,iil,upepo mkali,nouns,0.25
+2711,kindlustunne,nafsi,nouns,0.75
+2712,abikaasa (naine),tundu,nouns,0.05
+2713,näpistama,kufinya,verbs,0.9
+2714,häbi,huzuni,nouns,0.85
+2715,riiklik,kitaifa,adjectives,0.5
+2716,karusnahk,mwanamke,nouns,0.2
+2717,jalgratas,gari,nouns,1.0
+2718,basiilika,basilika,nouns,0.4
+2719,abikaasa (naine),mama,nouns,2.5
+2720,ülevõim,ukuu,nouns,2.65
+2721,riis,mvulana,nouns,0.05
+2722,kasv,ukuaji,nouns,0.75
+2723,rääkima,kutambua,verbs,0.85
+2724,tuli,saratanji,nouns,2.25
+2725,neelama,meza,verbs,2.25
+2726,äkkrünnak,mashambulizi,nouns,4.45
+2727,statistika,takwimu,nouns,0.2
+2728,dekoratsioon,ukuta,nouns,0.65
+2729,täht,nyota,nouns,2.1
+2730,aken,kifundo cha mguu,nouns,0.0
+2731,tegelane,mhusika,nouns,2.55
+2732,kombain,changanya,nouns,0.45
+2733,keel,shavu,nouns,0.7
+2734,kalkun,ndege,nouns,3.05
+2735,uskuma,kujua,verbs,1.35
+2736,süüdistama,kushtaki,verbs,0.25
+2737,taipama,kufahamu,verbs,4.5
+2738,mees,mwanamke,nouns,0.8
+2739,korter,hoteli,nouns,0.85
+2740,organiseerima,kuwa,verbs,0.45
+2741,rikkumata,safi,adjectives,0.55
+2742,univesum,anga,nouns,1.3
+2743,raha,hela,nouns,5.25
+2744,klooster,monasteri,nouns,0.1
+2745,raam,fremu,nouns,0.25
+2746,lahkuma,enda,verbs,0.75
+2747,tekk,boti,nouns,0.5
+2748,ebakindel,wasiwasi,adjectives,3.15
+2749,tagasihoidlikult,kwa unyenyekevu,adverbs,0.55
+2750,kulutama,kuokoa,verbs,0.6
+2751,õnn,amani,nouns,1.95
+2752,leebe,vuguvugu,adjectives,0.15
+2753,kiire,wa kasi,adjectives,4.25
+2754,katastroof,kifo,nouns,1.7
+2755,heldelt,kwa ukarimu,adverbs,0.1
+2756,arv,nambari,nouns,5.1
+2757,lööma,kukupiga ngumi,verbs,0.9
+2758,tõene,enye ukweli,adjectives,0.35
+2759,korrutamine,zidisha,nouns,0.8
+2760,tooma,kubeba,verbs,2.2
+2761,põrand,sitaha,nouns,0.6
+2762,ball,mavazi,nouns,0.75
+2763,alumiinium,alumini,nouns,2.27
+2764,advokaat,mfanyakazi wa benki,nouns,0.85
+2765,teavitama,kutambua,verbs,0.95
+2766,saar,jukumu,nouns,0.0
+2767,hauakamber,kaburi,nouns,1.25
+2768,kuluma,kumomonyoka,verbs,0.1
+2769,lahkuma,kuondoka,verbs,0.13
+2770,külge tõmbama,kuvutia,verbs,0.3
+2771,pehmelt,kwa upole,adverbs,0.1
+2772,kaklema,pigana,verbs,0.7
+2773,luuletus,shairi,nouns,1.05
+2774,kelder,mlango,nouns,0.5
+2775,tellimus,menyu,nouns,1.0
+2776,laps,mtu mzima,nouns,0.65
+2777,mesilane,sisimizi,nouns,0.85
+2778,andestama,kusahau,verbs,0.65
+2779,ebatäpselt,si kwa usahihi,adverbs,0.25
+2780,püüdma,kujitahidi,verbs,0.0
+2781,rahvahulk,gwaride,nouns,1.1
+2782,kana,batamzinga,nouns,1.2
+2783,haavatav,walio hatarini,adjectives,0.25
+2784,kummaline,ya kushangaza,adjectives,0.45
+2785,telefon,simu,nouns,2.17
+2786,ajakirjanik,mwanahabari,nouns,0.9
+2787,ökosüsteem,mfumo wa ikolojia,nouns,0.75
+2788,perv,mlima,nouns,1.5
+2789,ootama,kusubiri,verbs,1.45
+2790,rahu,furaha,nouns,1.95
+2791,esik,korido,nouns,4.25
+2792,lõpetama,kuamua,verbs,0.75
+2793,elekter,umeme,nouns,0.2
+2794,galaktika,giligili,nouns,0.6
+2795,kerge,rahisi,adjectives,0.23
+2796,entsüklopeedia,ensaiklopidia,nouns,2.4
+2797,pea,kichwa,nouns,0.85
+2798,sent,mke,nouns,0.05
+2799,nõustuma,kukubali,verbs,2.52
+2800,teesklema,jifanya,verbs,2.5
+2801,kangelane,mwanamke wa shujaa,nouns,1.3
+2802,lumi,dhoruba,nouns,0.9
+2803,liputeadus,elimu ya bendera,nouns,1.2
+2804,kriket,kriketi,nouns,0.0
+2805,eitama,kukubali,verbs,0.2
+2806,karp,kofia,nouns,0.2
+2807,vahetus,ubadilishaji,nouns,0.7
+2808,piibel,kitabu,nouns,2.15
+2809,vabariik,jamhuri,nouns,0.35
+2810,sularaha,pesa,nouns,5.25
+2811,kapp,nguo,nouns,0.6
+2812,biotoop,ekolojia,nouns,1.0
+2813,putukas,wadudu,nouns,0.95
+2814,ketas,diski,nouns,0.15
+2815,tagumine,nyuma,nouns,2.75
+2816,valgus,mwanga,nouns,0.1
+2817,eitamine,kukiri,nouns,0.6
+2818,tegema,kuchuma,verbs,0.55
+2819,loll,wa upuzi,adjectives,4.75
+2820,äädikas,saladi,nouns,0.35
+2821,rada,njia,nouns,0.45
+2822,vann,mbinu,nouns,0.0
+2823,laenama,kudaiwa,verbs,0.75
+2824,vürtsine,pilipili,adjectives,0.0
+2825,paindlik,rahisi,adjectives,0.6
+2826,küünarnukk,mfupa,nouns,0.9
+2827,au andma,kutoa heshima,verbs,0.2
+2828,minut,sekunde,nouns,2.25
+2829,kehvasti,kwa ubaya,adverbs,0.55
+2830,alkohol,brandi,nouns,2.7
+2831,määr,kiwango,nouns,1.65
+2832,kaitsma,kulinda,verbs,1.15
+2833,põhi,juu,nouns,0.55
+2834,lõik,herufi,nouns,0.6
+2835,vaatama,kuangalia,verbs,2.25
+2836,kandma,kuvaa,verbs,0.1
+2837,andma,kuweka,verbs,0.3
+2838,lugeja,mtunzi,nouns,0.6
+2839,seersant,mjeshi,nouns,0.85
+2840,bronhiit,ugonja wa bronchitis,nouns,0.65
+2841,rahe,mvua ya mawe,nouns,3.05
+2842,pöial,mkono,nouns,1.5
+2843,iganädalane,kwa wiki,adjectives,0.65
+2844,hoomama,kusoma,verbs,0.95
+2845,auto,baisikeli,nouns,1.0

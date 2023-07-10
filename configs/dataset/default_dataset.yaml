@@ -1,0 +1,5 @@
+batch_size : 256
+dir : "datasets/dataset_gloss_1k_lcheck/dataset_gloss_1k_lcheck_cl_gloss.csv"
+alpha: 0.5
+sel_langs : "all"
+val_train_overlap : False

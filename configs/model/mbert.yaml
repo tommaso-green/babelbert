@@ -1,0 +1,14 @@
+encoder_name : "bert-base-multilingual-uncased"
+loss : "ntxent"
+similarity : "cos"
+learning_rate : 5e-6
+warmup_peak : -1
+weight_decay : 0.0
+temperature : 0.07
+training_type : "fft"
+word_repr_type : "mean_pool"
+adapter:
+  reduction_factor: 16
+checkpoint_file : null
+layerwise_averaging : False
+input_type : "word_iso"

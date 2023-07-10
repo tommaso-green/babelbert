@@ -1,0 +1,2901 @@
+ID,FIN,SWA,PoS,score
+1,suostutella,kugombana,verbs,0.45
+2,hämmentää,koroga,verbs,2.15
+3,tietää,kupa,verbs,0.15
+4,laulusolisti,mtaalamu wa sauti,nouns,0.15
+5,rauta,vitamini,nouns,0.45
+6,hahmo,mhusika,nouns,3.15
+7,tulla sisään,kuondoka,verbs,0.05
+8,kirja,taarifa,nouns,0.75
+9,mennä,kuuza,verbs,0.1
+10,kulho,sahani,nouns,2.75
+11,kamera,mfanyakazi,nouns,0.05
+12,salaatti,mpangilio wa chakula,nouns,0.8
+13,auto,kiwanda,nouns,0.15
+14,koodi,alama,nouns,2.25
+15,puutteenalainen,uhitaji,adjectives,1.15
+16,yhdistetty,iliyojumuishwa,adjectives,2.5
+17,korottaa,kulea,verbs,0.0
+18,rakennus,jengo,nouns,1.1
+19,kiistellä,kushawishi,verbs,0.45
+20,puhdas,safi,adjectives,5.4
+21,kallisarvoinen,yenye thamani,adjectives,1.02
+22,vika,kosa,nouns,0.1
+23,lumi,hali ya hewa,nouns,0.7
+24,lainrikkoja,mkosaji,nouns,5.25
+25,tietämättömyys,akili,nouns,0.4
+26,kaneli,mdalasini,nouns,0.35
+27,papu,wali,nouns,0.85
+28,päättää,kufikiria,verbs,1.95
+29,löysä,pwaya,adjectives,0.9
+30,jäähdytin,radiator,nouns,0.35
+31,etelä,kaskazini,nouns,0.65
+32,peittää,kufunika,verbs,3.2
+33,veri,uboho,nouns,0.3
+34,paha,poa,adjectives,0.1
+35,jättää,kubaki,verbs,0.6
+36,korvaus,malipo,nouns,0.9
+37,psykologia,sayansi,nouns,2.2
+38,pilli,nyimbo,nouns,0.1
+39,tehdas,gari,nouns,0.15
+40,raha,lulu,nouns,0.2
+41,rumpu,pembe,nouns,0.1
+42,ärsyttää,kusumbua,verbs,0.0
+43,ero,tofauti,nouns,0.35
+44,isä,mzazi,nouns,3.75
+45,kiireinen,bizi,adjectives,0.2
+46,auto,geji,nouns,0.25
+47,varastaa,iba,verbs,0.8
+48,töykeä,jeuri,adjectives,0.32
+49,dia,teleza,nouns,0.0
+50,poika,kaka,nouns,2.55
+51,jogurtti,mgando,nouns,0.2
+52,vauva,mtu mzima,nouns,0.5
+53,saatana,mungu,nouns,0.65
+54,tyhmä,ana akili,adjectives,0.25
+55,vakavasti,kwa umakini,adverbs,1.1
+56,puu,mti,nouns,1.1
+57,korvaus,ada,nouns,4.2
+58,muinainen,wa kisasa,adjectives,0.25
+59,sarvi,ngoma,nouns,0.1
+60,tuho,ujenzi,nouns,0.25
+61,täällä,papa hapa,adverbs,1.05
+62,pujotella,kufuma,verbs,0.6
+63,nainen,mwanamke,nouns,0.0
+64,ovi,sela,nouns,0.2
+65,hullu,ana kichaa,adjectives,5.05
+66,armahtaa,kusamehe,verbs,4.7
+67,tuore,mpana,adjectives,0.0
+68,armeija,kikosi,nouns,3.1
+69,lisätä,kujiunga,verbs,1.0
+70,vartalo,mwili,nouns,0.38
+71,krokotiili,mamba,nouns,2.8
+72,saari,kisiwa,nouns,0.55
+73,kevyesti,wepesi,adverbs,0.6
+74,konsepti,imani,nouns,1.0
+75,biohajoaminen,utengano,nouns,0.15
+76,hyväksyä,kupeleka,verbs,0.0
+77,minkki,manyoya,nouns,2.2
+78,lattia,dari,nouns,0.75
+79,köyhä,masikini,adjectives,1.15
+80,rikos,uhalifu,nouns,0.6
+81,puuvilla,pamba,nouns,0.6
+82,tarjous,maafikiano,nouns,0.1
+83,vene,nanga,nouns,0.85
+84,pallo,glavu,nouns,0.8
+85,henki,mungu,nouns,2.2
+86,omistaa,kufyonza,verbs,0.15
+87,levitä,kuenea,verbs,0.75
+88,sallittu,mkubalika,adjectives,3.05
+89,korruptio,rushwa,nouns,2.45
+90,selvin päin oleva,makini,adjectives,0.55
+91,olla tunnustamatta,kukataliwa,verbs,1.1
+92,perhonen,kipepeo,nouns,0.2
+93,kynsi,kidole gumba,nouns,1.5
+94,teeskennellä,kuonyesha,verbs,0.4
+95,mäki,jabali,nouns,2.5
+96,taivas,jua,nouns,1.05
+97,hämätä,kuchanganya,verbs,0.0
+98,tuoda,kutuma,verbs,0.45
+99,kurssi,tumbo,nouns,0.05
+100,joskus,muda mwingine,adverbs,0.1
+101,syyttäjä,mwendesha mashtaka,nouns,3.3
+102,nöyrästi,kwa unyenyekevu,adverbs,0.05
+103,julkinen,hadharani,adjectives,0.2
+104,olut,kinywaji,nouns,3.25
+105,tuoda,kuja,verbs,1.05
+106,simulaatio,onyesho,nouns,0.35
+107,raha,mshahara,nouns,2.55
+108,talo,kapeti,nouns,0.35
+109,tehtävä,kisiwa,nouns,0.0
+110,rakenne,muundo,nouns,3.0
+111,kirurgia,moyo,nouns,0.6
+112,sauvaohjain,joystiki,nouns,0.5
+113,pitää,kulinda,verbs,0.45
+114,kestävyys,bendi,nouns,0.0
+115,teatteri,ukumbi,nouns,0.45
+116,keinotekoinen,sio asili,adjectives,4.95
+117,helppo,ana shida,adjectives,0.2
+118,antaa,kukopesha,verbs,2.2
+119,automobiili,motokaa,nouns,5.9
+120,saapua,kuondoka,verbs,0.2
+121,kuolla,kufariki,verbs,1.5
+122,valtava,mdogo,adjectives,0.25
+123,laturi,chaja,nouns,0.05
+124,maali,mshindi,nouns,0.5
+125,humalainen,mlevi,adjectives,0.2
+126,ministeri,rabai,nouns,0.6
+127,kadetraali,dari,nouns,0.15
+128,vasara,nyundo,nouns,0.0
+129,huolenpito,tunzo,nouns,0.9
+130,nokkela,mwerevu,adjectives,4.35
+131,vanha,mbivu,adjectives,0.25
+132,ateria,chakula cha usiku,nouns,3.65
+133,ranne,mkono,nouns,1.5
+134,pää,msumari,nouns,0.7
+135,naida,kujiunga,verbs,0.65
+136,määrittää,kutabiri,verbs,0.5
+137,kahdesti,mara mbili,adverbs,0.78
+138,tappaa,kukinga,verbs,0.25
+139,tuuma,mita,nouns,1.9
+140,korkeakoulu,weledi,nouns,0.55
+141,jahdata,kimbiza,verbs,2.8
+142,ateria,karamu,nouns,3.45
+143,kuningas,mfalme,nouns,4.35
+144,luoja,mtunzi,nouns,3.1
+145,nõyrästi,kwa unyenyekevu,adverbs,0.2
+146,huone,kitanda,nouns,0.7
+147,avuton,hoi,adjectives,1.15
+148,muistuttaa,kumbusha,verbs,1.0
+149,loiske,chubwi,nouns,0.3
+150,omena,mwanga wa jua,nouns,0.05
+151,tuomioistuin,korti,nouns,1.7
+152,kääntäjä,mtafsiri,nouns,0.0
+153,kiistää,kukubali,verbs,0.25
+154,antaa,kutoa,verbs,0.05
+155,murskata,kupondwa,verbs,1.45
+156,tavata,kusalimia,verbs,1.35
+157,häntä,bakuli,nouns,0.0
+158,aviomies,mwanaume,nouns,4.15
+159,naamio,maski,nouns,0.2
+160,mies,baba,nouns,2.65
+161,tahto,hiari,nouns,1.55
+162,tiukasti,kwa ukakamavu,adverbs,0.65
+163,kiltisti,kwa fadhili,adverbs,2.65
+164,puolustaa,kuua,verbs,0.25
+165,ateria,kiuno,nouns,0.05
+166,elämäkerta,habari za kubuniwa,nouns,0.95
+167,joustava,rahisi kubadilika,adjectives,0.9
+168,auto,gari la farasi,nouns,1.2
+169,etsiä,kutafuta,verbs,2.33
+170,penni,peni,nouns,0.1
+171,tamma,farasi,nouns,3.8
+172,muffini,muffini,nouns,0.2
+173,kirja,kitabu,nouns,0.0
+174,unohtaa,kujifunza,verbs,0.35
+175,mennä,kuja,verbs,0.5
+176,puu,mpera,nouns,3.3
+177,juhla,maadhimisho,nouns,4.85
+178,sulttaani,sultani,nouns,0.1
+179,pilvi,ukungu,nouns,3.15
+180,ase,manyoya,nouns,0.0
+181,kuva,kioo,nouns,1.55
+182,hallita,kudhibiti,verbs,0.6
+183,tietokone,cd,nouns,0.45
+184,veli,mvulana,nouns,2.55
+185,makuuhuone,tumbo,nouns,0.0
+186,mahtava,wa ajabu,adjectives,1.8
+187,jäytää,kumomonyoka,verbs,0.0
+188,viides,wa tano,adjectives,0.05
+189,kiistää,kukataa,verbs,0.4
+190,tunnettu,julikana,adjectives,0.25
+191,kylpy,chumba,nouns,0.1
+192,tappaa,ua,verbs,0.85
+193,menestyä,kuwa,verbs,0.5
+194,ooppera,opera,nouns,1.4
+195,tiedottaa,arifu,verbs,0.0
+196,hiili,makaa,nouns,3.8
+197,tuoli,kiti,nouns,0.0
+198,motelli,hoteli,nouns,3.25
+199,elin,figo,nouns,2.45
+200,ajatella,kutafiti,verbs,0.5
+201,virkkaus,krocheti,nouns,0.0
+202,mahtava,wa kutisha,adjectives,0.25
+203,niittää,kuvuna,verbs,0.75
+204,käyttämätön,haijatumika,adjectives,4.85
+205,sisäistää,kufahamu,verbs,2.35
+206,sokeriruoko,muwa,nouns,0.1
+207,temppu,saizi,nouns,0.0
+208,moittia,laumu,verbs,4.55
+209,sana,gazeti,nouns,0.55
+210,uskomus,maadili,nouns,0.95
+211,sana,ishara,nouns,0.3
+212,polvi,mfupa,nouns,0.85
+213,kiireellisesti,haraka,adverbs,4.8
+214,huilu,filimbi,nouns,1.0
+215,normaalisti,kwa kawaida,adverbs,2.05
+216,tarttua,kubana,verbs,0.3
+217,terapia,tiba,nouns,0.5
+218,säästää,kuokoa,verbs,0.05
+219,ase,alfajiri,nouns,0.0
+220,jumala,padri,nouns,0.7
+221,puumateriaali,gogo,nouns,3.65
+222,puolustaa,kulinda,verbs,4.5
+223,antaa anteeksi,kuelewa,verbs,0.65
+224,julkistamaton,haijafichuliwa,adjectives,0.25
+225,opettaja,mwalimu,nouns,1.1
+226,ilmiselvästi,ni dhahiri,adverbs,3.95
+227,halata,kukumbatia,verbs,1.1
+228,paha,mkubwa sana,adjectives,0.05
+229,suklaa,keki,nouns,0.75
+230,sekoittaa,kuchanganya,verbs,0.3
+231,karata,kuhepa,verbs,0.2
+232,organisoida,kuwa,verbs,0.1
+233,ulkomaalainen,mgeni,nouns,0.0
+234,vaatteet,kabati,nouns,0.4
+235,ennustaa,kubainisha,verbs,0.5
+236,käydä sisään,kudaiwa,verbs,0.0
+237,päivä ,asubuhi,nouns,1.45
+238,laskimo,mkono,nouns,0.5
+239,lintu,mwewe,nouns,3.4
+240,mahtava,mbaya,adjectives,0.1
+241,hämmästyttävä,kushangaza,adjectives,0.0
+242,luopua,kukataa,verbs,0.55
+243,liiketoiminta,viwanda,nouns,1.8
+244,ikävä,kulivu,adjectives,0.05
+245,sivuuttaa,kuuliza,verbs,0.05
+246,seinä,pambo,nouns,0.35
+247,aita,uzio,nouns,0.1
+248,kertoa,kusema,verbs,1.0
+249,toimittaa,kukubali,verbs,0.0
+250,särkyvä,baridi,adjectives,0.25
+251,johtokunta,utawala,nouns,3.25
+252,penkki,kiti,nouns,4.2
+253,pahentaa,kuongeza,verbs,0.2
+254,sänky,hospitali,nouns,0.3
+255,koettaa,kujaribu,verbs,1.65
+256,kääre,kanga,nouns,0.0
+257,nykyään,kwa sasa,adverbs,1.75
+258,tohtori,tabia,nouns,0.0
+259,kissa,mnyama,nouns,3.1
+260,taistella,kupigana,verbs,0.75
+261,julma,katili,adjectives,2.05
+262,tykki,mpira,nouns,0.1
+263,onnettomuus,ajali,nouns,0.0
+264,liittyä,kuoa,verbs,0.65
+265,joki,bahari,nouns,1.9
+266,korottaa,kukuinua,verbs,4.15
+267,vastaanottaa,kutuma,verbs,0.35
+268,vaalit,uchaguzi,nouns,2.65
+269,rangaista,kuadhibu,verbs,0.55
+270,käsivarsi,mfupa,nouns,1.0
+271,kerran,mara moja,adverbs,0.55
+272,auto,boti,nouns,0.8
+273,televisio,runinga,nouns,0.5
+274,legenda,hadithi,nouns,0.0
+275,analysoida,kuchambua,verbs,4.2
+276,dollari,dola,nouns,1.05
+277,valikoida,kuchagua,verbs,4.35
+278,omena,peremende,nouns,0.35
+279,kasvu,ukuaji,nouns,0.45
+280,veri,nyama,nouns,1.1
+281,halveksia,kuchukia,verbs,0.3
+282,sarvi,gari,nouns,0.3
+283,läsnäolo,mlango,nouns,0.0
+284,poika,mwanajeshi,nouns,0.7
+285,koriste,ukuta,nouns,0.35
+286,sekoittaa,kuchanganya,verbs,2.58
+287,tehdä kunniaa,kutoa heshima,verbs,0.2
+288,tyhmä,hodari,adjectives,0.3
+289,varkaus,uhalifu,nouns,3.75
+290,vaeltaa,kutangatanga,verbs,1.05
+291,nilkka,mfupa,nouns,1.7
+292,edellyttää,kuandaa,verbs,0.1
+293,tuskin koskaan,mara chache,adverbs,0.2
+294,uudelleenlämmitys,choma,nouns,0.65
+295,puhelin,simu,nouns,4.45
+296,biotooppi,ekolojia,nouns,1.0
+297,luu,shingo,nouns,0.95
+298,saada,kuweka,verbs,0.25
+299,mökki,kibanda,nouns,3.6
+300,metsästää,kuwinda,verbs,2.65
+301,aivoriihi,changamsha bongo,nouns,0.0
+302,levy,diski,nouns,0.05
+303,valo,mwanga,nouns,0.0
+304,kiistellä,kukubaliana,verbs,0.35
+305,paraati,umati,nouns,1.05
+306,köyhyys,utajiri,nouns,0.45
+307,ranta,kisiwa,nouns,0.8
+308,kamera,lenzi,nouns,1.85
+309,osallistua,kuhudhuria,verbs,0.15
+310,uskomattomasti,kwa umaradufu,adverbs,0.65
+311,aalto,wimbi,nouns,0.5
+312,positiivisesti,vyema,adverbs,0.4
+313,poika,patna,nouns,0.5
+314,sensori,sensa,nouns,0.35
+315,laskeutua,kushuka,verbs,0.5
+316,suuruus,kina,nouns,1.25
+317,laulu,hadithi,nouns,0.65
+318,valtava,mpumbavu,adjectives,0.0
+319,äiti,mke,nouns,2.2
+320,puoli,chini,nouns,0.55
+321,ihmiset,puto,nouns,0.0
+322,pölytys,uchavushi,nouns,1.8
+323,raide,ua,nouns,0.1
+324,tuuli,upepo,nouns,4.3
+325,dermatiitti,ugonjwa wa ngozi,nouns,3.1
+326,aisti,silika,nouns,0.85
+327,tietää,kuamini,verbs,1.25
+328,sana,fasihi,nouns,0.7
+329,säästää,kutumia,verbs,0.45
+330,hyväksyä,kusamehe,verbs,1.0
+331,tunnustaa,kujulisha,verbs,1.1
+332,kynsi,kichwa,nouns,0.7
+333,hissi,gari,nouns,0.4
+334,välttää,kupuuza,verbs,2.9
+335,poissa,ugenini,adverbs,0.25
+336,tarpeeton,lazima,adjectives,0.25
+337,läsnäolo,mshindi,nouns,0.05
+338,raha,almasi,nouns,0.45
+339,jakku,nguo,nouns,2.5
+340,basilikakirkko,basilika,nouns,0.3
+341,vastapäinen,kinyume,adjectives,0.4
+342,tulostaa,kuchapisha,verbs,0.0
+343,apokalypsi,siku ya mwisho,nouns,0.1
+344,puuhiili,makaa ya mawe,nouns,3.8
+345,kritiikki,hoja,nouns,0.75
+346,vehnä,nafaka,nouns,2.75
+347,nopeasti,kwa haraka,adverbs,4.8
+348,päivällinen,chakula,nouns,3.65
+349,temppu,mchezo,nouns,0.7
+350,käsikirjoitus,muswada,nouns,1.85
+351,yrittää,kufanikiwa,verbs,0.9
+352,hankkia,kujiunga,verbs,0.1
+353,vilja,ngano,nouns,2.75
+354,luku,tarakimu,nouns,0.0
+355,laittaa,kupata,verbs,0.25
+356,kuu,sayari,nouns,1.7
+357,valmiudet,ustadi,nouns,4.2
+358,pitkäveteinen,boreka,adjectives,1.55
+359,filosofi,mphilisophia,nouns,0.0
+360,vakava,makini,adjectives,0.25
+361,mutantti,jitu,nouns,0.0
+362,sali,ukumbi,nouns,0.75
+363,yö,sura,nouns,0.0
+364,tie,barabara,nouns,4.6
+365,lasi,glasi,nouns,0.0
+366,karja,mifugo,nouns,0.2
+367,vatsa,mwili,nouns,1.4
+368,voittaja,lengo,nouns,0.5
+369,valmistaa,kuwa,verbs,0.05
+370,järkyttää,kuhuzunika,verbs,0.4
+371,aritmetiikka,pigo,nouns,0.1
+372,terävä,ncha kali,adjectives,0.15
+373,nuoli,lengo,nouns,0.4
+374,samannäköinen,sawa,adjectives,4.15
+375,vakuuttaa,kushawishi,verbs,0.35
+376,jakolasku,mgawanyiko,nouns,0.95
+377,turvallisuus,starehe,nouns,0.9
+378,leipä,nyama,nouns,0.55
+379,juhlia,kusherekea,verbs,0.0
+380,hienovaraisesti,kwa ujanja,adverbs,0.55
+381,pilvi,hali ya hewa,nouns,1.3
+382,kaivos,machimbo,nouns,0.2
+383,öljy,ngozi,nouns,0.1
+384,käytävä,ushoroba,nouns,4.0
+385,hakemus,maombi,nouns,1.65
+386,jättää,kuchukua,verbs,0.4
+387,kunto,hali,nouns,1.35
+388,kysyä,kusali,verbs,0.75
+389,kurkku,ulimi,nouns,1.4
+390,sosiobiologia,jamii,nouns,0.0
+391,karkea,baridi,adjectives,0.3
+392,viha,hali,nouns,0.3
+393,lainata,kuweka,verbs,0.25
+394,hauskanpito,mpira wa miguu,nouns,0.6
+395,vilpittömästi,kwa ukweli,adverbs,0.55
+396,linja-auto,teksi,nouns,2.05
+397,pidättää,kukamatwa,verbs,0.25
+398,miekka,sime,nouns,0.05
+399,luu,taya,nouns,0.85
+400,viestintä,lugha,nouns,2.2
+401,tulla,kuleta,verbs,1.05
+402,kovakouraisesti,takriban,adverbs,0.13
+403,kieleke,mlima,nouns,1.25
+404,aktiivisesti,kwa uhai,adverbs,0.2
+405,kuolla,kufariki,verbs,0.55
+406,kaareva,pinda,adjectives,0.35
+407,hyvin,salama,adjectives,0.0
+408,kiillottaa,kung'arisha,verbs,0.0
+409,nenä,pua,nouns,1.1
+410,valkuaisaine,protini,nouns,0.15
+411,alumiini,alumini,nouns,2.85
+412,auto,teksi,nouns,3.75
+413,härkä,farasi,nouns,1.0
+414,kiista,mapatano,nouns,0.25
+415,etsiä,tafuta,verbs,1.05
+416,ystävällisesti,kirafiki,adverbs,0.0
+417,hävitä,kupungua,verbs,1.25
+418,alkuperäisesti,ya uhalisia,adverbs,1.1
+419,kryptogrammi,maandishi ya siri,nouns,1.2
+420,potilas,mgonjwa,nouns,0.1
+421,taksi,teksi,nouns,4.35
+422,puu,mti,nouns,0.25
+423,kappeli,kanisa ,nouns,0.0
+424,taksiauto,motokaa,nouns,4.35
+425,muodollinen,sahihi,adjectives,2.05
+426,paperi,kuni,nouns,0.9
+427,antelias,wa kirafiki,adjectives,1.9
+428,lyödä,kupiga,verbs,1.48
+429,käsivarsi,mguu,nouns,1.5
+430,otaksua,kujifanya,verbs,0.4
+431,palvelija,mtumishi,nouns,2.65
+432,lelu,kichezeo,nouns,0.15
+433,maksu,mshahara,nouns,1.05
+434,katastrofi,kifo,nouns,1.4
+435,siirrellä,kuchanganya,verbs,0.45
+436,ehdottaa,kupendekeza,verbs,3.25
+437,antaa,kupokea,verbs,0.55
+438,valmentaja,kocha,nouns,1.1
+439,huone,mahabusu,nouns,0.95
+440,täysin,kwa ukamilifu,adverbs,0.2
+441,jäädä,kuondoka,verbs,0.6
+442,sivilisaatio,ustaarabu,nouns,1.2
+443,tiheä,ngumu,adjectives,0.55
+444,sinkki,zinki,nouns,1.25
+445,epämääräinen,isiyo dhahiri,adjectives,4.65
+446,putki,sigara,nouns,0.2
+447,neutraali,upande wowote,adjectives,0.4
+448,salamahyökkäys,mashambulizi,nouns,4.45
+449,aito,halisi,adjectives,0.3
+450,heppu,rafiki,nouns,0.6
+451,liueta,kuyeyusha,verbs,0.6
+452,yhtye,pombe,nouns,0.05
+453,raitiovaunu,tramu,nouns,2.1
+454,pää,mguu,nouns,0.75
+455,mehiläinen,sisimizi,nouns,1.05
+456,kuljettaa,endesha,verbs,0.1
+457,keskikokoinen,wastani,adjectives,0.45
+458,sulkea,kufunga,verbs,0.0
+459,auto,gari,nouns,3.35
+460,puuvilla,plastiki,nouns,0.75
+461,hoikka,nyembamba,adjectives,5.05
+462,tyydyttää,kujipendekeza,verbs,2.0
+463,heikko,dhaifu,adjectives,0.3
+464,katto,sakafu,nouns,0.5
+465,teeskennellä,kudhani,verbs,0.4
+466,liha,damu,nouns,1.1
+467,professori,mwanafunzi,nouns,0.75
+468,infektio,maambukizo,nouns,0.75
+469,onnellisuus,bahati,nouns,0.35
+470,pappi,mtawa,nouns,2.15
+471,pilvi,wingu,nouns,0.2
+472,kone,mashine,nouns,3.1
+473,siepata,kuteka nyara,verbs,2.05
+474,uusi,ya zamani,adjectives,0.25
+475,prinsessa,mfalme,nouns,2.2
+476,valinta,mshipa,nouns,0.05
+477,lisko,mjusi,nouns,2.8
+478,vartalo,mkono,nouns,1.6
+479,juoruilu,habari,nouns,1.05
+480,hauska,mwenye huzuni,adjectives,0.25
+481,kalkkuna,ndege,nouns,3.3
+482,viestintä,televisheni,nouns,1.3
+483,lainaaja,mkopi,nouns,0.85
+484,syvästi,kwa undani,adverbs,0.5
+485,käsivarsi,mwili,nouns,1.6
+486,kaavio,chati,nouns,3.3
+487,suuresti,zaidi,adverbs,0.4
+488,korjata,kurekebisha,verbs,0.4
+489,kriketti,kriketi,nouns,0.0
+490,luokka,darasa,nouns,0.0
+491,orja,falahi,nouns,2.65
+492,ymmärtää,kusamehe,verbs,0.65
+493,järjestelmä,mfumo,nouns,0.1
+494,tarpeellinen,muhimu,adjectives,2.75
+495,kertoa,kugawanya,verbs,0.65
+496,makeinen,peremende,nouns,0.35
+497,hyönteinen,nyuki,nouns,2.6
+498,neliö,mraba,nouns,0.0
+499,kysyä,kusihi,verbs,0.85
+500,kuuluisuus,utajiri,nouns,0.4
+501,moottoritie,jukumu,nouns,0.1
+502,romaani,simulizi,nouns,0.55
+503,hallitus,serikali,nouns,0.0
+504,älypuhelin,simu mahiri,nouns,0.0
+505,myydä,kukumbusha,verbs,0.0
+506,juhla,sherehe,nouns,0.2
+507,linssi,kamera,nouns,1.85
+508,epäonnistua,kufanikiwa,verbs,0.25
+509,eteishalli,darasa,nouns,0.55
+510,tuoli,kiti,nouns,3.7
+511,olla eri mieltä,kukutokubali,verbs,0.65
+512,linja-auto,chombo cha usafiri,nouns,3.65
+513,neule,jaketi,nouns,2.85
+514,antaa,kujua,verbs,0.15
+515,huippu,upande,nouns,0.5
+516,tausta,mandharinyuma,nouns,1.65
+517,ajatella,kujaribu,verbs,0.15
+518,apina,nyani,nouns,0.0
+519,jättää,kujitokeza,verbs,0.4
+520,juonittelija,mweka mipango,nouns,2.5
+521,suru,uchungu,nouns,3.05
+522,luu,misuli,nouns,0.7
+523,presidentti,uchafuzi,nouns,0.1
+524,huutaa,kuguta,verbs,0.55
+525,rajaviiva,ukingo,nouns,3.55
+526,silta,kadi,nouns,0.1
+527,veljeskunta,wanaume,nouns,1.15
+528,paketti,furushi,nouns,0.05
+529,nyt,sasahivi,adverbs,1.05
+530,käsi,kidole gumba,nouns,1.75
+531,dollari,watu,nouns,0.35
+532,piparminttu,mti wa minti,nouns,0.45
+533,helppo,rahisi,adjectives,0.13
+534,käyrä,pembe,nouns,1.3
+535,jättää,kuzurura,verbs,0.35
+536,naida,kuchumbia,verbs,2.5
+537,kiirehtiä,kuharakisha,verbs,2.1
+538,viini,kileo,nouns,3.45
+539,vaunu,chombo,nouns,0.1
+540,syyttää,kulaumu,verbs,2.27
+541,antaa,kuweka,verbs,0.3
+542,tukki,kuoga,nouns,0.0
+543,lentoperämies,rubani msaidizi,nouns,0.55
+544,koju,sanduku,nouns,0.1
+545,opiskelija,mwanafunzi,nouns,1.1
+546,unohtaa,kudumisha,verbs,0.1
+547,luonne,daktari,nouns,0.0
+548,vartalo,neva,nouns,0.9
+549,viesti,noti,nouns,0.55
+550,laatija,mkusanyaji,nouns,0.1
+551,tehtävä,kazi,nouns,3.55
+552,kasvi,mmea,nouns,1.25
+553,torjua,kuepa,verbs,1.75
+554,rangaista,kuadhibu,verbs,0.2
+555,taistella,kupigana,verbs,0.3
+556,ahdistunut,ogopa,adjectives,3.55
+557,kuunnella,kutii,verbs,1.35
+558,riutta,ufuko,nouns,0.8
+559,jättää,kuingia,verbs,0.05
+560,kuppi,koni,nouns,0.1
+561,bändi,wanamuziki,nouns,4.8
+562,huomattava,wazi,adjectives,2.3
+563,auringonlasku,macheo,nouns,1.55
+564,kaoottisesti,kwa vurugu,adverbs,0.2
+565,halpa,mchafu,adjectives,0.15
+566,syyllinen,ana aibu,adjectives,0.6
+567,lujasti,kwa kidete,adverbs,0.2
+568,kysyä,kupuuza,verbs,0.05
+569,ovi,dirisha,nouns,1.2
+570,maissikasvi,mahindi,nouns,4.4
+571,hyytävä,wa kukwaruza,adjectives,0.3
+572,massiivisesti,kwa ukubwa,adverbs,0.15
+573,sattua,uma,verbs,0.4
+574,poissaolo,kuwepo,nouns,0.35
+575,kiistellä,kupinga,verbs,0.15
+576,meri,bahari,nouns,1.0
+577,ovi,kengele,nouns,0.2
+578,halpa,si ghali,adjectives,5.2
+579,intuitio,hisi,nouns,0.85
+580,verho,nguzo,nouns,0.05
+581,karkeasti,takriban,adverbs,0.4
+582,puutteenalainen,mhitaji,adjectives,0.2
+583,sohva,kiti,nouns,2.9
+584,itsenäisesti,kwa kujitegemea,adverbs,1.25
+585,essee,kitabu,nouns,1.2
+586,rytmi,mahadhi,nouns,0.7
+587,ylivalta,ukuu,nouns,2.8
+588,hitti,pigo,nouns,0.0
+589,omena,juisi,nouns,0.85
+590,harvoin,nadra,adverbs,0.2
+591,uskomaton,maradufu,adjectives,0.25
+592,tuomioistuin,mahakama,nouns,1.7
+593,antaa,kuazima,verbs,1.05
+594,ottaa osaa,kushirikiana,verbs,3.0
+595,kurpitsa,damu,nouns,0.3
+596,tunne,hamu,nouns,2.85
+597,ylpeästi,kwa jeuri,adverbs,0.1
+598,asianmukainen,rasmi,adjectives,2.05
+599,kangas,nguo,nouns,2.8
+600,tiede,saikolojia,nouns,2.2
+601,olla erilainen,kukubali,verbs,0.05
+602,korottaa,kuongeza,verbs,1.5
+603,selittää,kufafanua,verbs,4.4
+604,haluta,kutaka,verbs,4.45
+605,masennus,huzuni,nouns,0.0
+606,laiton,haramu,adjectives,0.3
+607,virsi,biblia,nouns,0.5
+608,sulautua,kuchanganya,verbs,0.0
+609,koko,senti,nouns,0.7
+610,toimittaa,kubeba,verbs,1.15
+611,potkaista,kupiga,verbs,0.4
+612,kirjallinen muotokuva,kutokea kwenye onyesho,nouns,1.05
+613,työläinen,kamera,nouns,0.05
+614,jumala,shetani,nouns,0.65
+615,elin,ini,nouns,2.3
+616,kyynärpää,kifundo cha mguu,nouns,1.0
+617,tuoda,kurudisha,verbs,1.6
+618,käsikirjoitus,muswada,nouns,1.6
+619,todennäköisesti,labda,adverbs,0.4
+620,purra,uma,verbs,0.0
+621,ilmailuelektroniikka,umeme wa ndege,nouns,1.0
+622,tauti,ugonjwa wa kuambukiza ,nouns,3.7
+623,etikka,saladi,nouns,0.3
+624,alkoholi,divai,nouns,3.45
+625,ministeriö,huduma,nouns,0.1
+626,silta,gari,nouns,0.2
+627,epäaito,feki,adjectives,0.3
+628,jaardi,inchi,nouns,1.75
+629,hauska,inayochekesha,adjectives,0.25
+630,hiljattain,hivi karibuni,adverbs,3.0
+631,vyöhyke,eneo,nouns,4.7
+632,keidas,oasisi,nouns,0.0
+633,perinne,utamaduni,nouns,0.2
+634,leuka,mfupa,nouns,0.85
+635,kohta,ukurasa,nouns,0.2
+636,eläin,mtu,nouns,0.45
+637,kirjekuori,bahasha,nouns,0.05
+638,pullo,chupa,nouns,1.85
+639,älykkyys,mantiki,nouns,2.8
+640,pormestari,mkuu,nouns,1.9
+641,minuutti,sekunde,nouns,2.5
+642,lähettää,kwenda,verbs,0.15
+643,paristo,betri,nouns,0.0
+644,kuolema,balaa,nouns,1.45
+645,työntekijä,mwajiri,nouns,1.05
+646,vektori,vector,nouns,1.35
+647,tunnettu,inayojulikana,adjectives,0.0
+648,vaatimaton,nyenyekevu,adjectives,4.75
+649,rauha,amani,nouns,0.2
+650,sade,manyunyu,nouns,4.35
+651,vieras,rafiki,nouns,0.45
+652,kello,mnara,nouns,0.4
+653,puhdashenkinen,safi,adjectives,0.3
+654,kertolasku,zidisha,nouns,0.95
+655,sairaala,kitanda,nouns,0.3
+656,vihje,neno,nouns,0.3
+657,ranta,uwanda wa bahari,nouns,nan
+658,yleensä,kawaida,adverbs,0.15
+659,sihteeri,mwanamke,nouns,0.7
+660,laulu,tuni,nouns,3.55
+661,hyväksyä,kuitikia,verbs,4.15
+662,maksa,pafu,nouns,1.0
+663,aurinko,anga,nouns,1.05
+664,leikkuupuimuri,changanya,nouns,0.1
+665,päästä,kuchukua,verbs,0.55
+666,edellyttää,kutafiti,verbs,0.35
+667,kerho,klabu,nouns,0.05
+668,paristo,betri,nouns,1.1
+669,kuunnella,kuelewa,verbs,1.1
+670,hyökätä,kushambulia,verbs,0.45
+671,galleria,nyumba ya sanaa,nouns,0.0
+672,ovi,mlangoni,nouns,3.45
+673,kattila,kifaa,nouns,0.4
+674,auto,lifti,nouns,0.4
+675,molekyyli,atomu,nouns,2.55
+676,temppu,bunduki,nouns,0.05
+677,tilanne,mazingira,nouns,1.35
+678,valmistaa,kuchuma,verbs,0.3
+679,ksenofobia,ubaguzi,nouns,4.2
+680,lohduttaa,kufaraja,verbs,0.0
+681,keskeinen,lazima,adjectives,2.75
+682,innostunut,sisimka,adjectives,0.4
+683,kirja,insha,nouns,1.2
+684,tunneli,shimo,nouns,0.25
+685,logiikka,akili,nouns,2.8
+686,saada,kushindwa,verbs,0.15
+687,vastapäinen,kinyume,adjectives,0.15
+688,varovaisuus,tahadhari,nouns,0.9
+689,kirjailija,muandishi,nouns,0.0
+690,köyhä,maskini,adjectives,0.0
+691,pyyhkiä,kupanguza,verbs,0.05
+692,enkeli,malaika,nouns,0.55
+693,ilmestyä,kuondoka,verbs,0.4
+694,epäonnistua,kukanya,verbs,0.55
+695,purukumi,fizi,nouns,0.45
+696,huomenna,kesho,adverbs,0.35
+697,viehättää,kuvutia,verbs,0.0
+698,häntä,jabali,nouns,0.0
+699,äiti,baba,nouns,1.05
+700,maissi,nafaka,nouns,4.4
+701,ompelulanka,uzi,nouns,4.85
+702,luvata,kuweka ahadi,verbs,4.55
+703,kamera,kamera,nouns,0.0
+704,ihmeellinen,poa,adjectives,1.8
+705,artikkeli,kitabu,nouns,1.4
+706,hunaja,asali,nouns,0.0
+707,avain,funguo,nouns,1.05
+708,ilma,molekuli,nouns,0.5
+709,tuhota,kujenga,verbs,0.25
+710,äänioikeus,haki ya upigaji kura,nouns,0.0
+711,hattu,sanduku,nouns,0.1
+712,pekoni,nyama,nouns,3.65
+713,radikaali,fikra mpya,adjectives,0.75
+714,oppilas,mwanafunzi,nouns,4.8
+715,avioliiton ulkopuolinen,nje ya ndoa,adjectives,0.0
+716,täysin,kwa uzima,adverbs,0.7
+717,kadottaa,kupoteza,verbs,0.4
+718,piispa,askofu,nouns,0.2
+719,niukasti,mara kwa mara,adverbs,0.25
+720,raapustaa,kuandika,verbs,2.85
+721,nostaa,kunyanyua,verbs,4.15
+722,yrittää,kutimiza,verbs,0.8
+723,asunto,nyumba,nouns,3.7
+724,metalli,bati,nouns,0.95
+725,avustaa,kusaidia,verbs,4.65
+726,helmi,hela,nouns,0.2
+727,tapaus,kesi,nouns,0.03
+728,tuhlata,takataka,verbs,0.05
+729,tavata,kukusanya,verbs,2.75
+730,itseluottamus,nafsi,nouns,0.85
+731,pilli,mke,nouns,0.0
+732,huippu,chini,nouns,0.3
+733,virkapuku,sare,nouns,0.0
+734,kori,mpira,nouns,0.3
+735,erityinen,maalumu,adjectives,2.6
+736,helppo,pole,adjectives,0.5
+737,turkki,mwanamke,nouns,0.0
+738,kulmakarva,jicho,nouns,0.65
+739,oudosti,ya kustajabisha,adverbs,4.8
+740,onnellinen,mchanga,adjectives,0.15
+741,uskomus,ua,nouns,0.05
+742,tuomari,hakimu,nouns,1.7
+743,ihana,wa ajabu,adjectives,1.35
+744,hiekka,mchanga,nouns,0.0
+745,tietosanakirja,ensaiklopidia,nouns,2.95
+746,pallo,mpira,nouns,1.65
+747,kaaos,vurugu,nouns,0.0
+748,aamiainen,karamu,nouns,1.0
+749,jakaa,kuzidisha,verbs,0.65
+750,opettaja,rafiki,nouns,0.5
+751,kaapeli,amari,nouns,0.0
+752,minuus,hakika,nouns,0.85
+753,kappale,usiku,nouns,0.0
+754,biohajota,kuoza,verbs,1.35
+755,jalkaterä,kichwa,nouns,0.75
+756,valita,kuamua,verbs,2.5
+757,epäaito,bandia,adjectives,4.95
+758,torjunta-aine,dawa ya wadudu,nouns,0.7
+759,huokea,rahisi,adjectives,5.2
+760,leipoa,kuoka,verbs,2.35
+761,olkapää,mwili,nouns,0.95
+762,levy,kompyuta,nouns,0.45
+763,häntä,mkia,nouns,1.9
+764,kynsi,mkono,nouns,1.05
+765,kapea,mrefu,adjectives,0.45
+766,rouskua,kuteketa,verbs,0.75
+767,vaara,ugonjwa,nouns,0.5
+768,lukija,mtunzi,nouns,0.65
+769,käsivarsi,bega,nouns,1.9
+770,arvioida,kujifunza,verbs,0.85
+771,sisäkatto,paa,nouns,4.1
+772,tänä iltana,leo usiku,adverbs,0.35
+773,viisumi,mhuri,nouns,0.3
+774,kielenkäyttö,mawasiliano,nouns,2.2
+775,veli,kaka,nouns,1.8
+776,tiedustella,ulizia,verbs,2.15
+777,nenä,koo,nouns,1.05
+778,lisätä,kuunda,verbs,0.55
+779,epärehellinen,danganyifu,adjectives,0.85
+780,juosta,kimbia,verbs,0.45
+781,väkivaltainen,dhalimu,adjectives,0.75
+782,muistuttaa,kusahau,verbs,0.25
+783,saada kiinni,kukamata,verbs,3.25
+784,satama,bandari,nouns,0.0
+785,sulkea,kukuifungia,verbs,0.0
+786,riisi,mvulana,nouns,0.0
+787,ajatella,kuamua,verbs,1.95
+788,kahdesti,mara mbili,adverbs,0.55
+789,tohtori,profesa,nouns,1.7
+790,setä,shangazi,nouns,0.85
+791,televisio,runinga,nouns,0.4
+792,rytmi,hesabu,nouns,0.1
+793,täsmällisesti,kwa usahihi,adverbs,0.45
+794,viheltää,mluzi,verbs,0.05
+795,jatko-osa,mwendelezo,nouns,0.0
+796,sanakirja,namna,nouns,0.35
+797,iso,kubwa,adjectives,0.15
+798,haudata,kuzikwa,verbs,1.5
+799,keksi,biskuti,nouns,0.0
+800,kunnossa oleva,sawa,adjectives,0.65
+801,miekka,panga,nouns,0.0
+802,aakkoset,alphabeti,nouns,0.05
+803,tylsä,mkali,adjectives,0.25
+804,laskeutua,teremka,verbs,0.55
+805,näyttelijä,mwimbaji,nouns,0.9
+806,koriste,mapambo,nouns,0.05
+807,iiris,boriti,nouns,0.15
+808,lippu,bendera,nouns,0.7
+809,mittari,gari,nouns,0.25
+810,henkilö,mnyama,nouns,0.45
+811,puutavara,gogo,nouns,2.85
+812,luovasti,kiubunifu,adverbs,1.1
+813,suojella,kuliinda,verbs,1.4
+814,pitkä,mfupi,adjectives,0.25
+815,luostari,monasteri,nouns,0.0
+816,pyrkiä,kujitahidi,verbs,0.0
+817,kirkkaasti,kwa ukali,adverbs,0.5
+818,syntymäpäivä,tarehe,nouns,1.75
+819,ylpeä,mwenye nguvu,adjectives,0.35
+820,ulospäinsuuntautunut,inayotoka,adjectives,0.32
+821,virus,kirusi,nouns,0.6
+822,käsivarsi,mshipa,nouns,0.5
+823,vartalo,kifua,nouns,2.1
+824,miljonääri,milionea,nouns,1.05
+825,sää,theluji,nouns,0.7
+826,hakusana,nenokuu,nouns,0.9
+827,kurkku,pua,nouns,1.05
+828,valita,kuteua,verbs,0.0
+829,viikottainen,kwa wiki,adjectives,0.7
+830,kiista,majadiliano,nouns,1.0
+831,ekosysteemi,mfumo wa ikolojia,nouns,0.55
+832,henkilö,mtu,nouns,3.15
+833,kurjuus,ukiwa,nouns,2.6
+834,hankkia,kupata,verbs,1.7
+835,koko,ukubwa,nouns,5.35
+836,fakta,umaizi,nouns,1.35
+837,sensuuri,udhibiti,nouns,0.2
+838,riisi,maharagwe,nouns,0.85
+839,hauska,wa kuchosha,adjectives,0.25
+840,jalkaterä,mkono,nouns,1.1
+841,kuukausittainen,kila mwezi,adjectives,0.7
+842,vanhempi,baba,nouns,3.75
+843,ilo,kiburi,nouns,0.95
+844,leiri,kibanda,nouns,0.5
+845,tuoda,kulalamika,verbs,0.05
+846,haavoittuvainen,walio hatarini,adjectives,0.05
+847,päivällinen,supu,nouns,1.05
+848,väkijoukko,gwaride,nouns,1.05
+849,koe,mtihani,nouns,0.45
+850,arvokas,yenye thamani,adjectives,2.6
+851,kunto,makubaliano,nouns,0.05
+852,luoda,kuunda,verbs,3.85
+853,mainitsematon,haionekani,adjectives,0.0
+854,organisoida,panga,verbs,1.5
+855,alusvaatteet,chupi,nouns,0.15
+856,kutistua,kupotea,verbs,1.25
+857,auto,daraja,nouns,0.2
+858,leipä,unga,nouns,1.3
+859,aihe,kitabu,nouns,0.5
+860,sormus,pete,nouns,0.75
+861,vastaanottaa,kupokea,verbs,0.9
+862,tieteilijä,muuguzi,nouns,0.35
+863,pari,vitu viwili,nouns,5.35
+864,itsepäinen,msumbufu,adjectives,0.8
+865,kone,injini,nouns,3.35
+866,yksinkertaisesti,kirahisi,adverbs,0.1
+867,tehtävä,kazi,nouns,4.4
+868,mies,mwanaume,nouns,0.15
+869,nilkka,dirisha,nouns,0.0
+870,omituinen,mgeni,adjectives,4.6
+871,ruma,mbaya,adjectives,0.95
+872,työntää,kusukuma,verbs,0.0
+873,hyväksyä,kukubali,verbs,0.3
+874,vuosi,mwaka,nouns,1.35
+875,henkilökohtainen,kibinasfi,adjectives,3.7
+876,muistuttaa,kuuza,verbs,0.0
+877,väärä,kosa,adjectives,0.05
+878,pohja,besi,nouns,0.25
+879,polkupyörä,chumba cha kulala,nouns,0.0
+880,palvelustyttö,msichana,nouns,1.3
+881,lyhyt,mrefu,adjectives,0.25
+882,koira,paka,nouns,0.9
+883,pallo,mavazi,nouns,0.05
+884,patologia,stadi ya magonjwa,nouns,2.35
+885,päättää,kuonyesha,verbs,0.25
+886,surullinen,mbovu,adjectives,0.6
+887,suorittaa,kutumbuiza,verbs,0.2
+888,kylki,juu,nouns,0.5
+889,työ,jukumu,nouns,3.55
+890,polvi,mkono,nouns,0.85
+891,teleskooppi,darubini,nouns,0.0
+892,epänormaalisti,sikawaida,adverbs,0.2
+893,sitruuna,matofaa,nouns,1.05
+894,joskus,mara nyingine,adverbs,0.75
+895,kotona,nyumbani,adverbs,0.25
+896,laskimo,tumbo,nouns,0.6
+897,katto,dari,nouns,4.1
+898,tölkki,kopo,nouns,1.85
+899,rankka,ngumu,adjectives,2.45
+900,hullu,mgonjwa,adjectives,1.0
+901,vastuullisesti,kwa uwajibikaji,adverbs,1.25
+902,morsian,bwana arusi,nouns,0.85
+903,oppia,kujifunza,verbs,0.0
+904,ase,mbinu,nouns,0.05
+905,päivällinen,chakula cha asubuhi,nouns,0.9
+906,kyynel,jicho,nouns,1.15
+907,apuraha,ufadhili wa elimu,nouns,1.2
+908,juuri,nyasi,nouns,0.7
+909,ampua ohi,kukosa,verbs,0.2
+910,peittää,kufunika,verbs,3.2
+911,hampaat,meno,nouns,0.0
+912,senaatti,seneti,nouns,0.7
+913,astronomi,mtaalam wa nyota,nouns,0.35
+914,uskoa,kukubali,verbs,1.7
+915,luotettavasti,kwa kuaminika,adverbs,0.05
+916,hiljattain,hivi karibuni,adverbs,0.0
+917,maksaa,kulipa,verbs,1.32
+918,ratkaista,kutoa suluhisho,verbs,2.4
+919,määritelmä,kamusi,nouns,0.35
+920,selkäranka,mwili,nouns,0.8
+921,sentti,saizi,nouns,0.7
+922,purra,kung'ata,verbs,0.65
+923,jäädä,kupata,verbs,0.15
+924,hammaslääkäri,kanali,nouns,0.45
+925,kimppu,umati,nouns,0.1
+926,epäilty,mshukiwa,nouns,0.15
+927,laivasto,jeshi la wanamaji,nouns,0.05
+928,lento,ndege,nouns,3.15
+929,terävä,mbutu,adjectives,0.25
+930,palauttaa,kuleta,verbs,1.6
+931,palvelustyttö,msaidizi,nouns,2.65
+932,odottaa,kungoja,verbs,0.15
+933,lannistaa,kukatisha tamaa,verbs,0.65
+934,aamunkoitto,usiku,nouns,0.65
+935,huoltaja,mama,nouns,3.1
+936,sivu,neno,nouns,0.2
+937,torjua,kukataa,verbs,0.0
+938,iloinen,ana hasira,adjectives,0.05
+939,opettaa,kufundisha,verbs,2.65
+940,kummallinen,ya kushangaza,adjectives,0.3
+941,vaatetettu,amevaa,adjectives,1.35
+942,varoittaa,onya,verbs,0.15
+943,helppo,bila jasho,adjectives,4.75
+944,infektio,ugonjwa,nouns,3.7
+945,kunnioitus,pongezi,nouns,1.9
+946,uskonto,dini,nouns,1.1
+947,kertoa,kujumlisha,verbs,1.1
+948,terävä,kali,adjectives,0.0
+949,helppo,ngumu,adjectives,0.4
+950,kiistellä,kubisha,verbs,0.35
+951,niellä,meza,verbs,2.25
+952,kellua,kuelea,verbs,0.0
+953,mukavasti,kwa uzuri,adverbs,2.65
+954,kaapata,kudaka,verbs,3.25
+955,velho,mchawi,nouns,0.0
+956,leveä,mwembamba,adjectives,0.25
+957,valopuhelin,picha,nouns,0.0
+958,kerätä,kuchukua,verbs,0.1
+959,suurenmoinen,mbaya,adjectives,0.05
+960,antaa lainaksi,kupa,verbs,2.2
+961,vuosi,siku ya kuzaliwa,nouns,0.65
+962,tiedustella,kuwaza,verbs,0.5
+963,peukalo,ukucha,nouns,1.5
+964,viestiä,kusali,verbs,0.35
+965,eläin,nunda,nouns,2.15
+966,turvattu,lindwa,adjectives,0.05
+967,ladata,kutiachaji,verbs,0.3
+968,ystävä,mama,nouns,0.65
+969,tarina,wimbo,nouns,0.65
+970,sonni,ndama,nouns,2.25
+971,tukahduttaa,kuwa nyororo,verbs,0.25
+972,ase,silaha,nouns,0.4
+973,valehdella,kudanganya,verbs,0.28
+974,havaintokyky,kuona,nouns,2.55
+975,ihastuttava,mchangamfu,adjectives,1.2
+976,kitara,gitaa,nouns,0.0
+977,sana,sentensi,nouns,1.9
+978,sanoa,kuhakikisha,verbs,0.55
+979,vaatteet,jaketi,nouns,2.5
+980,kapea,mchafu,adjectives,0.0
+981,kemia,nadharia,nouns,0.3
+982,epäluonnollisesti,si asili,adverbs,0.35
+983,normaali,si wa kawaida,adjectives,0.35
+984,televisio,mawasiliano,nouns,1.3
+985,maali,jitihada,nouns,0.25
+986,lanka,nyuzi,nouns,4.85
+987,tunnelma,uchafuzi,nouns,0.1
+988,hanska,mpira,nouns,0.8
+989,intohimo,hisia,nouns,2.85
+990,hevonen,ng'ombe dume,nouns,1.0
+991,auto,gari,nouns,3.55
+992,suu,pua,nouns,1.0
+993,evakuoida,kuondoka,verbs,0.05
+994,viikonloppu,wiki,nouns,1.65
+995,laki,shule,nouns,0.15
+996,paha,ana hatia,adjectives,1.4
+997,nappi,nguo,nouns,1.0
+998,saavuttaa,kufanikiwa,verbs,3.2
+999,tilastotiede,takwimu,nouns,0.0
+1000,hammas,kinywa,nouns,1.5
+1001,puumateriaali,mbao,nouns,0.35
+1002,paha,wa dhambi,adjectives,2.8
+1003,vaikutelma,imani,nouns,0.9
+1004,tukehtua,kupumua,verbs,0.3
+1005,hiiri,paka,nouns,0.85
+1006,lehmä,mifugo,nouns,2.9
+1007,nolla,sufuri,nouns,0.1
+1008,kaaos,mchafuko,nouns,4.05
+1009,polku,njia,nouns,0.25
+1010,universumi,anga,nouns,0.8
+1011,ruoka,chakula,nouns,0.0
+1012,laulaja,mchezaji,nouns,0.9
+1013,matkapuhelin,simu ya mkononi,nouns,4.45
+1014,kirja,dhima,nouns,0.3
+1015,suositella,kushauri,verbs,3.6
+1016,jalkapallo,mpira wa miguu,nouns,5.9
+1017,kulho,mkia,nouns,0.0
+1018,katu,gari,nouns,0.2
+1019,täysikasvuinen,umekua,adjectives,0.2
+1020,vapaus,uhuru,nouns,0.0
+1021,sopimus,makubaliano,nouns,5.05
+1022,odottaa,kusubiri,verbs,1.85
+1023,presidentti,mwanachuo,nouns,0.25
+1024,pankkiiri,mwanasheria,nouns,0.8
+1025,tietää,kuelewa,verbs,3.7
+1026,saari,jukumu,nouns,0.0
+1027,solakka,mwembamba,adjectives,5.05
+1028,samanaikaisuus,mapatano,nouns,0.0
+1029,kuja,bakuli,nouns,0.05
+1030,kirkko,kwaya,nouns,1.05
+1031,hämmentää,kukoroga,verbs,4.95
+1032,kuvitella,kujifanya,verbs,0.65
+1033,kurssi,tendo,nouns,0.3
+1034,joustava,flexibo,adjectives,0.7
+1035,vaatia,hitaji,verbs,0.35
+1036,siisti,safi,adjectives,5.1
+1037,reikä,mke,nouns,0.0
+1038,löytää,kupotea,verbs,0.25
+1039,huone,kuoga,nouns,0.1
+1040,näyttelijä,mwigaji,nouns,0.28
+1041,makeinen,matofaa,nouns,0.35
+1042,ostaa,kununua,verbs,2.65
+1043,kiirastuli,purigatori,nouns,1.6
+1044,kieli,shavu,nouns,0.95
+1045,itsevarma,ana hakika,adjectives,3.15
+1046,murehtia,kuwa na wasiwasi,verbs,0.05
+1047,veistos,sanamu,nouns,4.9
+1048,tuoli,benchi,nouns,4.2
+1049,joki,bonde,nouns,0.6
+1050,tulla,kupanga,verbs,0.1
+1051,selittää,kujadili,verbs,1.5
+1052,tyttö,mvulana,nouns,0.6
+1053,arvokkuus,hadhi,nouns,0.15
+1054,sukeltaa,piga mbizi,verbs,0.0
+1055,ihmeellinen,mwenye kupendeza,adjectives,1.35
+1056,jännittävä,sisimsha,adjectives,0.2
+1057,lattia,paa,nouns,0.5
+1058,olennaisesti,kimsingi,adverbs,0.95
+1059,arvo,imani,nouns,0.95
+1060,kilpailla,kushindana,verbs,0.3
+1061,tietoisuus,uangalifu,nouns,1.4
+1062,ei koskaan,kamwe,adverbs,0.0
+1063,teatteri,ukumbi,nouns,0.0
+1064,siemen,mbegu,nouns,0.25
+1065,toimisto,ofisi,nouns,0.65
+1066,opettaja,rabai,nouns,1.8
+1067,leipä,chizi,nouns,0.75
+1068,sähkö,umeme,nouns,0.0
+1069,kampanja,kampeni,nouns,0.0
+1070,punainen,nyekundu,adjectives,0.9
+1071,tunnustus,kanusho,nouns,0.25
+1072,tunnustaa,kuzungumza,verbs,0.8
+1073,opetussuunnitelma,mtaala,nouns,0.45
+1074,emolevy,bodi mama(mama as central),nouns,4.3
+1075,auto,baisikeli,nouns,1.0
+1076,presidentti,mwanasiasa,nouns,3.0
+1077,auringonpaiste,matofaa,nouns,0.05
+1078,voi,kiazi,nouns,0.5
+1079,hajota,kutenganisha,verbs,0.55
+1080,karja,kondoo,nouns,2.9
+1081,vaatteet,kifungo,nouns,1.0
+1082,veksillologia,elimu ya bendera,nouns,1.4
+1083,aktiivisesti,kwa juhudi,adverbs,0.45
+1084,rannikko,pwani,nouns,4.5
+1085,esiintyjä,mwigizaji,nouns,0.65
+1086,tuska,huzuni,nouns,3.05
+1087,kuutio,mchemraba,nouns,0.15
+1088,hevonen,farasi wa kike,nouns,3.8
+1089,äänekkäästi,kwa sauti,adverbs,0.27
+1090,onnellinen,wa ghadhabu,adjectives,0.35
+1091,liha,ugali,nouns,0.7
+1092,fraasi,neno,nouns,1.9
+1093,vartalo,bega,nouns,0.95
+1094,kello,mlango,nouns,0.2
+1095,aamiainen,nyama ya nguruwe,nouns,0.95
+1096,kappale,mkia,nouns,0.0
+1097,organisoida,kuandaa,verbs,4.75
+1098,tulla,kutengeneza,verbs,0.05
+1099,näyttelijä,mchezaji wa kike,nouns,4.35
+1100,aihe,hadithi,nouns,0.55
+1101,paheksua,laani,verbs,1.15
+1102,lukea,kufahamu,verbs,0.95
+1103,yksinkertainen,ana shida,adjectives,0.25
+1104,miljardööri,bilionea,nouns,0.15
+1105,tavoitella,kushawishi,verbs,0.65
+1106,professori,daktari,nouns,1.7
+1107,virka,nguzo,nouns,0.0
+1108,kouluttaa,kuelimisha,verbs,4.75
+1109,turhauttaa,kufadhaisha,verbs,2.25
+1110,moderni,wa kale,adjectives,0.25
+1111,onnellinen,ana hasira,adjectives,0.3
+1112,välttää,kukataa,verbs,1.75
+1113,tuuri,furaha,nouns,0.35
+1114,ympärileikkaus,tohara,nouns,1.45
+1115,pilvi,dhoruba,nouns,0.6
+1116,presidentti,meya,nouns,1.3
+1117,särkeä,kuvunja,verbs,4.1
+1118,jumala,windo,nouns,0.0
+1119,hattu,koti,nouns,1.0
+1120,muurahainen,nyuki,nouns,1.05
+1121,epärehellinen,si mwaminifu,adjectives,0.25
+1122,oviaukko,mlango,nouns,3.45
+1123,sikari,sanduku ,nouns,0.15
+1124,tuore,mzee,adjectives,0.25
+1125,kylpy,mbinu,nouns,0.0
+1126,vaatia,kutaka,verbs,0.15
+1127,hede,stameni,nouns,1.8
+1128,ohjelma,mradi,nouns,0.0
+1129,virsi,ushindi,nouns,0.05
+1130,kasvaa,kupungua,verbs,0.25
+1131,nihilismi,kutoamini dini,nouns,0.0
+1132,vasikka,fahali,nouns,2.25
+1133,protestantti,protestanti,nouns,3.6
+1134,saada kiinni,kamata,verbs,0.9
+1135,ilmapallo,watu,nouns,0.0
+1136,kämppä,nyumba ndogo,nouns,3.6
+1137,uhri,mwathirika,nouns,0.0
+1138,rasismi,ubaguzi wa rangi,nouns,4.2
+1139,kovakouraisesti,kwa kukadiria,adverbs,0.0
+1140,rauhallisesti,kwa utulivu,adverbs,2.18
+1141,päiväkirja,maziwa,nouns,0.0
+1142,lusikka,kikombe,nouns,0.95
+1143,painava,mzigo,adjectives,1.6
+1144,peitto,blanketi,nouns,0.0
+1145,sänky,chumba,nouns,0.7
+1146,siemailla,kukunywa,verbs,4.05
+1147,selventää,kueleza,verbs,4.4
+1148,suuri,nama,adjectives,0.35
+1149,veljeskunta,mlango,nouns,0.0
+1150,puumateriaali,mbao,nouns,0.0
+1151,avain,kifunguo,nouns,0.0
+1152,talous,uchumi,nouns,0.55
+1153,vesi,barafu,nouns,2.4
+1154,rotta,panya,nouns,3.4
+1155,rakentaa,kuumba,verbs,3.85
+1156,hyväksyä,kukataa,verbs,0.25
+1157,keittää,kuchemsha,verbs,1.55
+1158,ase,watu,nouns,0.05
+1159,filmi,sinema,nouns,5.0
+1160,vaatteet,koti,nouns,2.55
+1161,makea,tamu,adjectives,0.0
+1162,laimilyödä,kupuuzia,verbs,1.1
+1163,prinsessa,mtoto mke wa mfalme,nouns,0.0
+1164,työnantaja,mwajiriwa,nouns,0.75
+1165,lemma,lemma,nouns,0.6
+1166,valmentaja,kitanda,nouns,0.7
+1167,esitys,utendaji,nouns,1.05
+1168,ymmärtää,kusikiliza,verbs,1.1
+1169,romahtaa,kugonga,verbs,1.45
+1170,säilyttää,kusahau,verbs,0.1
+1171,saari,mtoto wa mfalme,nouns,0.0
+1172,maatalous,kilimo,nouns,1.25
+1173,mieletön,mwenye furaha,adjectives,0.3
+1174,voimallinen,mwenye nguvu,adjectives,0.43
+1175,ympäristö,mazingira,nouns,0.0
+1176,tuhota,kuharibu,verbs,0.2
+1177,kiistellä,kupinga,verbs,0.55
+1178,uskomus,ono,nouns,0.9
+1179,kiistellä,kufikiria,verbs,0.2
+1180,normaalisti,kwa kawaida,adverbs,0.2
+1181,valloitus,nyimbo,nouns,0.05
+1182,pihvi,kuku,nouns,0.6
+1183,polkupyörä,gari,nouns,1.0
+1184,eteishalli,korido,nouns,4.0
+1185,aloittaa,kwenda,verbs,0.4
+1186,ohjaaja,mkurugenzi,nouns,0.4
+1187,alkoholi,brandi,nouns,2.9
+1188,tykkivene,meli ya vita,nouns,0.25
+1189,setä,binamu,nouns,1.1
+1190,korvata,kurudisha,verbs,0.65
+1191,nainen,manyoya,nouns,0.0
+1192,topologia,upangilio,nouns,3.0
+1193,onnellinen,mchangamfu,adjectives,4.2
+1194,suihkukone,ndege,nouns,4.7
+1195,vamppyyri,vampire,nouns,1.2
+1196,kiistellä,kutetea,verbs,0.65
+1197,säikähtänyt,kua na uoga,adjectives,0.4
+1198,aikuinen,mtoto mchanga,nouns,0.5
+1199,mukava,nzuri,adjectives,0.35
+1200,presidentti,kamera,nouns,0.0
+1201,hurskaasti,kwa ,adverbs,0.2
+1202,lemmikkieläin,paka,nouns,3.1
+1203,yritys,biashara,nouns,2.95
+1204,huuhdella,kusuuza,verbs,3.45
+1205,dominoida,kushinda,verbs,1.35
+1206,lykätä,kuhairisha,verbs,0.85
+1207,oikeudenkäynti,wamuzi,nouns,1.25
+1208,kissa,panya,nouns,0.85
+1209,olla velkaa,kuingia,verbs,0.0
+1210,leveä,mbivu,adjectives,0.0
+1211,täti,mjomba,nouns,0.85
+1212,lehti,jani,nouns,1.15
+1213,miellyttää,kukubali,verbs,0.5
+1214,ruoho,mwani,nouns,1.45
+1215,legioona,jeshi,nouns,3.1
+1216,kumota,kukanusha,verbs,0.25
+1217,tapahtua,kufanya,verbs,0.85
+1218,siristää silmiään,kufinya macho,verbs,0.7
+1219,risuaita,reli,nouns,0.25
+1220,jäytää,kumomonyoka,verbs,0.55
+1221,mausteinen,pilipili,adjectives,0.1
+1222,tavu,silabu,nouns,0.6
+1223,vene,mota,nouns,1.35
+1224,tukki,kuni,nouns,3.65
+1225,lihas,ulimi,nouns,1.05
+1226,lattia,mlango,nouns,0.5
+1227,omena,malimau,nouns,1.05
+1228,ostaa,kuiba,verbs,0.3
+1229,ortodontti,daktari,nouns,2.45
+1230,sänky,blanketi,nouns,0.95
+1231,sanomalehti,neno,nouns,0.55
+1232,mansikka,strouberi,nouns,1.7
+1233,ekseema,uwasho,nouns,3.1
+1234,tieto,habari,nouns,0.1
+1235,härnätä,kutania,verbs,0.15
+1236,tuonpuoleinen,kuzimu,nouns,1.6
+1237,säilytysastia,mkokoteni,nouns,0.1
+1238,keskustelu,pambano,nouns,1.0
+1239,vuosikymmen,karne,nouns,0.9
+1240,totella,kutenda,verbs,2.1
+1241,joustava,mwenye kiasi,adjectives,0.8
+1242,veri,damu,nouns,0.6
+1243,tunteellisesti,kwa hisia,adverbs,1.75
+1244,mielettömästi,kwa ghadhabu,adverbs,0.5
+1245,kellari,mlango,nouns,0.2
+1246,ilmoittaa,kufahamisha,verbs,5.25
+1247,kuivuus,ukame,nouns,0.35
+1248,miettiä,kuwaza,verbs,5.55
+1249,kunniamerkki,baji,nouns,0.0
+1250,laatikko,sanduku,nouns,0.0
+1251,raivo,hasira,nouns,4.65
+1252,epävarma,sio salama,adjectives,0.2
+1253,selkäranka,shingo,nouns,0.75
+1254,sivuuttaa,kupuuza,verbs,0.0
+1255,pekoni,chakula cha asubuhi,nouns,0.95
+1256,määrittää,kutambulisha,verbs,0.05
+1257,behaviorismi,somo la tabia,nouns,0.5
+1258,kapea,mpana,adjectives,0.2
+1259,sekaannus,kichaa,nouns,1.2
+1260,reilusti,kwa haki,adverbs,0.25
+1261,hermo,matumbo,nouns,0.6
+1262,rotu,mbio,nouns,0.0
+1263,tähdätä,kulenga,verbs,1.3
+1264,uudelleenhautaaminen,zika upya,nouns,1.35
+1265,vaatteet,kitambaa,nouns,2.8
+1266,toimeksianto,mgawo,nouns,0.6
+1267,risti,msalaba,nouns,0.25
+1268,mitali,medali,nouns,0.35
+1269,vahvuus,makadara,nouns,3.4
+1270,vaimo,tundu,nouns,0.0
+1271,ase,bunduki,nouns,0.0
+1272,aita,reli,nouns,0.1
+1273,ottaa,kurithi,verbs,0.55
+1274,häpeissään oleva,ana hatia,adjectives,0.6
+1275,uusi,wa kale,adjectives,0.3
+1276,peittämätön,haijafunikwa,adjectives,0.3
+1277,lammas,mifugo,nouns,2.9
+1278,takki,nguo,nouns,2.55
+1279,milloin tahansa,kila wakati,adverbs,0.6
+1280,tyttö,mfanyakazi wa nyumbani,nouns,1.3
+1281,kuvanveistäjä,sonara,nouns,0.05
+1282,löytää,kupata,verbs,0.2
+1283,esteettömyys,uhuru,nouns,0.2
+1284,oppia,kusahau,verbs,0.35
+1285,naaraslintu,batamzinga,nouns,1.45
+1286,isä,mwanaume,nouns,2.65
+1287,kummallinen,wa kigeni,adjectives,4.6
+1288,lämmitin,kipasha joto,nouns,0.05
+1289,kaupunki,mji,nouns,4.2
+1290,ehkäpä,labda,adverbs,2.55
+1291,dinosaurus,mijusi ya kale,nouns,0.75
+1292,kukka,subira,nouns,0.0
+1293,lukea,kusoma,verbs,0.0
+1294,retki,safari,nouns,4.0
+1295,oikeudenkäynti,hukumu,nouns,0.15
+1296,kasvaa,kukua,verbs,1.5
+1297,rabbi,mchungaji,nouns,0.6
+1298,kaapata,kushika,verbs,0.1
+1299,kirja,hadithi,nouns,1.7
+1300,takavarikoida,kamata,verbs,1.65
+1301,soitin,zeze,nouns,2.3
+1302,rytmi,tuni,nouns,1.0
+1303,logiikka,hesabu,nouns,0.8
+1304,polyesteri,pamba,nouns,0.75
+1305,merkittävästi,umuhimu zaidi,adverbs,0.55
+1306,hame,sketi,nouns,0.0
+1307,yhteiskunta,jamii,nouns,1.85
+1308,yhdistää,kujumuisha,verbs,2.6
+1309,salaa,kwa siri,adverbs,0.1
+1310,sairaanhoitaja,mwanasayansi,nouns,0.35
+1311,kulta,dhahabu,nouns,1.25
+1312,lahja,zawadi,nouns,0.0
+1313,onnellisesti,kwa furaha,adverbs,0.32
+1314,mielettömästi,kwa hasira,adverbs,0.7
+1315,järjestää,kupanga,verbs,4.75
+1316,tuuma,yadi,nouns,1.75
+1317,puro,mto,nouns,3.1
+1318,raivostunut,mkali,adjectives,0.3
+1319,mausteinen,pilipili,adjectives,0.0
+1320,yllättää,kushangaza,verbs,0.0
+1321,kolikko,sarafu,nouns,0.9
+1322,myöntyä,kutofautiana,verbs,0.05
+1323,korkeus,urefu,nouns,0.0
+1324,salata,kuficha,verbs,3.2
+1325,kokoontua,kuhudhuria,verbs,1.25
+1326,kaareva,yenye pindo,adjectives,0.05
+1327,perustella,kugombana,verbs,0.65
+1328,rintakehä,mwili,nouns,2.1
+1329,arkki,gombo,nouns,0.0
+1330,varastaa,kupa,verbs,0.15
+1331,kukka,waridi,nouns,3.45
+1332,hyökätä,shambulio,nouns,0.6
+1333,hienostonut,kisasa,adjectives,0.6
+1334,aliohjelma,subroutine,nouns,0.1
+1335,rehellinen,ana hatia,adjectives,0.15
+1336,mennä,kuanza,verbs,0.4
+1337,kaatua,kuanguka,verbs,0.6
+1338,ase,bunduki,nouns,0.55
+1339,passiivinen,kupooza,adjectives,0.1
+1340,sade,mvua,nouns,3.25
+1341,pujotella,kufuma,verbs,0.65
+1342,jättää,enda,verbs,0.75
+1343,vaimo,mama,nouns,2.2
+1344,saari,ufuko,nouns,0.8
+1345,lentokenttä,uwanja wa ndege,nouns,0.0
+1346,solu,gerezani,nouns,0.75
+1347,onnellisuus,furaha,nouns,0.3
+1348,sitoumus,uchumba,nouns,0.75
+1349,metri,inchi,nouns,1.9
+1350,imeä itseensä,kumiliki,verbs,0.15
+1351,kuningas,mtoto wa mfalme,nouns,2.2
+1352,likainen,rahisi,adjectives,0.15
+1353,jää,barafu,nouns,3.4
+1354,mahtavasti,kwa kushangaza,adverbs,4.7
+1355,tukea,kufadhili,verbs,4.65
+1356,varma,ana kujiamini,adjectives,3.15
+1357,moottori,injini,nouns,1.55
+1358,tarpeellinen,sio wa lazima,adjectives,0.25
+1359,joustava,rahisi,adjectives,0.5
+1360,mehu,maziwa,nouns,1.0
+1361,virkailija,ofisa,nouns,0.6
+1362,luu,goti,nouns,0.85
+1363,auttaja,mfanyakazi wa nyumbani,nouns,2.65
+1364,kalkkuna,kuku,nouns,1.45
+1365,kadottaa,kupata,verbs,0.15
+1366,hiiri,chombo,nouns,0.0
+1367,pesäpallo,undugu,nouns,0.0
+1368,kohde,mshale,nouns,0.4
+1369,mennä,kuruhusu,verbs,0.25
+1370,poika,baba,nouns,0.95
+1371,optimistisesti,kwa matuamini,adverbs,1.15
+1372,tuoli,kitanda,nouns,0.9
+1373,perustuslaki,katiba,nouns,0.5
+1374,yrittää,kujaribu,verbs,0.15
+1375,alue,kona,nouns,0.75
+1376,olkapää,mkono,nouns,1.9
+1377,vyötärö,chakula,nouns,0.05
+1378,makuuhuone,kitanda,nouns,1.0
+1379,taifuuni,dhoruba,nouns,4.8
+1380,sotalaiva,meli ya vita,nouns,5.35
+1381,vastaanottaa,kuchukua,verbs,3.4
+1382,teoria,kanuni,nouns,2.65
+1383,käsivarsi,kifundo,nouns,1.5
+1384,sivuuttaa,kusahau,verbs,1.85
+1385,ylpeys,furaha,nouns,0.95
+1386,laaja,mwembamba,adjectives,0.2
+1387,käsittää,kusoma,verbs,0.95
+1388,siirrettävä,inayo hamishika,adjectives,0.7
+1389,pelästynyt,ogopa,adjectives,2.75
+1390,kuorma-auto,lori,nouns,3.55
+1391,gini,kileo,nouns,2.65
+1392,talo,fleti,nouns,3.7
+1393,karata,kutoroka,verbs,4.9
+1394,töykeä,jeuri,adjectives,1.45
+1395,isä,mama,nouns,1.05
+1396,lastattu,mzito,adjectives,1.6
+1397,hunaja,sukari,nouns,2.25
+1398,kortti,daraja,nouns,0.1
+1399,myöntyä,kujipendekeza,verbs,0.5
+1400,opiskelija,profesa,nouns,0.75
+1401,oppilas,rais,nouns,0.25
+1402,ahdistuneesti,kwa wasiwasi,adverbs,4.25
+1403,yrittää,kufikiria,verbs,0.15
+1404,melodia,pigo,nouns,1.0
+1405,vene,meli,nouns,0.25
+1406,ovi,sakafu,nouns,0.5
+1407,keilaaja,bowler,nouns,2.1
+1408,likainen,chafu,adjectives,0.0
+1409,vesi,maji,nouns,0.17
+1410,syvästi,kiundani,adverbs,0.5
+1411,ryhmä,areyi,nouns,0.65
+1412,antaa anteeksi,kukubali,verbs,1.0
+1413,tarina,kitabu,nouns,1.7
+1414,pikkuruinen,mkubwa mno,adjectives,0.25
+1415,ihanteellisesti,walau,adverbs,0.3
+1416,väkijuoma,bendi,nouns,0.05
+1417,virsi,majani makavu,nouns,0.1
+1418,elokuvaus,sinema,nouns,0.4
+1419,liitto,umoja,nouns,1.0
+1420,pilata,kuharibu,verbs,0.05
+1421,tytär,mtoto mchanga,nouns,1.35
+1422,tuoli,sofa,nouns,2.9
+1423,laatikko,kibanda,nouns,0.1
+1424,käsi,ukucha,nouns,1.05
+1425,sentti,mke,nouns,0.0
+1426,kehys,fremu,nouns,0.0
+1427,mennä,kuenda,verbs,3.05
+1428,sekularisti,mwanaisilamu,nouns,1.1
+1429,kieltäminen,kukiri,nouns,0.25
+1430,mieli,akili,nouns,0.85
+1431,heikentyä,kuzorota,verbs,0.05
+1432,kantaa,kuleta,verbs,2.05
+1433,tehtävä,mwanamke,nouns,0.05
+1434,varastaa,kuchukua,verbs,1.5
+1435,sateenvarjo,mwavuli,nouns,0.0
+1436,pelokas,wa wasiwasi,adjectives,3.55
+1437,mehiläinen,malkia,nouns,0.5
+1438,teoreema,nadharia,nouns,2.65
+1439,vaalia,kuweka,verbs,2.45
+1440,kiistellä,kujadili,verbs,0.35
+1441,pitkäveteinen,kuboreka,adjectives,0.5
+1442,illallinen,chakula,nouns,3.45
+1443,turkki,ngozi,nouns,2.2
+1444,myöntää,kukubali,verbs,0.3
+1445,kuningatar,nyuki,nouns,0.5
+1446,aukko,kufungua,nouns,3.2
+1447,kiistellä,kulalamika,verbs,1.15
+1448,pyhä,takatifu,adjectives,2.05
+1449,rauhallisesti,kiutulivu,adverbs,0.55
+1450,passiivisesti,pasipo tu,adverbs,0.35
+1451,pienentää,kupungua,verbs,0.55
+1452,rumpu,gitaa,nouns,2.1
+1453,laskuoppi,mantiki,nouns,0.8
+1454,lumilauta,ubao wa theluji,nouns,1.55
+1455,demokratia,demokrasia,nouns,1.3
+1456,sfääri,mviringo,nouns,1.65
+1457,hengittää,kukaba,verbs,0.3
+1458,ymmärtää,kuelewa,verbs,4.4
+1459,todella,kweli,adverbs,1.6
+1460,käyttäytyä,kutii,verbs,2.1
+1461,pitää,kuazima,verbs,0.25
+1462,ankkuri,boti,nouns,0.85
+1463,vikkelä,wa kasi,adjectives,4.55
+1464,putka,funga,nouns,0.75
+1465,onnistua,kutimiza,verbs,3.2
+1466,kauhea,mwenye huzuni,adjectives,0.6
+1467,antaa anteeksi,samehea,verbs,4.7
+1468,hedelmätarha,kiunga,nouns,0.0
+1469,jäädä,kudumisha,verbs,0.45
+1470,oppia,kusikiliza,verbs,0.4
+1471,koditon,wasio na makazi,nouns,0.15
+1472,näkökulma,mtazamo,nouns,0.05
+1473,luoja,mtengenezaji,nouns,4.35
+1474,unohtaa,kusamehe,verbs,0.7
+1475,kalliojyrkänne,mkia,nouns,0.0
+1476,laakso,mto,nouns,0.6
+1477,suihku,shower,nouns,0.0
+1478,henkiolento,jini,nouns,0.1
+1479,laukku,pochi,nouns,4.25
+1480,tietää,kusahau,verbs,0.2
+1481,ottaa,kupokea,verbs,3.4
+1482,valmistaa,kuharibu,verbs,0.25
+1483,ikkuna,kifundo cha mguu,nouns,0.0
+1484,niska,mfupa,nouns,0.95
+1485,elokuvateatteri,sinema,nouns,0.82
+1486,todellisuus,ndoto,nouns,0.25
+1487,myöhemmin,baadae,adverbs,0.6
+1488,moottoritie,barabara kuu,nouns,4.6
+1489,kadota,kupotea,verbs,5.4
+1490,hiiri,sitaha,nouns,0.0
+1491,nokkela,mpumbavu,adjectives,0.3
+1492,fiksu,mpumbavu,adjectives,0.25
+1493,alkoholi,jini,nouns,2.65
+1494,harvinainen,mpumbavu,adjectives,0.0
+1495,hermostunut,wasiwasi,adjectives,2.75
+1496,vyö,kitanzi,nouns,0.9
+1497,auringonlasku,machweo,nouns,0.0
+1498,balladi,wimbo,nouns,3.55
+1499,valmistaja,muumbaji,nouns,4.35
+1500,kylpyhuone,jiko,nouns,0.75
+1501,unelma,ndoto,nouns,0.1
+1502,julma,mwema,adjectives,0.15
+1503,ruusu,waridi,nouns,0.2
+1504,neuletakki,fulana,nouns,1.75
+1505,opiskelija,mwanachuo,nouns,4.8
+1506,uskoa,kuamini,verbs,1.0
+1507,kuluttaa,kuokoa,verbs,0.45
+1508,taivutus,inflection,nouns,0.75
+1509,sumu,wingu,nouns,3.15
+1510,synnintekijä,mtakatifu,nouns,0.25
+1511,onnellisuus,amani,nouns,1.2
+1512,tietty,uhakika,adjectives,0.0
+1513,taimen,samaki,nouns,0.0
+1514,nuori,isiyotulia,adjectives,0.2
+1515,kastella,kulowesha,verbs,0.0
+1516,vaarallisesti,kwa uhatari,adverbs,0.05
+1517,sisäkatto,sakafu,nouns,0.75
+1518,keskinkertainen,ya kawaida,adjectives,0.65
+1519,matkia,kuonyesha,verbs,1.4
+1520,kouluttaja,mwalimu,nouns,4.25
+1521,lihas,mfupa,nouns,0.7
+1522,majatalo,hosteli,nouns,3.25
+1523,nainen,jukumu,nouns,0.05
+1524,lumi,theluji,nouns,3.4
+1525,juna,treni,nouns,2.1
+1526,rako,uwazi,nouns,3.2
+1527,silmä,chozi,nouns,1.15
+1528,ase,mzinga,nouns,2.45
+1529,päättää,kuchagua,verbs,2.5
+1530,lippu,bendera,nouns,1.4
+1531,surullinen,wa kuchekesha,adjectives,0.25
+1532,kitara,ngoma,nouns,2.1
+1533,sää,wingu,nouns,1.3
+1534,poika,mtoto wa kiume,nouns,4.55
+1535,pitää,kumiliki,verbs,1.05
+1536,pestä,kuosha,verbs,3.45
+1537,työntää,kusukuma,verbs,0.75
+1538,mielipide,upendeleo,nouns,0.3
+1539,raamattu,kitabu,nouns,2.65
+1540,muistikirja,daftari,nouns,0.13
+1541,miellyttää,kusihi,verbs,0.45
+1542,ilmoittaa,kutambua,verbs,1.1
+1543,pormestari,rais,nouns,1.3
+1544,riemuvoitto,ushindi,nouns,3.35
+1545,tahmea,natanata,adjectives,0.75
+1546,lintu,kuku,nouns,3.15
+1547,väkivaltainen,kigomvi,adjectives,0.1
+1548,tyydyttää,kufahamu,verbs,0.05
+1549,nopeus,mwendo,nouns,0.0
+1550,realistisesti,kwelikweli,adverbs,0.0
+1551,saada,kununua,verbs,0.7
+1552,pelto,uwanja,nouns,0.35
+1553,kuva,wazo,nouns,1.05
+1554,kylpy,puto,nouns,0.05
+1555,jättää,kufika,verbs,0.2
+1556,mehu,juisi,nouns,0.1
+1557,sänky,kiti,nouns,0.9
+1558,heppu,patna,nouns,0.65
+1559,osua,kupiga,verbs,0.0
+1560,päästä,kujipatia,verbs,0.15
+1561,syntaksi,sintaksia,nouns,0.9
+1562,käsivarsi,shingo,nouns,0.7
+1563,alue,mkoa,nouns,4.4
+1564,vaimo,majani makavu,nouns,0.0
+1565,ruokavalio,matofaa,nouns,0.4
+1566,lintu,batamzinga,nouns,3.3
+1567,lumi,dhoruba,nouns,0.6
+1568,häätää,kufukuza,verbs,0.75
+1569,hermostunut,kuoga,adjectives,0.0
+1570,keitetty,chemshwa,adjectives,3.8
+1571,puhdas,safi,adjectives,0.4
+1572,pitää päällä,kuvaa,verbs,0.0
+1573,piano,kinanda,nouns,0.35
+1574,supistaa,kupungua,verbs,3.3
+1575,kilpaileminen,mbio,nouns,0.0
+1576,vetolaatikko,nguo,nouns,0.45
+1577,nainen,mwanaume,nouns,0.7
+1578,tukki,kanuni,nouns,0.0
+1579,valinta,chaguo,nouns,2.65
+1580,valmentaja,baseball,nouns,0.25
+1581,tukahduttaa,kukandamiza,verbs,0.65
+1582,moraaliton,haramu,adjectives,2.1
+1583,globalismi,utandawazi,nouns,0.3
+1584,kuorsata,kung'orota,verbs,0.2
+1585,jakkara,kigoda,nouns,3.7
+1586,myydä,kwenda,verbs,0.1
+1587,kartta,ramani,nouns,0.0
+1588,matka,ushindi,nouns,0.3
+1589,morsian,mtoto wa mfalme,nouns,0.15
+1590,vatsa,mshipa,nouns,0.6
+1591,vaunut,mkokoteni,nouns,4.1
+1592,epäröivä,sitasita,adjectives,0.3
+1593,vauva,mtoto wa kike,nouns,1.35
+1594,jakaa,kugawanya,verbs,0.45
+1595,luotto,mkopo,nouns,0.85
+1596,robotiikka,roboti,nouns,0.35
+1597,koira,farasi,nouns,1.0
+1598,väkijuoma,karne,nouns,0.0
+1599,runo,shairi,nouns,0.7
+1600,selvin päin oleva,kutolewa,adjectives,0.2
+1601,kestävyys,ua,nouns,0.0
+1602,kuvitella,kuumba,verbs,0.5
+1603,anarkia,vurugu,nouns,4.05
+1604,antaa,kuiba,verbs,0.15
+1605,kypsennetty,pikwa,adjectives,3.8
+1606,kirja,fasihi,nouns,2.25
+1607,rynnätä,kutimka,verbs,2.1
+1608,muu,wengine,adjectives,0.15
+1609,peto,mnyama,nouns,2.15
+1610,tyhmä,mjanja,adjectives,0.3
+1611,moraali,adili,nouns,0.0
+1612,pääasiassa,haswa,adverbs,0.25
+1613,jalkaterä,mguu,nouns,0.0
+1614,kallis,ghali,adjectives,0.0
+1615,sattua,kuuma,verbs,0.3
+1616,säännöllisesti,mara kwa mara,adverbs,0.6
+1617,lehmä,mbuzi,nouns,1.0
+1618,jakaa,kujumlisha,verbs,0.65
+1619,sähköinen,chenye umeme,adjectives,0.0
+1620,kursori,mshale,nouns,0.0
+1621,liittää,kubandika,verbs,0.2
+1622,tuoda,kubeba,verbs,2.05
+1623,puhua,kusikia,verbs,0.5
+1624,kiltisti,kiupole,adverbs,1.75
+1625,typerä,mpumbavu,adjectives,4.8
+1626,lamppu,taa,nouns,0.1
+1627,suuresti,sana,adverbs,1.45
+1628,symboli,ishara,nouns,1.2
+1629,normaali,tofauti,adjectives,0.25
+1630,kyttä,polisi,nouns,0.45
+1631,piispa,askofu mkuu,nouns,4.05
+1632,numero,nambari,nouns,5.35
+1633,pilvi,mvuke,nouns,2.25
+1634,nipistää,kufinya,verbs,0.65
+1635,säilyttää,kubaki,verbs,0.45
+1636,valinta,sura,nouns,0.15
+1637,biologia,biolojia,nouns,1.0
+1638,uhka,hatari,nouns,4.85
+1639,ajoneuvo,basi,nouns,3.65
+1640,murskata,kuharibu,verbs,4.1
+1641,eversti,daktari wa meno,nouns,0.45
+1642,kansallinen,kitaifa,adjectives,0.15
+1643,kruunajaiset,kusimikwa ufalme,nouns,0.0
+1644,vakuuttaa ,kushawishi,verbs,0.15
+1645,sydän,upasuaji,nouns,0.6
+1646,lujasti,kiukakamavu,adverbs,0.2
+1647,lattia,sitaha,nouns,0.55
+1648,sopimus,tundu,nouns,0.0
+1649,ottaa,kuiba,verbs,1.5
+1650,kärsimättömästi,bila subira,adverbs,0.4
+1651,ansaita,kutengeneza,verbs,0.3
+1652,sileä,nyororo,adjectives,0.15
+1653,laatikko,kofia,nouns,0.1
+1654,sana,kamusi,nouns,1.5
+1655,suositella,kukubali,verbs,0.85
+1656,valittaa,kuleta,verbs,0.05
+1657,kuukausi,agosti,nouns,2.9
+1658,vanhempi,mtu mzima,nouns,2.95
+1659,rankka,mwerevu,adjectives,0.35
+1660,omena,mpangilio wa chakula,nouns,0.4
+1661,ylpeä,kujivunia,adjectives,0.0
+1662,lähteä,kuondoka,verbs,0.2
+1663,puutarha,mpira wa maji,nouns,0.3
+1664,samankaltainen,sawasawa,adjectives,4.15
+1665,illallinen,chakula cha asubuhi,nouns,1.0
+1666,koti,jimbo,nouns,0.15
+1667,käsilaukku,mfuko,nouns,4.25
+1668,uutiset,porojo,nouns,1.05
+1669,aikoa,kuania,verbs,1.65
+1670,lentokenttä,ndege,nouns,1.35
+1671,tauti,hatari,nouns,0.5
+1672,tahraton,bila doa,adjectives,5.4
+1673,lounas,ugali,nouns,1.8
+1674,lapsi,mtu mzima,nouns,0.65
+1675,juusto,mkate,nouns,0.75
+1676,kompassi,dira,nouns,0.05
+1677,heijastus,picha,nouns,1.55
+1678,mies,mtoto,nouns,0.7
+1679,hallittu,kwa mpangilio,adjectives,0.15
+1680,lentokone,jeti,nouns,4.7
+1681,happo,asidi,nouns,0.25
+1682,tunne,hali,nouns,1.3
+1683,halailla,kukumbatia,verbs,4.9
+1684,vihata,chukia,verbs,0.35
+1685,soturi,mwanaume,nouns,1.1
+1686,hyväksyä,kukana,verbs,0.25
+1687,kana,wali,nouns,0.4
+1688,viime aikoina,hivi majuzi,adverbs,4.25
+1689,yö,mchana,nouns,0.8
+1690,oksentaa,kutapika,verbs,0.0
+1691,murhe,aibu,nouns,0.95
+1692,laittaa,kuning'inia,verbs,0.1
+1693,antaa anteeksi,kusahau,verbs,0.7
+1694,hevonen,farasi wa kiume,nouns,3.65
+1695,kutistua,kupunguza,verbs,3.3
+1696,täti,mpwa,nouns,0.5
+1697,nurkka,eneo,nouns,0.75
+1698,sää,hali ya hewa,nouns,0.5
+1699,uida,kuogelea,verbs,0.0
+1700,siemen,viungo,nouns,0.6
+1701,kondensaattori,capacitor,nouns,1.4
+1702,näkö,utambuzi,nouns,2.55
+1703,tukahduttaa,kuziba,verbs,0.25
+1704,kivi,jiwe,nouns,0.35
+1705,sotilas,mwanajeshi,nouns,0.2
+1706,suojella,kuokoa,verbs,1.3
+1707,tupakka,sigara,nouns,4.85
+1708,vedota,kujipendekeza,verbs,0.45
+1709,kämppä,kambi,nouns,0.5
+1710,tulla,kufanikisha,verbs,0.5
+1711,kieli,koo,nouns,1.4
+1712,ovela,imara,adjectives,0.35
+1713,viisaus,akili,nouns,3.8
+1714,ennen,kabla,adverbs,0.25
+1715,ruokavalio,saladi,nouns,0.8
+1716,hauta,kaburi,nouns,1.35
+1717,tiili,ukuta,nouns,1.3
+1718,päivällinen,kuku,nouns,0.9
+1719,tuhoeläin,wadudu,nouns,0.7
+1720,ihmiset,sherehe,nouns,0.5
+1721,luu,kiwiko,nouns,0.75
+1722,epätoivo,taabu,nouns,2.6
+1723,vaivata,kusumbua,verbs,0.2
+1724,kaura,ngano,nouns,0.35
+1725,tankki,tenki,nouns,0.8
+1726,hankkia,kutafuta,verbs,0.85
+1727,torjua,kukubali,verbs,0.25
+1728,yksinäinen,mpweke,adjectives,1.15
+1729,vetäytyä,kurudia,verbs,0.5
+1730,hematologia,hematolojia,nouns,2.35
+1731,työkalu,kitendea kazi,nouns,1.0
+1732,kana,chakula cha usiku,nouns,0.9
+1733,päällikkö,meya,nouns,1.9
+1734,talo,ufunguo,nouns,0.6
+1735,musiikki,muziki,nouns,1.0
+1736,tsunami,sunami,nouns,0.95
+1737,päivä ,alfajiri,nouns,1.65
+1738,rakentaminen,uharibifu,nouns,0.25
+1739,lannistaa,kufeli,verbs,0.55
+1740,molekyyli,molekuli,nouns,0.0
+1741,ovi,undugu,nouns,0.0
+1742,ilmapallo,kuoga,nouns,0.05
+1743,sisko,dada,nouns,1.8
+1744,illuusio,uhalisi,nouns,0.25
+1745,järvi,bwawa,nouns,2.15
+1746,epäsäännöllisesti,isivyo kawaida,adverbs,0.25
+1747,merkitä,kutia alama,verbs,0.55
+1748,suojella,kukinga,verbs,4.5
+1749,tanko,mlingoti,nouns,0.7
+1750,pilvenpiirtäjä,maghorofa,nouns,2.0
+1751,muinainen,mpya,adjectives,0.3
+1752,jättää,kuondoka,verbs,0.07
+1753,todellisuus,njozi,nouns,0.25
+1754,tähti,nyota,nouns,2.7
+1755,vihainen,mjeuri,adjectives,1.6
+1756,sitoumus,mkutano,nouns,0.45
+1757,auttaa,kusaidia,verbs,0.4
+1758,etsintä,lengo,nouns,0.25
+1759,lihas,mkono,nouns,0.75
+1760,kukka,imani,nouns,0.05
+1761,vedota,kuuliza,verbs,0.85
+1762,vaunut,gari,nouns,1.2
+1763,tervehtiä,kukutana,verbs,1.35
+1764,sokeri,asali,nouns,2.25
+1765,kalenteri,kalenda,nouns,0.45
+1766,vuori,mwamba,nouns,1.25
+1767,myrsky,theluji,nouns,0.6
+1768,kruunu,taji,nouns,0.0
+1769,yhtenäinen,sare,adjectives,0.3
+1770,laulaa,kuimba,verbs,0.25
+1771,orivarsa,farasi,nouns,3.65
+1772,asianajaja,mwanasheria,nouns,4.9
+1773,huoltaja,mtu mzima,nouns,2.15
+1774,biologi,mbiolojia,nouns,0.45
+1775,peitto,kitanda,nouns,0.95
+1776,madaltaa,kushusha,verbs,1.8
+1777,tylsä,zorota,adjectives,0.2
+1778,kova,imara,adjectives,2.45
+1779,aktiivisesti,kikamilifu,adverbs,0.3
+1780,ostaa,kupata,verbs,0.7
+1781,herttuakunta,dukedom,nouns,2.3
+1782,nöyrä,mnyenyekevu,adjectives,4.75
+1783,tuulenpuuska,upepo mkali,nouns,4.3
+1784,laaja,mkubwa,adjectives,3.75
+1785,korvaus,malipo,nouns,0.55
+1786,hyväksyä,kuamini,verbs,1.7
+1787,solu,chumba,nouns,0.95
+1788,vetää,kuvuta,verbs,0.75
+1789,maja,makao,nouns,1.25
+1790,kirkko,kanisa,nouns,4.2
+1791,pohja,juu,nouns,0.3
+1792,mahdoton,kutowekana,adjectives,0.3
+1793,ilmiselvä,wa kuonekana,adjectives,5.25
+1794,patsas,kinyagu,nouns,4.9
+1795,päättää,kuamua,verbs,2.15
+1796,katedraali,kanisa kuu,nouns,4.2
+1797,uskomus,fikra,nouns,1.0
+1798,naaraslintu,ndege,nouns,3.15
+1799,sonetti,ushairi,nouns,0.1
+1800,vartalo,uti,nouns,0.8
+1801,toimittaa,kuchukua,verbs,0.3
+1802,luu,kifundo cha mguu,nouns,1.7
+1803,algebra,algebra,nouns,0.05
+1804,poliitikko,rais,nouns,3.0
+1805,poliisi,polisi,nouns,0.35
+1806,entropia,kuzorota,nouns,0.1
+1807,luku,tarakimu,nouns,5.35
+1808,taksi,basi,nouns,2.05
+1809,pehmeä,laini,adjectives,0.1
+1810,nainen,sekretari,nouns,0.7
+1811,ontua,kuchechemea,verbs,2.2
+1812,hermostuneesti,kwa woga,adverbs,4.25
+1813,silmukka,mkanda,nouns,0.9
+1814,lainata,kutaka,verbs,0.7
+1815,mielekkäästi,kwa maana,adverbs,0.5
+1816,kamera,rais,nouns,0.0
+1817,todistaa,kushuhudia,verbs,0.45
+1818,kana,steki,nouns,0.6
+1819,oppimaton,mjinga,adjectives,0.0
+1820,rakentaa,kujumlisha,verbs,0.55
+1821,uusi,mpya,adjectives,4.85
+1822,helposti,kiurahisi,adverbs,0.2
+1823,lentoperämies,rubani msaidizi,nouns,0.45
+1824,kaunis,ana ajabu,adjectives,0.8
+1825,osallistua,kutuma,verbs,0.15
+1826,sattua,kuumia,verbs,0.5
+1827,sanomalehti,taarifa,nouns,1.6
+1828,teeskennellä,jifanya,verbs,2.65
+1829,mosaiikki,mosaic,nouns,0.3
+1830,kirja,mada,nouns,0.5
+1831,ovi,uwepo,nouns,0.0
+1832,menestyjä,mwanaume,nouns,0.15
+1833,saada selville,kutokana,verbs,0.25
+1834,atomi,kaboni,nouns,1.1
+1835,kävellä,kutembea,verbs,2.2
+1836,kiista,ukosoaji,nouns,0.75
+1837,lenkkikengät,wakufunzi,nouns,0.35
+1838,lentäjä,dereva,nouns,2.75
+1839,himoita,kua na hamu,verbs,4.45
+1840,partneri,mvulana,nouns,0.57
+1841,tohtori,tabibu,nouns,5.15
+1842,peukalo,mkono,nouns,1.75
+1843,parasetamoli,acetaminopheni,nouns,0.25
+1844,vanha,mpya,adjectives,0.25
+1845,kansi,boti,nouns,0.45
+1846,ilmailu,aeronauts,nouns,1.0
+1847,hakija,mwombaji,nouns,1.65
+1848,iho,ngozi,nouns,0.0
+1849,rauha,furaha,nouns,1.2
+1850,liha,nyama,nouns,3.3
+1851,pakti,mazingira,nouns,0.05
+1852,käsi ,mguu,nouns,1.1
+1853,tyhmä,adimu,adjectives,0.0
+1854,teema,kitabu,nouns,0.3
+1855,aikuinen,mtoto,nouns,0.65
+1856,aamunkoitto,mchana,nouns,1.65
+1857,lonkka,mdomo,nouns,0.7
+1858,voileipä,nyama,nouns,0.7
+1859,viikonloppu,wikiendi,nouns,0.0
+1860,rauhallisesti,kwa amani,adverbs,0.2
+1861,evätä,kukataa,verbs,0.3
+1862,kysyä,kuuliza,verbs,0.4
+1863,pekoni,maharagwe,nouns,0.3
+1864,ilmeisesti,inaonekana,adverbs,2.22
+1865,tapetti,karatasi ya kupamba ukuta,nouns,1.65
+1866,tennis,tenisi,nouns,0.0
+1867,saastuminen,rais,nouns,0.1
+1868,vetäytyä,kufyonza,verbs,1.15
+1869,sitoa,kuvunga,verbs,0.65
+1870,mahdollisesti,ikiwezekana,adverbs,3.2
+1871,hankkia,kurithi,verbs,0.15
+1872,sulautua,kuchanganya,verbs,2.6
+1873,kuukausipalkka,hela,nouns,2.55
+1874,neste,majimaji,nouns,0.05
+1875,passiivisesti,kwa kutegemewa,adverbs,0.05
+1876,varallisuus,umasikini,nouns,0.45
+1877,sanoa,kushiriki,verbs,0.3
+1878,ennuste,utabiri,nouns,0.5
+1879,kuvitus,katuni,nouns,0.0
+1880,laitteisto,kifaa,nouns,0.05
+1881,suorittaa loppuun,kumaliza,verbs,1.35
+1882,vankila,chaguo,nouns,0.1
+1883,torjua,kukataa,verbs,1.15
+1884,todennäköisesti,uwezekano,adverbs,3.2
+1885,metri,yadi,nouns,3.0
+1886,mukava,mkorofi,adjectives,0.15
+1887,silmä,nyusi,nouns,0.65
+1888,seinä,tofali,nouns,1.3
+1889,keittiö,mlango,nouns,0.2
+1890,lepakko,popo,nouns,1.2
+1891,kyynärpää,mfupa,nouns,0.75
+1892,hyötyä,kufaida,verbs,0.75
+1893,hyväntuulinen,mwenye furaha,adjectives,4.2
+1894,huonekalut,kitanda,nouns,2.45
+1895,kohta,herufi,nouns,0.3
+1896,seimi,mlazi,nouns,3.6
+1897,taistella,pigana,verbs,0.65
+1898,haudata,kuzika,verbs,3.2
+1899,järkyttää,kuchukiza,verbs,0.65
+1900,janoinen,kua na kiu,adjectives,0.75
+1901,lääkäri,daktari,nouns,5.15
+1902,sirut,kibanzi,nouns,0.0
+1903,liikkua,kutoka,verbs,0.6
+1904,ihanteellisesti,walau,adverbs,0.55
+1905,kalliojyrkänne,kilima,nouns,2.5
+1906,vanha,zamani,adjectives,0.0
+1907,heikko,dhaifu,adjectives,0.0
+1908,gini,wiski,nouns,2.3
+1909,uniikki,ya pekee,adjectives,0.4
+1910,hyvä,nzuri,adjectives,0.1
+1911,saippuavaahto,puto,nouns,1.95
+1912,kansallinen,kitaifa,adjectives,0.25
+1913,hallitsija,mtawala,nouns,4.35
+1914,mulkoilla,kukondoa macho,verbs,0.7
+1915,kuljettaja,rubani,nouns,2.75
+1916,merkki,ishara,nouns,0.05
+1917,arvo,thamani,nouns,0.5
+1918,arvata,kubuni,verbs,0.0
+1919,moraaliton,mbaya,adjectives,2.8
+1920,nykyään,kwa sasa,adverbs,0.0
+1921,hiiri,ndezi,nouns,3.4
+1922,juoda,kunywa,verbs,0.0
+1923,taksi,gari,nouns,3.75
+1924,laillinen,halali,adjectives,3.05
+1925,orvokki,ua,nouns,3.45
+1926,fiktio,wasifu,nouns,0.95
+1927,poika,mazingira,nouns,0.0
+1928,mäntä,pistoni,nouns,1.55
+1929,sentti,watu,nouns,0.05
+1930,vaatimaton,mnyenyekevu,adjectives,0.3
+1931,joukkio,umati,nouns,4.7
+1932,sanakirja,neno,nouns,1.5
+1933,pidellä,kushikilia,verbs,2.2
+1934,harmonia,umoja,nouns,0.35
+1935,tylsä,wa kuchekesha,adjectives,0.25
+1936,kapea,mpana,adjectives,0.25
+1937,sovellus,programu tumishi,nouns,0.0
+1938,kova,nene,adjectives,0.55
+1939,kirje,aya,nouns,0.3
+1940,anteliaasti,kwa fadhili,adverbs,1.75
+1941,teoria,kemia,nouns,0.3
+1942,sänky,kochi,nouns,0.7
+1943,puhdas,nadhifu,adjectives,5.1
+1944,hyväntuulinen,mwenye kupendeza,adjectives,1.2
+1945,raaka,mbaya,adjectives,1.45
+1946,pöly,vumbi,nouns,0.55
+1947,kiistää,kupa,verbs,0.05
+1948,ilmiselvä,wa kuona,adjectives,2.3
+1949,luoda,kuharibu,verbs,0.25
+1950,kuvata,kujifanya,verbs,0.4
+1951,ymmärtää,kujua,verbs,3.7
+1952,matemaatikko,mwanamahesabu,nouns,0.0
+1953,saada,kubaki,verbs,0.15
+1954,merkittävä,muhimu,adjectives,0.2
+1955,nepotismi,undugu,nouns,0.55
+1956,matkatavarat,mzigo,nouns,0.15
+1957,uloskäynti,mahali ya kutokea,nouns,0.0
+1958,torni,kengele,nouns,0.4
+1959,sielu,kaka,nouns,0.05
+1960,ikuisuus,usio na mwisho,nouns,0.1
+1961,vähäpätöinen,mdogo,adjectives,0.2
+1962,jää,maji,nouns,2.4
+1963,prinsessa,kisiwa,nouns,0.0
+1964,varastaa,kuiba,verbs,2.05
+1965,puolueellisuus,oni,nouns,0.3
+1966,vuosisata,miaka kumi,nouns,0.9
+1967,tehdä,kutukia,verbs,0.85
+1968,leikkiä,kucheza,verbs,0.3
+1969,puumateriaali,karatasi,nouns,0.9
+1970,poika,wali,nouns,0.0
+1971,tytär,baba,nouns,0.65
+1972,pilli,jukumu,nouns,0.0
+1973,futis,soka,nouns,5.9
+1974,ikkuna,mlango,nouns,1.2
+1975,maito,juisi,nouns,1.0
+1976,toiminta,mchezo,nouns,0.85
+1977,kypsästi,kiukomavu,adverbs,0.2
+1978,vaara,tishio,nouns,4.85
+1979,symboli,msimbo,nouns,2.25
+1980,munkki,padri,nouns,2.15
+1981,suuruus,saizi,nouns,5.35
+1982,kuvata,kuamua,verbs,0.25
+1983,negatiivisesti,kwa ubaya,adverbs,0.2
+1984,brandy,kileo,nouns,2.9
+1985,järkeistää,kugombana,verbs,0.2
+1986,seremonia,sherehe,nouns,4.85
+1987,arvomerkki,insilia,nouns,0.15
+1988,menneisyys,zamani,nouns,1.3
+1989,peitetty,funikwa,adjectives,0.3
+1990,auringonnousu,machweo,nouns,1.55
+1991,kokous,mkutano,nouns,4.55
+1992,muistaa,kukumbuka,verbs,1.35
+1993,teleskooppi,darubini,nouns,0.0
+1994,kritisoida,kupinga,verbs,0.55
+1995,lävistää,kukupiga ngumi,verbs,0.65
+1996,satunnaisesti,mara chache,adverbs,0.6
+1997,neuroosi,ugonjwa wa neurosis,nouns,0.85
+1998,piirakka,chokoleti,nouns,0.75
+1999,tarkoitus,nia,nouns,1.55
+2000,totella,kutii,verbs,0.2
+2001,valtaistuin,kiti cha enzi,nouns,0.05
+2002,kahva,mpini,nouns,0.15
+2003,lannoite,samadi,nouns,0.45
+2004,piirustus,mchoro,nouns,0.0
+2005,prinsessa,bibi arusi,nouns,0.15
+2006,demoni,pepo,nouns,0.55
+2007,atomi,molekuli,nouns,2.55
+2008,laite,chungu,nouns,0.4
+2009,avoimesti,wazi,adverbs,0.15
+2010,heppu,msichana,nouns,0.6
+2011,talvi,msimu wa joto,nouns,0.7
+2012,sekoitettu,kumbakumba,adjectives,0.0
+2013,suu,jino,nouns,1.5
+2014,katsoa,kuangalia,verbs,2.2
+2015,lautanen,bakuli,nouns,2.75
+2016,lähettää,kuleta,verbs,0.45
+2017,äiti,rafiki,nouns,0.65
+2018,esilämmitys,pasha kabla,nouns,0.65
+2019,pitkä,mwembamba,adjectives,0.45
+2020,sovinisti,chauvinist,nouns,1.55
+2021,taimi,miche,nouns,1.2
+2022,meri,mto,nouns,1.9
+2023,vapista,kutetemeka,verbs,0.4
+2024,syytön,asiye na hatia,adjectives,0.15
+2025,mennä,kutuma,verbs,0.15
+2026,työntekijä,mwajiri,nouns,0.75
+2027,raekuuro,mvua ya mawe,nouns,3.25
+2028,pysähtyä,kuacha,verbs,0.1
+2029,minkki,mafuta,nouns,0.1
+2030,katto,paa,nouns,0.5
+2031,tammi,mpera,nouns,1.45
+2032,epäselvä,haijulikani,adjectives,4.65
+2033,menettää,poteza,verbs,0.0
+2034,haluta,kuazima,verbs,0.7
+2035,ikkuna,dirisha,nouns,0.0
+2036,vesi,chumvi,nouns,0.25
+2037,älykkyys,ustadi,nouns,2.1
+2038,sekunti,dakika,nouns,2.5
+2039,toimittaja,mwanahabari,nouns,0.65
+2040,unohtaa,kukumbusha,verbs,0.25
+2041,pohjoinen,kusini,nouns,0.65
+2042,vaahtera,mti,nouns,3.3
+2043,valehdella,kudanganya,verbs,2.65
+2044,paeta,kukimbia,verbs,4.9
+2045,sitruuna,chai,nouns,0.35
+2046,vatsa,chumba cha kulala,nouns,0.0
+2047,olla peräisin,kuanza,verbs,0.6
+2048,vetäytyä,kukataa,verbs,0.7
+2049,usva,wingu,nouns,2.25
+2050,lumivyöry,maporomoko ya theluji,nouns,2.5
+2051,hallinto,menejimenti,nouns,3.25
+2052,kappale,chaguo,nouns,0.15
+2053,kaikkivaltius,uwezaji,nouns,2.8
+2054,etäisyys,umbali,nouns,0.05
+2055,kynä,penseli,nouns,0.2
+2056,työläinen,mfanyakazi,nouns,0.65
+2057,valinta,oni,nouns,1.2
+2058,ananas,nanasi,nouns,0.0
+2059,kirja,andiko,nouns,3.15
+2060,painava,mkubwa,adjectives,1.6
+2061,vatsa,njia,nouns,0.05
+2062,usein,mara nyingi,adverbs,0.2
+2063,näyttää,kujifanya,verbs,0.55
+2064,väkijoukko,kikundi,nouns,4.7
+2065,pöytä,meza,nouns,0.0
+2066,huomio,ufahamu,nouns,1.4
+2067,usein,mara nyingi,adverbs,0.9
+2068,mies,mwanamke,nouns,0.7
+2069,sisäkatto,kanisa kuu,nouns,0.15
+2070,tragedia,kifo,nouns,1.5
+2071,käsivarsi,mkono,nouns,0.1
+2072,ikkuna,dirisha,nouns,0.5
+2073,ymmärrys,ukweli,nouns,1.35
+2074,ovela,mgeni,adjectives,0.2
+2075,sallia,kwenda,verbs,0.25
+2076,näytös,onyesha,nouns,0.0
+2077,tavallinen,kawaida,adjectives,0.28
+2078,taistelulaiva,manowari,nouns,5.35
+2079,matkia,kuiga,verbs,0.1
+2080,kärpänen,nzi,nouns,1.0
+2081,tylsä,hafifu,adjectives,0.65
+2082,valtava,mkubwa sana,adjectives,5.3
+2083,minttu,minti,nouns,0.0
+2084,elokuva,filamu,nouns,0.0
+2085,kieli,misuli,nouns,1.05
+2086,turvallisesti,kwa usalama,adverbs,0.65
+2087,kävellä,kutembea ,verbs,0.4
+2088,asu,sherehe,nouns,0.05
+2089,kupla,mapovu,nouns,1.95
+2090,pahentaa,kukuza,verbs,0.2
+2091,sanakirja,kamusi,nouns,2.95
+2092,planeetta,mwezi,nouns,1.7
+2093,iltahämärä,jioni,nouns,4.25
+2094,pitää päällä,kuvaa,verbs,0.1
+2095,päivä,usiku,nouns,0.8
+2096,tekijä,muumbaji,nouns,3.1
+2097,äiti,mlezi,nouns,3.1
+2098,häkki,kizuizi,nouns,0.5
+2099,hienovaraisesti,kwa siri,adverbs,0.1
+2100,napsahtaa,kuvunja,verbs,0.75
+2101,nenä,kinywa,nouns,1.0
+2102,sairas,ana wazimu,adjectives,1.0
+2103,laatikko,sigara,nouns,0.15
+2104,pappi,mungu,nouns,0.7
+2105,tavallinen,kawaida,adjectives,0.0
+2106,pariskunta,jozi,nouns,5.35
+2107,kapea,nyembamba,adjectives,1.88
+2108,tuleva,inayoingia,adjectives,0.3
+2109,tytär,kijana,nouns,1.85
+2110,kova,rahisi,adjectives,0.4
+2111,kastike,matofaa,nouns,0.4
+2112,ohjaamo,chumba cha rubani,nouns,0.55
+2113,kaataa,kumwaga,verbs,0.85
+2114,ystävä,mgeni,nouns,0.45
+2115,päivittäin,kila siku,adverbs,2.05
+2116,varmasti,hakika,adverbs,1.85
+2117,ystävä,mwalimu,nouns,0.5
+2118,poliitikko,mwanasiasa,nouns,0.35
+2119,ihmiset,idadi ya watu,nouns,3.35
+2120,lähde,chanzo,nouns,0.0
+2121,yksinkertainen,rahisi,adjectives,4.75
+2122,mehiläinen,mdudu,nouns,2.6
+2123,kuunnella,kujifunza,verbs,0.4
+2124,säästää,kuokoa,verbs,0.2
+2125,liha,mkate,nouns,0.55
+2126,aviomies,mke,nouns,0.85
+2127,jalkaterä,mguu,nouns,0.1
+2128,jousiampuja,mpiga mishale,nouns,0.1
+2129,taivas,ulimwengu,nouns,0.8
+2130,voittaa,kutawala,verbs,0.85
+2131,herättää,kuamka,verbs,0.2
+2132,raamattu,nyimbo,nouns,0.5
+2133,laiska,mvivu,adjectives,0.1
+2134,elokuu,mwezi,nouns,2.9
+2135,omistaa,kuweka,verbs,1.05
+2136,jauho,mkate,nouns,1.3
+2137,tulla,kwenda,verbs,0.5
+2138,tavata,kupatana,verbs,0.0
+2139,tapaaminen,shughuli,nouns,0.45
+2140,veri,damu,nouns,0.6
+2141,tykki,bunduki,nouns,2.45
+2142,makuuhuone,baisikeli,nouns,0.0
+2143,rauhallinen,utulivu,adjectives,0.45
+2144,totella,kusikiliza,verbs,1.35
+2145,kirsikka,cheri,nouns,1.7
+2146,jäätyä,kuganda,verbs,0.4
+2147,olkapää,kichwa,nouns,0.85
+2148,tienraivaaja,njia,nouns,0.1
+2149,haistaa,kunusa,verbs,0.05
+2150,järjestää,kuhitaji,verbs,0.1
+2151,sijainen,msaidizi,nouns,0.6
+2152,ilmeinen,wazi,adjectives,5.25
+2153,timantti,hela,nouns,0.45
+2154,valmistaa,kuumba,verbs,4.55
+2155,kahvi,maharagwe,nouns,0.5
+2156,ovela,mjanja,adjectives,4.35
+2157,pätevyys,uwezo,nouns,4.2
+2158,energia,nishati,nouns,1.1
+2159,sotkuinen,chafu,adjectives,0.68
+2160,huuli,nyonga,nouns,0.7
+2161,näppäimistö,kibodi,nouns,0.0
+2162,kiertäminen,mzunguko,nouns,0.15
+2163,enimmäkseen,zaidi,adverbs,0.5
+2164,uskalias,wa kujivunia,adjectives,0.4
+2165,niemimaa,peninsula,nouns,1.05
+2166,kuvata,kuiga,verbs,1.4
+2167,tihkusade,mvua,nouns,4.35
+2168,torjua,kutoa,verbs,0.7
+2169,toimeksianto,jukumu,nouns,4.4
+2170,realistisesti,kihalisia,adverbs,0.55
+2171,letku,bustani,nouns,0.3
+2172,syyllinen,mkweli,adjectives,0.15
+2173,aikuinen,mzazi,nouns,2.95
+2174,tiedustella,kuhitaji,verbs,0.35
+2175,lusikka,kijiko,nouns,0.1
+2176,helppo,imara,adjectives,0.25
+2177,palauttaa,kubadilisha,verbs,0.65
+2178,naudanliha,nyama ya ng'ombe,nouns,3.3
+2179,museo,jumba la makumbusho,nouns,0.0
+2180,ratkaisematon,kuwa yumba,adjectives,0.35
+2181,valittaa,kugombana,verbs,1.15
+2182,paistaa,kukaanga,verbs,3.05
+2183,prinssikunta,mfalme,nouns,2.3
+2184,tukki,mbao,nouns,2.85
+2185,mies,mume,nouns,4.15
+2186,vahvasti,kwa nguvu,adverbs,0.25
+2187,työläinen,makanika,nouns,2.1
+2188,paukkumaissi,bisi,nouns,0.25
+2189,taiteilija,msanii,nouns,0.85
+2190,tohtori,mtaalamu wa meno,nouns,2.45
+2191,oppia,kuchambua,verbs,0.85
+2192,lähettää,kupokea,verbs,0.35
+2193,hysteria,ghasia,nouns,1.2
+2194,yö,alfajiri,nouns,0.65
+2195,rehellisesti,kwa kweli,adverbs,0.0
+2196,todistaa,kugombana,verbs,0.25
+2197,ammatti,chuo,nouns,0.55
+2198,villapaita,fulana,nouns,0.6
+2199,rukoilla,kuwasiliana,verbs,0.35
+2200,kypärä,helmeti,nouns,0.4
+2201,planeetta,sayari,nouns,2.7
+2202,leidi,bwana,nouns,0.7
+2203,ihmiset,bunduki,nouns,0.05
+2204,saada,kujipatia,verbs,2.6
+2205,olla peräisin,kugundua,verbs,0.25
+2206,muistutus,baki,nouns,0.35
+2207,laakso,bonde,nouns,0.0
+2208,käsittää,kuridhisha,verbs,0.05
+2209,talo,banda,nouns,2.55
+2210,edeltäjä,antecedent,nouns,1.3
+2211,vapauttaa,kuachilia,verbs,0.0
+2212,tieto,kitabu,nouns,0.75
+2213,kuolettavasti,hatari sana,adverbs,0.0
+2214,lentokone,ndege,nouns,0.0
+2215,hirveä,poa,adjectives,0.25
+2216,lopettaa,kufanya,verbs,0.3
+2217,galaksi,giligili,nouns,0.0
+2218,monitahokas,pembe zaidi ya sita,nouns,0.05
+2219,iso,rahisi,adjectives,0.05
+2220,moittia,kushtaki,verbs,0.05
+2221,varvas,kidole cha mkono,nouns,1.7
+2222,strategi,mkakati,nouns,2.5
+2223,kannettava tietokone,kipakatio,nouns,0.25
+2224,tuntea,kuhisi,verbs,1.0
+2225,pohja,msingi,nouns,0.1
+2226,säännöllinen,mara kwa mara,adjectives,0.0
+2227,veli,baba,nouns,0.95
+2228,kokoontuminen,kusanyiko,nouns,4.55
+2229,virallisesti,rasmi,adverbs,0.4
+2230,kuukausipalkka,ada,nouns,1.05
+2231,tutka,rada,nouns,0.5
+2232,keskustella,kueleza,verbs,1.5
+2233,lakimies,mfanyakazi wa benki,nouns,0.8
+2234,vihainen,mwenye furaha,adjectives,0.35
+2235,tulla,kuonekana,verbs,0.4
+2236,sauva,pazia,nouns,0.05
+2237,suola,maji,nouns,0.25
+2238,takaosa,nyuma,nouns,1.9
+2239,kunnia,heshima,nouns,1.9
+2240,vähentää,toa ,verbs,0.4
+2241,peli,mbinu,nouns,0.7
+2242,auto,mpira wa maji,nouns,0.0
+2243,tehtävä,njia kuu,nouns,0.1
+2244,vaatimaton,ana aibu,adjectives,0.2
+2245,väsynyt,choka,adjectives,0.15
+2246,testi,jaribio,nouns,0.15
+2247,kirjallisuus,kitabu,nouns,2.25
+2248,veljeskunta,baseball,nouns,0.0
+2249,luuri,simu,nouns,0.0
+2250,pankki,benki,nouns,0.0
+2251,karitsa,kondoo,nouns,4.05
+2252,joki,mkondo,nouns,3.1
+2253,pilvi,wingu,nouns,0.0
+2254,jalka,mkono,nouns,1.5
+2255,sykloni,kimbunga,nouns,4.8
+2256,nöyryyttää,kuaibisha,verbs,0.0
+2257,uskoa,kujua,verbs,1.25
+2258,palatsi,jumba la kubwa,nouns,2.0
+2259,vaatimaton,pole,adjectives,0.8
+2260,luoda,kuwazia,verbs,0.5
+2261,kaatua,kuanguka,verbs,2.6
+2262,hienotunteisesti,kwa uangalifu,adverbs,0.0
+2263,mekaanikko,mfanyakazi,nouns,2.1
+2264,aina,mara kwa mara,adverbs,0.65
+2265,tippua,dondoka,verbs,0.85
+2266,suuri,mkubwa mno,adjectives,5.3
+2267,laulu,wimbo,nouns,0.65
+2268,kihlautua,kuoa,verbs,2.5
+2269,reikä,mapatano,nouns,0.0
+2270,kirjailija,mwandishi,nouns,0.55
+2271,lukukausimaksu,ada,nouns,1.2
+2272,anoa,kuuliza,verbs,2.55
+2273,poski,ulimi,nouns,0.95
+2274,koko,mbinu,nouns,0.0
+2275,suorittaa loppuun,maliza,verbs,0.85
+2276,talvi,msimu,nouns,2.2
+2277,pohjoinen,magharibi,nouns,0.7
+2278,häpeissään oleva,kua na aibu,adjectives,0.05
+2279,roikkua,kuweka,verbs,0.1
+2280,epäillä,kushukia,verbs,0.25
+2281,syntymäpäivä,mwaka,nouns,0.65
+2282,tanssi,densi,nouns,0.1
+2283,vapauttaa,kukutolewa,verbs,0.2
+2284,lähettää,kuhudhuria,verbs,0.15
+2285,mieto,vuguvugu,adjectives,0.22
+2286,erottaa,kutenganisha,verbs,0.2
+2287,peruna,siagi,nouns,0.5
+2288,pää,kichwa,nouns,1.1
+2289,tuomita,hakimu,verbs,0.45
+2290,tyhmä,mkubwa mno,adjectives,0.0
+2291,ohjelma,wazo,nouns,0.75
+2292,pohjimmiltaan,kimsingi,adverbs,0.7
+2293,kuoro,kanisa,nouns,1.05
+2294,unohtaa,kupuuza,verbs,1.85
+2295,terminaalisesti,mwishoni,adverbs,0.1
+2296,kantaa,kupeleka,verbs,1.15
+2297,saavuttaa,kujaribu,verbs,0.8
+2298,loukata,kukosea,verbs,0.6
+2299,lannistaa,kutia moyo,verbs,0.3
+2300,kongressi,mkutano,nouns,3.25
+2301,saastuminen,angahewa,nouns,0.1
+2302,mekaaninen,a kifundi,adjectives,0.55
+2303,metalli,chuma,nouns,2.85
+2304,sateenvarjo,mwamvuli,nouns,0.05
+2305,rikollinen,mhalifu,nouns,5.25
+2306,istuin,kiti,nouns,0.0
+2307,kaliiperi,kaliba,nouns,0.0
+2308,auto ,njia kuu,nouns,0.55
+2309,hiiri,menejimenti,nouns,0.0
+2310,epäonnistua,kushidwa,verbs,0.15
+2311,jäykkä,ngumu,adjectives,0.2
+2312,aloittaa,kutokana,verbs,0.6
+2313,vaahtera,mnazi,nouns,1.45
+2314,pyörä,baiskeli,nouns,0.0
+2315,täydellisesti,kiukamilifu,adverbs,1.6
+2316,prinssi,mfalme,nouns,2.45
+2317,elämäntapa,mtindo wa maisha,nouns,1.2
+2318,painovoima,mvuto,nouns,0.1
+2319,turvallinen,salama,adjectives,0.7
+2320,häpeä,huzuni,nouns,0.95
+2321,arvostella,kiwango,verbs,0.55
+2322,auto,mtaa,nouns,0.2
+2323,ovi,korido,nouns,0.55
+2324,lammas,mwanakondoo,nouns,4.05
+2325,tulla sisään,kwenda,verbs,0.55
+2326,sopimus,pambano,nouns,0.25
+2327,yhtenäisesti,sawa,adverbs,0.05
+2328,tahrata,kupaka,verbs,0.75
+2329,valmistua,kuhitimu,verbs,3.85
+2330,todennäköisesti,uwezekano,adverbs,2.55
+2331,lumi,theluji,nouns,2.5
+2332,tukehtua,kuua,verbs,0.6
+2333,munuainen,kiungo,nouns,2.45
+2334,suunnaton,kubwa,adjectives,0.55
+2335,myrsky,wingu,nouns,0.6
+2336,artikkeli,makala,nouns,1.6
+2337,oksa,shina,nouns,0.1
+2338,maksa,kiungo,nouns,2.3
+2339,avain,nyumba,nouns,0.6
+2340,tekijöihinjako,sababu,nouns,0.15
+2341,ystävä,mvulana,nouns,0.6
+2342,liittyä,kukuunga,verbs,0.05
+2343,säännöllinen,mara kwa mara,adjectives,0.6
+2344,rohkaista,kukanya,verbs,0.3
+2345,sininen,bluu,adjectives,0.9
+2346,sivuuttaa,kuepa,verbs,2.9
+2347,vastaanottaa,kupa,verbs,0.55
+2348,valinta,jela,nouns,0.1
+2349,liittyä,kujipatia,verbs,0.1
+2350,fantasia,uhalisi,nouns,0.25
+2351,lentopallo,mpira wa wavu,nouns,2.95
+2352,kypsä,kukomaa,adjectives,0.6
+2353,kausi,msimu wa baridi,nouns,2.2
+2354,näyttää,kuwa,verbs,0.4
+2355,osua,piga,verbs,1.3
+2356,monarkia,ufalme,nouns,1.3
+2357,teollisuus,biashara,nouns,1.8
+2358,karja,ngombe,nouns,2.9
+2359,löytää,kujipatia,verbs,0.85
+2360,isä,mtoto wa kiume,nouns,0.95
+2361,sotilas,mvulana,nouns,0.7
+2362,äänekäs,yenye sauti,adjectives,0.3
+2363,vuosisata,muongo,nouns,1.35
+2364,populaatio,watu,nouns,3.35
+2365,kapteeni,mwanamaji,nouns,2.3
+2366,teeskennellä,kuwazia,verbs,0.65
+2367,mukavuus,usalama,nouns,0.9
+2368,älykkyys,ujinga,nouns,0.4
+2369,hyppy,kuruka,nouns,0.1
+2370,sikari,bomba,nouns,0.2
+2371,veljenpoika,shangazi,nouns,0.5
+2372,ottaa,kuchukua,verbs,1.65
+2373,naistenmies,mvulana,nouns,0.55
+2374,taso,kiwango,nouns,0.5
+2375,erilainen,wa kawaida,adjectives,0.25
+2376,nopeus,kiwango,nouns,0.5
+2377,älykäs,mpumbavu,adjectives,0.3
+2378,aavikko,jangwa,nouns,1.85
+2379,juoma,bia,nouns,3.25
+2380,yhdistää,kuunganisha,verbs,0.45
+2381,kauneus,uzuri,nouns,0.1
+2382,tuhota,kutengeneza,verbs,0.25
+2383,jonkun poika,mvulana,nouns,4.55
+2384,väkivaltainen,wa ghadhabu,adjectives,1.6
+2385,vaimo,senti,nouns,0.0
+2386,kiistää,kukana,verbs,1.3
+2387,setä,mwanaume,nouns,2.75
+2388,tukija,msaidizi,nouns,0.0
+2389,moninkertainen,nyingi zaidi,adverbs,0.9
+2390,keskinkertainen,mtumba,adjectives,0.35
+2391,herra,bibi,nouns,0.7
+2392,munkki,mtawa,nouns,0.25
+2393,supistaa,kupunguza,verbs,0.9
+2394,huonosti,kwa ubaya,adverbs,0.05
+2395,miellyttää,kuridhisha,verbs,2.0
+2396,raja,mpaka,nouns,3.55
+2397,pallo,kikapu,nouns,0.3
+2398,molekyyli,hewa,nouns,0.5
+2399,teksti,kitabu,nouns,3.15
+2400,kuulakärkikynä,kalamu,nouns,0.05
+2401,pohja,upande,nouns,0.55
+2402,hiljaisesti,kwa ukimya,adverbs,0.15
+2403,ilta,giza kuingia,nouns,4.25
+2404,repiä,kuchana,verbs,0.1
+2405,aikuinen,mlezi,nouns,2.15
+2406,muodostaa,kuharibu,verbs,0.25
+2407,vaunu,gari la farasi,nouns,4.1
+2408,kulttuuri,utamaduni,nouns,1.85
+2409,ravistaa,kutikisa,verbs,1.13
+2410,ajaa,endesha,verbs,0.45
+2411,suora,nyooka,adjectives,0.35
+2412,lentokone,uwanja wa ndege,nouns,1.35
+2413,asunto,hoteli,nouns,0.95
+2414,epäreilu,jeuri,adjectives,2.05
+2415,sähköinen,chenye umeme,adjectives,0.55
+2416,viskositeetti,mnato,nouns,0.3
+2417,surullinen,huzuni,adjectives,0.0
+2418,vartalo,tumbo,nouns,1.4
+2419,lisätä,kugawanya,verbs,0.65
+2420,ennakkoluulo,ubaguzi,nouns,1.55
+2421,imeä itseensä,kutoa,verbs,1.15
+2422,lainmukainen,halali,adjectives,0.3
+2423,ottaa,kupeleka,verbs,0.3
+2424,auto,honi,nouns,0.3
+2425,joustava,mkubwa sana,adjectives,0.35
+2426,mahdollisesti,inawezekana,adverbs,1.15
+2427,tavata,kukutana,verbs,0.0
+2428,säilyketölkki,chuma,nouns,0.95
+2429,varmistaa,kusema,verbs,0.55
+2430,sulhanen,bibi arusi,nouns,0.85
+2431,viikko,wikendi,nouns,1.65
+2432,seurata,kufuata,verbs,2.8
+2433,riippua,kuhitaji,verbs,1.65
+2434,elokuva,filamu,nouns,2.73
+2435,rannikkoalue,pwani,nouns,0.25
+2436,papu,kahawa,nouns,0.5
+2437,märkä,lowa,adjectives,0.75
+2438,valkoinen,nyeupe,adjectives,0.0
+2439,suo,ziwa,nouns,2.15
+2440,uskomattomasti,kwa umaradufu,adverbs,1.45
+2441,hiljaa,kwa ukimya,adverbs,0.5
+2442,väsynyt,iliyochoka,adjectives,1.55
+2443,näyttö,kiwambo,nouns,0.25
+2444,peittelemätön,bila siri,adjectives,0.25
+2445,jahdata,kukimbiza,verbs,0.75
+2446,ystävällinen,mkarimu,adjectives,1.9
+2447,voittaja,uwepo,nouns,0.05
+2448,neuvoa,kushauri,verbs,3.25
+2449,hävitä,kutoweka,verbs,5.4
+2450,huolellisesti,kwa utaratibu,adverbs,0.05
+2451,nujertaa,kutawala,verbs,1.85
+2452,rakko,malengelenge,nouns,0.0
+2453,diodi,diode,nouns,1.4
+2454,voitto,fora,nouns,3.35
+2455,sekoitettu,changanywa,adjectives,2.5
+2456,rentoutunut,kupumzika,adjectives,0.2
+2457,kuorma-auto,gari la mzigo,nouns,0.05
+2458,neuvoa,kupendekeza,verbs,3.6
+2459,luonnollisesti,kiasili,adverbs,0.15
+2460,papu,nyama ya nguruwe,nouns,0.3
+2461,sammal,nyasi,nouns,1.45
+2462,sivu,aya,nouns,0.2
+2463,keuhko,ini,nouns,1.0
+2464,pehmeästi,kwa upole,adverbs,0.05
+2465,poika,kijana,nouns,3.25
+2466,muksu,mvulana,nouns,3.25
+2467,voittaja,mgombea wa uchaguzi,nouns,1.1
+2468,matto,nyumba,nouns,0.35
+2469,heppu,mtu mzuri,nouns,0.55
+2470,levoton,mchanga,adjectives,0.2
+2471,ottaa osaa,kusema,verbs,0.3
+2472,persilja,pasile,nouns,0.2
+2473,kehitys,maendeleo,nouns,0.1
+2474,kuningas,mfalme,nouns,0.55
+2475,suru,huzuni,nouns,0.3
+2476,tekijä,msomaji,nouns,0.65
+2477,käsivarsi,goti,nouns,0.85
+2478,surullisesti,kwa huzuni,adverbs,1.13
+2479,varastaa,kununua,verbs,0.3
+2480,hiili,atomu,nouns,1.1
+2481,myöntyä,kugombana,verbs,0.35
+2482,onnekas,enye bahati,adjectives,0.05
+2483,työ,kazi,nouns,1.0
+2484,paita,shati,nouns,1.75
+2485,sänky,chumba cha kulala,nouns,1.0
+2486,vuohi,ngombe,nouns,1.0
+2487,aamunkoitto,bunduki,nouns,0.0
+2488,oikeudenmukaisuus,haki,nouns,1.7
+2489,matkustaa,kusafiri,verbs,3.05
+2490,rannekello,saa,nouns,0.0
+2491,maila,raketi,nouns,0.6
+2492,kriittisesti,kwa uweledi,adverbs,0.95
+2493,lakimies,mwanasheria,nouns,0.0
+2494,arkkipiispa,askofu,nouns,4.05
+2495,laiton,wa dhambi,adjectives,2.1
+2496,hukkua ,kutota,verbs,0.05
+2497,ei koskaan,kamwe,adjectives,0.42
+2498,olla tunnustamatta,kutelekeza,verbs,0.25
+2499,tehtävä,majani makavu,nouns,0.0
+2500,pala,kipande,nouns,0.0
+2501,vahva,wa kujivunia,adjectives,0.35
+2502,kiistellä,kuthibitisha,verbs,0.25
+2503,pallo,mpira,nouns,1.78
+2504,kesä,msimu wa baridi,nouns,0.7
+2505,luotettavasti,pasipo tu,adverbs,0.05
+2506,käsivarsi,misuli,nouns,0.75
+2507,kirja,biblia,nouns,2.65
+2508,ihmiset,dola,nouns,0.35
+2509,iskeä,kuchapa,verbs,0.2
+2510,yksityinen,binafsi,adjectives,0.2
+2511,turvautua,tegemea,verbs,0.9
+2512,serkku,mjomba,nouns,1.1
+2513,mellakka,mgomo,nouns,0.0
+2514,näyttelijätär,mchezaji,nouns,4.35
+2515,älykkyys,umaizi,nouns,3.05
+2516,varainkeruu ,mchango,nouns,0.1
+2517,isä,mtoto wa kike,nouns,0.65
+2518,painaa,kuvyombo vya habari,verbs,0.0
+2519,asunto,fanicha,nouns,0.35
+2520,operaatio,uendeshaji,nouns,0.05
+2521,kauneus,umri,nouns,0.2
+2522,aloittaa,kuacha,verbs,0.25
+2523,puhua,kutambua,verbs,0.8
+2524,toiminta,mwendo,nouns,0.3
+2525,pysyä,kubaki,verbs,1.85
+2526,ihmiset,senti,nouns,0.05
+2527,itkeä,kulia,verbs,0.2
+2528,nälkäinen,kua na njaa ,adjectives,0.75
+2529,epäreilusti,si kwa haki,adverbs,0.25
+2530,ottaa,kuondoka,verbs,0.4
+2531,kohdella,tibu,verbs,0.0
+2532,päälevy,bodi kuu,nouns,4.3
+2533,iso,mpana,adjectives,3.75
+2534,akustiikka,akustik,nouns,2.6
+2535,kirjoittaa,kuchorachora,verbs,2.85
+2536,nuori,mwenye furaha,adjectives,0.15
+2537,jälkeen,baada ya,adverbs,0.25
+2538,pehmeästi,kwa ulaini,adverbs,0.2
+2539,hissi,sanduku,nouns,0.0
+2540,vene,gari,nouns,0.8
+2541,rukoilla,kuuliza,verbs,0.75
+2542,kummallinen,mwerevu,adjectives,0.2
+2543,epätavallisesti,sio kawaida,adverbs,4.8
+2544,idea,picha,nouns,1.05
+2545,kuulla,kuzungumza,verbs,0.5
+2546,kehto,kitanda cha mtoto,nouns,3.6
+2547,viha,ghadhabu,nouns,4.65
+2548,fonologia,fonolojia,nouns,0.25
+2549,luuta,ufagio,nouns,0.55
+2550,juoda,kunywa,verbs,2.1
+2551,päivämäärä,siku ya kuzaliwa,nouns,1.75
+2552,nauraa,kucheka,verbs,0.23
+2553,täsmällinen,uhakika,adjectives,0.05
+2554,letku,gari,nouns,0.0
+2555,unohtaa,kujua,verbs,0.2
+2556,myydä,kuazima,verbs,0.15
+2557,tarkalleen,kwa usahihi,adverbs,0.2
+2558,taito,akili,nouns,2.1
+2559,tila,njia,nouns,0.7
+2560,vaeltaa,kuondoka,verbs,0.35
+2561,säilytysastia,panya,nouns,0.0
+2562,terminaalisesti,mwisho,adverbs,0.25
+2563,rauhanomaisesti,kwa amani,adverbs,2.08
+2564,pää,bega,nouns,0.85
+2565,kartio,kikombe,nouns,0.1
+2566,läsnäolo,kutokuwepo,nouns,0.35
+2567,liittyä,kujumlisha,verbs,1.0
+2568,vaihto,ubadilishaji,nouns,0.15
+2569,ehdokas,mshindi,nouns,1.1
+2570,tuomio,kesi,nouns,1.25
+2571,pikainen,wa haraka,adjectives,4.55
+2572,suoja,kibanda,nouns,1.25
+2573,uutiset,habari,nouns,1.1
+2574,työ,menejimenti,nouns,0.7
+2575,matriisi,matriksi,nouns,0.68
+2576,kansi,panya,nouns,0.0
+2577,hyväksyä,kupendekeza,verbs,0.85
+2578,puristaa,kuminya,verbs,0.85
+2579,taideteos,mchoro,nouns,0.85
+2580,todentaa,kutetea,verbs,1.0
+2581,typerä,mpumbavu,adjectives,0.8
+2582,sallia,kuruhusu,verbs,0.13
+2583,osavaltio,nyumba,nouns,0.15
+2584,hyytävä,mdhaifu,adjectives,0.25
+2585,mikroskooppi,darubini,nouns,0.45
+2586,sana,ukurasa,nouns,0.2
+2587,laskimo,chaguo,nouns,0.05
+2588,tasavalta,jamhuri,nouns,0.2
+2589,helppo,mkubwa,adjectives,0.05
+2590,rikos,wizi,nouns,3.75
+2591,seutu,eneo,nouns,4.4
+2592,vene,sitaha,nouns,0.45
+2593,osoitin,kionyeshi,nouns,0.0
+2594,kerätä,kukusanya,verbs,1.5
+2595,sotkuinen,chafu,adjectives,0.15
+2596,muksu,mtoto wa kike,nouns,1.85
+2597,kylpy,gogo,nouns,0.0
+2598,luoda,kutengeneza,verbs,2.28
+2599,vaivata,kusumbua,verbs,0.6
+2600,nälkäinen,kua na njaa,adjectives,0.15
+2601,moottori ,boti,nouns,1.35
+2602,saada kiinni,kudaka,verbs,0.47
+2603,paikallisesti,kienyeji,adverbs,0.0
+2604,peli,tendo,nouns,0.85
+2605,rationaalinen,kueleweka,adjectives,0.55
+2606,rankka,rahisi,adjectives,0.25
+2607,ääni,sauti,nouns,2.6
+2608,kallio,mwamba,nouns,0.2
+2609,mylly,koboa,nouns,0.25
+2610,sormi,kiganja,nouns,0.6
+2611,ruokalista,agizo,nouns,0.45
+2612,juhlapäivä,likizo,nouns,0.45
+2613,palaa,kuunguza,verbs,0.25
+2614,aamiainen,chakula cha usiku,nouns,0.9
+2615,jaardi,mita,nouns,3.0
+2616,laillinen,halali,adjectives,0.7
+2617,onnistua,kufeli,verbs,0.25
+2618,suisto,delta,nouns,1.05
+2619,suoli,neva,nouns,0.6
+2620,kypsentää,kupika,verbs,1.32
+2621,laittaa,kupa,verbs,0.45
+2622,keuhkoputkentulendus,ugonja wa bronchitis,nouns,0.25
+2623,jakku,sweta,nouns,2.85
+2624,luu,mkono,nouns,1.0
+2625,eri tavalla,kitofauti,adverbs,0.1
+2626,tulokset,alama,nouns,0.5
+2627,lopettaa,kuanza,verbs,0.25
+2628,kylmä,baridi,adjectives,0.0
+2629,aihe,mada,nouns,0.25
+2630,todiste,ukweli,nouns,2.3
+2631,tila,hisia,nouns,1.3
+2632,sinappi,mbegu,nouns,0.6
+2633,pyhimys,mkosaji,nouns,0.25
+2634,tee,limau,nouns,0.35
+2635,suostutella,kufuatilia,verbs,0.65
+2636,tuli,moto,nouns,0.1
+2637,lista,orodha,nouns,0.65
+2638,hermo,mwili,nouns,0.9
+2639,palauttaa,kurudisha,verbs,0.4
+2640,keskimääräinen,wastani,adjectives,0.6
+2641,palmu,kidole,nouns,0.6
+2642,kirjallisuus,neno,nouns,0.7
+2643,menettää,kuweka,verbs,0.1
+2644,savuke,tumbaku,nouns,4.85
+2645,saalis,mungu,nouns,0.0
+2646,vaikea,rahisi,adjectives,0.2
+2647,keskustelu,uongofu,nouns,0.0
+2648,epätodennäköisesti,sio rahisi,adverbs,0.0
+2649,haalistua,kufifia,verbs,0.55
+2650,häpeissään oleva,jisikia aibu,adjectives,0.3
+2651,kutistua,kukua,verbs,0.25
+2652,kirja,makala,nouns,1.4
+2653,tappaa,kukaba,verbs,0.6
+2654,pilvinen sää,kivuli cha mawingu,nouns,0.5
+2655,nainen,mke,nouns,3.45
+2656,epäkypsä,kutokomaa,adjectives,0.2
+2657,muoti,mtindo,nouns,0.7
+2658,teeskennellä,kuonekana,verbs,0.55
+2659,takki,kofia,nouns,1.0
+2660,moottoritie,gari,nouns,0.55
+2661,järjestäytynyt,kupanga,verbs,0.2
+2662,kuppi,kijiko,nouns,0.95
+2663,ymmärrys,akili,nouns,3.05
+2664,huonekalut,fleti,nouns,0.35
+2665,ottaa,kumiliki,verbs,1.25
+2666,ylpeä,kujivunia,adjectives,0.0
+2667,iso,mzito,adjectives,1.6
+2668,ranta,mchanga,nouns,0.8
+2669,tila,hasira,nouns,0.3
+2670,haukka,ndege,nouns,3.4
+2671,liiketoiminta,kampuni,nouns,2.95
+2672,muotoutumaton,kutobadilishwa,adjectives,0.3
+2673,ihmeellinen,maridadi,adjectives,0.8
+2674,ilmailu,safari ya angani,nouns,3.15
+2675,kristitty,mkristo,nouns,3.6
+2676,galaksi,giligili,nouns,0.35
+2677,jumala,roho,nouns,2.2
+2678,negatiivinen,hasi,adjectives,0.6
+2679,neuvottelu,jadiliano,nouns,1.9
+2680,meteori,meteor,nouns,0.1
+2681,viulu,chombo,nouns,2.3
+2682,tuhota,haribu,verbs,1.35
+2683,komero,nguo,nouns,0.35
+2684,vitamiini,chuma,nouns,0.45
+2685,myöntyä,kukubali,verbs,2.23
+2686,arvioida,kuchanganua,verbs,4.2
+2687,miehet,undugu,nouns,1.15
+2688,johtokunta,panya,nouns,0.0
+2689,kansi,sakafu,nouns,0.55
+2690,ujo,aibu,adjectives,0.35
+2691,hyökätä kimppuun,kushambulia,verbs,0.2
+2692,varallisuus,umaarufu,nouns,0.4
+2693,riisi,kuku,nouns,0.4
+2694,kovakouraisesti,takribani,adverbs,0.3
+2695,lainata,kupa,verbs,1.05
+2696,kompastua,kujikwaa,verbs,2.6
+2697,käsityö,kazi za mikono,nouns,0.2
+2698,sytoplasma,cytoplasm,nouns,0.0
+2699,olla eri mieltä,kataa,verbs,0.3
+2700,säästää,kulinda,verbs,1.3
+2701,pesäpallo,kochi,nouns,0.25
+2702,diplomatia,diplomasia,nouns,1.9
+2703,pysähtyä,kusimamisha,verbs,0.6
+2704,salaatti,siki,nouns,0.3
+2705,moottori,mashine,nouns,3.35
+2706,lukko,kufuli,nouns,1.05
+2707,pitää,kupa,verbs,0.3
+2708,järjetön,ana wazimu,adjectives,5.05
+2709,lannistaa,katisha tamaa,verbs,2.25
+2710,muslimi,mwislamu,nouns,0.2
+2711,lato,nyumba,nouns,2.55
+2712,vuosisata,pombe,nouns,0.0
+2713,ilmiselvästi,ni wazi,adverbs,0.03
+2714,hotelli,fleti,nouns,0.95
+2715,yhtye,subira,nouns,0.0
+2716,anteliaasti,kwa ukarimu,adverbs,0.05
+2717,tehdä tutkimusmatka,kupuuza,verbs,0.05
+2718,matka,mwendo,nouns,4.0
+2719,rikos,udanganyifu,nouns,3.35
+2720,käytävä,mlango,nouns,0.55
+2721,häntä,sura,nouns,0.0
+2722,kirja,kitabu,nouns,1.85
+2723,kersantti,mjeshi,nouns,0.55
+2724,dyyni,dune,nouns,1.85
+2725,tietokone,kompyuta,nouns,3.1
+2726,isä,kaka,nouns,0.95
+2727,ylpeä,mjasiri,adjectives,0.4
+2728,kova,bila jasho,adjectives,0.05
+2729,koulu,sheria,nouns,0.15
+2730,halata,kumbatia,verbs,4.9
+2731,kysyä,kuomba,verbs,2.55
+2732,häpeissään oleva,mwenye kiasi,adjectives,0.2
+2733,stressaantunut,kusisitiza,adjectives,0.2
+2734,lisätä,kuzidisha,verbs,1.1
+2735,strutsi,mbuni,nouns,0.0
+2736,mies,mjomba,nouns,2.75
+2737,henkilökunta,wafanyakazi,nouns,0.15
+2738,homofoni,nyumba ya nyumbani,nouns,0.0
+2739,fantastisesti,kimaajabu,adverbs,4.7
+2740,runoilija,mshairi,nouns,0.65
+2741,syyllinen,mbaya,adjectives,1.4
+2742,baari,zizi,nouns,0.5
+2743,likainen,mwembamba,adjectives,0.0
+2744,asetyylikoliini,acetylcholine,nouns,0.15
+2745,vannoa,kuapa,verbs,4.55
+2746,jänis,paka,nouns,0.85
+2747,kunto,mvulana,nouns,0.0
+2748,synkkä,wa kuchosha,adjectives,0.65
+2749,mekaanisesti,kwa ustadi,adverbs,0.3
+2750,omistaa,kuchukua,verbs,1.25
+2751,työnantaja,mfanyakazi,nouns,1.05
+2752,keisari,mtawala,nouns,0.3
+2753,viski,jini,nouns,2.3
+2754,mennä,kuingia,verbs,0.55
+2755,kartano,nyumba,nouns,0.05
+2756,suurkaupunki,jiji,nouns,4.2
+2757,elefantti,ndovu,nouns,0.4
+2758,hevonen,mbwa,nouns,1.0
+2759,huippu,juu,adjectives,0.05
+2760,voimakas tuuli,upepo mkali,nouns,0.0
+2761,amerikkalainen jalkapallo,burudani,nouns,0.6
+2762,petos,uhalifu,nouns,3.35
+2763,parlamentti,bunge,nouns,3.25
+2764,lapsi,mwanaume,nouns,0.7
+2765,pallo,mzinga,nouns,0.1
+2766,suorittaa loppuun,kumaliza,verbs,3.85
+2767,mielipide,chaguo,nouns,1.2
+2768,idea,mpango,nouns,0.75
+2769,ovi,jiko,nouns,0.2
+2770,mieletön,safi,adjectives,0.05
+2771,istunto,kikao,nouns,0.1
+2772,summa,jumla,nouns,1.0
+2773,petos,ulaghai,nouns,2.45
+2774,kulma,tao,nouns,1.3
+2775,paistaa,kaanga,verbs,1.55
+2776,mehu,matofaa,nouns,0.85
+2777,opettaja,mkufunzi,nouns,4.25
+2778,pääkirjoitus,uhariri,nouns,1.1
+2779,poimia,chagua,verbs,4.35
+2780,tuhota,kuumba,verbs,0.25
+2781,järvi,ziwa,nouns,0.2
+2782,nauttia,kufurahia,verbs,0.15
+2783,rannikkoalue,ufuko,nouns,nan
+2784,kuningas,mtoto wa mfalme,nouns,2.45
+2785,väkijoukko,fungu,nouns,0.1
+2786,pelästynyt,ogopa,adjectives,0.7
+2787,ruoho,mzizi,nouns,0.7
+2788,esinahka,govi,nouns,1.45
+2789,hoikka,mwembamba,adjectives,3.75
+2790,välttää,kujiweka mbali,verbs,1.3
+2791,turkki,bunduki,nouns,0.0
+2792,valita,kutaka,verbs,0.8
+2793,syvyys,ukubwa,nouns,1.25
+2794,naru,uzi,nouns,0.0
+2795,paha,mbaya,adjectives,0.53
+2796,merimies,kapteni,nouns,2.3
+2797,sänky,fanicha,nouns,2.45
+2798,pelaaja,mchezaji,nouns,1.1
+2799,juhla,watu,nouns,0.5
+2800,kokoontua,kukutana,verbs,2.75
+2801,mies,mshindi,nouns,0.15
+2802,kylpy,mke,nouns,0.0
+2803,hävitä ,kutafuta,verbs,0.25
+2804,pitää,kutunza,verbs,2.45
+2805,niska,mkono,nouns,0.7
+2806,pakti,mapatano,nouns,5.05
+2807,luokkahuone,ushoroba,nouns,0.55
+2808,antaa,kukana,verbs,0.05
+2809,ajaa,kuendesha,verbs,0.45
+2810,tiedottaa,kujulisha,verbs,5.25
+2811,laatikko,lifti,nouns,0.0
+2812,niska,uti,nouns,0.75
+2813,tyhmä,mjinga,adjectives,4.8
+2814,yksityinen,faragha,adjectives,3.7
+2815,tarina,mada,nouns,0.55
+2816,vaikea,bila jasho,adjectives,0.25
+2817,vaimo,mwanamke,nouns,3.45
+2818,ajatella,kufikiria,verbs,1.35
+2819,seistä,kusimama,verbs,0.4
+2820,kriittinen,muhimu,adjectives,0.35
+2821,epätäsmällisesti,si kwa usahihi,adverbs,0.2
+2822,taivas,anga,nouns,0.1
+2823,vaimo,mume,nouns,0.85
+2824,suojella,kuweka,verbs,0.45
+2825,tehdä yhteistyötä,kushiriki,verbs,3.0
+2826,kulho,kichochoro,nouns,0.05
+2827,alue,kanda,nouns,4.7
+2828,johtokunta,kazi,nouns,0.7
+2829,rabbi,mwalimu,nouns,1.8
+2830,voileipä,chakula cha mchana,nouns,1.8
+2831,pitää,kushindwa,verbs,0.1
+2832,lisko,mjusi,nouns,0.0
+2833,muurahainen,chungu,nouns,1.0
+2834,mies,mpiganaji,nouns,1.1
+2835,menestyä,kushinda,verbs,3.55
+2836,huone,chumba,nouns,1.1
+2837,osallistua,kukusanya,verbs,1.25
+2838,omena,sosi,nouns,0.4
+2839,farkut,jinzi,nouns,0.0
+2840,kissa,sungura,nouns,0.85
+2841,ajatella,kutafakari,verbs,5.55
+2842,yksinkertainen,ngumu,adjectives,0.05
+2843,lainata,kuuza,verbs,0.15
+2844,maksu,malipo,nouns,4.2
+2845,kaava,kuzidisha,nouns,0.0
+2846,järkyttynyt,kasirika,adjectives,0.3
+2847,itsevarmasti,kwa kujiamini,adverbs,0.1
+2848,herttua,mjuzi,nouns,0.2
+2849,kissa,mbwa,nouns,0.9
+2850,välikäytävä,njia,nouns,0.75
+2851,hyökkäys,shambulio,nouns,4.45
+2852,tarina,hadithi,nouns,0.2
+2853,käyttökelpoinen,inawezekana,adjectives,0.3
+2854,hiihtäminen,skiing,nouns,1.55
+2855,aggressiivinen,kua na hasira,adjectives,0.05
+2856,valloitus,safari,nouns,0.3
+2857,luonnollisesti,kwa uhalisia,adverbs,0.5
+2858,veli,roho ,nouns,0.05
+2859,naiivi,mwenye pupa,adjectives,0.15
+2860,ikä,urembo,nouns,0.2
+2861,keilaaminen,bowling,nouns,2.1
+2862,käsikirjoittaja,mwandishi wa filamu,nouns,0.4
+2863,totuudenmukainen,enye ukweli,adjectives,0.25
+2864,peitetty,kufunikwa,adjectives,1.35
+2865,voittaa,kufanikisha,verbs,3.55
+2866,sivuuttaa,kufanya utafiti,verbs,0.05
+2867,orkesteri,bendi,nouns,4.8
+2868,keittiö,bafu,nouns,0.75
+2869,tehdä,kuacha,verbs,0.3
+2870,länsi,kaskazini,nouns,0.7
+2871,tuomita,kuhukumu,verbs,2.15
+2872,vaimo,kuoga,nouns,0.0
+2873,mahti,nguvu,nouns,3.4
+2874,järjestys,menyu,nouns,0.45
+2875,keitto,chakula cha usiku,nouns,1.05
+2876,mekko,gauni,nouns,0.1
+2877,ruoskia,kubuta,verbs,2.95
+2878,sormi,kidole cha mguu,nouns,1.7
+2879,kuvaaja,jedwali,nouns,3.3
+2880,antaa,kuweka,verbs,0.45
+2881,fakta,ushahidi,nouns,2.3
+2882,nilkka,kiwiko,nouns,1.0
+2883,haluta,kuchagua,verbs,0.8
+2884,temppu,kuoga,nouns,0.0
+2885,liha,nyama ya nguruwe,nouns,3.65
+2886,laulaa,kuimba,verbs,0.0
+2887,auttaa,saidia,verbs,1.4
+2888,onnistua,kujaribu,verbs,0.9
+2889,nuhdella,kulaani,verbs,0.15
+2890,outo,wa kawaida,adjectives,0.35
+2891,älykkyys,hekima,nouns,3.8
+2892,lakimies,wakili,nouns,4.1
+2893,perustella,kuhakikisha,verbs,1.0
+2894,suutin,pua,nouns,0.05
+2895,tieto,gazeti,nouns,1.6
+2896,sekava,kutopangilia,verbs,0.2
+2897,valuutta,sarafu,nouns,0.08
+2898,viesti,kumbuku,nouns,0.6
+2899,aamu,mchana,nouns,1.45
+2900,hienovaraisesti,kijanja,adverbs,0.05

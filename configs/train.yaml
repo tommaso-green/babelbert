@@ -1,0 +1,35 @@
+seed : 10
+val_only : False
+checkpoint_path: checkpoints
+
+defaults:
+    - model: "xlm-r"
+    - dataset: "default_dataset"
+    - logger: "wandb"
+    - _self_
+
+val:
+  bli_file: { "th-et": "datasets/bli_datasets/vulic/th-et/th-et.train.5000.cc.trans",
+              "ko-ka": "datasets/bli_datasets/vulic/ko-ka/ko-ka.train.5000.cc.trans",
+              "en-it": "datasets/bli_datasets/glavas/en-it/yacle.train.freq.5k.en-it.tsv",
+              "de-ru": "datasets/bli_datasets/glavas/de-ru/yacle.train.freq.5k.de-ru.tsv" }
+  vocab_dir : "datasets/vocab"
+
+trainer:
+  gpus : 0
+  max_epochs : 2
+  log_every_n_steps : 50
+  check_val_every_n_epoch : 1
+  max_steps: -1
+  fast_dev_run : False
+  val_check_interval : 0.05
+  num_sanity_val_steps : 0
+  deterministic : True
+  ckpt_flag : False
+  patience : -1
+  min_delta: 0.01
+  overfit_batches : 0.0
+  limit_train_batches : 1.0
+  limit_val_batches: 1.0
+  accumulate_grad_batches: 1
+  save_top_k : 1

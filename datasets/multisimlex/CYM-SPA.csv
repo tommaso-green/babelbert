@@ -1,0 +1,3206 @@
+ID,CYM,SPA,PoS,score
+1,yn oddefol,silenciosamente,adverbs,0.95
+2,malware,gusano,nouns,0.65
+3,oedolyn,guardián,nouns,1.35
+4,protein,asa,nouns,0.15
+5,cwympo,herir,verbs,1.35
+6,caets,bar,nouns,0.25
+7,lladrad,crimen,nouns,2.55
+8,dyffryn,cañón,nouns,2.55
+9,sanctaidd,precioso,adjectives,1.8
+10,syth,curvo,adjectives,0.2
+11,mintys poethion,goma,nouns,0.25
+12,rhosyn,mariposa,nouns,0.35
+13,trist,terrible,adjectives,1.25
+14,blwch,ascensor,nouns,0.15
+15,eang,estrecho,adjectives,0.15
+16,llenyddiaeth,palabra,nouns,1.85
+17,yn gynnil,ruidosamente,adverbs,0.05
+18,afiechyd,peligro,nouns,0.5
+19,biotop,biología,nouns,0.65
+20,gwddf,hueso,nouns,0.35
+21,modfedd,patio,nouns,0.55
+22,hysbysu,retratar,verbs,0.45
+23,yn anhygoel,muy,adverbs,0.65
+24,canwr,coro,nouns,1.35
+25,cyntedd,corredor,nouns,4.7
+26,gwaed,virus,nouns,0.9
+27,trên,tranvía,nouns,2.95
+28,bara,carne,nouns,0.35
+29,maint,profundidad,nouns,1.15
+30,braich,rama,nouns,1.25
+31,chwydu,cerrar,verbs,0.0
+32,crwydro,salir,verbs,1.1
+33,gwych,malo,adjectives,0.05
+34,ymosodiad,bombardeo aéreo,nouns,3.05
+35,eira,avalancha,nouns,1.4
+36,eryr,halcón,nouns,2.4
+37,aderyn,halcón,nouns,2.2
+38,mwslim,obispo,nouns,0.35
+39,bathodyn,vaso,nouns,0.35
+40,nerfus,cierto,adjectives,0.05
+41,yn wallgof,tristemente,adverbs,0.45
+42,llawr,cubierta,nouns,1.4
+43,etholi,rechazar,verbs,0.2
+44,ardal,esquina,nouns,0.75
+45,gwyddoniaeth,psicología,nouns,1.35
+46,cymryd,entregar,verbs,0.6
+47,danfon,lanzar,verbs,1.65
+48,cymysgu,sacudir,verbs,2.4
+49,gwallgof,feliz,adjectives,0.1
+50,gwn,piel,nouns,0.1
+51,yn wir,perfectamente,adverbs,0.85
+52,staff,vocalista,nouns,0.25
+53,amrwd,feo,adjectives,0.3
+54,meddyg,ortodoncista,nouns,1.6
+55,modur,bote,nouns,0.6
+56,bachgen,soldado,nouns,0.4
+57,cawod,monasterio,nouns,0.0
+58,cefnder,tío,nouns,0.6
+59,haint,inflexión,nouns,0.1
+60,ysgwydd,brazo,nouns,1.45
+61,meddwl,racionalizar,verbs,3.35
+62,weithiau,uniformemente,adverbs,0.1
+63,biolegydd,microscopio,nouns,1.05
+64,cynyddu,crecer,verbs,3.95
+65,ewythr,prima,nouns,0.6
+66,ffilm,teatro,nouns,0.95
+67,glaw mân,lluvia,nouns,4.1
+68,twll,esposa,nouns,0.0
+69,papur,madera,nouns,0.7
+70,llonydd,neutral,adjectives,1.05
+71,glofa,rock,nouns,0.15
+72,dyddiad,cumpleaños,nouns,1.3
+73,mainc,silla,nouns,3.25
+74,ffantasi,realidad,nouns,0.45
+75,asgwrn,músculo,nouns,0.45
+76,bys,palma,nouns,0.35
+77,trosedd,fraude,nouns,2.8
+78,anghwrtais,crítico,adjectives,0.95
+79,creu,ganar,verbs,0.25
+80,enillydd,presencia,nouns,0.2
+81,drwg,inmoral,adjectives,2.9
+82,amherchnogi,renunciar,verbs,1.35
+83,gwybod,creer,verbs,1.4
+84,uchel,grosero,adjectives,0.55
+85,ymennydd,mente,nouns,3.85
+86,maes awyr,pieza,nouns,0.0
+87,mewnwelediad,inteligencia,nouns,1.85
+88,eira,tormenta,nouns,1.1
+89,gwrthod,admitir,verbs,0.1
+90,treisgar,enojado,adjectives,1.45
+91,calibr,paraguas,nouns,0.1
+92,prawf,veredicto,nouns,2.65
+93,gweithiwr,empleador,nouns,0.8
+94,cenedlaethol,grande,adjectives,0.45
+95,dyn,sospechar,nouns,0.55
+96,llythyr,párrafo,nouns,0.85
+97,darganfod,buscar,verbs,1.2
+98,torri,agrietar,verbs,2.5
+99,gwahanu,adjuntar,verbs,0.1
+100,traethawd,tarea,nouns,2.55
+101,pren,piedra,nouns,0.5
+102,potel,envase,nouns,2.2
+103,cân,bailarín,nouns,0.7
+104,miniog,aburrido,adjectives,0.1
+105,gwawr,pistola,nouns,0.0
+106,gwas,esclavo,nouns,2.5
+107,tymestl,manta,nouns,0.05
+108,coflaid,abrazar,verbs,4.2
+109,opera,cine,nouns,1.05
+110,bowlio,jugador de bolos,nouns,1.75
+111,trafodaeth,diplomacia,nouns,2.45
+112,siwmper,chaqueta,nouns,2.2
+113,coron,llave,nouns,0.1
+114,dadlau,discutir,verbs,3.35
+115,merch,padre,nouns,0.65
+116,lleuad,planeta,nouns,1.75
+117,tun,metal,nouns,2.25
+118,dymuno,querer,verbs,4.6
+119,yn anhygoel,herméticamente,adverbs,0.0
+120,duw,espíritu,nouns,1.4
+121,gwraig,agujero,nouns,0.0
+122,braf,generoso,adjectives,0.5
+123,cyhoeddi,informar,verbs,4.5
+124,chwaraewr,entrenador,nouns,0.45
+125,metr,pulgada,nouns,1.15
+126,ufuddhau,castigar,verbs,0.7
+127,dafad,cordero,nouns,3.55
+128,swcros,carbohidrato,nouns,1.5
+129,yn obeithiol,posiblemente,adverbs,1.2
+130,balŵn,gente,nouns,0.25
+131,cymhwysedd,capacidad,nouns,3.55
+132,dodrefn,cama,nouns,1.65
+133,tynnu,crear,verbs,0.75
+134,cell,cárcel,nouns,1.25
+135,ffôn,teléfono móvil,nouns,4.75
+136,ymosodedd,hostilidad,nouns,2.45
+137,yn gyfan gwbl,ligeramente,adverbs,0.1
+138,cymryd,disminuir,verbs,0.05
+139,darganfod,explorar,verbs,2.6
+140,cansen siwgr,segadora,nouns,0.2
+141,brenin,nepotismo,nouns,1.0
+142,myfyriwr,profesor,nouns,0.65
+143,ffordd,autopista,nouns,4.15
+144,crwydro,vagar,verbs,4.55
+145,crebachu,reducir,verbs,3.7
+146,yn amlwg,en la zona,adverbs,0.0
+147,goruchafu,superar,verbs,2.85
+148,tynnu'n ôl,rechazar,verbs,1.7
+149,mynachlog,ducha,nouns,0.0
+150,deall,leer,verbs,1.1
+151,dal,imitar,verbs,0.2
+152,darn,aeropuerto,nouns,0.0
+153,pechadur,smo,nouns,0.35
+154,yn falch,humildemente,adverbs,0.1
+155,coeden,hoja,nouns,1.35
+156,degawd,era,nouns,1.95
+157,dadlau,justificar,verbs,0.75
+158,hyrwyddo,avanzar,verbs,2.2
+159,casglu,reunir,verbs,3.7
+160,rheolaeth,administración,nouns,2.85
+161,yn arbennig,significativamente,adverbs,1.9
+162,duw,diablo,nouns,0.7
+163,niwl,nube,nouns,3.05
+164,crensian,chasquear,verbs,1.8
+165,cynghori,sugerir,verbs,3.4
+166,trallod,desesperación,nouns,2.8
+167,bwriad,será,nouns,1.85
+168,deigryn,ojo,nouns,0.95
+169,pen,hombro,nouns,1.2
+170,diffiniad,diccionario,nouns,2.2
+171,dal,perseguir,verbs,1.2
+172,beic,piel,nouns,0.2
+173,pennod,elección,nouns,0.25
+174,llinyn,cable,nouns,2.1
+175,rheoli,ratón,nouns,0.0
+176,lledaenu,manchar,verbs,0.25
+177,tudalen,palabra,nouns,0.65
+178,anobaith,miseria,nouns,2.8
+179,noswaith,oscuridad,nouns,3.2
+180,penderfynu,pensar,verbs,1.75
+181,syml,duro,adjectives,0.1
+182,holi,buscar,verbs,0.95
+183,hawdd,duro,adjectives,0.1
+184,dinas,pueblo,nouns,2.65
+185,alcohol,whisky,nouns,2.05
+186,lifft,coche,nouns,0.25
+187,anwybyddu,salir,verbs,0.65
+188,dewis,elección,nouns,3.55
+189,gwalch,pájaro,nouns,2.2
+190,soned,belleza,nouns,0.4
+191,te,limón,nouns,0.6
+192,yn onest,fielmente,adverbs,2.3
+193,teclyn,maceta,nouns,0.15
+194,awyren,hoja,nouns,0.0
+195,creulon,injusto,adjectives,1.85
+196,ewin,cabeza,nouns,0.3
+197,gêm,divertido,nouns,1.15
+198,twrci,gallina,nouns,1.4
+199,cerdded,estar,verbs,0.55
+200,dimai,esposa,nouns,0.2
+201,hyll,crudo,adjectives,0.3
+202,difeddiannu,negar,verbs,0.9
+203,anarferol,único,adjectives,4.0
+204,diweddar,nuevo,adjectives,3.5
+205,danfon,traer,verbs,1.1
+206,tuedd,opinión,nouns,2.2
+207,caled,denso,adjectives,1.3
+208,gwerthuso,aprender,verbs,0.75
+209,yn annaturiol,naturalmente,adverbs,0.1
+210,môr,tsunami,nouns,1.7
+211,gwerthuso,analizar,verbs,4.25
+212,reidio,correr,verbs,0.25
+213,aflonyddu,susto,verbs,0.85
+214,corwynt,tormenta,nouns,3.15
+215,treisgar,pasivo,adjectives,0.1
+216,cyhuddo,juzgar,verbs,2.8
+217,coginio,perder,verbs,0.05
+218,hyll,sucio,adjectives,0.95
+219,amgylchedd,espada,nouns,0.05
+220,amlwg,perceptible,adjectives,3.55
+221,papur newydd,palabra,nouns,0.85
+222,gêm,truco,nouns,1.5
+223,pobl,pistola,nouns,0.1
+224,taclus,limpiar,adjectives,1.7
+225,cymeryd,recibir,verbs,3.35
+226,yn hapus,sin peligro,adverbs,0.3
+227,beichio,llorar,verbs,3.95
+228,yn ddwfn,significativamente,adverbs,1.8
+229,rhwygo,vestir,verbs,0.0
+230,yn bennaf,profundamente,adverbs,0.85
+231,cyrnol,dentista,nouns,0.15
+232,afon,mar,nouns,1.8
+233,yn agored i niwed,fácil,adjectives,0.65
+234,ceg,nariz,nouns,0.75
+235,incwm,impuesto,nouns,0.65
+236,dechrau,dejar,verbs,0.1
+237,gwastraffu,preocuparse,verbs,0.05
+238,pobi,freír,verbs,1.35
+239,aflonydd,joven,adjectives,0.25
+240,creu,dibujar,verbs,0.75
+241,cosbi,golpear,verbs,1.1
+242,cot,sombrero,nouns,0.85
+243,anifail,bestia,nouns,3.6
+244,gwybod,olvidar,verbs,0.15
+245,blwch,cabina,nouns,0.65
+246,asgwrn,rodilla,nouns,1.3
+247,nerthol,potente,adjectives,4.2
+248,ynys,princesa,nouns,0.05
+249,dewis,capítulo,nouns,0.25
+250,dwyn,adquirir,verbs,0.85
+251,polyester,algodón,nouns,1.45
+252,senedd,congreso,nouns,3.0
+253,ffonoleg,pantalla,nouns,0.05
+254,yn nerfus,ansiosamente,adverbs,3.75
+255,brenin,regla,nouns,0.45
+256,athro,ayudante,nouns,1.6
+257,stumog,cuerpo,nouns,1.4
+258,dillad,cajón,nouns,0.95
+259,traddodiad,artesanía,nouns,0.8
+260,yn berffaith,verdaderamente,adverbs,0.85
+261,pen-glin,brazo,nouns,0.6
+262,colli,obtener,verbs,0.15
+263,penwythnos,semana,nouns,1.9
+264,rhuthro,darse prisa,verbs,5.55
+265,dadl,acuerdo,nouns,0.65
+266,stori,libro,nouns,1.55
+267,ystafell,cama,nouns,0.8
+268,bacwn,desayuno,nouns,0.5
+269,cinio,desayuno,nouns,1.15
+270,gwneud,crear,verbs,4.25
+271,gwasgu,agarrar,verbs,2.35
+272,arloeswr,arquero,nouns,0.45
+273,taith,conquista,nouns,0.6
+274,meteor,gravedad,nouns,1.0
+275,portreadu,imitar,verbs,2.45
+276,anwybyddu,olvidar,verbs,1.7
+277,ifanc,feliz,adjectives,0.2
+278,yn hyderus,secretamente,adverbs,0.7
+279,goresgyn,dominar,verbs,2.85
+280,cab,autobús,nouns,1.4
+281,anghyfrifol,inmaduro,adjectives,2.5
+282,blanced,vendaval,nouns,0.05
+283,wedi cyffroi,asustado,adjectives,1.35
+284,rhannu,despegar,verbs,1.15
+285,cyfuno,mezcla,verbs,3.85
+286,moesol,leyenda,nouns,0.5
+287,cerddoriaeth,flauta,nouns,1.45
+288,plasty,escultor,nouns,0.5
+289,llygoden,gato,nouns,0.55
+290,swper,desayuno,nouns,0.9
+291,deallusrwydd,lógica,nouns,2.7
+292,cas,programa informático,nouns,0.3
+293,swil,costoso,adjectives,0.2
+294,deilen,planta de semilla,nouns,1.35
+295,blanced,madera,nouns,0.05
+296,diymadferth,necesitado,adjectives,1.05
+297,dwywaith,múltiple,adverbs,0.9
+298,llymeitio,tragar,verbs,2.15
+299,hyblyg,móvil,adjectives,2.0
+300,deffro,roncar,verbs,0.15
+301,chwilio,deambular,verbs,1.35
+302,stoc,activo,nouns,3.0
+303,afioneg,aeronáutica,nouns,3.7
+304,trin,paga,verbs,0.1
+305,cig,filete,nouns,3.35
+306,theatr,película,nouns,0.95
+307,dysgu,escuchar,verbs,0.8
+308,disg,cargador,nouns,0.2
+309,tröedigaeth,altitud,nouns,0.35
+310,mynydd,repisa,nouns,0.2
+311,trosedd,robo,nouns,2.55
+312,cwmwl,neblina,nouns,3.05
+313,artist,obra de arte,nouns,1.45
+314,ar frys,con rapidez,adverbs,4.65
+315,cyfnewid,reemplazo,nouns,3.05
+316,gwych,encantador,adjectives,3.05
+317,olew,visón,nouns,0.05
+318,anwybyddu,pedir,verbs,0.1
+319,cyrchwr,patatas fritas,nouns,0.0
+320,dwywaith,siempre,adverbs,0.25
+321,arall,opuesto,adjectives,1.05
+322,llygredd,presidente,nouns,0.25
+323,llywodraeth,lagartija,nouns,0.0
+324,penodi,elegir,verbs,3.2
+325,daeargryn,temblor,nouns,3.8
+326,gwellt,himno,nouns,0.05
+327,ynys,playa,nouns,1.5
+328,car,manguera,nouns,0.15
+329,da,picante,adjectives,0.0
+330,pwysig,necesario,adjectives,3.35
+331,hyblyg,grande,adjectives,0.1
+332,yn aeddfed,inteligentemente,adverbs,1.05
+333,heddwch,soldado,nouns,0.25
+334,corff,estómago,nouns,1.4
+335,anghwrtais,crudo,adjectives,0.9
+336,peiriant,motor,nouns,3.3
+337,stopio,conducir,verbs,0.35
+338,doniol,triste,adjectives,0.05
+339,anghofio,recordar,verbs,0.1
+340,môr,delta,nouns,1.2
+341,stori,lápiz,nouns,0.55
+342,llynges,ejército,nouns,4.15
+343,niwroseicoleg,parasicología,nouns,1.55
+344,pumed,parte superior,adjectives,0.05
+345,brenin,princesa,nouns,1.35
+346,coleg,profesión,nouns,0.65
+347,diflas,gracioso,adjectives,0.1
+348,lemwn,té,nouns,0.6
+349,ergydio,perder,verbs,0.15
+350,cymdeithas,club,nouns,3.15
+351,alwminiwm,metal,nouns,2.3
+352,eirlithriad,nieve,nouns,1.4
+353,am ddim,inocente,adjectives,0.05
+354,gwirio,decir,verbs,0.55
+355,dysgu,evaluar,verbs,0.75
+356,llafn,hierba,nouns,0.35
+357,cwpan,tarro,nouns,1.8
+358,cyfoeth,pobreza,nouns,0.3
+359,dŵr,sequía,nouns,0.55
+360,styden,chico,nouns,0.6
+361,caniau,botella,nouns,0.0
+362,alcohol,cóctel,nouns,2.05
+363,trefn,menú,nouns,0.7
+364,trwm,cargado,adjectives,3.4
+365,rhoi,recibir,verbs,0.2
+366,casglu,salvar,verbs,1.25
+367,cotwm,suéter,nouns,0.5
+368,llawr,techo,nouns,0.7
+369,pryd bynnag,a veces,adverbs,0.65
+370,lluosi,dividir,verbs,0.65
+371,doler,millonario,nouns,0.9
+372,glaw,granizo,nouns,1.6
+373,mab,padre,nouns,1.25
+374,tlodi,riqueza,nouns,0.3
+375,yn fras,ligeramente,adverbs,0.2
+376,pwysig,crucial,adjectives,4.25
+377,barn,idea,nouns,3.3
+378,mab,hermano,nouns,0.95
+379,gweddïo,comunicar,verbs,0.7
+380,asetylocolin,iris,nouns,0.2
+381,byth,honestamente,adverbs,0.1
+382,yn gyfiawn,maduro,adverbs,0.85
+383,gwrthod,dar,verbs,0.05
+384,mwstard,semilla,nouns,1.05
+385,band,espíritu,nouns,0.25
+386,seryddwr,galaxia,nouns,0.95
+387,calendr,fecha,nouns,1.85
+388,brwydr,beligerancia,nouns,2.7
+389,tybio,predecir,verbs,1.95
+390,disgleirio,irradiar,verbs,4.4
+391,byr,largo,adjectives,0.15
+392,cyfansoddiad,senado,nouns,1.15
+393,cau,vomitar,verbs,0.0
+394,anghefnogi,enfadar,verbs,0.7
+395,allwedd,candado,nouns,1.75
+396,ton,clima,nouns,0.3
+397,creu,hacer,verbs,4.25
+398,oedran,belleza,nouns,0.45
+399,bwystfil,animal,nouns,3.6
+400,ecosystem,economía,nouns,0.25
+401,cymysg,conjunto,adjectives,2.65
+402,ebol,caballo,nouns,3.35
+403,dinistrio,construir,verbs,0.15
+404,yn gadarn,tranquilamente,adverbs,1.0
+405,pobl,partido,nouns,0.9
+406,ysgafn,agudo,adjectives,0.3
+407,llyfr,ensayo,nouns,1.1
+408,pen,nariz,nouns,0.9
+409,ennill,tener éxito,verbs,3.6
+410,diymhongar,puro,adjectives,0.95
+411,gweddïo,pedir,verbs,1.45
+412,canlyn,investigar,verbs,0.6
+413,ffrind,madre,nouns,0.75
+414,post,velocidad,nouns,0.2
+415,gwych,horrible,adjectives,0.1
+416,calendr,vacaciones,nouns,0.95
+417,taro,atraer,verbs,0.05
+418,yn afreolaidd,generalmente,adverbs,0.35
+419,canon,pistola,nouns,1.8
+420,seren,asteroide,nouns,2.35
+421,milwr,niño,nouns,0.4
+422,yn ddelfrydol,de modo realista,adverbs,0.8
+423,benthyg,deber,verbs,1.2
+424,awyr,sol,nouns,0.85
+425,beic,coche,nouns,0.85
+426,llyn,pantano,nouns,2.05
+427,prynu,robar,verbs,0.15
+428,troed,base,nouns,1.7
+429,newyddion,editorial,nouns,1.25
+430,cerflunydd,palacio,nouns,0.5
+431,ffôl,infantil,adjectives,2.15
+432,dant,boca,nouns,1.25
+433,tywod,pie,nouns,0.25
+434,brecwast,tocino,nouns,0.5
+435,euog,honesto,adjectives,0.1
+436,diafol,dios,nouns,0.7
+437,cot,ropa,nouns,1.5
+438,matrics,vector,nouns,1.6
+439,corff,nervio,nouns,0.4
+440,arae,lista,nouns,0.7
+441,rhodio,deambular,verbs,4.55
+442,adnewid,cambiar,verbs,3.45
+443,anwybodus,regular,adjectives,0.0
+444,creu,imaginar,verbs,1.05
+445,diddanu,complacer,verbs,1.8
+446,cyffredin,frío,adjectives,0.05
+447,baner,vexilología,nouns,0.95
+448,gwehyddu,movimiento,verbs,0.15
+449,bachgen,arroz,nouns,0.0
+450,testun,libro,nouns,1.75
+451,yn ofalus,actualmente,adverbs,0.0
+452,llwybr,túnel,nouns,1.7
+453,hapus,enojado,adjectives,0.15
+454,anadlu,ahogarse,verbs,0.8
+455,baled,canción,nouns,4.05
+456,cyfiawnhau,discutir,verbs,0.75
+457,drysu,aprender,verbs,0.1
+458,braich,hombro,nouns,1.45
+459,rhewi,temblar,verbs,1.3
+460,tywynnu,brillar,verbs,4.4
+461,benthyg,mendigar,verbs,1.0
+462,duw,padre,nouns,2.05
+463,yn enfawr,abiertamente,adverbs,0.4
+464,siriol,encantador,adjectives,2.8
+465,amaethyddiaeth,monocultivo,nouns,0.8
+466,tenis,estadística,nouns,0.25
+467,egluro,discutir,verbs,1.45
+468,hyfryd,alegre,adjectives,2.8
+469,ffens,saltando,nouns,0.2
+470,personol,privado,adjectives,3.95
+471,afal,jugo,nouns,0.95
+472,alcohol,vino,nouns,1.85
+473,hurt,inteligente,adjectives,0.1
+474,pobl,centavo,nouns,0.05
+475,eira,clima,nouns,1.0
+476,enfawr,grande,adjectives,4.4
+477,delta,mar,nouns,1.2
+478,teithio,ir,verbs,2.55
+479,anghytuno,luchar,verbs,0.95
+480,digartref,multimillonario,nouns,0.15
+481,tun,aluminio,nouns,1.6
+482,glaswellt,espada,nouns,0.35
+483,heulwen,manzana,nouns,0.25
+484,haf,invierno,nouns,0.7
+485,canlyn,persuadir,verbs,0.4
+486,anonest,malo,adjectives,1.6
+487,parth,área,nouns,5.3
+488,braf,cruel,adjectives,0.05
+489,yn realistig,idealmente,adverbs,0.8
+490,asgwrn cefn,cuello,nouns,0.7
+491,cadach,ropa,nouns,1.25
+492,mis,agosto,nouns,2.6
+493,casáu,criticar,verbs,0.95
+494,brwydro,discrepar,verbs,0.95
+495,iâ,nieve,nouns,3.05
+496,yn weithredol,felizmente,adverbs,0.05
+497,aseiniad,nota,nouns,0.65
+498,bwlch,cigarro,nouns,0.35
+499,corff,ropa interior,nouns,0.4
+500,dodrefn,apartamento,nouns,0.55
+501,crwm,derecho,adjectives,0.2
+502,trwyn,cabeza,nouns,0.9
+503,dinistr,construcción,nouns,0.2
+504,yn ddibynadwy,pasivamente,adverbs,0.1
+505,glo,carboncillo,nouns,2.75
+506,siwmper,algodón,nouns,0.5
+507,gwybodaeth,periódico,nouns,1.55
+508,cadw,dar,verbs,0.4
+509,alcohol,brandy,nouns,2.05
+510,gwin,brandy,nouns,1.35
+511,harbwr,envoltura,nouns,0.05
+512,alcohol,ginebra,nouns,2.15
+513,cychwyn,comenzar,verbs,5.85
+514,pryd bwyd,cena,nouns,3.45
+515,acwsteg,sonido,nouns,3.35
+516,brawd,niño,nouns,1.65
+517,ffrio,hornear,verbs,1.35
+518,lleihau,restringir,verbs,2.8
+519,ffenestr,tobillo,nouns,0.05
+520,bardd,periodista,nouns,0.65
+521,dyn,centinela,nouns,0.75
+522,cyfreithiwr,abogado,nouns,4.45
+523,dygnwch,banda,nouns,0.05
+524,addysgu,enseñar,verbs,4.4
+525,heno,mañana,adverbs,0.4
+526,dwywaith,una vez,adverbs,0.55
+527,arf,casco,nouns,1.1
+528,salad,vinagre,nouns,0.75
+529,plentynaidd,tonto,adjectives,2.15
+530,gwely,manta,nouns,1.1
+531,yn garedig,suavemente,adverbs,1.45
+532,cyfreithlon,ilegal,adjectives,0.15
+533,lwcus,avergonzado,adjectives,0.0
+534,trydan,caso,nouns,0.0
+535,cwmpawd,elefante,nouns,0.05
+536,yn amlwg,discretamente,adverbs,0.2
+537,menyw,secretario,nouns,0.35
+538,blaengau,esforzarse,verbs,0.5
+539,gwario,salvar,verbs,0.1
+540,corn,tambor,nouns,0.5
+541,hynafol,nuevo,adjectives,0.1
+542,corfforaeth,negocio,nouns,2.25
+543,llawysgrif,artículo,nouns,1.55
+544,tasg,cañita,nouns,0.05
+545,car,taxi,nouns,3.95
+546,raced,pelota,nouns,1.1
+547,cwch,ancla,nouns,1.0
+548,modryb,sobrino,nouns,0.75
+549,mosäig,basílica,nouns,0.55
+550,cyfeillgar,generoso,adjectives,1.65
+551,llyfr,literatura,nouns,2.3
+552,car,calibre,nouns,0.25
+553,rhedeg,montar,verbs,0.25
+554,gwasgu,lanzar,verbs,0.15
+555,braich,hueso,nouns,1.25
+556,tŷ,llave,nouns,0.45
+557,polyn,bandera,nouns,0.5
+558,cyfieithydd,extranjero,nouns,0.4
+559,diflannu,encontrar,verbs,0.2
+560,ffilm,nihilismo,nouns,0.1
+561,cig,tocino,nouns,2.1
+562,ffenestr,puerta,nouns,0.85
+563,yn aml,raramente,adverbs,0.45
+564,llyfr nodiadau,ordenador portátil,nouns,0.55
+565,gwn,amanecer,nouns,0.0
+566,cael,adquirir,verbs,3.85
+567,ffasiwn,estilo,nouns,4.4
+568,da,conocido,adjectives,0.2
+569,lansio,enviar,verbs,1.65
+570,cwpan,cuchara,nouns,1.1
+571,bioleg gymdeithasol,mutante,nouns,0.3
+572,anghwrtais,agresivo,adjectives,1.8
+573,ras,fin de semana,nouns,0.0
+574,tad,hermano,nouns,0.7
+575,atwrnai,licenciado en derecho,nouns,4.45
+576,gwydn,astuto,adjectives,0.15
+577,sy'n dod i mewn,saliente,adjectives,0.1
+578,aloi,acero,nouns,1.8
+579,ffenestr,nube,nouns,0.35
+580,meddwl,cerebro,nouns,3.85
+581,pobl,globo,nouns,0.25
+582,dibynnu,fallar,verbs,0.25
+583,gwerddon,libertad,nouns,0.45
+584,braisg,grande,adjectives,3.25
+585,ffurfdroad,infección,nouns,0.1
+586,ffres,amplio,adjectives,0.1
+587,trwyn,boca,nouns,0.75
+588,ennill,hacer,verbs,0.25
+589,ffidil,guitarra,nouns,0.75
+590,tafod,mejilla,nouns,0.55
+591,llwythog,pesado,adjectives,3.4
+592,ar ôl,antes de,adverbs,0.1
+593,llywydd,alumno,nouns,0.15
+594,metr,yarda,nouns,1.65
+595,mynychu,llegar,verbs,1.6
+596,arogli,mimar,verbs,0.0
+597,rhad,asequible,adjectives,4.8
+598,dod â,enviar,verbs,1.1
+599,yn garedig,generosamente,adverbs,3.1
+600,lluosiad,división,nouns,0.65
+601,gwrthod,aceptar,verbs,0.1
+602,gwleidydd,policía,nouns,0.3
+603,bàth,globo,nouns,0.05
+604,buwch,cabra,nouns,1.25
+605,sain,acústica,nouns,3.35
+606,bargen,centavo,nouns,0.6
+607,anniben,limpiar,adjectives,0.45
+608,priodi,involucrarse,verbs,1.0
+609,llwch,escoba,nouns,0.55
+610,codi arian,desarrollo,nouns,0.6
+611,drwm,cuerno,nouns,0.5
+612,rhythm,aritmética,nouns,0.45
+613,dug,república,nouns,0.15
+614,hysteria,confusión,nouns,1.8
+615,gardd,manguera,nouns,0.25
+616,symbol,criptograma,nouns,2.5
+617,cystrawen,palabra principal,nouns,0.6
+618,ffatri,coche,nouns,0.25
+619,dirprwy,oficial,nouns,1.2
+620,stopio,silbar,verbs,0.3
+621,ffrio,cocinar,verbs,2.4
+622,ceg,diente,nouns,1.25
+623,diogel,legal,adjectives,1.15
+624,stumog,vena,nouns,0.35
+625,modfedd,metro,nouns,1.15
+626,caws,un pan,nouns,0.5
+627,erlynydd,abogado,nouns,2.7
+628,hawdd,difícil,adjectives,0.1
+629,brwydro,matar,verbs,0.7
+630,marwolaeth,entierro,nouns,1.45
+631,siaced,suéter,nouns,2.2
+632,newydd,fresco,adjectives,4.0
+633,darganfod,originar,verbs,0.95
+634,cul,sucio,adjectives,0.0
+635,angor,bote,nouns,1.0
+636,sylweddoli,descubrir,verbs,4.15
+637,dewis,vena,nouns,0.0
+638,fector,matriz,nouns,1.6
+639,dal,capturar,verbs,3.3
+640,taliad,moneda,nouns,1.4
+641,meddwl,decidir,verbs,1.75
+642,offeiriad,monje,nouns,2.65
+643,modern,antiguo,adjectives,0.1
+644,nod,búsqueda,nouns,1.65
+645,ystafell,bañera,nouns,0.55
+646,cyfarch,realizar,verbs,0.15
+647,cuddwisgo,cubrir,verbs,1.65
+648,nerf,cerebro,nouns,0.95
+649,handlen,proteína,nouns,0.15
+650,hyfforddwyr,medalla,nouns,0.25
+651,bàth,truco,nouns,0.0
+652,sobr,racional,adjectives,1.35
+653,cegin,baño,nouns,0.75
+654,gair,literatura,nouns,1.85
+655,yn lleol,obviamente,adverbs,0.0
+656,uno,dividir,verbs,0.15
+657,cyfansoddiad,emperador,nouns,0.65
+658,dod yn,aparecer,verbs,1.1
+659,gwraig,cañita,nouns,0.15
+660,eglwys,catedral,nouns,3.9
+661,gêm,acción,nouns,0.8
+662,noswaith,puesta de sol,nouns,2.15
+663,angerdd,emoción,nouns,3.55
+664,hollalluogrwydd,supremacía,nouns,2.45
+665,deallus,tonto,adjectives,0.3
+666,dadl,crítica,nouns,2.2
+667,nodyn,pago,nouns,0.4
+668,cerddoriaeth,melodía,nouns,3.55
+669,busnes,empresa,nouns,4.2
+670,arbed,rescatar,verbs,5.1
+671,hen,fresco,adjectives,0.0
+672,sgleinio,informar,verbs,0.0
+673,bygythiad,peligro,nouns,3.95
+674,niwrosis,mente,nouns,1.35
+675,cludo,entregar,verbs,2.85
+676,theori,teorema,nouns,3.65
+677,ci,gato,nouns,0.9
+678,cydymaith,compañero,nouns,4.3
+679,rheilffordd,cerca,nouns,0.45
+680,bwydlen,orden,nouns,0.7
+681,yn oddefol,seguramente,adverbs,0.1
+682,yn hysbys,bien,adjectives,0.2
+683,yn fras,aproximadamente,adverbs,0.4
+684,tywysoges,isla,nouns,0.05
+685,harddwch,soneto,nouns,0.4
+686,awdur,regalo,nouns,0.05
+687,cadw,conservar,verbs,4.8
+688,rhoi,saber,verbs,0.25
+689,dyn,guerrero,nouns,0.6
+690,yn sylfaenol,completamente,adverbs,0.7
+691,tâl,pago,nouns,4.5
+692,dechrau,empezar,verbs,5.85
+693,dweud celwydd,acusar,verbs,0.55
+694,carped,casa,nouns,0.3
+695,siart,grafico,nouns,4.8
+696,balchder,pobre,adjectives,0.15
+697,amlen,decoración,nouns,0.05
+698,doler,gente,nouns,0.05
+699,ennill,recoger,verbs,0.55
+700,yn ansicr,asustado,adjectives,2.05
+701,ymerawdwr,gobernador,nouns,2.65
+702,encilio,salir,verbs,2.9
+703,dysgu,olvidar,verbs,0.2
+704,treisgar,suave,adjectives,0.1
+705,gwanwyn,géiser,nouns,0.3
+706,protestaniaid,cristiano,nouns,1.1
+707,cyfaill,acompañante,nouns,4.3
+708,awyrgylch,contaminación,nouns,1.25
+709,digwyddiad codi arian,evento,nouns,2.3
+710,cyfathrebu,conversacion,nouns,3.65
+711,archwilio,descubrir,verbs,2.6
+712,cymysgu,cocinar,verbs,0.95
+713,yn ddarostyngedig,orgullosamente,adverbs,0.1
+714,rinsio,lavar,verbs,3.35
+715,aderyn,gallina,nouns,2.05
+716,sefyll,caminar,verbs,0.55
+717,golygyddol,noticias,nouns,1.25
+718,calon,cirugía,nouns,0.6
+719,plisman,copiloto,nouns,0.2
+720,pwerus,débiles,adjectives,0.15
+721,prin,nunca,adverbs,2.55
+722,dosbarthu,tomar,verbs,0.6
+723,tarth,nube,nouns,2.4
+724,torf,desfile,nouns,1.95
+725,gallu,fuerza,nouns,2.35
+726,gwaelod,parte superior,nouns,0.25
+727,gwirod,banda,nouns,0.25
+728,cnoi,luchar,verbs,0.35
+729,sero,infinito,nouns,0.35
+730,weithiau,cuando,adverbs,0.65
+731,diddanu,disfrutar,verbs,1.35
+732,sigâr,tubo,nouns,0.5
+733,fflora,naturaleza,nouns,2.2
+734,lladd,ahogarse,verbs,1.2
+735,nofio,reunirse,verbs,0.0
+736,paragraff,carta,nouns,0.85
+737,yr wyddor,bolígrafo,nouns,0.4
+738,ardderchog,enojado,adjectives,0.1
+739,gweithiwr,cámara,nouns,0.05
+740,arbediad,ahorrador,nouns,2.55
+741,chwyrnu,despierto,verbs,0.15
+742,tywysoges,rey,nouns,1.35
+743,seciwlarydd,religión,nouns,0.7
+744,gwydn,fácil,adjectives,0.1
+745,pobl,dólar,nouns,0.05
+746,cymysgu,disolver,verbs,1.9
+747,adeiladu,añadir,verbs,1.05
+748,rhoi,negar,verbs,0.05
+749,fel arfer,anormalmente,adverbs,0.25
+750,hanesydd,historiógrafo,nouns,2.8
+751,stori,canción,nouns,0.65
+752,stryd,coche,nouns,0.5
+753,mefus,cereza,nouns,1.2
+754,glaswellt,raíz,nouns,0.8
+755,chwedl,moral,nouns,0.5
+756,osgoi,ignorar,verbs,3.2
+757,troed,cabeza,nouns,0.45
+758,algebra,operación,nouns,0.95
+759,actor,actriz,nouns,4.05
+760,crwm,torcido,adjectives,2.75
+761,person,animal,nouns,0.3
+762,gwrtaith,crecimiento,nouns,0.8
+763,rhyddhau,presionar,verbs,0.15
+764,dweud,verificar,verbs,0.55
+765,caledwedd,caso,nouns,0.3
+766,cytuno,complacer,verbs,0.9
+767,microsgop,biólogo,nouns,1.05
+768,eang,fresco,adjectives,0.1
+769,cynilwr,ahorro,nouns,2.55
+770,mwsogl,hierba,nouns,1.75
+771,newydd,antiguo,adjectives,0.1
+772,ystafell wely,baño,nouns,1.55
+773,gadael,empezar,verbs,0.1
+774,yn dynn,firmemente,adverbs,0.8
+775,deall,saber,verbs,3.05
+776,amgueddfa,menta,nouns,0.0
+777,coeden,bote,nouns,0.15
+778,clywed,hablar,verbs,0.7
+779,cath,ratón,nouns,0.55
+780,newydd,no usado,adjectives,5.0
+781,chwilio,encontrar,verbs,1.2
+782,pîn-afal,teléfono inteligente,nouns,0.0
+783,llygoden,cubierta,nouns,0.0
+784,yn ddibynadwy,aproximadamente,adverbs,0.6
+785,tanc,coche,nouns,0.7
+786,credu,sentir,verbs,2.65
+787,ymadrodd,palabra,nouns,1.7
+788,hurt,denso,adjectives,0.2
+789,tafod,músculo,nouns,1.9
+790,llwyddo,tratar,verbs,0.7
+791,gwraig,madre,nouns,1.95
+792,cyfoeth,prestigio,nouns,0.55
+793,eliffant,dinosaurio,nouns,0.55
+794,digwydd,hacer,verbs,0.65
+795,brecwast,cena,nouns,0.9
+796,cyffredin,increíble,adjectives,0.1
+797,llyfr,accidente,nouns,0.1
+798,helmed,arma,nouns,1.1
+799,gwirod,siglo,nouns,0.05
+800,profi,explicar,verbs,1.8
+801,hael,bonito,adjectives,0.5
+802,presenoldeb,puerta,nouns,0.3
+803,chwilio,indagar,verbs,3.75
+804,gorlethu,ahogar,verbs,2.2
+805,brawdgarwch,puerta,nouns,0.2
+806,gorllewin,norte,nouns,0.8
+807,sefyllfa,circunstancia,nouns,5.45
+808,afu,pulmón,nouns,0.7
+809,cais,solicitante,nouns,1.75
+810,lori,coche,nouns,1.4
+811,newynog,cansado,adjectives,0.6
+812,partner,chico,nouns,1.05
+813,silff,montaña,nouns,0.2
+814,portreadu,notificar,verbs,0.45
+815,log,madera,nouns,3.5
+816,pennod,noche,nouns,0.35
+817,cymeriad,persona,nouns,2.95
+818,caban,campamento,nouns,0.95
+819,harddwch,años,nouns,0.45
+820,gwrando,obedecer,verbs,1.3
+821,gwely,mueble,nouns,1.65
+822,yn uchel,sutilmente,adverbs,0.05
+823,allwedd,casa,nouns,0.45
+824,penderfynu,juzgar,verbs,2.8
+825,ymuno,participar,verbs,3.4
+826,ymennydd,nervio,nouns,0.95
+827,afal,salsa,nouns,0.5
+828,firws,sangre,nouns,0.9
+829,esgob,musulmán,nouns,0.35
+830,cyfathrebu,televisión,nouns,1.25
+831,minc,piel,nouns,2.15
+832,ochr,parte superior,nouns,0.8
+833,peiriannydd,obrero,nouns,2.25
+834,deall,agarrar,verbs,0.2
+835,cartref,estado,nouns,0.1
+836,clogwyn,cola,nouns,0.0
+837,gwych,hermoso,adjectives,2.4
+838,gwely,habitación,nouns,1.65
+839,siryf,policía,nouns,3.05
+840,nodadwy,obvio,adjectives,3.55
+841,mwynhau,entretener,verbs,1.35
+842,gwael,orgulloso,adjectives,0.15
+843,nai,tía,nouns,0.75
+844,mynd  ,empezar,verbs,0.5
+845,diflas,seguro,adjectives,0.05
+846,pêl,disfraz,nouns,0.15
+847,tagu,respirar,verbs,0.8
+848,anghofio,aprender,verbs,0.2
+849,derwen,arce,nouns,1.45
+850,carchariad,célula,nouns,1.25
+851,ffliwt,música,nouns,1.45
+852,hyblyg,fácil,adjectives,1.5
+853,yn ddiffuant,generalmente,adverbs,0.6
+854,proffwydo,determinar,verbs,1.2
+855,hedfan,hormiga,nouns,0.25
+856,garddwrn,mano,nouns,1.9
+857,gwahaniaethu,de acuerdo,verbs,0.15
+858,addurn,pared,nouns,0.55
+859,enillydd,campeón,nouns,5.0
+860,homoffon,fotófono,nouns,0.55
+861,llyfr,biblia,nouns,2.0
+862,taliad,nota,nouns,0.4
+863,pennu,predecir,verbs,1.2
+864,unwaith,instantáneamente,adverbs,1.0
+865,sensoriaeth,libertad,nouns,0.15
+866,hapusrwydd,suerte,nouns,0.75
+867,cael,poner,verbs,0.25
+868,cael,permanecer,verbs,0.0
+869,mynychu,ven,verbs,2.5
+870,hardd,maravilloso,adjectives,2.4
+871,pwnc,historia,nouns,0.9
+872,lori,paquete,nouns,0.65
+873,blodyn,resistencia,nouns,0.15
+874,eisiau,escoger,verbs,1.2
+875,archwilio,investigar,verbs,4.0
+876,bwlb,flor,nouns,1.05
+877,newid,alterar,verbs,3.45
+878,hyder,actitud,nouns,1.55
+879,medal,zapatillas,nouns,0.25
+880,beirniadu,observar,verbs,1.0
+881,hedyn,molino,nouns,0.85
+882,poenus,avergonzado,adjectives,0.5
+883,cynnig,contribución,nouns,2.75
+884,symbol,código,nouns,2.2
+885,trist,orgulloso,adjectives,0.15
+886,sudd,cuchara,nouns,0.15
+887,dillad,capa,nouns,1.5
+888,yn bwysig,seriamente,adverbs,1.5
+889,fflat,mueble,nouns,0.55
+890,tad,dios,nouns,2.05
+891,gludiog,mojado,adjectives,0.55
+892,stondin,caja,nouns,0.65
+893,byw,sobrevivir,verbs,2.75
+894,duw,presa,nouns,0.0
+895,busnes,sociedad,nouns,2.25
+896,sylw,interés,nouns,3.05
+897,roboteg,simulación,nouns,0.6
+898,tymor,invierno,nouns,2.65
+899,aur,zinc,nouns,0.85
+900,rhiant,adulto,nouns,1.45
+901,anarchiaeth,caos,nouns,3.95
+902,amsugno,aprender,verbs,1.15
+903,ffasiwn,modo,nouns,0.2
+904,galaeth,astrónomo,nouns,0.95
+905,dyrchafu,promover,verbs,2.2
+906,egluro,definir,verbs,3.45
+907,dan straen,relajado,adjectives,0.1
+908,benthyg,dar,verbs,1.8
+909,ffrio,hervir,verbs,0.95
+910,cegin,puerta,nouns,0.45
+911,corff,brazo,nouns,1.0
+912,cerdded,cojear,verbs,0.45
+913,cymryd,robar,verbs,1.7
+914,raced,ruido,nouns,0.15
+915,basged,pelota,nouns,0.2
+916,golau,teclado,nouns,0.25
+917,gadael,entrar,verbs,0.15
+918,mynnu,reñir,verbs,0.4
+919,wylo,llorar,verbs,4.95
+920,rhanbarth,zona,nouns,4.6
+921,priffordd,tarea,nouns,0.05
+922,cornel,zona,nouns,0.75
+923,ffa,tocino,nouns,0.25
+924,urddas,insignias,nouns,0.2
+925,o ychydig,completamente,adverbs,0.1
+926,gwrthddadlau,debate,verbs,3.35
+927,yn sicr,claramente,adverbs,2.8
+928,damwain,libro,nouns,0.1
+929,arian parod,dinero,nouns,4.2
+930,dannedd,martillo,nouns,0.05
+931,arferol,extraño,adjectives,0.1
+932,awyrgylch,ozono,nouns,1.85
+933,rhedwr,atleta,nouns,3.1
+934,troseddu,molestia,verbs,0.95
+935,drewi,oler,verbs,3.35
+936,pla,pesticida,nouns,0.7
+937,yn llachar,ligeramente,adverbs,0.0
+938,rhagolwg,nublado,nouns,0.65
+939,cydnabod,notificar,verbs,0.85
+940,llaw,uña,nouns,1.05
+941,lladd,destruir,verbs,2.4
+942,sawl,dos veces,adverbs,0.9
+943,hen,nuevo,adjectives,0.1
+944,llew,gato,nouns,1.7
+945,brwnt,barato,adjectives,0.0
+946,hysbysu,notificar,verbs,4.5
+947,tystio,juez,verbs,0.85
+948,ffaith,visión,nouns,0.65
+949,gwylio,observar,verbs,3.6
+950,ci,caballo,nouns,0.7
+951,beio,empujar,verbs,0.1
+952,mwgwd,partido,nouns,0.3
+953,mynd o'r golwg,esfumarse,verbs,5.3
+954,gwely,sofá,nouns,1.4
+955,coridor,puerta,nouns,0.45
+956,yn drist,emocionalmente,adverbs,1.9
+957,mwnci,campaña,nouns,0.05
+958,menyw,hombre,nouns,0.85
+959,gwin,espíritu,nouns,0.9
+960,sigâr,caja,nouns,0.35
+961,llenwi,despreciar,verbs,0.3
+962,ffrind,chico,nouns,1.3
+963,drwg,deshonesto,adjectives,1.6
+964,dyn,amigo,nouns,1.3
+965,wisgi,alcohol,nouns,2.05
+966,sylfaen,pie,nouns,1.7
+967,cracio,romper,verbs,2.5
+968,cymysgu,combinar,verbs,3.85
+969,cyfnewid,moneda,nouns,1.1
+970,gorffwyll,enfermos,adjectives,0.85
+971,doniol,grave,adjectives,0.0
+972,gwneud,ocurrir,verbs,0.65
+973,tywysoges,galleta,nouns,0.0
+974,gwyliadwraeth,falda,nouns,0.15
+975,cred,opinión,nouns,3.55
+976,haematoleg,patología,nouns,1.65
+977,sudd,manzana,nouns,0.95
+978,dŵr,sal,nouns,0.4
+979,band,resistencia,nouns,0.05
+980,yn oddefol,activamente,adverbs,0.1
+981,gwyddoniadur,diccionario,nouns,2.1
+982,cyfraith,colegio,nouns,0.55
+983,gafael,entender,verbs,0.2
+984,cyfarwyddwr,cinematografía,nouns,1.5
+985,bod yn ddyledus,entrar,verbs,0.1
+986,ffynnu,tratar,verbs,0.9
+987,gwm,menta,nouns,0.25
+988,criced,seguidor,nouns,0.05
+989,drws,piso,nouns,0.5
+990,gliniadur,cuaderno,nouns,0.55
+991,meddal,violento,adjectives,0.1
+992,llosgfynydd,magma,nouns,2.05
+993,eirfwrdd,esquí,nouns,2.2
+994,hael,simpático,adjectives,1.65
+995,aren,órgano,nouns,2.9
+996,llwy,vaso,nouns,1.1
+997,siampên,whisky,nouns,1.15
+998,erfyn,pedir prestado,verbs,1.0
+999,yn agored,macizamente,adverbs,0.4
+1000,gair,pista,nouns,0.3
+1001,medrydd,coche,nouns,0.25
+1002,bustach,caballo,nouns,1.1
+1003,caniatáu,ir,verbs,0.2
+1004,storm,huracán,nouns,3.15
+1005,ffêr,hueso,nouns,1.2
+1006,trwyn,garganta,nouns,0.45
+1007,pleidlais,salida,nouns,0.1
+1008,ymuno,casarse,verbs,2.5
+1009,cymysgu,montar,verbs,0.3
+1010,potel,tarro,nouns,2.55
+1011,ffôn,víctima,nouns,0.0
+1012,anghenfil,demonio,nouns,2.85
+1013,cwningen,gato,nouns,0.95
+1014,ymosodol,curvo,adjectives,0.0
+1015,cythraul,ángel,nouns,0.55
+1016,cerdd,ritmo,nouns,1.1
+1017,dryswch,histeria,nouns,1.8
+1018,erthygl,manuscrito,nouns,1.55
+1019,gwneuthurwr,creador,nouns,4.4
+1020,methiant,bancarrota,nouns,1.5
+1021,rhyddid,censura,nouns,0.15
+1022,teledu,cine,nouns,1.7
+1023,bri,riqueza,nouns,0.55
+1024,melys,eléctrico,adjectives,0.0
+1025,petrusgar,colérico,adjectives,0.5
+1026,twp,crédulo,adjectives,1.6
+1027,awyr,sueño,nouns,0.35
+1028,canol,comida,nouns,0.25
+1029,cystadlu,terminar,verbs,0.1
+1030,glas,rojo,adjectives,0.6
+1031,methu,confiar,verbs,0.25
+1032,cario ,traer,verbs,1.3
+1033,fforddiadwy,barato,adjectives,4.8
+1034,anifail anwes,gato,nouns,3.0
+1035,egni,batería,nouns,3.0
+1036,hyblyg,suelto,adjectives,1.05
+1037,drwm,guitarra,nouns,0.9
+1038,yn gynnil,tranquilamente,adverbs,1.2
+1039,arian,diamante,nouns,0.85
+1040,ynys,tarea,nouns,0.05
+1041,dweud celwydd,pretender,verbs,1.25
+1042,maddau,excusar,verbs,2.5
+1043,ymgeisydd,solicitud,nouns,1.75
+1044,gofyn,ignorar,verbs,0.1
+1045,gwaed,cuerpo,nouns,0.75
+1046,smart,tonto,adjectives,0.1
+1047,nendwr,palacio,nouns,0.4
+1048,drôr,ropa,nouns,0.95
+1049,deall,perdonar,verbs,0.85
+1050,camera,presidente,nouns,0.45
+1051,drws,pasillo,nouns,0.45
+1052,cemeg,teoría,nouns,0.65
+1053,polyhedron,actor,nouns,0.0
+1054,rhesymoli,discutir,verbs,1.35
+1055,beirniadol,grosero,adjectives,0.95
+1056,llywodraethwr,emperador,nouns,2.65
+1057,tŷ,granero,nouns,0.6
+1058,diymadferth,vulnerable,adjectives,1.65
+1059,oriel,abogado,nouns,0.1
+1060,yn fanwl gywir,incorrecto,adjectives,0.1
+1061,machlud haul,noche,nouns,2.15
+1062,greddf,sentido,nouns,3.65
+1063,penelin,tobillo,nouns,0.6
+1064,amddiffyn,proteger,verbs,4.65
+1065,gwenynen,reina,nouns,0.45
+1066,cyfalaf,dinero,nouns,3.65
+1067,anghenus,impotente,adjectives,1.05
+1068,yn fras,impacientemente,adverbs,0.25
+1069,yn amlwg,aproximadamente,adverbs,0.6
+1070,cynorthwy-ydd,profesor,nouns,1.6
+1071,offeryn,violín,nouns,2.65
+1072,losin,manzana,nouns,0.4
+1073,mêr,sangre,nouns,0.95
+1074,cefnogwr,grillo,nouns,0.05
+1075,saethydd,pionero,nouns,0.45
+1076,galar,agonía,nouns,3.0
+1077,colli,fallar,verbs,3.1
+1078,llawr,techo,nouns,0.4
+1079,gwrando,entender,verbs,1.1
+1080,meddu ar,tomar,verbs,1.6
+1081,yn wir,en tono rimbombante,adverbs,0.4
+1082,dicter,furia,nouns,4.05
+1083,saws,manzana,nouns,0.5
+1084,drws,cocina,nouns,0.45
+1085,llong,vena,nouns,0.0
+1086,blin,feliz,adjectives,0.15
+1087,cyfrifiadur,disco,nouns,1.05
+1088,llywydd,alcalde,nouns,1.95
+1089,cinio,comida,nouns,3.35
+1090,blawd,pan,nouns,1.05
+1091,ymwrthod,reprimir,verbs,0.6
+1092,gafael,abrazar,verbs,1.55
+1093,portreadu,decidir,verbs,0.3
+1094,gwan,poderoso,adjectives,0.15
+1095,cyw iâr,arroz,nouns,0.35
+1096,yn ddi-drefn,pacíficamente,adverbs,0.05
+1097,crud,moisés,nouns,1.75
+1098,maddau,olvidar,verbs,1.7
+1099,amaethyddiaeth,planta,nouns,0.75
+1100,llywydd,cámara,nouns,0.45
+1101,anghofio,conservar,verbs,0.15
+1102,top,lado,nouns,0.8
+1103,natur,flora,nouns,2.2
+1104,cyflawni,volverse,verbs,0.5
+1105,ymosod,herir,verbs,2.85
+1106,ffotoffon,homófono,nouns,0.55
+1107,crio,lloriquear,verbs,4.95
+1108,mynd,entrar,verbs,1.65
+1109,yn gyflym,urgentemente,adverbs,4.65
+1110,diogelwch,comodidad,nouns,1.5
+1111,ychwanegu,construir,verbs,1.05
+1112,ysglyfaeth,dios,nouns,0.0
+1113,osgoi,negar,verbs,1.4
+1114,carbohydrad,sacarosa,nouns,1.5
+1115,swydd,tarea,nouns,3.8
+1116,athletwr,corredor,nouns,3.1
+1117,afon,valle,nouns,1.65
+1118,dyn,tío,nouns,1.65
+1119,stumog,cintura,nouns,1.1
+1120,diniwed,gratis,adjectives,0.05
+1121,hyfforddwraig,jugador,nouns,0.45
+1122,cleddyf,trono,nouns,0.55
+1123,fisa,globalismo,nouns,0.5
+1124,cynorthwyo,proteger,verbs,1.25
+1125,pibell,jardín,nouns,0.25
+1126,tad,hijo,nouns,1.25
+1127,twyllo,hacer trampas,verbs,4.0
+1128,hanfodol,necesario,adjectives,4.95
+1129,brawd,hijo,nouns,0.95
+1130,angel,demonio,nouns,0.55
+1131,gŵr,esposa,nouns,1.75
+1132,blwch  ,sombrero,nouns,0.15
+1133,enfawr,minúsculo,adjectives,0.15
+1134,cymryd rhan,unirse,verbs,3.4
+1135,canrif,década,nouns,0.55
+1136,tywysog,rey,nouns,1.65
+1137,braich,cuello,nouns,0.4
+1138,heb ei ddatgelu,abierto,adjectives,0.0
+1139,injan,pistón,nouns,2.4
+1140,blwyddyn,cumpleaños,nouns,1.25
+1141,llawdriniaeth,corazón,nouns,0.6
+1142,diffinio,aclarar,verbs,3.45
+1143,gwirod,vino,nouns,0.9
+1144,crosio,uniforme,nouns,0.15
+1145,priodferch,princesa,nouns,1.0
+1146,niwed,dolor,nouns,2.1
+1147,llac,flexible,adjectives,1.05
+1148,creu,destruir,verbs,0.1
+1149,pennod,episodio,nouns,4.75
+1150,rhoi,permitir,verbs,1.0
+1151,herwgipio,robar,verbs,2.3
+1152,beic,habitación,nouns,0.15
+1153,nos,día,nouns,0.6
+1154,absenoldeb,presencia,nouns,0.6
+1155,blodyn,arbusto,nouns,1.6
+1156,amddiffyn,mantener,verbs,1.5
+1157,afal,caramelo,nouns,0.4
+1158,gadael,llegar,verbs,0.25
+1159,llo,toro,nouns,2.05
+1160,negyddol,nunca,adjectives,1.0
+1161,reis,pollo,nouns,0.35
+1162,ffactorio,descomposición,nouns,1.35
+1163,peilliad,estambre,nouns,1.05
+1164,teiffŵn,ciclón,nouns,4.25
+1165,balchder,alegría,nouns,1.45
+1166,ffraeo,racionalizar,verbs,1.35
+1167,car,carro,nouns,4.95
+1168,tric,tamaño,nouns,0.0
+1169,gwawdlyd,desdeñoso,adjectives,3.75
+1170,swydd,administración,nouns,0.9
+1171,hysbysu,limpiar,verbs,0.0
+1172,atom,molécula,nouns,2.15
+1173,tywynnu,ojear,verbs,0.25
+1174,mwydyn,código malicioso,nouns,0.65
+1175,carchar,bar,nouns,0.3
+1176,wedi ymlacio,estresado,adjectives,0.1
+1177,dathlu,sorprender,verbs,0.5
+1178,rhoi,poner,verbs,1.25
+1179,carbon,átomo,nouns,1.0
+1180,ystafell wely,cama,nouns,1.65
+1181,llen,barra,nouns,0.2
+1182,ennill,realizar,verbs,2.1
+1183,angen,organizar,verbs,0.15
+1184,niweidio,atacar,verbs,2.85
+1185,tŷ,alfombra,nouns,0.3
+1186,dynwared,retratar,verbs,2.45
+1187,dwyn,secuestrar,verbs,2.3
+1188,ceryddu,pedir,verbs,0.4
+1189,newydd,antiguo,adjectives,0.1
+1190,caethwas,servidor,nouns,2.5
+1191,gwersyll,cabina,nouns,0.95
+1192,llenyddiaeth,libro,nouns,2.3
+1193,ogleuo,apestar,verbs,3.35
+1194,goddefol,violento,adjectives,0.1
+1195,yn derfynol,principalmente,adverbs,0.6
+1196,telesgop,reunión creativa,nouns,0.0
+1197,bachgen,pareja,nouns,0.25
+1198,crëwr,fabricante,nouns,4.4
+1199,wal,castillo,nouns,0.55
+1200,dichonadwy,imposible,adjectives,0.45
+1201,cerbyd,autobús,nouns,2.75
+1202,realiti,espejismo,nouns,0.2
+1203,seren,capilla,nouns,0.5
+1204,moleciwl,aire,nouns,0.65
+1205,anghrybwylladwy,extramatrimonial,adjectives,0.15
+1206,geiriadur,enciclopedia,nouns,2.1
+1207,anwybodus,uniforme,adjectives,0.3
+1208,trochion,burbuja,nouns,1.0
+1209,soffa,silla,nouns,2.6
+1210,gofyn,rezar,verbs,1.45
+1211,cig eidion,carne,nouns,3.35
+1212,eil,sala,nouns,0.4
+1213,cyfarfod,nadar,verbs,0.0
+1214,danfon,recibir,verbs,0.35
+1215,cyhuddo,mentir,verbs,0.55
+1216,perl,dinero,nouns,0.65
+1217,wal,decoración,nouns,0.55
+1218,tad,hombre,nouns,1.95
+1219,miliwnydd,dólar,nouns,0.9
+1220,hercio,caminar,verbs,0.45
+1221,dŵr,coronación,nouns,0.0
+1222,proffwydo,suponer,verbs,1.95
+1223,gwyddbwyll,comprobar,nouns,0.1
+1224,llyfr,materia,nouns,1.15
+1225,cosbi,enseñar,verbs,0.3
+1226,meddu ,mantener,verbs,2.7
+1227,democratiaeth,monarquía,nouns,0.8
+1228,blits,ataque,nouns,3.05
+1229,anwybodaeth,inteligencia,nouns,0.4
+1230,yn falch,pacíficamente,adverbs,0.15
+1231,wastad,dos veces,adverbs,0.25
+1232,yn syth,una vez,adverbs,1.0
+1233,ysgol,grado,nouns,1.15
+1234,coch,azul,adjectives,0.6
+1235,priodi,unir,verbs,3.55
+1236,cynhwysydd,botella,nouns,2.2
+1237,myffin,perejil,nouns,0.3
+1238,arllwys,gotear,verbs,1.95
+1239,twnnel,camino,nouns,1.7
+1240,cyfnod,década,nouns,1.95
+1241,gorffen,graduarse,verbs,1.4
+1242,bywyd wedi marwolaeth,purgatorio,nouns,2.1
+1243,meddyg,templar,nouns,0.15
+1244,gallu,competencia,nouns,3.55
+1245,torf,populacho,nouns,3.95
+1246,asteroid,estrella,nouns,2.35
+1247,ffraeo,probar,verbs,0.3
+1248,gwaelod,lado,nouns,1.0
+1249,pont,coche,nouns,0.25
+1250,cosbi,obedecer,verbs,0.7
+1251,ffraeo,convencer,verbs,0.75
+1252,bowlen,cola,nouns,0.1
+1253,ysbryd,dios,nouns,1.4
+1254,sobr,borracho,adjectives,0.15
+1255,neigaredd,rey,nouns,1.0
+1256,ffoi,escapar,verbs,5.3
+1257,dod,ir,verbs,1.05
+1258,sinema,televisión,nouns,1.7
+1259,pryd bwyd,cintura,nouns,0.25
+1260,rhifyddeg,ritmo,nouns,0.45
+1261,ystadegau,tenis,nouns,0.25
+1262,ymwrthod,desconocer,verbs,1.35
+1263,oeraidd,áspero,adjectives,0.75
+1264,llygredd,atmósfera,nouns,1.25
+1265,poen,daño,nouns,2.1
+1266,dillad,paño,nouns,1.25
+1267,abdomen,vientre,nouns,4.4
+1268,bachgen,condición,nouns,0.05
+1269,trafferthu,ofender,verbs,0.95
+1270,gadael,tomar,verbs,0.25
+1271,methu,hacer huelga,verbs,0.15
+1272,yn onest,nunca,adverbs,0.1
+1273,disg,ordenador,nouns,1.05
+1274,cario ,tomar,verbs,0.7
+1275,sgwrs,comunicación,nouns,3.65
+1276,dyn,padre,nouns,1.95
+1277,dŵr,hielo,nouns,1.35
+1278,gwesty,apartamento,nouns,0.65
+1279,ofnus,nervioso,adjectives,2.85
+1280,disgyrchiant,meteorito,nouns,1.0
+1281,presenoldeb,ausencia,nouns,0.6
+1282,grawnfwyd,trigo,nouns,1.95
+1283,llaw,muñeca,nouns,1.9
+1284,angenrheidiol,importante,adjectives,3.35
+1285,menyn,patata,nouns,0.45
+1286,crio,reír,verbs,0.2
+1287,cab,coche,nouns,3.95
+1288,annibynadwy,tortuoso,adjectives,1.1
+1289,anifail,persona,nouns,0.3
+1290,diflas,aburrido,adjectives,4.25
+1291,lleng,ejército,nouns,3.35
+1292,asgwrn cefn,cuerpo,nouns,0.6
+1293,rhythm,poema,nouns,1.1
+1294,seicoleg,ciencia,nouns,1.35
+1295,jar,botella,nouns,2.55
+1296,atgoffa,vender,verbs,0.0
+1297,yn uchel,locamente,adverbs,0.55
+1298,lemwn,manzana,nouns,0.85
+1299,cerbyd,coche,nouns,4.95
+1300,cynorthwy-ydd,mucama,nouns,2.2
+1301,trefnu,desorganizado,verbs,0.1
+1302,newynog,sediento,adjectives,1.4
+1303,talu,tratar,verbs,0.1
+1304,yn syml,aparentemente,adverbs,0.4
+1305,agwedd,confianza,nouns,1.55
+1306,yn arw,groseramente,adverbs,0.4
+1307,yn ystyrlon,especialmente,adverbs,1.9
+1308,cawl,cena,nouns,1.7
+1309,cryf,orgulloso,adjectives,0.85
+1310,deall,escucha,verbs,1.1
+1311,yn wahanol,terminalmente,adverbs,0.0
+1312,yn fras,fácilmente,adverbs,0.15
+1313,diogel,tedioso,adjectives,0.05
+1314,balŵn,bañera,nouns,0.05
+1315,hurt,inteligente,adjectives,0.3
+1316,mam,amigo,nouns,0.75
+1317,lamp,genio,nouns,0.5
+1318,cadw,olvidar,verbs,0.15
+1319,boddi,salvar,verbs,0.2
+1320,sŵn,raqueta,nouns,0.15
+1321,chwerthin,cantar,verbs,0.4
+1322,brwnt,estrecho,adjectives,0.0
+1323,gwadu,confesión,nouns,0.75
+1324,enfawr,astronómico,adjectives,1.0
+1325,gofyn,alegar,verbs,1.4
+1326,moleciwl,matriz,nouns,0.35
+1327,beibl,himno,nouns,0.55
+1328,meddyg,profesor,nouns,0.7
+1329,codiad haul,puesta de sol,nouns,0.85
+1330,gwialen,cortina,nouns,0.2
+1331,cul,largo,adjectives,0.35
+1332,canolig,aburrido,adjectives,0.45
+1333,eisiau,pedir prestado,verbs,0.6
+1334,pwffian chwerthin,reír,verbs,5.25
+1335,mynach,cruzar,nouns,0.35
+1336,tasg,asignación,nouns,4.85
+1337,cwtsh,abrazo,verbs,4.2
+1338,ymbarél,calibre,nouns,0.1
+1339,sffer,pelota,nouns,3.45
+1340,braich,rodilla,nouns,0.6
+1341,dechrau,ir,verbs,0.5
+1342,cenedlaethol,conocido,adjectives,0.2
+1343,arsylwi,mirar,verbs,3.6
+1344,clecian,crujir,verbs,1.8
+1345,plymio,crear,verbs,0.0
+1346,anghwrtais,ruidoso,adjectives,0.55
+1347,mynach,sacerdote,nouns,2.65
+1348,caled,sencillo,adjectives,0.1
+1349,gwerth,tarifa,nouns,2.4
+1350,miniog,suave,adjectives,0.4
+1351,gwrthod,mentir,verbs,0.7
+1352,gwawr,día,nouns,1.85
+1353,dadlau,pedir,verbs,1.25
+1354,trafod syniadau,telescopio,nouns,0.0
+1355,perygl,amenaza,nouns,3.95
+1356,gwefus,boca,nouns,2.45
+1357,anystwyth,fácil,adjectives,0.05
+1358,gwisgo,romper,verbs,0.0
+1359,rhith,realidad,nouns,0.2
+1360,encilio,descender,verbs,0.75
+1361,aer,molécula,nouns,0.65
+1362,yn sicr,obviamente,adverbs,2.45
+1363,sinema,palomitas de maiz,nouns,1.4
+1364,etholiad,decisión,nouns,3.55
+1365,cul,ancho,adjectives,0.15
+1366,difetha,oler,verbs,0.0
+1367,derbyn,rechazar,verbs,0.15
+1368,disgwyl,salir,verbs,0.2
+1369,brest,cuerpo,nouns,1.05
+1370,cadair,banco,nouns,3.25
+1371,camera,continuación,nouns,0.1
+1372,ymuno,adquirir,verbs,0.5
+1373,creu,bucear,verbs,0.0
+1374,dosbarthu,aceptar,verbs,0.25
+1375,barnu,decidir,verbs,2.8
+1376,rhesymeg,inteligencia,nouns,2.7
+1377,cyffes,negación,nouns,0.75
+1378,dillad,armario,nouns,1.2
+1379,wisgi,ginebra,nouns,1.4
+1380,deall,saber,verbs,2.55
+1381,pibell,coche,nouns,0.15
+1382,matrics,molécula,nouns,0.35
+1383,wedi tyfu,inmaduro,adjectives,0.3
+1384,bywgraffiad,ficción,nouns,0.35
+1385,garw,frígido,adjectives,0.75
+1386,chwerthin,reirse,verbs,5.25
+1387,fel arfer,sinceramente,adverbs,0.6
+1388,gadael,deambular,verbs,1.1
+1389,allwedd,corona,nouns,0.1
+1390,swil,asustado,adjectives,2.15
+1391,gadael,hacer,verbs,0.2
+1392,cae,avena,nouns,0.45
+1393,asid,base,nouns,0.5
+1394,caniatáu,erosionar,verbs,0.0
+1395,cyhyr,brazo,nouns,1.0
+1396,dyn,niño,nouns,0.5
+1397,hawdd,rígido,adjectives,0.05
+1398,terfyn,frontera,nouns,4.6
+1399,danfon,asistir,verbs,0.35
+1400,pili-pala,rosa,nouns,0.35
+1401,gradd,colegio,nouns,1.15
+1402,yn naturiol,antinaturalmente,adverbs,0.1
+1403,rhif,dígito,nouns,5.15
+1404,gwynt,chubasco,nouns,2.0
+1405,ufuddhau,escuchar,verbs,1.3
+1406,geiser,primavera,nouns,0.3
+1407,plentyn,hombre,nouns,0.5
+1408,glaw,tormenta de nieve,nouns,0.75
+1409,hawdd,difícil,adjectives,0.1
+1410,tagu,matar,verbs,1.2
+1411,baner,polo,nouns,0.5
+1412,top,fondo,nouns,0.25
+1413,pencampwr,ganador,nouns,5.0
+1414,osôn,atmósfera,nouns,1.85
+1415,sylw,conciencia,nouns,1.9
+1416,main,delgado,adjectives,3.5
+1417,crynnu,congelar,verbs,1.3
+1418,tywydd,nube,nouns,0.85
+1419,derbyn,tomar,verbs,1.9
+1420,cyflogwr,empleado,nouns,0.8
+1421,sgwâr,mapa,nouns,0.25
+1422,haeddu,ganar,verbs,1.1
+1423,llyfn,agudo,adjectives,0.4
+1424,cwrs,acción,nouns,0.65
+1425,adeilad,habitación,nouns,0.95
+1426,creu,destruir,verbs,0.15
+1427,gwrthod,evitar,verbs,1.4
+1428,cytundeb,discusión,nouns,0.65
+1429,cynfas,avión,nouns,0.0
+1430,gludiog,sucio,adjectives,1.1
+1431,cadw,proteger,verbs,1.5
+1432,annisgwyl,imprevisto,adjectives,4.8
+1433,gwerthfawr,perezoso,adjectives,0.0
+1434,arbed,recoger,verbs,1.25
+1435,planed,luna,nouns,1.75
+1436,yn derfynol,diferentemente,adverbs,0.0
+1437,brecwast,cena,nouns,1.15
+1438,bydiaeth,visado,nouns,0.5
+1439,byddin,armada,nouns,4.15
+1440,pwyntydd,diapositiva,nouns,0.25
+1441,clwstwr,multitud,nouns,1.45
+1442,syml,difícil,adjectives,0.15
+1443,anwybyddu,explorar,verbs,0.15
+1444,bàth,tronco,nouns,0.0
+1445,ffroenell,fluido,nouns,0.2
+1446,cardigan,camisa,nouns,1.05
+1447,coleg,clase,nouns,1.35
+1448,ffres,antiguo,adjectives,0.0
+1449,llygoden,administración,nouns,0.0
+1450,llygoden,envase,nouns,0.05
+1451,tric,pistola,nouns,0.1
+1452,darllen,morder,verbs,0.0
+1453,cwrw,bebida,nouns,2.1
+1454,beirniadaeth,argumento,nouns,2.2
+1455,colli,mantener,verbs,0.25
+1456,dirywio,limpiar,verbs,0.5
+1457,penwythnos,raza,nouns,0.0
+1458,gweithredu,álgebra,nouns,0.95
+1459,cryndod,terremoto,nouns,3.8
+1460,tasg,trabajo,nouns,3.8
+1461,ethol,nombrar,verbs,3.2
+1462,digid,citoplasma,nouns,0.0
+1463,lwc,felicidad,nouns,0.75
+1464,yn angheuol,felizmente,adverbs,0.05
+1465,trefnus,sucio,adjectives,0.15
+1466,nos,amanecer,nouns,0.35
+1467,priffordd,carretera,nouns,4.15
+1468,cig eidion,ganado,nouns,3.25
+1469,gyrru,detener,verbs,0.35
+1470,cân,balada,nouns,4.05
+1471,rhesymoli,pensar,verbs,3.35
+1472,dadlau,asistir,verbs,0.1
+1473,casglu,organizar,verbs,1.2
+1474,hyblyg,modesto,adjectives,0.35
+1475,ffisigwr,doctor,nouns,4.95
+1476,euog,malo,adjectives,1.3
+1477,gwythïen,estómago,nouns,0.35
+1478,gwallgof,alegre,adjectives,0.1
+1479,gwn,cuaderno,nouns,0.05
+1480,diymhongar,flexible,adjectives,0.35
+1481,ci hela,zorro,nouns,1.0
+1482,plisman,sheriff,nouns,3.05
+1483,papur wal,fondo,nouns,1.3
+1484,asgwrn,dientes,nouns,1.25
+1485,diod,cerveza,nouns,2.1
+1486,anrhydedd,estima,nouns,2.25
+1487,glaw,llovizna,nouns,4.1
+1488,anhrefn,clase,nouns,0.15
+1489,gwneud,dejar,verbs,0.2
+1490,sgïo,snowboard,nouns,2.2
+1491,anniben,feo,adjectives,0.95
+1492,asgwrn,mandíbula,nouns,1.05
+1493,chwilio,preguntar,verbs,0.95
+1494,teimlo,creer,verbs,2.65
+1495,yn ddwfn,principalmente,adverbs,0.85
+1496,hanfodol,importante,adjectives,4.25
+1497,diog,precioso,adjectives,0.0
+1498,benthyciwr,crédito,nouns,1.8
+1499,soffa,béisbol,nouns,0.1
+1500,mygu,abrazar,verbs,0.45
+1501,het,capa,nouns,0.85
+1502,mynychu,enviar,verbs,0.35
+1503,glaswellt,musgo,nouns,1.75
+1504,porth,salida,nouns,1.8
+1505,drwg  ,estupendo,adjectives,0.05
+1506,llyfr,manuscrito,nouns,2.15
+1507,amddiffyn,ayuda,verbs,1.25
+1508,adref,lejos,adverbs,0.25
+1509,cyfrwys,difícil,adjectives,0.15
+1510,sglodion,cursor,nouns,0.0
+1511,iâ,agua,nouns,1.35
+1512,piano,armonía,nouns,0.65
+1513,dur,aleación,nouns,1.8
+1514,seren,planeta,nouns,2.4
+1515,diogelu,defender,verbs,4.65
+1516,madfall,serpiente,nouns,1.3
+1517,parti,gente,nouns,0.9
+1518,iâr,pavo,nouns,1.4
+1519,car,bote,nouns,0.7
+1520,côr,iglesia,nouns,0.9
+1521,geiriadur,definición,nouns,2.2
+1522,hwyl,fútbol,nouns,0.75
+1523,ffwr,mujer,nouns,0.2
+1524,llygad,lágrima,nouns,0.95
+1525,mawr,alto,adjectives,3.25
+1526,tad,hija,nouns,0.65
+1527,tric,juego,nouns,1.5
+1528,anwybyddu,evitar,verbs,3.2
+1529,preifat,personal,adjectives,3.95
+1530,yn greadigol,originalmente,adverbs,1.65
+1531,yn gyfrinachgar,obviamente,adverbs,0.2
+1532,ffres,nuevo,adjectives,4.0
+1533,cymysg,antiguo,adjectives,0.1
+1534,benthyg,desear,verbs,0.6
+1535,braich,vena,nouns,0.45
+1536,synnwyr,intuición,nouns,3.65
+1537,ysgwydd,cabeza,nouns,1.2
+1538,dadansoddi,comparar,verbs,2.4
+1539,gwybodaeth,libro,nouns,1.0
+1540,balch ,fuerte,adjectives,0.85
+1541,perfformio,saludar,verbs,0.15
+1542,ardderchog,maravilloso,adjectives,5.55
+1543,theori,hipótesis,nouns,4.3
+1544,theorem,teoría,nouns,3.65
+1545,yn bwysig,verdaderamente,adverbs,0.4
+1546,barnu,acusar,verbs,2.8
+1547,barnwr,corte,nouns,0.9
+1548,gwisg,pelota,nouns,0.15
+1549,yn hapus,activamente,adverbs,0.05
+1550,heulwen,rayo,nouns,1.8
+1551,dyweddïo,casar,verbs,1.0
+1552,mynychu,discutir,verbs,0.1
+1553,iogwrt,ganado,nouns,0.35
+1554,dod â,restaurar,verbs,0.05
+1555,trasiedi,muerte,nouns,1.8
+1556,amlwg,aparente,adjectives,3.3
+1557,sbeislyd,débiles,adjectives,0.0
+1558,madfall,gobierno,nouns,0.0
+1559,awgrymu,asesorar,verbs,3.4
+1560,anatomeg,biología,nouns,2.5
+1561,neidr,lagartija,nouns,1.3
+1562,bodloni,comprender,verbs,0.65
+1563,llidiog,vacilante,adjectives,0.5
+1564,camera,obrero,nouns,0.05
+1565,diflas,agudo,adjectives,0.1
+1566,theori,química,nouns,0.65
+1567,cysur,seguridad,nouns,1.5
+1568,jar,vaso,nouns,1.8
+1569,traethu,recordar,verbs,0.6
+1570,gwallgof,estupendo,adjectives,0.1
+1571,mynd  ,permitir,verbs,0.2
+1572,dillad isaf,cuerpo,nouns,0.4
+1573,masarnen,árbol,nouns,3.3
+1574,ysgubell,polvo,nouns,0.55
+1575,wedi ei ddiflasu,insulso,adjectives,4.25
+1576,canwr,personal,nouns,0.25
+1577,lefel,puntuación,nouns,2.8
+1578,strwythur,topología,nouns,1.5
+1579,masarnen,roble,nouns,1.45
+1580,dimai,gente,nouns,0.05
+1581,brifo ,caer,verbs,1.35
+1582,ymosodol,grosero,adjectives,1.8
+1583,pen,pie,nouns,0.45
+1584,cyrraedd,salir,verbs,0.25
+1585,derbyn,enviar,verbs,0.35
+1586,atom,carbón,nouns,1.0
+1587,cadair,telescopio,nouns,0.1
+1588,pwerus,poderoso,adjectives,4.2
+1589,casglwr,subrutina,nouns,0.4
+1590,gwddf,lengua,nouns,0.75
+1591,gwraig,centavo,nouns,0.2
+1592,cod,símbolo,nouns,2.2
+1593,cerflunwaith,estatua,nouns,5.2
+1594,anghyfreithlon,legal,adjectives,0.15
+1595,ochr,fondo,nouns,1.0
+1596,cytuno,discutir,verbs,0.3
+1597,coroni,agua,nouns,0.0
+1598,delwedd,idea,nouns,1.25
+1599,aros,obtener,verbs,0.0
+1600,cytundeb,agujero,nouns,0.0
+1601,gwrthod,retirar,verbs,1.7
+1602,iard,pulgada,nouns,0.55
+1603,llygoden fawr,ratón,nouns,3.85
+1604,bychanu,comodidad,verbs,0.0
+1605,gwybodaeth,entropía,nouns,0.5
+1606,tyfu,expandir,verbs,4.6
+1607,cytuno,discrepar,verbs,0.45
+1608,cymhwysedd,capacidad,nouns,3.6
+1609,hebog,águila,nouns,2.4
+1610,diog,ocupado,adjectives,0.15
+1611,bawd,mano,nouns,1.25
+1612,mab,niño,nouns,3.45
+1613,yn bryderus,nerviosamente,adverbs,3.75
+1614,synhwyrydd,radiador,nouns,0.7
+1615,gaeaf,verano,nouns,0.7
+1616,cadw,pedir prestado,verbs,0.2
+1617,sant,pecador,nouns,0.35
+1618,styfnig,estúpido,adjectives,0.45
+1619,tsunami,mar,nouns,1.7
+1620,hawdd,sencillo,adjectives,3.95
+1621,ffug,real,adjectives,0.1
+1622,ymuno,salir,verbs,0.3
+1623,gweithred,curso,nouns,0.65
+1624,gadael,ignorar,verbs,0.65
+1625,dod,traer,verbs,1.25
+1626,ymddangos,salir,verbs,0.35
+1627,gitâr,tambor,nouns,0.9
+1628,gwych,maravilloso,adjectives,4.75
+1629,car,fábrica,nouns,0.25
+1630,darganfod,desaparecer,verbs,0.2
+1631,cerdyn,puente,nouns,0.0
+1632,nofel,escritor,nouns,1.3
+1633,ffôn clyfar,piña,nouns,0.0
+1634,denu,golpear,verbs,0.05
+1635,canu,flotador,verbs,0.0
+1636,heliwm,aire,nouns,2.05
+1637,dwys,difícil,adjectives,1.3
+1638,gweithiwr,empleador,nouns,0.8
+1639,nihiliaeth,película,nouns,0.1
+1640,cadlong,buque,nouns,3.55
+1641,dyn,semental,nouns,0.6
+1642,orthodontydd,médico,nouns,1.6
+1643,allanfa,sufragio,nouns,0.1
+1644,methdaliad,fracaso,nouns,1.5
+1645,onest,culpable,adjectives,0.1
+1646,corws,cantante,nouns,1.35
+1647,yn gadarnhaol,probablemente,adverbs,0.9
+1648,agoriad,brecha,nouns,2.15
+1649,llys,juez,nouns,0.9
+1650,drwg,horrible,adjectives,2.95
+1651,brwydro,morder,verbs,0.35
+1652,blodyn,creencia,nouns,0.05
+1653,deilen,árbol,nouns,1.35
+1654,twyll,delito,nouns,2.8
+1655,cwyno,traer,verbs,0.0
+1656,gitâr,trucha,nouns,0.0
+1657,papur,póster,nouns,1.55
+1658,traeth,isla,nouns,1.5
+1659,amnewidyn,intercambio,nouns,3.05
+1660,storm,nieve,nouns,1.1
+1661,parsel,camión,nouns,0.65
+1662,cwrs,estómago,nouns,0.05
+1663,capel,cable,nouns,0.0
+1664,yn gryf,oficialmente,adverbs,0.1
+1665,cymylog,pronóstico,nouns,0.65
+1666,anrhagweledig,no previsible,adjectives,4.8
+1667,machlud haul,cuerda,nouns,0.0
+1668,caniatáu,aprobar,verbs,2.85
+1669,blanced ,cama,nouns,1.1
+1670,brawdgarwch,hombres,nouns,1.1
+1671,bàth,esposa,nouns,0.1
+1672,cytundeb,pacto,nouns,5.3
+1673,car,camión,nouns,1.4
+1674,gwin,alcohol,nouns,1.85
+1675,halen,agua,nouns,0.4
+1676,gwneuthurio,construir,verbs,3.6
+1677,reis,frijol,nouns,0.95
+1678,nawr,aquí,adverbs,2.0
+1679,ongl,curva,nouns,1.75
+1680,gwlychu,reducir,verbs,0.0
+1681,stumog,curso,nouns,0.05
+1682,cerflun,escultura,nouns,5.2
+1683,cofleidio,sostener,verbs,1.55
+1684,anhygoel,sucio,adjectives,0.0
+1685,pryf sidan,oruga,nouns,2.6
+1686,pêl-droed,divertido,nouns,0.75
+1687,bod mewn dyled,prestar,verbs,1.2
+1688,newydd,reciente,adjectives,3.5
+1689,dychmygu,crear,verbs,1.05
+1690,cwch,cubierta,nouns,1.1
+1691,chwilio,cazar,verbs,2.05
+1692,cyfreithiwr,banquero,nouns,1.1
+1693,wedi blino,aburrido,adjectives,1.1
+1694,rhadlon,entrante,adjectives,0.1
+1695,ungnwd,agricultura,nouns,0.8
+1696,gair,diccionario,nouns,1.45
+1697,clecs,noticias,nouns,2.45
+1698,brysio,apurarse,verbs,5.55
+1699,mwtant,sociobiología,nouns,0.3
+1700,cymryd,poseer,verbs,1.6
+1701,llawr,puerta,nouns,0.5
+1702,troelli,mezcla,verbs,3.05
+1703,yn gyfrifol,independientemente,adverbs,0.35
+1704,cyhyrau,lengua,nouns,1.9
+1705,digwyddiad,recaudación de fondos,nouns,2.3
+1706,pledio,pedir,verbs,1.4
+1707,arholiad,silaba,nouns,0.35
+1708,pennod,cola,nouns,0.05
+1709,heddiw,esta noche,adverbs,2.0
+1710,gwraig,hidalgo,nouns,0.75
+1711,galaeth,aplicación,nouns,0.1
+1712,ciwb,juguete,nouns,0.55
+1713,cred,impresión,nouns,1.85
+1714,dimai,tamaño,nouns,0.1
+1715,goruchafiaeth,omnipotencia,nouns,2.45
+1716,injan,máquina,nouns,3.3
+1717,deallusrwydd,sabiduría,nouns,3.6
+1718,pwrs,bolso,nouns,1.8
+1719,ystafell wely,estómago,nouns,0.1
+1720,benthyca,dar,verbs,1.45
+1721,yfed,sorber,verbs,2.6
+1722,barn,elección,nouns,1.1
+1723,cwmwl,lago,nouns,0.3
+1724,ymgyrch,mono,nouns,0.05
+1725,barn,parcialidad,nouns,2.2
+1726,siarad,susurrar,verbs,1.85
+1727,arwr,heroína,nouns,3.4
+1728,unigryw,opuesto,adjectives,0.6
+1729,cynffon,acantilado,nouns,0.0
+1730,maes llafur,examen,nouns,0.35
+1731,cyrraedd,asistir,verbs,1.6
+1732,glân,ordenado,adjectives,1.7
+1733,gogledd,oeste,nouns,0.8
+1734,goroesi,vivir,verbs,2.75
+1735,datgysylltu,dividir,verbs,1.15
+1736,hyfryd,maravilloso,adjectives,3.05
+1737,het,caja,nouns,0.15
+1738,nam,sistema,nouns,0.1
+1739,edrych,buscar,verbs,3.75
+1740,gwaethygu,molestar,verbs,0.9
+1741,clymu,tejer,verbs,0.6
+1742,yn sicr,nervioso,adjectives,0.05
+1743,deiet,manzana,nouns,0.8
+1744,gwarcheidwad,madre,nouns,1.95
+1745,gwifren,cuerda,nouns,2.1
+1746,dewin,cable,nouns,0.0
+1747,chwerthin,llorar,verbs,0.2
+1748,actor,cantante,nouns,0.95
+1749,gosod,dar,verbs,1.25
+1750,llaw,pulgar,nouns,1.25
+1751,ar hyn o bryd,delicadamente,adverbs,0.0
+1752,arian,perla,nouns,0.65
+1753,pâr,pareja,nouns,5.25
+1754,dyn,pareja,nouns,1.05
+1755,cywilydd,suerte,adjectives,0.0
+1756,dyfnder,magnitud,nouns,1.15
+1757,berwi,freír,verbs,0.95
+1758,cyflawni,recibir,verbs,0.25
+1759,yn hanfodol,críticamente,adverbs,0.45
+1760,rhesymol,sobrio,adjectives,1.35
+1761,anghefnogi,fallar,verbs,0.6
+1762,anhrefnu,organizado,verbs,0.1
+1763,byth,negativo,adjectives,1.0
+1764,cymdeithas,cultura,nouns,1.5
+1765,orthodontydd,dentista,nouns,3.85
+1766,seler,puerta,nouns,0.25
+1767,yn agored i niwed,impotente,adjectives,1.65
+1768,dec,ratón,nouns,0.0
+1769,crybwyll,criticar,verbs,1.0
+1770,arian cyfred,concurrencia,nouns,0.15
+1771,hapusrwydd,tristeza,nouns,0.6
+1772,awyren,aeropuerto,nouns,1.65
+1773,tasg,isla,nouns,0.05
+1774,gwely,silla,nouns,1.0
+1775,ewyllys,intención,nouns,1.85
+1776,rhyfeddol,extraño,adjectives,3.65
+1777,llyfr,historia,nouns,1.55
+1778,siampên,cerveza,nouns,1.3
+1779,dewis,cárcel,nouns,0.15
+1780,isrwtîn,compilador,nouns,0.4
+1781,teledu,guionista,nouns,0.7
+1782,mam,guardián,nouns,1.95
+1783,diddordeb,atención,nouns,3.05
+1784,archesgob,obispo,nouns,3.0
+1785,fel arfer,raramente,adverbs,0.1
+1786,rhyddid,oasis,nouns,0.45
+1787,yn union,inexactamente,adverbs,0.05
+1788,cyfreithiwr,fiscal,nouns,2.7
+1789,piston,motor,nouns,2.4
+1790,rhyfedd,normal,adjectives,0.1
+1791,trychineb,muerte,nouns,1.55
+1792,confensiwn,regla,nouns,2.5
+1793,diflas,cansado,adjectives,1.1
+1794,esgus,retratar,verbs,0.8
+1795,yn fawr,brillantemente,adverbs,0.2
+1796,tref,ciudad,nouns,2.65
+1797,llwy,jugo,nouns,0.15
+1798,lema,sílaba,nouns,0.3
+1799,mygu,abrumar,verbs,2.2
+1800,derbyn,dar,verbs,0.2
+1801,pren mesur,rey,nouns,0.45
+1802,bydysawd,cielo,nouns,1.05
+1803,siaced,ropa,nouns,1.6
+1804,yn wreiddiol,creativamente,adverbs,1.65
+1805,yr un peth,similar,adjectives,4.15
+1806,llywydd,contaminación,nouns,0.25
+1807,cyrraedd,venir,verbs,1.65
+1808,ofnadwy,triste,adjectives,1.25
+1809,anfoesol,ilegal,adjectives,1.7
+1810,stopio,controlar,verbs,0.65
+1811,pelydr,sol,nouns,1.8
+1812,bws,taxi,nouns,1.4
+1813,yn ddiweddar,de manera realista,adverbs,0.0
+1814,ystafell ddosbarth,pasillo,nouns,0.3
+1815,tarian,rodela,nouns,1.5
+1816,dydd  ,amanecer,nouns,1.85
+1817,iâr,pájaro,nouns,2.05
+1818,rhyddhau,captura,verbs,0.75
+1819,storm,nube,nouns,1.0
+1820,barn,creencia,nouns,3.55
+1821,rhoi,desconocer,verbs,0.55
+1822,cyntedd,altar,nouns,0.6
+1823,mam,papá,nouns,2.0
+1824,yn emosiynol,tristemente,adverbs,1.9
+1825,poeni,malgastar,verbs,0.05
+1826,losin,canela,nouns,0.8
+1827,yn anghywir,precisamente,adverbs,0.05
+1828,danfon,ir,verbs,0.9
+1829,cath,león,nouns,1.7
+1830,eglur,obvio,adjectives,3.3
+1831,pêl-fas,sofá,nouns,0.1
+1832,sgol,viento,nouns,2.0
+1833,cyfuniad,caña de azúcar,nouns,0.2
+1834,caniatáu,dar,verbs,1.0
+1835,coffi,frijol,nouns,0.5
+1836,metel,estaño,nouns,2.25
+1837,amhosib,factible,adjectives,0.45
+1838,clwb,marca,nouns,0.45
+1839,dadl,conversación,nouns,2.95
+1840,gair,página,nouns,0.65
+1841,tywydd,ola,nouns,0.3
+1842,nyrs,científico,nouns,0.4
+1843,cwympo,tropezar,verbs,4.25
+1844,dod,llegar,verbs,1.65
+1845,llawysgrif,libro,nouns,2.15
+1846,talwrn,copiloto,nouns,0.35
+1847,ael,ojo,nouns,0.75
+1848,baco,cigarrillo,nouns,3.25
+1849,gwerthu,pedir prestado,verbs,0.35
+1850,heb fod yn ddrud,barato,adjectives,4.65
+1851,cath,mascota,nouns,3.0
+1852,rheol,convención,nouns,2.5
+1853,tenau,esbelto,adjectives,3.5
+1854,yn heddychlon,orgullosamente,adverbs,0.15
+1855,tymer,médico,nouns,0.15
+1856,efelychiad,robótica,nouns,0.6
+1857,pêl-foli,pelota,nouns,1.8
+1858,partner,niño,nouns,0.25
+1859,pleserdaith,ruta,nouns,3.35
+1860,rhyfelgarwch,combate,nouns,2.7
+1861,diymhongar,avergonzado,adjectives,0.4
+1862,milwr,paz,nouns,0.25
+1863,gwydr,placa,nouns,0.35
+1864,merch,chico,nouns,1.0
+1865,dillad,chaqueta,nouns,1.6
+1866,derbyn,creer,verbs,1.4
+1867,afal,sol,nouns,0.25
+1868,gadael,unirse,verbs,0.3
+1869,ysgoloriaeth,matrícula,nouns,1.05
+1870,coleddu,mantener,verbs,0.8
+1871,menyw,piel,nouns,0.2
+1872,lluosi,añadir,verbs,1.55
+1873,coflaid,ahogar,verbs,0.45
+1874,marw,enterrar,verbs,1.05
+1875,cig,carne de vaca,nouns,3.35
+1876,maint,centavo,nouns,0.1
+1877,tristwch,felicidad,nouns,0.6
+1878,pen-blwydd,año,nouns,1.25
+1879,mecanyddol,eléctrico,adjectives,0.8
+1880,weithiau,seguramente,adverbs,0.45
+1881,llong ryfel,acorazado,nouns,3.55
+1882,cloch,torre,nouns,1.0
+1883,gwaethygu,asaltar,verbs,0.6
+1884,wedi ei orchuddio,descubierto,adjectives,0.1
+1885,archwilio,ignorar,verbs,0.15
+1886,da,quinto,adjectives,0.05
+1887,codi,beber,verbs,0.0
+1888,arweinydd,gerente,nouns,3.45
+1889,cyffredin,extraño,adjectives,0.1
+1890,hapus,joven,adjectives,0.2
+1891,trist,gracioso,adjectives,0.05
+1892,siwgr,miel,nouns,1.6
+1893,pibell,cigarro,nouns,0.5
+1894,basilica,mosaico,nouns,0.55
+1895,harmoni,piano,nouns,0.65
+1896,uno,casar,verbs,3.55
+1897,ofnadwy,genial,adjectives,0.1
+1898,maddau,entender,verbs,0.85
+1899,iard,metro,nouns,1.65
+1900,cynnyrch llaeth,miel,nouns,0.35
+1901,twr,campana,nouns,1.0
+1902,ysgrifennydd,mujer,nouns,0.35
+1903,steil,moda,nouns,4.4
+1904,amrwd,grosero,adjectives,0.9
+1905,hydwyll,estúpido,adjectives,1.6
+1906,dewis,decidir,verbs,4.15
+1907,cyflymder,enviar,nouns,0.2
+1908,ysbyty,cama,nouns,0.7
+1909,profocio,herir,verbs,1.3
+1910,cyfrwys,extraño,adjectives,0.15
+1911,cwmwl,ventana,nouns,0.35
+1912,camera,lente,nouns,2.1
+1913,yn rheolaidd,ocasionalmente,adverbs,1.15
+1914,llygad,frente,nouns,0.75
+1915,dinistrio,crear,verbs,0.1
+1916,gwaith cartref,ensayo,nouns,2.55
+1917,cadair,cama,nouns,1.0
+1918,cadair,sofá,nouns,2.6
+1919,gwael,solitario,adjectives,0.25
+1920,emyn,conquista,nouns,0.15
+1921,yn ofalus,peligrosamente,adverbs,0.2
+1922,lladd,defender,verbs,0.5
+1923,theatr,batería,nouns,0.1
+1924,dadlau,persuadir,verbs,1.5
+1925,brechdan,almuerzo,nouns,1.05
+1926,erthygl,libro,nouns,0.9
+1927,ffa,café,nouns,0.5
+1928,yn rhyfedd,diferentemente,adverbs,1.75
+1929,cwch,árbol,nouns,0.15
+1930,aeddfed,sofisticado,adjectives,1.85
+1931,canon,pelota,nouns,0.5
+1932,dinistrio,salvar,verbs,0.1
+1933,car,automóvil,nouns,5.25
+1934,pur,modesto,adjectives,0.95
+1935,oedolyn,padre,nouns,1.45
+1936,syml,fácil,adjectives,3.95
+1937,ardderchog,malo,adjectives,0.05
+1938,dydd ,noche,nouns,0.6
+1939,adeiladu,destruir,verbs,0.15
+1940,crys,cárdigan,nouns,1.05
+1941,torf,manojo,nouns,1.45
+1942,proffesiwn,universidad,nouns,0.65
+1943,tân,apocalipsis,nouns,0.8
+1944,arbed,destruir,verbs,0.1
+1945,myfyrdod,imagen,nouns,1.1
+1946,cred,flor,nouns,0.05
+1947,ffôn,cabina,nouns,0.6
+1948,yn graff,maduro,adverbs,1.05
+1949,rhoi,robar,verbs,0.1
+1950,metel,aluminio,nouns,2.3
+1951,anghytuno,estar de acuerdo,verbs,0.45
+1952,anhygoel,ordinario,adjectives,0.1
+1953,palmwydd,dedo,nouns,0.35
+1954,medi,ganancia,verbs,0.55
+1955,cath,conejo,nouns,0.95
+1956,clwb,sociedad,nouns,3.15
+1957,cynhwysydd,vagón,nouns,0.0
+1958,rhannu,multiplicar,verbs,0.65
+1959,hir,corto,adjectives,0.15
+1960,sychedig,hambriento,adjectives,1.4
+1961,alwminiwm,estaño,nouns,1.6
+1962,ffêr,ventana,nouns,0.05
+1963,braich,cuerpo,nouns,1.0
+1964,yn amlwg,seguramente,adverbs,2.8
+1965,bioleg,biotopo,nouns,0.65
+1966,cnawd,sangre,nouns,0.8
+1967,athro,estudiante,nouns,0.65
+1968,yn llawn,básicamente,adverbs,0.7
+1969,finegr,ensalada,nouns,0.75
+1970,digid,número,nouns,5.15
+1971,caled,fácil,adjectives,0.1
+1972,dod,asistir,verbs,2.5
+1973,dannedd,hueso,nouns,1.25
+1974,arferol,diferente,adjectives,0.45
+1975,machlud haul,mesa,nouns,0.05
+1976,gwirio,justificar,verbs,1.2
+1977,drws,bodega,nouns,0.25
+1978,stêc,pollo,nouns,1.6
+1979,clariffeio,explicar,verbs,4.45
+1980,ymosod,agravar,verbs,0.6
+1981,cynhwysydd,ratón,nouns,0.05
+1982,gwresogydd,paraguas,nouns,0.1
+1983,bar,jaula,nouns,0.25
+1984,bwyd,programa,nouns,0.1
+1985,ychwanegu,dividir,verbs,0.2
+1986,crebachu,crecer,verbs,0.15
+1987,mynd i mewn,deber,verbs,0.1
+1988,yn gadarn,suavemente,adverbs,0.35
+1989,archwilio,perseguir,verbs,0.6
+1990,yn anarferol,extrañamente,adverbs,3.2
+1991,soffistigedig,maduro,adjectives,1.85
+1992,bara,harina,nouns,1.05
+1993,pren,papel,nouns,0.7
+1994,pont,tarjeta,nouns,0.0
+1995,to,ventana,nouns,0.3
+1996,cyfiawnhau,verificar,verbs,1.2
+1997,to,piso,nouns,0.7
+1998,ychwanegu,multiplicar,verbs,1.55
+1999,eginblanhigyn,hoja,nouns,1.35
+2000,cromlin,ángulo,nouns,1.75
+2001,rhesymeg,aritmética,nouns,1.45
+2002,estrys,huerta,nouns,0.2
+2003,eil,corredor,nouns,0.6
+2004,bwcler,escudo,nouns,1.5
+2005,go iawn,0,adjectives,0.1
+2006,i ffwrdd,a casa,adverbs,0.25
+2007,ysgwyd,recoger,verbs,0.2
+2008,llwyn,flor,nouns,1.6
+2009,pastai,chocolate,nouns,0.85
+2010,argyhoeddi,discutir,verbs,0.75
+2011,bawd,uña,nouns,1.35
+2012,plaladdwr,parásito,nouns,0.7
+2013,athronydd,carreras,nouns,0.15
+2014,ffwr,pistola,nouns,0.1
+2015,batri,energía,nouns,3.0
+2016,llyfr nodiadau,pistola,nouns,0.05
+2017,stori,tema,nouns,0.9
+2018,amgylchiad,situación,nouns,5.45
+2019,prin,tonto,adjectives,0.1
+2020,twrci,pájaro,nouns,2.6
+2021,awyrennaeth,aviónica,nouns,3.7
+2022,rhoddi,pedir prestado,verbs,1.45
+2023,ymadael,esperar,verbs,0.2
+2024,blin,violento,adjectives,1.45
+2025,cyfansoddwr,escritor,nouns,2.8
+2026,sinematograffeg,director,nouns,1.5
+2027,enillydd,candidato,nouns,1.25
+2028,senedd,constitución,nouns,1.15
+2029,llawenydd,orgullo,nouns,1.45
+2030,sinamon,caramelo,nouns,0.8
+2031,chwarae,lucha,verbs,0.3
+2032,cludo,levantar,verbs,0.7
+2033,hafaliad,fórmula,nouns,4.05
+2034,mynd i mewn,ir,verbs,1.65
+2035,carchar,elección,nouns,0.15
+2036,yn realistig,recientemente,adverbs,0.0
+2037,fitamin,plancha,nouns,0.65
+2038,bioleg,anatomía,nouns,2.5
+2039,graddio,terminar,verbs,1.4
+2040,dod â,llevar,verbs,1.3
+2041,dis,cubo,nouns,3.15
+2042,cicio,herir,verbs,1.45
+2043,stêc,carne,nouns,3.35
+2044,arwyddluniau,dignidad,nouns,0.2
+2045,arian,capital,nouns,3.65
+2046,euog,avergonzado,adjectives,1.9
+2047,yn deg,injustamente,adverbs,0.1
+2048,ffôn symudol,teléfono,nouns,4.75
+2049,sylfaen,ácido,nouns,0.5
+2050,yn ochelgar,cuidadosamente,adverbs,3.8
+2051,cadno,sabueso,nouns,1.0
+2052,ymadael,separar,verbs,1.05
+2053,eang,estrecho,adjectives,0.15
+2054,darganfod,escapar,verbs,0.2
+2055,cyflawni,ganar,verbs,2.1
+2056,wisgi,champán,nouns,1.15
+2057,cadw,apreciar,verbs,0.8
+2058,crwm,agresivo,adjectives,0.0
+2059,croen,bicicleta,nouns,0.2
+2060,topoleg,estructura,nouns,1.5
+2061,gweithiwr,mecánico,nouns,2.25
+2062,ardal,región,nouns,4.6
+2063,crisial,vaso,nouns,1.9
+2064,tiwtora,educar,verbs,4.4
+2065,gwely,habitación,nouns,0.8
+2066,machlud haul,amanecer,nouns,0.85
+2067,mawr,enorme,adjectives,4.4
+2068,yn fawr,increíblemente,adverbs,0.65
+2069,asgwrn,brazo,nouns,1.25
+2070,gwartheg,ternera,nouns,3.25
+2071,brawdgarwch,béisbol,nouns,0.15
+2072,glaw,niebla,nouns,1.3
+2073,cytuno,diferir de,verbs,0.15
+2074,llyfr,texto,nouns,1.75
+2075,siarad,reconocer,verbs,0.5
+2076,methu,perder,verbs,3.1
+2077,clogwyn,colina,nouns,1.65
+2078,cyflwr,casa,nouns,0.1
+2079,apocalyps,fuego,nouns,0.8
+2080,benthyg,mantener,verbs,0.2
+2081,anodd,simple,adjectives,0.15
+2082,sblash,viscosidad,nouns,0.45
+2083,mwynhau,odiar,verbs,0.05
+2084,symud,tejer,verbs,0.15
+2085,crio,sollozar,verbs,3.95
+2086,gwraig,marido,nouns,1.75
+2087,erthygl,diario,nouns,2.25
+2088,hiliaeth,xenofobia,nouns,4.0
+2089,plât,cuenco,nouns,1.85
+2090,penelin,hueso,nouns,1.15
+2091,deall,satisfacer,verbs,0.65
+2092,mawr,fácil,adjectives,0.0
+2093,pwnc,libro,nouns,1.15
+2094,ymholi,pensar,verbs,0.9
+2095,biliwnydd,indigente,nouns,0.15
+2096,dinistrio,hacer,verbs,0.15
+2097,cymryd rhan,decir,verbs,0.6
+2098,cyfnos,noche,nouns,3.2
+2099,hwyliau,emoción,nouns,2.85
+2100,blodyn,violeta,nouns,1.7
+2101,telesgop,silla,nouns,0.1
+2102,cwmni,negocio,nouns,4.2
+2103,addurn,sobre,nouns,0.05
+2104,cyw iâr,filete,nouns,1.6
+2105,concwest,viaje,nouns,0.6
+2106,brithyll,guitarra,nouns,0.0
+2107,dwys,tonto,adjectives,0.2
+2108,mob,multitud,nouns,3.95
+2109,nodyn,trabajo,nouns,0.65
+2110,cwrw,champán,nouns,1.3
+2111,yn hael,nunca,adverbs,0.0
+2112,gitâr,violín,nouns,0.75
+2113,yn gadarn,herméticamente,adverbs,0.8
+2114,twp,obstinado,adjectives,0.45
+2115,ymosodiad,delito,nouns,2.0
+2116,ffon reoli,radar,nouns,0.25
+2117,cyngres,parlamento,nouns,3.0
+2118,gwrthod,elegir,verbs,0.2
+2119,plesio,entretener,verbs,1.8
+2120,meddwl,preguntar,verbs,0.9
+2121,morwr,capitán,nouns,1.45
+2122,dechrau,originar,verbs,3.85
+2123,anghofio,perdonar,verbs,1.7
+2124,twf,fertilizante,nouns,0.8
+2125,cig,pan,nouns,0.35
+2126,cyfradd,valor,nouns,2.4
+2127,entropi,información,nouns,0.5
+2128,bowliwr,bolos,nouns,1.75
+2129,ffrind,profesor,nouns,0.5
+2130,ffabrig,lino,nouns,2.4
+2131,amlwg,no revelado,adjectives,0.0
+2132,yn wahanol,extrañamente,adverbs,1.75
+2133,arfordir,barco de cañón,nouns,0.4
+2134,sgert,reloj,nouns,0.15
+2135,deinosor,elefante,nouns,0.55
+2136,amau,arrestar,verbs,0.45
+2137,siarad,oír,verbs,0.7
+2138,asgwrn,tobillo,nouns,1.2
+2139,pren,tronco,nouns,3.5
+2140,dynwared,capturar,verbs,0.2
+2141,anaml,generalmente,adverbs,0.1
+2142,creigres,playa,nouns,1.15
+2143,swyddog,diputado,nouns,1.2
+2144,yn annheg,justamente,adverbs,0.1
+2145,gwaith celf,artista,nouns,1.45
+2146,system,culpa,nouns,0.1
+2147,meddu ar,absorber,verbs,0.65
+2148,duw,sacerdote,nouns,1.2
+2149,erydu,permitir,verbs,0.0
+2150,heno,hoy,adverbs,2.0
+2151,nod,ganador,nouns,0.4
+2152,car,puente,nouns,0.25
+2153,atgoffa,contar,verbs,0.6
+2154,ap,galaxia,nouns,0.1
+2155,esgus,mentira,verbs,1.25
+2156,palas,rascacielos,nouns,0.4
+2157,ymgynnull,recoger,verbs,3.7
+2158,actores,actor,nouns,4.05
+2159,dianc,encontrar,verbs,0.2
+2160,cinio,sandwich,nouns,1.05
+2161,yn ddelfrydol,mecánicamente,adverbs,0.1
+2162,swper,comida,nouns,3.45
+2163,angenrheidiol,innecesario,adjectives,0.1
+2164,gosod mewn trefn,organizar,verbs,5.2
+2165,gwrthbrofi,permitir,verbs,0.25
+2166,bowlen,plato,nouns,1.85
+2167,cred,concepto,nouns,2.7
+2168,derbyn,lograr,verbs,0.25
+2169,cath,perro,nouns,0.9
+2170,ffynhonnell,caja,nouns,0.1
+2171,batri,teatro,nouns,0.1
+2172,wedi ei dychryn,emocionado,adjectives,1.35
+2173,organ,hígado,nouns,1.95
+2174,esgus,imaginar,verbs,1.6
+2175,yfed,aumentar,verbs,0.0
+2176,maer,jefe,nouns,1.3
+2177,cyfarch,reunirse,verbs,0.75
+2178,caffael,robar,verbs,0.85
+2179,deallusrwydd,ignorancia,nouns,0.4
+2180,poen,dolor,nouns,3.0
+2181,potel,poder,nouns,0.0
+2182,gwybod,entender,verbs,3.05
+2183,amherchnogi,dar,verbs,0.55
+2184,brandi,alcohol,nouns,2.05
+2185,coes,brazo,nouns,0.65
+2186,sinc,oro,nouns,0.85
+2187,mynd  ,enviar,verbs,0.9
+2188,troi drosodd,herir,verbs,0.6
+2189,yn wael,humildemente,adverbs,0.15
+2190,erfyn,pedir,verbs,2.6
+2191,tarddu,descubrir,verbs,0.95
+2192,ystafell,edificio,nouns,0.95
+2193,siarcol,carbón,nouns,2.75
+2194,tudalen,párrafo,nouns,1.2
+2195,merch,niño,nouns,0.8
+2196,drws,campana,nouns,0.35
+2197,siofinist,prejuicio,nouns,2.1
+2198,cul,blanco,adjectives,0.0
+2199,person dan amheuaeth,hombre,nouns,0.55
+2200,bronceitus,acetaminofeno,nouns,0.55
+2201,ystafell wely,bicicleta,nouns,0.15
+2202,planhigyn,agricultura,nouns,0.75
+2203,lliain,tela,nouns,2.4
+2204,methu,tener éxito,verbs,0.15
+2205,busnes,industria,nouns,2.5
+2206,ergyd,marco,nouns,0.15
+2207,dod yn,realizar,verbs,0.5
+2208,portreadu,pretender,verbs,0.8
+2209,persli,mollete,nouns,0.3
+2210,llywydd,político,nouns,1.75
+2211,treth,ingresos,nouns,0.65
+2212,ceirchen,campo,nouns,0.45
+2213,hydoddi,mezclar,verbs,1.9
+2214,egluro,probar,verbs,1.8
+2215,yma,ahora,adverbs,2.0
+2216,braich,pierna,nouns,0.65
+2217,egluro,aclarar,verbs,4.45
+2218,corn,coche,nouns,0.2
+2219,cyflogwr,obrero,nouns,0.8
+2220,dirmygu,cargar,verbs,0.3
+2221,cwpwrdd,ropa,nouns,1.2
+2222,cythruddo,adivinar,verbs,0.0
+2223,pren,tronco,nouns,3.75
+2224,bwrw,castigar,verbs,1.1
+2225,gwddf,brazo,nouns,0.4
+2226,cenllysg,lluvia,nouns,1.6
+2227,sillaf,lema,nouns,0.3
+2228,bregus,frígido,adjectives,0.15
+2229,yn annhebygol,simpático,adverbs,0.0
+2230,pêl-fas,fraternidad,nouns,0.15
+2231,yn fras,obviamente,adverbs,0.6
+2232,benthyg,vender,verbs,0.35
+2233,prif air,sintaxis,nouns,0.6
+2234,drwg,culpable,adjectives,1.3
+2235,hapusrwydd,paz,nouns,1.85
+2236,yn ddiweddarach,nunca,adverbs,0.3
+2237,braich,músculo,nouns,1.0
+2238,brwnt,increíble,adjectives,0.0
+2239,rhoi,prestar,verbs,1.8
+2240,o ddifrif,sinceramente,adverbs,1.75
+2241,dyweddïad,anillo,nouns,1.85
+2242,gormesu,renunciar,verbs,0.6
+2243,anhrefn,anarquía,nouns,3.95
+2244,seiclon,tifón,nouns,4.25
+2245,aderyn,pavo,nouns,2.6
+2246,ffrind,huésped,nouns,1.1
+2247,gorffen,aplazar,verbs,0.6
+2248,cyflawni,tener éxito,verbs,4.65
+2249,gafr,vaca,nouns,1.25
+2250,yn annibynnol,responsablemente,adverbs,0.35
+2251,claf,sesión,nouns,0.35
+2252,asgwrn,cuello,nouns,0.35
+2253,bwrw,pellizcar,verbs,0.75
+2254,fel arfer,irregularmente,adverbs,0.35
+2255,swigen,jabonaduras,nouns,1.0
+2256,awdur,compositor,nouns,2.8
+2257,alaw,música,nouns,3.55
+2258,cyntedd,clase,nouns,0.3
+2259,gwrando,aprender,verbs,0.8
+2260,doethineb,inteligencia,nouns,3.6
+2261,maneg,pelota,nouns,0.6
+2262,anaeddfed,crecido,adjectives,0.3
+2263,gwn,cuchillo,nouns,1.2
+2264,hwyl,juego,nouns,1.15
+2265,cul,delgado,adjectives,3.95
+2266,dewis,desear,verbs,1.2
+2267,cyd-beilot,policía,nouns,0.2
+2268,mae'n debyg,simplemente,adverbs,0.4
+2269,sgil,inteligencia,nouns,2.05
+2270,dal gafael,mantener,verbs,4.8
+2271,perygl,enfermedad,nouns,0.5
+2272,ffrâm,golpear,nouns,0.15
+2273,awyr,universo,nouns,1.05
+2274,plentyn,adulto,nouns,0.65
+2275,sylweddol,menor,adjectives,0.1
+2276,menyw,pantalones,nouns,0.2
+2277,yn ddiamynedd,aproximadamente,adverbs,0.25
+2278,wedi eu cyfuno,mezclado,adjectives,2.65
+2279,anarferol,bizarro,adjectives,3.65
+2280,mam,esposa,nouns,1.95
+2281,symudol,flexible,adjectives,2.0
+2282,gwahardd,detener,verbs,3.15
+2283,craig,mía,nouns,0.15
+2284,o reidrwydd,esencialmente,adverbs,3.9
+2285,sâl,loco,adjectives,0.85
+2286,darlun,ampolla,nouns,0.0
+2287,morgrugyn,abeja,nouns,0.85
+2288,pren,manta,nouns,0.05
+2289,lens,cámara,nouns,2.1
+2290,lleihau,empapar,verbs,0.0
+2291,gwaith llaw,tradición,nouns,0.8
+2292,bowlen,callejón,nouns,0.0
+2293,diflas,emocionante,adjectives,0.15
+2294,digonedd,mucho,nouns,4.65
+2295,anonest,veraz,adjectives,0.1
+2296,yn llachar,muy,adverbs,0.2
+2297,ufuddhau,comportarse,verbs,2.3
+2298,mawr,flexible,adjectives,0.1
+2299,bwrdd,puesta de sol,nouns,0.05
+2300,llaeth,jugo,nouns,0.8
+2301,tramorwr,traductor,nouns,0.4
+2302,brenhines,abeja,nouns,0.45
+2303,sugnwr gwaed,murciélago,nouns,1.45
+2304,canwr,actor,nouns,0.95
+2305,ceirios,fresa,nouns,1.2
+2306,reis,niño,nouns,0.0
+2307,rasio,filósofo,nouns,0.15
+2308,priodi,unirse,verbs,2.5
+2309,oer,ordinario,adjectives,0.05
+2310,côn,vaso,nouns,0.75
+2311,curo,mezclar,verbs,0.55
+2312,canrif,año,nouns,1.25
+2313,yn anarferol,normalmente,adverbs,0.25
+2314,rhestr,formación,nouns,0.7
+2315,cynddaredd,enfado,nouns,4.05
+2316,cymryd,aprovechar,verbs,1.05
+2317,dianc,huir,verbs,5.3
+2318,gogledd,sur,nouns,0.65
+2319,morthwyl,dientes,nouns,0.05
+2320,offeiriad,profeta,nouns,1.3
+2321,claddedigaeth,muerte,nouns,1.45
+2322,flwyddyn,siglo,nouns,1.25
+2323,hedfaniad,aviación,nouns,2.65
+2324,unwaith,dos veces,adverbs,0.55
+2325,popcorn,cine,nouns,1.4
+2326,llyfr,artículo,nouns,0.9
+2327,cyfarfod,saludar,verbs,0.75
+2328,cymryd,salir,verbs,0.25
+2329,blodyn,bulbo,nouns,1.05
+2330,amddiffyn,salvar,verbs,2.65
+2331,chwibanu,detener,verbs,0.3
+2332,drud,tímido,adjectives,0.2
+2333,cyfeiliornus,que no es de fiar,adjectives,1.1
+2334,yn ysgafn,brillantemente,adverbs,0.0
+2335,cadair,taburete,nouns,3.05
+2336,yn bennaf,terminalmente,adverbs,0.6
+2337,yn feirniadol,esencialmente,adverbs,0.45
+2338,coctel,alcohol,nouns,2.05
+2339,poster,papel,nouns,1.55
+2340,rhyfedd,astuto,adjectives,0.15
+2341,dec,piso,nouns,1.4
+2342,brifo,enfadar,verbs,0.6
+2343,dec,bote,nouns,1.1
+2344,jîns,mujer,nouns,0.2
+2345,arbed,ahogar,verbs,0.2
+2346,annheg,cruel,adjectives,1.85
+2347,cythraul,monstruo,nouns,2.85
+2348,angenrheidiol,esencial,adjectives,4.95
+2349,ceisio,lograr,verbs,0.9
+2350,enillydd,gol,nouns,0.4
+2351,yn ddiffuant,honestamente,adverbs,4.7
+2352,cloch,puerta,nouns,0.35
+2353,baglu,caerse,verbs,4.25
+2354,trafod,explicar,verbs,1.45
+2355,ceunant,valle,nouns,2.55
+2356,credu,aceptar,verbs,1.4
+2357,mêl,lácteos,nouns,0.35
+2358,marwolaeth,catástrofe,nouns,1.55
+2359,gwarcheidwad,adulto,nouns,1.35
+2360,yfed,mezcla,verbs,0.45
+2361,lladd,lucha,verbs,0.7
+2362,rhaglen,comida,nouns,0.1
+2363,ysgyfaint,hígado,nouns,0.7
+2364,rhoi,obtener,verbs,0.25
+2365,ardal,zona,nouns,5.3
+2366,cliw,palabra,nouns,0.3
+2367,gorchuddio,disfrazar,verbs,1.65
+2368,crochenwaith,cerámico,nouns,4.35
+2369,atgyweirio,restaurar,verbs,4.25
+2370,hawdd,vulnerable,adjectives,0.65
+2371,ceg,labio,nouns,2.45
+2372,brenhiniaeth,democracia,nouns,0.8
+2373,gwellt,esposa,nouns,0.15
+2374,gwirio,ajedrez,nouns,0.1
+2375,drws,fraternidad,nouns,0.2
+2376,ymddygiadaeth,terapia,nouns,1.35
+2377,gwybod,comprender,verbs,2.55
+2378,economi,ecosistema,nouns,0.25
+2379,taliad,cuota,nouns,4.5
+2380,plesio,alegar,verbs,0.35
+2381,cywilydd,dolor,nouns,1.05
+2382,ymerawdwr,constitución,nouns,0.65
+2383,perswadio,discutir,verbs,1.5
+2384,main,estrecho,adjectives,3.95
+2385,iaith,comunicación,nouns,1.9
+2386,rhannu,unir,verbs,0.15
+2387,log,madera,nouns,3.75
+2388,diemwnt,dinero,nouns,0.85
+2389,bar,cárcel,nouns,0.3
+2390,cas,electricidad,nouns,0.0
+2391,saeth,objetivo,nouns,0.9
+2392,sgôr,nivel,nouns,2.8
+2393,gorffen,competir,verbs,0.1
+2394,ennill,merecer,verbs,1.1
+2395,tram,tren,nouns,2.95
+2396,papur lapio,puerto,nouns,0.05
+2397,argraffu,ignorar,verbs,0.0
+2398,profi,discutir,verbs,0.3
+2399,yn naturiol,tranquilamente,adverbs,0.8
+2400,rhesel,cuna,nouns,1.75
+2401,log,bañera,nouns,0.0
+2402,derbyn,negar,verbs,0.15
+2403,anghofio,ignorar,verbs,1.7
+2404,yn ysgafn,amablemente,adverbs,1.45
+2405,sgrîn,fonología,nouns,0.05
+2406,dysgu,confundir,verbs,0.1
+2407,patholeg,hematología,nouns,1.65
+2408,rhyfedd,ordinario,adjectives,0.1
+2409,ffens,carril,nouns,0.45
+2410,gwestai,amigo,nouns,1.1
+2411,drwg,genial,adjectives,0.05
+2412,colli,cocinar,verbs,0.05
+2413,yn weithredol,precisamente,adverbs,0.9
+2414,band,desfile,nouns,1.45
+2415,modur,coche,nouns,5.25
+2416,bargeinio,vender,verbs,0.85
+2417,anghenus,inseguro,adjectives,0.75
+2418,nyddu,empatar,verbs,0.6
+2419,gwaed,médula,nouns,0.95
+2420,byth,después,adverbs,0.3
+2421,crefydd,materialista,nouns,0.7
+2422,afu,órgano,nouns,1.95
+2423,cymysgu,beber,verbs,0.45
+2424,rhoi,mantener,verbs,0.4
+2425,planed,estrella,nouns,2.4
+2426,cardbord,papel,nouns,2.9
+2427,salwch,cáncer,nouns,3.0
+2428,gaeaf,temporada,nouns,2.65
+2429,athro,estudiante,nouns,0.75
+2430,atgoffa,olvidar,verbs,0.1
+2431,cipio,agarrar,verbs,3.3
+2432,ciwb,dado,nouns,3.15
+2433,fel arfer,rutinariamente,adverbs,4.1
+2434,tad,madre,nouns,2.0
+2435,cyffrous,aburrido,adjectives,0.15
+2436,targed,flecha,nouns,0.9
+2437,ifanc,inquieto,adjectives,0.25
+2438,yn gyfrinachol,con confianza,adverbs,0.7
+2439,cwpan,cono,nouns,0.75
+2440,cyfreithiwr,galería,nouns,0.1
+2441,gair,periódico,nouns,0.85
+2442,trydanol,mecánico,adjectives,0.8
+2443,emyn,biblia,nouns,0.55
+2444,offeiriad,dios,nouns,1.2
+2445,iro,untar,verbs,0.25
+2446,hen,mezclado,adjectives,0.1
+2447,dod i feddiant,obtener,verbs,4.45
+2448,cyfamod,acuerdo,nouns,5.3
+2449,tarddu,empezar,verbs,3.85
+2450,cyfathrebu,rezar,verbs,0.7
+2451,modrwy,compromiso,nouns,1.85
+2452,gweinidogaeth,sultán,nouns,0.35
+2453,de,norte,nouns,0.65
+2454,yn sicr,a veces,adverbs,0.45
+2455,cwch,motor,nouns,0.6
+2456,anghefnogi,animar,verbs,0.15
+2457,ciledrych,deslumbrar,verbs,0.25
+2458,cyhoeddi,declarar,verbs,4.45
+2459,byddin,legión,nouns,3.35
+2460,morwyn,ayudante,nouns,2.2
+2461,corff,espina,nouns,0.6
+2462,casglu,asistir,verbs,0.55
+2463,pennu,evacuar,verbs,0.35
+2464,hylif,boquilla,nouns,0.2
+2465,cadw,perder,verbs,0.25
+2466,pêl,raqueta,nouns,1.1
+2467,onest,deshonesto,adjectives,0.1
+2468,newyddiadurwr,poeta,nouns,0.65
+2469,ychydig,aproximadamente,adverbs,0.2
+2470,enaid,hermano,nouns,0.15
+2471,hel,capturar,verbs,1.2
+2472,ymchwilio,examinar,verbs,4.0
+2473,yn uchel,suavemente,adverbs,0.05
+2474,athro,amigo,nouns,0.5
+2475,bara,queso,nouns,0.5
+2476,nenfwd,tejado,nouns,4.6
+2477,deintydd,coronel,nouns,0.15
+2478,brigeryn,polinización,nouns,1.05
+2479,salad,dieta,nouns,0.9
+2480,capel,campanario,nouns,0.5
+2481,caniatáu,refutar,verbs,0.25
+2482,toddi,disolver,verbs,2.85
+2483,canol,estómago,nouns,1.1
+2484,bricsen,pared,nouns,1.25
+2485,mynd,viajar,verbs,2.55
+2486,dinistrio,matar,verbs,2.4
+2487,gwregys,lazo,nouns,0.6
+2488,beddrod,tumba,nouns,0.65
+2489,doniol,aburrido,adjectives,0.1
+2490,brechdan,carne,nouns,0.55
+2491,mawr,nacional,adjectives,0.45
+2492,tric,bañera,nouns,0.0
+2493,serameg,cerámica,nouns,4.35
+2494,gwartheg,yogur,nouns,0.35
+2495,credu,saber,verbs,1.4
+2496,ymwybyddiaeth,atención,nouns,1.9
+2497,canu,reír,verbs,0.4
+2498,dwyn,comprar,verbs,0.15
+2499,darganfod,darse cuenta de,verbs,4.15
+2500,gadael,retirarse,verbs,2.9
+2501,dillad,tela,nouns,2.05
+2502,yn aeddfed,rectamente,adverbs,0.85
+2503,gwerthfawr,sagrado,adjectives,1.8
+2504,disgybl,estudiante,nouns,5.2
+2505,arestio,sospechar,verbs,0.45
+2506,thema,libro,nouns,0.55
+2507,niweidio,molestar,verbs,1.3
+2508,bachgen,hermano,nouns,1.65
+2509,argraff,creencia,nouns,1.85
+2510,drachtio,tragar,verbs,2.5
+2511,brawd,padre,nouns,0.7
+2512,geiriadur,palabra,nouns,1.45
+2513,magma,volcán,nouns,2.05
+2514,ased,valores,nouns,3.0
+2515,breuddwyd,cielo,nouns,0.35
+2516,gwern,lago,nouns,2.05
+2517,ffin,límite,nouns,4.6
+2518,stumog,habitación,nouns,0.1
+2519,cefnfor,mar,nouns,4.1
+2520,coridor,pasillo,nouns,4.7
+2521,pêl,guante,nouns,0.6
+2522,gweithiwr,oficina,nouns,0.45
+2523,dyn,niña,nouns,1.0
+2524,tynnu,perder,verbs,0.3
+2525,rheiddiadur,sensor,nouns,0.7
+2526,rhifyddeg,lógica,nouns,1.45
+2527,cristion,protestante,nouns,1.1
+2528,clun,labio,nouns,0.35
+2529,paragraff,página,nouns,1.2
+2530,sychu,deteriorarse,verbs,0.5
+2531,cyd-beilot,cabina,nouns,0.35
+2532,cymysgu,golpear,verbs,0.55
+2533,yn hanfodol,necesariamente,adverbs,3.9
+2534,gwisg unffurf,tejer,nouns,0.15
+2535,ceisio,pensar,verbs,0.5
+2536,llygoden,rata,nouns,3.85
+2537,trafodaeth,discusión,nouns,2.95
+2538,anghofio,saber,verbs,0.15
+2539,organ,riñón,nouns,2.9
+2540,pennaeth,alcalde,nouns,1.3
+2541,twll,acuerdo,nouns,0.0
+2542,swydd,herramienta,nouns,0.4
+2543,car,calle,nouns,0.5
+2544,beibl,libro,nouns,2.0
+2545,tristwch,vergüenza,nouns,1.05
+2546,hapus,alegre,adjectives,5.25
+2547,cymharu,analizar,verbs,2.4
+2548,jin,alcohol,nouns,2.15
+2549,miniog,templado,adjectives,0.3
+2550,gofyn,mendigar,verbs,2.6
+2551,diangen,necesario,adjectives,0.1
+2552,drws,presencia,nouns,0.3
+2553,ceisio,tener éxito,verbs,0.7
+2554,garddwrn,brazo,nouns,1.15
+2555,ystlum,vampiro,nouns,1.45
+2556,ystafell ymolchi,habitación,nouns,1.55
+2557,ofnus,tímido,adjectives,2.15
+2558,dyfarniad,juicio,nouns,2.65
+2559,angau,tragedia,nouns,1.8
+2560,hyfforddiant,beca,nouns,1.05
+2561,cynffon,capítulo,nouns,0.05
+2562,bagiau,circunnavegación,nouns,0.55
+2563,balchder,negrita,adjectives,0.6
+2564,creu,volverse,verbs,0.25
+2565,llwyddo,ganar,verbs,3.6
+2566,datblygiad,recaudación de fondos,nouns,0.6
+2567,tasg,autopista,nouns,0.05
+2568,troed,arena,nouns,0.25
+2569,achub,salvar,verbs,5.1
+2570,arwres,héroe,nouns,3.4
+2571,llaw,pie,nouns,0.75
+2572,papur,cartulina,nouns,2.9
+2573,plesio,estar de acuerdo,verbs,0.9
+2574,hurt,raro,adjectives,0.1
+2575,ymbarél,calentador,nouns,0.1
+2576,cyfraniad,ofrecimiento,nouns,2.75
+2577,swltan,ministerio,nouns,0.35
+2578,cysyniad,creencia,nouns,2.7
+2579,dod â,venir,verbs,1.25
+2580,dweud celwydd,negar,verbs,0.7
+2581,cyfoeth,fama,nouns,1.2
+2582,cwest,objetivo,nouns,1.65
+2583,pot,aparato,nouns,0.15
+2584,yn ddiffuant,seriamente,adverbs,1.75
+2585,dysgu,absorber,verbs,1.15
+2586,golchi,enjuagar,verbs,3.35
+2587,llynges,isla,nouns,0.3
+2588,fflat,hotel,nouns,0.65
+2589,wedi ei orchuddio,vestido,adjectives,2.1
+2590,person,personaje,nouns,2.95
+2591,gwyddonydd,enfermera,nouns,0.4
+2592,eilradd,significativo,adjectives,0.1
+2593,yn ofalus,cautelosamente,adverbs,3.8
+2594,derbyn,recomendar,verbs,0.6
+2595,dyddiad,calendario,nouns,1.85
+2596,llyfr,información,nouns,1.0
+2597,esgob,arzobispo,nouns,3.0
+2598,perfformiwr,canción,nouns,0.7
+2599,plismon,político,nouns,0.3
+2600,rheoli,detener,verbs,0.65
+2601,adfer,traer,verbs,0.05
+2602,gwn,gente,nouns,0.1
+2603,parch,honor,nouns,2.25
+2604,nenfwd,catedral,nouns,0.25
+2605,cleddyf,ambiente,nouns,0.05
+2606,nerf,cuerpo,nouns,0.4
+2607,car,cuerno,nouns,0.2
+2608,llunio,hacer,verbs,3.6
+2609,gwenynen,hormiga,nouns,0.85
+2610,canrif,espíritu,nouns,0.05
+2611,yn hysbys,nacional,adjectives,0.2
+2612,minc,petróleo,nouns,0.05
+2613,anfoesol,malo,adjectives,2.9
+2614,ceffyl,buey,nouns,1.1
+2615,eira,hielo,nouns,3.05
+2616,brenin,príncipe,nouns,1.65
+2617,diwydiant,negocio,nouns,2.5
+2618,tasg,mujer,nouns,0.1
+2619,aros,salir,verbs,0.1
+2620,hedyn,mostaza,nouns,1.05
+2621,prif fwrdd,tarjeta madre,nouns,2.35
+2622,castell,pared,nouns,0.55
+2623,ymaflyd,tomar,verbs,1.05
+2624,gwych,estupendo,adjectives,5.55
+2625,gwan,picante,adjectives,0.0
+2626,esgusodi,perdonar,verbs,2.5
+2627,digon,abundancia,nouns,4.65
+2628,eglwys gadeiriol,techo,nouns,0.25
+2629,emosiwn,pasión,nouns,3.55
+2630,anniben,ordenado,adjectives,0.15
+2631,gwraidd,hierba,nouns,0.8
+2632,yn ddiogel,felizmente,adverbs,0.3
+2633,gweinyddiaeth,gestión,nouns,2.85
+2634,rheolaidd,ignorante,adjectives,0.0
+2635,disgyn,retirarse,verbs,0.75
+2636,maes awyr,avión,nouns,1.65
+2637,tatws,mantequilla,nouns,0.45
+2638,ffidil,instrumento,nouns,2.65
+2639,rhannu,añadir,verbs,0.2
+2640,gyferbyn,otro,adjectives,1.05
+2641,argymell,aceptar,verbs,0.6
+2642,meddwl,tratar,verbs,0.5
+2643,actor,televisión,nouns,0.8
+2644,newyddiadur,artículo,nouns,2.25
+2645,mathemategydd,show,nouns,0.05
+2646,ceiniog,ganga,nouns,0.6
+2647,pêl,cañón,nouns,0.5
+2648,cymryd,llevar,verbs,0.7
+2649,awst,mes,nouns,2.6
+2650,gwythïen,buque,nouns,0.0
+2651,twymyn,enfermedad,nouns,2.8
+2652,marw,desintegrarse,verbs,0.4
+2653,diflannu,desaparecer,verbs,5.3
+2654,ehangu,crecer,verbs,4.6
+2655,wythnos,fin de semana,nouns,1.9
+2656,awdur,lector,nouns,0.6
+2657,bàth,habitación,nouns,0.55
+2658,lluwchwynt,lluvia,nouns,0.75
+2659,boch,lengua,nouns,0.55
+2660,band,orquesta,nouns,3.7
+2661,ysbryd,lámpara,nouns,0.5
+2662,gohirio,terminar,verbs,0.6
+2663,lifft,caja,nouns,0.15
+2664,tynnu'n ôl,absorber,verbs,0.5
+2665,teledu,comunicación,nouns,1.25
+2666,afal,limón,nouns,0.85
+2667,gwlyb,pegajoso,adjectives,0.55
+2668,yn fecanyddol,idealmente,adverbs,0.1
+2669,blwch,fuente,nouns,0.1
+2670,datgelwyd,cubierto,adjectives,0.1
+2671,sibrwd,hablar,verbs,1.85
+2672,adfer,reparar,verbs,4.25
+2673,damwain,emergencia,nouns,2.35
+2674,haearn,vitamina,nouns,0.65
+2675,cyn,después,adverbs,0.1
+2676,derbyn,entregar,verbs,0.25
+2677,papur newydd,información,nouns,1.55
+2678,mêl,azúcar,nouns,1.6
+2679,cyferbyn,único,adjectives,0.6
+2680,emyn,cañita,nouns,0.05
+2681,rhagfarn,chauvinista,nouns,2.1
+2682,dygnwch,flor,nouns,0.15
+2683,gofyn,ayudar,verbs,0.4
+2684,anelu,golpear,verbs,0.75
+2685,maint,truco,nouns,0.0
+2686,bysellfwrdd,ligero,nouns,0.25
+2687,cyllell,pistola,nouns,1.2
+2688,cinio,pollo,nouns,1.2
+2689,yn weithredol,pasivamente,adverbs,0.1
+2690,coeden,arce,nouns,3.3
+2691,gweiddi,discutir,verbs,1.35
+2692,crwt,hija,nouns,0.8
+2693,allbriodasol,inmencionable,adjectives,0.15
+2694,mewnwelediad,hecho,nouns,0.65
+2695,yn hapus,mortal,adverbs,0.05
+2696,siriol,feliz,adjectives,5.25
+2697,ynad,juez,nouns,3.75
+2698,car,bicicleta,nouns,0.85
+2699,môr,río,nouns,1.8
+2700,byth,generosamente,adverbs,0.0
+2701,melin,semilla,nouns,0.85
+2702,darganfod,adquirir,verbs,1.35
+2703,erydu,descolorarse,verbs,1.7
+2704,bol,abdomen,nouns,4.4
+2705,moleciwl,átomo,nouns,2.15
+2706,barnu,testificar,verbs,0.85
+2707,penderfynu,retratar,verbs,0.3
+2708,car,tanque,nouns,0.7
+2709,sitrws,naranja,nouns,3.1
+2710,cylchfordaith,equipaje,nouns,0.55
+2711,bacwn,frijol,nouns,0.25
+2712,yn negyddol,antinaturalmente,adverbs,1.25
+2713,ymddengys,volverse,verbs,0.85
+2714,esgeuluso,desconocer,verbs,0.9
+2715,cyhyrau,hueso,nouns,0.45
+2716,rheolwr,líder,nouns,3.45
+2717,purdan,más allá,nouns,2.1
+2718,sudd,leche,nouns,0.8
+2719,gwraig,bañera,nouns,0.1
+2720,anrheg,escritor,nouns,0.05
+2721,brwnt,pegajoso,adjectives,1.1
+2722,annog,desalentar,verbs,0.15
+2723,ale,cuenco,nouns,0.0
+2724,coginio,freír,verbs,2.4
+2725,dugiaeth,principado,nouns,2.2
+2726,cywilydd,modesto,adjectives,0.4
+2727,llwyddo,lograr,verbs,4.65
+2728,actor,poliedro,nouns,0.0
+2729,aseiniad,tarea,nouns,4.85
+2730,eglwys gadeiriol,iglesia,nouns,3.9
+2731,credyd,prestatario,nouns,1.8
+2732,soffa,cama,nouns,1.4
+2733,stryd,callejón,nouns,3.2
+2734,stondin,teléfono,nouns,0.6
+2735,gadael,aparecer,verbs,0.35
+2736,cytoplasm,dígito,nouns,0.0
+2737,cymysgu,remover,verbs,3.05
+2738,rhyfelwr,hombre,nouns,0.6
+2739,cwmwl,tormenta,nouns,1.0
+2740,meddwl,neurosis,nouns,1.35
+2741,diplomyddiaeth,negociación,nouns,2.45
+2742,cwmwl,clima,nouns,0.85
+2743,yn feddal,firmemente,adverbs,0.35
+2744,derbyn,aceptar,verbs,3.35
+2745,heb ei ddefnyddio,nuevo,adjectives,5.0
+2746,cam,curvo,adjectives,2.75
+2747,hunan,confianza,nouns,0.65
+2748,menyw,tarea,nouns,0.1
+2749,haint,enfermedad,nouns,3.9
+2750,dychmygu,pretender,verbs,1.6
+2751,llun,alboroto,nouns,0.05
+2752,cotwm,poliéster,nouns,1.45
+2753,dal,lanzar,verbs,0.75
+2754,parti,máscara,nouns,0.3
+2755,sarsiant,pistola,nouns,0.5
+2756,gwisgedig,cubierto,adjectives,2.1
+2757,gair,frase,nouns,1.7
+2758,gwasgu,abrazar,verbs,1.5
+2759,bachgen,hijo,nouns,3.45
+2760,traethawd,libro,nouns,1.1
+2761,dyfalu,irritar,verbs,0.0
+2762,pen,alfabeto,nouns,0.4
+2763,bach,enorme,adjectives,0.15
+2764,priffordd,coche,nouns,1.1
+2765,dillad,botón,nouns,0.8
+2766,pen,uña,nouns,0.3
+2767,anthropoleg,arqueología,nouns,1.35
+2768,dosbarth,universidad,nouns,1.35
+2769,taith,viaje,nouns,3.35
+2770,cyflog,dinero,nouns,3.3
+2771,cael,perder,verbs,0.15
+2772,tarw,becerro,nouns,2.05
+2773,brwydr,conquista,nouns,2.25
+2774,diflas,mediocre,adjectives,0.45
+2775,taro,objetivo,verbs,0.75
+2776,mamfwrdd,placa base,nouns,2.35
+2777,gwddf,espina,nouns,0.7
+2778,arian,salario,nouns,3.3
+2779,banereg,bandera,nouns,0.95
+2780,germ,patógeno,nouns,3.65
+2781,cymeradwyo,permitir,verbs,2.85
+2782,hurt,enorme,adjectives,0.0
+2783,casáu,disfrutar,verbs,0.05
+2784,ardderchog,genial,adjectives,4.75
+2785,prysur,perezoso,adjectives,0.15
+2786,colli,sustraer,verbs,0.3
+2787,cerddorfa,banda,nouns,3.7
+2788,brandi,vino,nouns,1.35
+2789,dweud,participar,verbs,0.6
+2790,ymgeisydd,ganador,nouns,1.25
+2791,cymyl,niebla,nouns,2.4
+2792,oedolyn,niño,nouns,0.65
+2793,enillydd,hombre,nouns,0.45
+2794,stopio,prohibir,verbs,3.15
+2795,rhad,sucio,adjectives,0.0
+2796,prin,raro,adjectives,4.0
+2797,pathogen,germen,nouns,3.65
+2798,sioe,matemático,nouns,0.05
+2799,yn fras,seguramente,adverbs,0.6
+2800,yn gyfeillgar,improbable,adverbs,0.0
+2801,gwn,cañón,nouns,1.8
+2802,pêl,esfera,nouns,3.45
+2803,crwydro,buscar,verbs,1.35
+2804,ffêr,codo,nouns,0.6
+2805,swyddfa,obrero,nouns,0.45
+2806,dyffryn,río,nouns,1.65
+2807,yn ddigynnwrf,sutilmente,adverbs,1.2
+2808,realiti,fantasía,nouns,0.45
+2809,goruchafu,ganar,verbs,2.7
+2810,dadlau,estar de acuerdo,verbs,0.3
+2811,arbed,gastar,verbs,0.1
+2812,enwogrwydd,riqueza,nouns,1.2
+2813,therapi,behaviorismo,nouns,1.35
+2814,stopio,advertir,verbs,1.0
+2815,rhybuddio,detener,verbs,1.0
+2816,trosedd,ataque,nouns,2.0
+2817,trafferthu,agravar,verbs,0.9
+2818,yn drist,locamente,adverbs,0.45
+2819,tywysogaeth,ducado,nouns,2.2
+2820,sleid,puntero,nouns,0.25
+2821,cytuno,aceptar,verbs,3.3
+2822,anghywir,preciso,adjectives,0.1
+2823,damcaniaeth,teoría,nouns,4.3
+2824,uchder,conversión,nouns,0.35
+2825,haul,cielo,nouns,0.85
+2826,arian cyfred,intercambio,nouns,1.1
+2827,parasetamol,bronquitis,nouns,0.55
+2828,wythnosol,mensual,adjectives,0.7
+2829,gwaed,carne,nouns,0.8
+2830,cân,historia,nouns,0.65
+2831,mintys,museo,nouns,0.0
+2832,cefndir,papel pintado,nouns,1.3
+2833,dosbarthu,llevar,verbs,2.85
+2834,mynd,vender,verbs,0.05
+2835,cywilydd,culpable,adjectives,1.9
+2836,eliffant,brújula,nouns,0.05
+2837,myfyriwr,profesor,nouns,0.75
+2838,methu,desalentar,verbs,0.6
+2839,ffwr,visón,nouns,2.15
+2840,tyfu,encoger,verbs,0.15
+2841,deallusrwydd,visión,nouns,1.85
+2842,ffenestr,techo,nouns,0.3
+2843,dod yn,organizar,verbs,0.1
+2844,gwn,truco,nouns,0.1
+2845,nerf,intestino,nouns,0.5
+2846,bryn,acantilado,nouns,1.65
+2847,offeryn,trabajo,nouns,0.4
+2848,gwahanu,salir,verbs,1.05
+2849,gadael,permanecer,verbs,0.1
+2850,perllan,avestruz,nouns,0.2
+2851,botwm,ropa,nouns,0.8
+2852,misol,semanal,adjectives,0.7
+2853,barnwr,magistrado,nouns,3.75
+2854,yn ddigynnwrf,firmemente,adverbs,1.0
+2855,athro,médico,nouns,0.7
+2856,ymddangos,volverse,verbs,1.1
+2857,sinema,ópera,nouns,1.05
+2858,trefnu,gestionar,verbs,5.2
+2859,cwrw,alcohol,nouns,2.65
+2860,llyncu,sorber,verbs,2.15
+2861,yn anaml,a menudo,adverbs,0.45
+2862,car,ascensor,nouns,0.25
+2863,claddu,morir,verbs,1.05
+2864,pen-glin,hueso,nouns,1.3
+2865,llyfr,tema,nouns,0.55
+2866,cofio,pensar,verbs,1.25
+2867,cangen,brazo,nouns,1.25
+2868,rhaniad,multiplicación,nouns,0.65
+2869,hurt,listo,adjectives,0.1
+2870,gwythïen,elección,nouns,0.0
+2871,meddwl,recuerda,verbs,1.25
+2872,drws,ventana,nouns,0.85
+2873,senoffobia,racismo,nouns,4.0
+2874,clyfar,tonto,adjectives,0.1
+2875,syfrdanu,celebrar,verbs,0.5
+2876,creulon,bonito,adjectives,0.05
+2877,newyddion,chisme,nouns,2.45
+2878,babi,adulto,nouns,0.4
+2879,amddiffyn,matar,verbs,0.5
+2880,ffuglen,biografía,nouns,0.35
+2881,caffael,encontrar,verbs,1.35
+2882,myfyriwr,alumno,nouns,5.2
+2883,cyflawni,lograr,verbs,3.1
+2884,archeoleg,antropología,nouns,1.35
+2885,yn dawel,pasivamente,adverbs,0.95
+2886,ofnadwy,malo,adjectives,2.95
+2887,ceffyl,potro,nouns,3.35
+2888,rhad,económico,adjectives,4.65
+2889,hawdd,grande,adjectives,0.0
+2890,bacwn,carne,nouns,2.1
+2891,ennill,dominar,verbs,2.7
+2892,degawd,siglo,nouns,0.55
+2893,enfawr,tonto,adjectives,0.0
+2894,neidio,cerca,nouns,0.2
+2895,cysylltu,separar,verbs,0.1
+2896,gwerthu,recordar,verbs,0.0
+2897,llwyddo,realizar,verbs,3.1
+2898,log,fórmula,nouns,0.5
+2899,ysgol,derecho,nouns,0.55
+2900,yn wahanol,normal,adjectives,0.45
+2901,hela,buscar,verbs,2.05
+2902,pylu,erosionar,verbs,1.7
+2903,dod yn,hacer,verbs,0.25
+2904,balch ,enfadado,adjectives,0.1
+2905,bws,vehículo,nouns,2.75
+2906,dwyn,dar,verbs,0.1
+2907,diwylliant,sociedad,nouns,1.5
+2908,gwadu,aceptar,verbs,0.15
+2909,clo,llave,nouns,1.75
+2910,niwtral,calma,adjectives,1.05
+2911,emosiwn,estado animico,nouns,2.85
+2912,yn beryglus,cuidadosamente,adverbs,0.2
+2913,gwythïen,brazo,nouns,0.45
+2914,gwefus,cadera,nouns,0.35
+2915,dadelfennu,factorización,nouns,1.35
+2916,asgwrn,codo,nouns,1.15
+2917,cig,sándwich,nouns,0.55
+2918,preifat,público,adjectives,0.15
+2919,arnofio,cantar,verbs,0.0
+2920,niwl,lluvia,nouns,1.3
+2921,banciwr,abogado,nouns,1.1
+2922,balch,triste,adjectives,0.15
+2923,anfeidredd,cero,nouns,0.35
+2924,meddyg,médico,nouns,4.95
+2925,ceiniog,pago,nouns,1.4
+2926,mynd i mewn,salir,verbs,0.15
+2927,yn dawel,ruidosamente,adverbs,0.05
+2928,cynorthwyo,pedir,verbs,0.4
+2929,ofnus,inseguro,adjectives,2.05
+2930,gweriniaeth,duque,nouns,0.15
+2931,eisiau,desear,verbs,4.6
+2932,syniad,opinión,nouns,3.3
+2933,gwacáu,determinar,verbs,0.35
+2934,yn hawdd,aproximadamente,adverbs,0.15
+2935,bag,monedero,nouns,1.8
+2936,dadansoddi,evaluar,verbs,4.25
+2937,delwedd,reflexión,nouns,1.1
+2938,aer,helio,nouns,2.05
+2939,cyfreithiol,seguro,adjectives,1.15
+2940,trwm,grande,adjectives,0.9
+2941,beirniadu,odiar,verbs,0.95
+2942,ynys,armada,nouns,0.3
+2943,pensil,historia,nouns,0.55
+2944,cul,amplio,adjectives,0.15
+2945,eglwys,coro,nouns,0.9
+2946,rheolaeth,trabajo,nouns,0.9
+2947,lleihau,encoger,verbs,3.7
+2948,o ddifrif,en tono rimbombante,adverbs,1.5
+2949,hyder,yo,nouns,0.65
+2950,blaengroen,circuncisión,nouns,1.45
+2951,gludedd,chapoteo,nouns,0.45
+2952,dawnsio,vestir,nouns,0.3
+2953,lindys,gusano de seda,nouns,2.6
+2954,cadw,poseer,verbs,2.7
+2955,dynion,fraternidad,nouns,1.1
+2956,ffa,arroz,nouns,0.95
+2957,jin,whisky,nouns,1.4
+2958,deintydd,ortodoncista,nouns,3.85
+2959,chwilio,buscar,verbs,1.35
+2960,penderfynu,escoger,verbs,4.15
+2961,deallusrwydd,destreza,nouns,2.05
+2962,corff,sangre,nouns,0.75
+2963,dolen,cinturón,nouns,0.6
+2964,o bosibl,con optimismo,adverbs,1.2
+2965,môr,océano,nouns,4.1
+2966,terfysg,dibujo,nouns,0.05
+2967,hynafol,moderno,adjectives,0.1
+2968,nos,capítulo,nouns,0.35
+2969,awdur,novela,nouns,1.3
+2970,oeraidd,frágil,adjectives,0.15
+2971,alcohol,cerveza,nouns,2.65
+2972,ysgubor,casa,nouns,0.6
+2973,salwch,fiebre,nouns,2.8
+2974,cydnabod,hablar,verbs,0.5
+2975,bedd,renacimiento,nouns,0.65
+2976,concwest,himno,nouns,0.15
+2977,hysbysu,reconocer,verbs,0.85
+2978,yfory,esta noche,adverbs,0.4
+2979,dwyn,tomar,verbs,1.7
+2980,cwpl,par,nouns,5.25
+2981,syniad,imagen,nouns,1.25
+2982,pledio,complacer,verbs,0.35
+2983,amsugno,poseer,verbs,0.65
+2984,gwerthu,estar de acuerdo,verbs,0.85
+2985,reidio,barajar,verbs,0.3
+2986,to,techo,nouns,4.6
+2987,dyn,mujer,nouns,0.85
+2988,caffael,unirse,verbs,0.5
+2989,heddwch,felicidad,nouns,1.85
+2990,disgybl,presidente,nouns,0.15
+2991,enwaediad,prepucio,nouns,1.45
+2992,yn amlwg,seguramente,adverbs,2.45
+2993,ffabrig,ropa,nouns,2.05
+2994,hydoddi,derretir,verbs,2.85
+2995,mynd  ,venir,verbs,1.05
+2996,gwthio,culpar,verbs,0.1
+2997,unffurf,desformado,adjectives,0.3
+2998,ewythr,tía,nouns,2.55
+2999,pêl,voleibol,nouns,1.8
+3000,sbeislyd,bueno,adjectives,0.0
+3001,concwest,batalla,nouns,2.25
+3002,teledu,actor,nouns,0.8
+3003,yn ddarostyngedig,mal,adverbs,0.15
+3004,hawdd,flexible,adjectives,1.5
+3005,brwydro,jugar,verbs,0.3
+3006,coginio,mezclar,verbs,0.95
+3007,argyfwng,accidente,nouns,2.35
+3008,yn rhyfedd,extraordinariamente,adverbs,3.2
+3009,anwybyddu,imprimir,verbs,0.0
+3010,corff,hombro,nouns,0.85
+3011,sychder,agua,nouns,0.55
+3012,dweud ar goedd,anunciar,verbs,4.45
+3013,ale,calle,nouns,3.2
+3014,gwyn,estrecho,adjectives,0.0
+3015,fformiwla,ecuación,nouns,4.05
+3016,cyfaddef,negar,verbs,0.1
+3017,perfedd,nervio,nouns,0.5
+3018,graff,gráfico,nouns,4.8
+3019,cysuro,humillar,verbs,0.0
+3020,yn swyddogol,fuertemente,adverbs,0.1
+3021,darllen,comprender,verbs,1.1
+3022,pothell,ilustración,nouns,0.0
+3023,glân,sucio,adjectives,0.45
+3024,caffael,recibir,verbs,3.25
+3025,cydsyniad,moneda,nouns,0.15
+3026,yn debygol,afirmativamente,adverbs,0.9
+3027,gwely,hospital,nouns,0.7
+3028,yn dynn,increíblemente,adverbs,0.0
+3029,derbyn,estar de acuerdo,verbs,3.3
+3030,cynghori,recomendar,verbs,4.3
+3031,nerth,capacidad,nouns,2.35
+3032,syniad,esquema,nouns,2.85
+3033,cymryd,recibir,verbs,1.9
+3034,nod,club,nouns,0.45
+3035,seryddol,masivo,adjectives,1.0
+3036,parêd,banda,nouns,1.45
+3037,croes,monje,nouns,0.35
+3038,cnoi,leer,verbs,0.0
+3039,fioled,flor,nouns,1.7
+3040,modd,moda,nouns,0.2
+3041,cynffon,cuenco,nouns,0.1
+3042,darllenydd,autor,nouns,0.6
+3043,damwain,catástrofe,nouns,3.35
+3044,gweithred,juego,nouns,0.8
+3045,mynnu,discutir,verbs,1.25
+3046,mynychu,reunir,verbs,0.55
+3047,dysgu,castigar,verbs,0.3
+3048,trefnu,volverse,verbs,0.1
+3049,dirmygus,despreciativo,adjectives,3.75
+3050,casglu,sacudir,verbs,0.2
+3051,pêl,cesta,nouns,0.2
+3052,tywysoges,novia,nouns,1.0
+3053,codi,recorrer,verbs,0.7
+3054,gallu,competencia,nouns,3.6
+3055,neuadd,pasillo,nouns,0.4
+3056,gwleidydd,presidente,nouns,1.75
+3057,gwddf,nariz,nouns,0.45
+3058,datgymalu,morir,verbs,0.4
+3059,sigarét,tabaco,nouns,3.25
+3060,bwlch,apertura,nouns,2.15
+3061,capten,marinero,nouns,1.45
+3062,perswadio,perseguir,verbs,0.4
+3063,gwyliwr,hombre,nouns,0.75
+3064,pinsio,dar un puñetazo,verbs,0.75
+3065,meddw,sobrio,adjectives,0.15
+3066,yn hael,amablemente,adverbs,3.1
+3067,carreg,madera,nouns,0.5
+3068,cywilydd,trastornado,adjectives,0.5
+3069,pryd bwyd,cena,nouns,3.35
+3070,proffwyd,sacerdote,nouns,1.3
+3071,gwydr,cristal,nouns,1.9
+3072,twp,tonto,adjectives,5.1
+3073,gorsedd,espada,nouns,0.55
+3074,gwybod,dar,verbs,0.25
+3075,cafflo,engañar,verbs,4.0
+3076,gwerthu,ir,verbs,0.05
+3077,trydanol,dulce,adjectives,0.0
+3078,sgriptiwr,televisión,nouns,0.7
+3079,trefnu,recoger,verbs,1.2
+3080,unig,pobre,adjectives,0.25
+3081,amsugno,retirar,verbs,0.5
+3082,arian,efectivo,nouns,4.2
+3083,anodd,fácil,adjectives,0.1
+3084,ewin,pulgar,nouns,1.35
+3085,afal,dieta,nouns,0.8
+3086,cyhoeddus,privado,adjectives,0.15
+3087,cyfyngu,reducir,verbs,2.8
+3088,radar,palanca de mando,nouns,0.25
+3089,byth,raramente,adverbs,2.55
+3090,maer,presidente,nouns,1.95
+3091,dioddefwr,teléfono,nouns,0.0
+3092,ansicr,necesitado,adjectives,0.75
+3093,dadlau,grito,verbs,1.35
+3094,ystafell ymolchi,cocina,nouns,0.75
+3095,hanesyddiaethwr,historiador,nouns,2.8
+3096,llinyn,puesta de sol,nouns,0.0
+3097,yn ffyddlon,honestamente,adverbs,2.3
+3098,fformiwla,tronco,nouns,0.5
+3099,oren,cítrico,nouns,3.1
+3100,iris,acetilcolina,nouns,0.2
+3101,canser,enfermedad,nouns,3.0
+3102,gŵr bonheddig,dama,nouns,0.75
+3103,argymell,asesorar,verbs,4.3
+3104,cinio,sopa,nouns,1.7
+3105,salwch,infección,nouns,3.9
+3106,ceffyl,perro,nouns,0.7
+3107,dod yn,parecer,verbs,0.85
+3108,morgrugyn,volar,nouns,0.25
+3109,ewythr,hombre,nouns,1.65
+3110,wal,ladrillo,nouns,1.25
+3111,modryb,tío,nouns,2.55
+3112,adeiladwaith,destrucción,nouns,0.2
+3113,ymdrechu,ejecutar,verbs,0.5
+3114,gwn,sargento,nouns,0.5
+3115,yn wallgof,ruidosamente,adverbs,0.55
+3116,braich,muñeca,nouns,1.15
+3117,cwch,coche,nouns,0.7
+3118,fel mater o drefn,normalmente,adverbs,4.1
+3119,beiddgar,orgulloso,adjectives,0.6
+3120,cebl,mago,nouns,0.0
+3121,gwenith,cereal,nouns,1.95
+3122,allanfa,puerta,nouns,1.8
+3123,gynfad,costa,nouns,0.4
+3124,cofleidio,exprimir,verbs,1.5
+3125,diferu,verter,verbs,1.95
+3126,nerfus,asustado,adjectives,2.85
+3127,traeth,arrecife,nouns,1.15
+3128,car,autopista,nouns,1.1
+3129,cyfathrebu,idioma,nouns,1.9
+3130,yn unffurf,a veces,adverbs,0.1
+3131,sesiwn,paciente,nouns,0.35
+3132,paraseicoleg,neuropsicología,nouns,1.55
+3133,datgan,anunciar,verbs,4.05
+3134,anaeddfed,irresponsable,adjectives,2.5
+3135,parêd,multitud,nouns,1.95
+3136,dewis,opinión,nouns,1.1
+3137,gwyliau,calendario,nouns,0.95
+3138,llwyddo,fallar,verbs,0.15
+3139,arbed,proteger,verbs,2.65
+3140,yn onest,sinceramente,adverbs,4.7
+3141,tegan,cubo,nouns,0.55
+3142,trychineb,accidente,nouns,3.35
+3143,dyn,víctor,nouns,0.45
+3144,oedolyn,bebé,nouns,0.4
+3145,gelyniaeth,agresión,nouns,2.45
+3146,tebyg,igual,adjectives,4.15
+3147,deiet,ensalada,nouns,0.9
+3148,dychryn,cazar,verbs,0.85
+3149,siocled,tarta,nouns,0.85
+3150,ewin,mano,nouns,1.05
+3151,gên,hueso,nouns,1.05
+3152,tywydd,nieve,nouns,1.0
+3153,pêl-fas,baloncesto,nouns,1.8
+3154,hir,estrecho,adjectives,0.35
+3155,llyncu,beber,verbs,2.55
+3156,anghyfreithlon,inmoral,adjectives,1.7
+3157,brawd,alma,nouns,0.15
+3158,gwawr,noche,nouns,0.35
+3159,dod â,quejar,verbs,0.0
+3160,dweud yn gyhoeddus,proclamar,verbs,4.05
+3161,yn ystyrlon,profundamente,adverbs,1.8
+3162,ymofyn,mirar,verbs,1.35
+3163,cryptogram,símbolo,nouns,2.5
+3164,niweidio,patear,verbs,1.45
+3165,cyflwr,niño,nouns,0.05
+3166,pen-blwydd,cita,nouns,1.3
+3167,yn dawel,naturalmente,adverbs,0.8
+3168,tyfu,incrementar,verbs,3.95
+3169,hapus,enfadado,adjectives,0.1
+3170,gwefrydd,disco,nouns,0.2
+3171,troed,mano,nouns,0.75
+3172,wagen,envase,nouns,0.0
+3173,hurt,estúpido,adjectives,5.1
+3174,ysgwydd,cuerpo,nouns,0.85
+3175,cebl,capilla,nouns,0.0
+3176,corff,pecho,nouns,1.05
+3177,dosbarth,caos,nouns,0.15
+3178,pêl-fasged,béisbol,nouns,1.8
+3179,yn gywir,activamente,adverbs,0.9
+3180,nenfwd,suelo,nouns,0.4
+3181,llyn,nube,nouns,0.3
+3182,tafod,garganta,nouns,0.75
+3183,map,cuadrado,nouns,0.25
+3184,yn annaturiol,negativamente,adverbs,1.25
+3185,rhan,capítulo,nouns,4.75
+3186,tramgwyddo,desalentar,verbs,0.7
+3187,yn achlysurol,regularmente,adverbs,1.15
+3188,trefnu,exigir,verbs,0.15
+3189,wedi blino,hambriento,adjectives,0.6
+3190,awyrennu,vuelo,nouns,2.65
+3191,ymddwyn,obedecer,verbs,2.3
+3192,cynllun,idea,nouns,2.85
+3193,ysgwyd,remover,verbs,2.4
+3194,gwellt,tarea,nouns,0.05
+3195,yn heddychlon,caóticamente,adverbs,0.05
+3196,cydio,apretar,verbs,2.35
+3197,cyw iâr,cena,nouns,1.2
+3198,mawr,pesado,adjectives,0.9
+3199,oen,oveja,nouns,3.55
+3200,bisged,princesa,nouns,0.0
+3201,stôl,silla,nouns,3.05
+3202,dilyniant,cámara,nouns,0.1
+3203,difrifol,gracioso,adjectives,0.0
+3204,presenoldeb,ganador,nouns,0.2
+3205,ffrog,danza,nouns,0.3

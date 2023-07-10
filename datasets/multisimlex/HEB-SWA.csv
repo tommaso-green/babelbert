@@ -1,0 +1,2776 @@
+ID,HEB,SWA,PoS,score
+1,יקר ערך,yenye thamani,adjectives,0.9
+2,אחות,dada,nouns,2.3
+3,מדען,muuguzi,nouns,0.4
+4,לימון,chai,nouns,0.55
+5,קסדה,helmeti,nouns,0.95
+6,ללמד,kufundisha,verbs,2.7
+7,שביר,baridi,adjectives,0.4
+8,תותח,bunduki,nouns,2.2
+9,מכשיר,chungu,nouns,0.8
+10,כסף,mshahara,nouns,3.3
+11,מטחנה,koboa,nouns,0.55
+12,ילד,mazingira,nouns,0.0
+13,לכווץ,kupunguza,verbs,3.3
+14,ספר,taarifa,nouns,1.05
+15,לחבר,kubandika,verbs,0.5
+16,להתחיל,kutokana,verbs,1.2
+17,מועמד,mshindi,nouns,1.15
+18,תוקפני,kua na hasira,adjectives,0.1
+19,כרגע,kwa sasa,adverbs,1.5
+20,הסכם,makubaliano,nouns,5.25
+21,פעמיים,mara mbili,adverbs,0.75
+22,עדשה,kamera,nouns,2.05
+23,למשוך,kuvutia,verbs,0.45
+24,דיסק,kompyuta,nouns,0.75
+25,מעולה,ana hasira,adjectives,0.3
+26,דודה,mpwa,nouns,0.75
+27,מעולה,mbaya,adjectives,0.5
+28,מדהים,maradufu,adjectives,0.45
+29,דרמטיטיס,ugonjwa wa ngozi,nouns,2.2
+30,שרפרף,kigoda,nouns,3.2
+31,הונאה,uhalifu,nouns,2.7
+32,גג,dari,nouns,4.05
+33,בירה,shampeni,nouns,2.55
+34,חולצה,shati,nouns,1.9
+35,בעדינות,kijanja,adverbs,0.2
+36,מפתח,nyumba,nouns,1.05
+37,להסית,kubagua,verbs,3.3
+38,לנער,kutikisa,verbs,0.1
+39,לנשל,kutelekeza,verbs,0.98
+40,חופש,uhuru,nouns,0.45
+41,נועז,wa kujivunia,adjectives,0.45
+42,לעולם לא,kamwe,adverbs,0.0
+43,מלוכלך,chafu,adjectives,0.6
+44,הורה,baba,nouns,3.8
+45,מכתב,aya,nouns,1.05
+46,בדיל,tini,nouns,2.1
+47,מנייה,akiba,nouns,2.95
+48,אחוזה,nyumba,nouns,0.25
+49,בטוח,bila shaka,adjectives,4.8
+50,גרגיר,viungo,nouns,0.75
+51,זרוע,kifundo,nouns,1.35
+52,אפוקליפסה,siku ya mwisho,nouns,0.5
+53,דם,uboho,nouns,1.0
+54,בחירה,jela,nouns,0.45
+55,גאה,mjasiri,adjectives,0.45
+56,להפתיע,kushangaza,verbs,0.65
+57,מעורבב,changanywa,adjectives,2.8
+58,כעס,hali,nouns,0.4
+59,אח,mvulana,nouns,2.65
+60,שחר,bunduki,nouns,0.0
+61,נחמד,mkorofi,adjectives,0.45
+62,וקטור,vector,nouns,2.0
+63,קרן,ngoma,nouns,0.55
+64,אבא,mtoto wa kiume,nouns,1.25
+65,בעיקרון,kimsingi,adverbs,0.55
+66,לחלק,kuzidisha,verbs,0.85
+67,בנחישות,kwa kidete,adverbs,0.2
+68,מכונית,boti,nouns,1.15
+69,צעצוע,kichezeo,nouns,0.75
+70,מקלחת,shower,nouns,0.0
+71,אלכוהול,brandi,nouns,2.75
+72,ברור,wa kuona,adjectives,2.8
+73,שלפוחית,malengelenge,nouns,0.0
+74,רחב,mkubwa,adjectives,2.7
+75,פקעת,ua,nouns,1.8
+76,כיף,mpira wa miguu,nouns,0.85
+77,לסדר,kuhitaji,verbs,0.25
+78,ממתק,peremende,nouns,0.75
+79,תמוה,si wa kawaida,adjectives,3.75
+80,מצחיק,mwenye huzuni,adjectives,0.55
+81,לשלוח,kuleta,verbs,0.6
+82,ברנדי,kileo,nouns,2.75
+83,להינשא,oa,verbs,3.1
+84,מצלמה,kamera,nouns,0.0
+85,קמפיין,kampeni,nouns,0.0
+86,ג'ינס,jinzi,nouns,0.3
+87,גלקסיה,giligili,nouns,0.75
+88,לריב,kupigana,verbs,0.85
+89,להקטין,kupungua,verbs,3.3
+90,וריד,tumbo,nouns,0.5
+91,רעיה,mwanamke,nouns,4.5
+92,אחוה,wanaume,nouns,0.9
+93,שפה,nyonga,nouns,0.75
+94,מהומה,mgomo,nouns,0.1
+95,פונולוגיה,fonolojia,nouns,0.3
+96,שפה,mawasiliano,nouns,2.15
+97,להאשים,kushtaki,verbs,2.0
+98,לזהור,kumeremeta,verbs,3.8
+99,זנב,sura,nouns,0.2
+100,גיל,urembo,nouns,0.6
+101,דעה קדומה,ubaguzi,nouns,2.4
+102,עובד,mwajiri,nouns,1.05
+103,כף,kikombe,nouns,1.1
+104,יומן,kanuni,nouns,0.2
+105,מלהיב,sisimsha,adjectives,0.45
+106,בן,kijana,nouns,3.8
+107,קרסול,mfupa,nouns,1.8
+108,בניין,jengo,nouns,1.15
+109,רוחני,kiroho,adjectives,1.3
+110,חד,ncha kali,adjectives,0.45
+111,יד,kifundo,nouns,1.1
+112,לתת,kuiba,verbs,0.4
+113,פסנתר,kinanda,nouns,0.5
+114,סכום,jumla,nouns,2.15
+115,פסיכולוגיה,sayansi,nouns,2.05
+116,כומר,mungu,nouns,0.9
+117,עניין,ufahamu,nouns,1.05
+118,רמז,neno,nouns,0.55
+119,טייפון,dhoruba,nouns,4.5
+120,דרך,namna,nouns,4.6
+121,ללבוש,kuvaa,verbs,0.2
+122,לשוטט,kutangatanga,verbs,1.3
+123,לאומי,kitaifa,adjectives,0.6
+124,לעשות,kutukia,verbs,0.8
+125,להשיג,kupata,verbs,2.3
+126,להקשיב,kusikia,verbs,4.4
+127,חכם,mpumbavu,adjectives,0.55
+128,מתוק,tamu,adjectives,0.0
+129,נמלה,nyuki,nouns,1.1
+130,כיסא,kitanda,nouns,0.9
+131,חסר צורה,kutobadilishwa,adjectives,0.15
+132,להישאר,kudumisha,verbs,0.4
+133,נורא,kwa ghadhabu,adverbs,0.85
+134,משימה,njia kuu,nouns,0.1
+135,טריק,mchezo,nouns,1.0
+136,מנומס,sahihi,adjectives,0.5
+137,לנצח,kutawala,verbs,1.15
+138,להתכווץ,kukua,verbs,0.7
+139,טיול,safari,nouns,3.85
+140,צורה,njia,nouns,1.05
+141,בנדיבות,kwa ukarmu,adverbs,0.15
+142,כיסא,kiti,nouns,3.2
+143,עגלה,gari la farasi,nouns,3.65
+144,דלת,sela,nouns,0.45
+145,לנשוך,kung'ata,verbs,0.75
+146,חלון,mlango,nouns,1.3
+147,שלב,kiwango,nouns,0.55
+148,להציל,kuokoa,verbs,2.9
+149,אקדח,watu,nouns,0.35
+150,קולנוע,sinema,nouns,1.65
+151,בשר,nyama,nouns,2.85
+152,לפני,kabla,adverbs,0.55
+153,כניסה,mlango wa kutoka,nouns,1.65
+154,כאן,papa hapa,adverbs,2.2
+155,מיטה,chumba,nouns,0.7
+156,בקבוק,chupa,nouns,1.9
+157,זנב,jabali,nouns,0.0
+158,קובייה,mchemraba,nouns,0.75
+159,טלסקופ,darubini,nouns,0.15
+160,חקר דגלים,elimu ya bendera,nouns,1.3
+161,לרצות,kuazima,verbs,0.4
+162,תשלום,malipo,nouns,2.45
+163,דלת,dirisha,nouns,1.3
+164,מטומטם,adimu,adjectives,0.1
+165,תאריך,siku ya kuzaliwa,nouns,1.5
+166,ייחודי,ya pekee,adjectives,0.4
+167,חומרה,kifaa,nouns,0.3
+168,עץ,kuoga,nouns,0.1
+169,קבל,capacitor,nouns,1.7
+170,קערה,mkia,nouns,0.0
+171,עורך דין,wakili,nouns,3.0
+172,לקבוע,kutabiri,verbs,0.7
+173,להתחנן,kuuliza,verbs,3.15
+174,ייתכן,inawezekana,adverbs,1.0
+175,לבחור,kuteua,verbs,0.1
+176,לחלוטין,kiukamilifu,adverbs,1.2
+177,מוח,damu,nouns,1.0
+178,מרפק,mfupa,nouns,1.1
+179,דלת,jiko,nouns,0.5
+180,חצאית,sketi,nouns,0.25
+181,חיבור,kitabu,nouns,1.1
+182,גב,mwili,nouns,1.05
+183,מזיק,wadudu,nouns,1.0
+184,לפנות,kufukuza,verbs,0.75
+185,זכות בחירה,haki ya upigaji kura,nouns,0.0
+186,הופעה,utendaji,nouns,0.6
+187,אחות,mwanasayansi,nouns,0.4
+188,לשלוח,kupokea,verbs,0.6
+189,נמרצות,kwa juhudi,adverbs,0.85
+190,ללכוד,kamata,verbs,0.95
+191,לאחרונה,hivi karibuni,adverbs,1.5
+192,להתלונן,kugombana,verbs,1.45
+193,באופן שולי,mara kwa mara,adverbs,0.6
+194,פרטי,binafsi,adjectives,0.5
+195,מרתף,mlango,nouns,0.45
+196,מדריך טיולים,kitabu cha mwongozi,nouns,1.25
+197,לקחת,kurithi,verbs,1.25
+198,עין,chozi,nouns,1.45
+199,יד,ukucha,nouns,0.8
+200,צער,uchungu,nouns,3.0
+201,אופן,njia,nouns,4.6
+202,להשתתף,kusema,verbs,0.35
+203,גשר,gari,nouns,0.45
+204,אגודל,mkono,nouns,1.6
+205,בוגר,kukomaa,adjectives,0.55
+206,למה,lemma,nouns,0.9
+207,להרוס,kuua,verbs,1.75
+208,ביקורת,hoja,nouns,1.15
+209,אלים,wa ghadhabu,adjectives,1.3
+210,שמחה,bahati,nouns,0.65
+211,בחשאי,kwa siri,adverbs,0.1
+212,ראוי,rasmi,adjectives,1.2
+213,סמל,ishara,nouns,4.3
+214,לגרור,kuvuta,verbs,1.0
+215,לקרוא,kufahamu,verbs,1.0
+216,לגנוב,kuchukua,verbs,1.7
+217,הון,hela,nouns,5.15
+218,כותנה,pamba,nouns,0.75
+219,בן,mvulana,nouns,4.3
+220,תלמיד,mwanafunzi,nouns,3.05
+221,סוכרוז,sukrosi,nouns,1.7
+222,להגיע,kwenda,verbs,0.7
+223,אצבע,kidole cha mguu,nouns,2.15
+224,למות,kufariki,verbs,0.3
+225,התחייבות,mkutano,nouns,0.65
+226,להראות,kuwa,verbs,0.25
+227,פאון,pembe zaidi ya sita,nouns,0.6
+228,לגנות,laani,verbs,1.55
+229,עושר,umasikini,nouns,0.65
+230,עץ,gogo,nouns,2.3
+231,אטום,kaboni,nouns,1.3
+232,מנוע,mashine,nouns,2.95
+233,עצוב,kasirika,adjectives,0.55
+234,מחשב,cd,nouns,0.75
+235,ביולוג,mbiolojia,nouns,0.8
+236,להוכיח,kueleza,verbs,1.1
+237,תנאי,makubaliano,nouns,0.75
+238,לברוח,kutoroka,verbs,4.7
+239,דינוזאור,mijusi ya kale,nouns,0.55
+240,מדריך,mwalimu,nouns,4.05
+241,לחם,unga,nouns,1.35
+242,מכונית,lifti,nouns,0.75
+243,זרוע,goti,nouns,0.95
+244,ארכיאולוגיה,akiolojia,nouns,2.6
+245,להפסיק,kufanya,verbs,0.4
+246,חצי אי,peninsula,nouns,1.75
+247,תחום,ukingo,nouns,4.2
+248,מאוד,zaidi,adverbs,0.15
+249,עצמי,hakika,nouns,0.5
+250,מאה,pombe,nouns,0.0
+251,ביישן,aibu,adjectives,0.6
+252,שמן,ngozi,nouns,0.15
+253,מאמן,kocha,nouns,1.25
+254,גדול,mpana,adjectives,2.7
+255,לא חוקי,haramu,adjectives,0.6
+256,התרמה,mfadhili,nouns,0.85
+257,חבוי,haijafichuliwa,adjectives,0.65
+258,אינסוף,usio na mwisho,nouns,0.65
+259,חד,kali,adjectives,0.45
+260,לגנוב,kuiba,verbs,2.2
+261,שמח,wa ghadhabu,adjectives,0.65
+262,קמח,mkate,nouns,1.35
+263,מיליונר,milionea,nouns,1.35
+264,לשלב,kuchanganya,verbs,0.05
+265,אדום,nyekundu,adjectives,1.05
+266,באופן אמין,kwa kuaminika,adverbs,2.1
+267,אלכוהול,jini,nouns,2.35
+268,נוקשה,mdhaifu,adjectives,0.4
+269,סירה,nanga,nouns,1.2
+270,לכוון,kulenga,verbs,0.8
+271,חדר שינה,tumbo,nouns,0.05
+272,להרגיז,kusumbua,verbs,0.05
+273,מעוקל,pinda,adjectives,4.85
+274,עשור,karne,nouns,1.0
+275,חולי,ugonjwa wa kuambukiza ,nouns,1.6
+276,כאוס,mchafuko,nouns,4.55
+277,תפוד,siagi,nouns,0.6
+278,למכור,kuazima,verbs,0.7
+279,באופן משמעותי,kwa maana,adverbs,2.4
+280,ספר,dhima,nouns,0.5
+281,כאוס,vurugu,nouns,0.1
+282,חלב,juisi,nouns,1.05
+283,בגדים,kitambaa,nouns,2.8
+284,להתעלם,kuuliza,verbs,0.4
+285,כיסא,kiti,nouns,0.15
+286,אסטרואיד,kimondo,nouns,2.65
+287,להפריע,kunyanyasa,verbs,1.65
+288,עסוק,bizi,adjectives,0.45
+289,חוט,uzi,nouns,0.0
+290,רועש,yenye sauti,adjectives,0.25
+291,מכונה,mashine,nouns,2.7
+292,לדבר,kutamka,verbs,1.7
+293,אשם,mbaya,adjectives,1.35
+294,לערבב,kuchanganya,verbs,2.93
+295,פרוטסטנט,protestanti,nouns,3.15
+296,לעזור,saidia,verbs,1.15
+297,היום,leo,adverbs,1.4
+298,בושה,huzuni,nouns,0.8
+299,לברוח,kuhepa,verbs,0.4
+300,מטרייה,mwavuli,nouns,0.3
+301,ים,bahari,nouns,1.1
+302,למצוא,kupotea,verbs,0.6
+303,לאסוף,kuchukua,verbs,0.1
+304,דבש,asali,nouns,0.25
+305,מצפן,dira,nouns,0.0
+306,אישה,mke,nouns,4.5
+307,שיניים,mfupa,nouns,0.9
+308,עצם,akili,nouns,0.5
+309,להיווצר,kuanza,verbs,1.2
+310,מבולגן,kutopangilia,verbs,0.5
+311,רגש,hamu,nouns,2.95
+312,אריה,paka,nouns,1.35
+313,מערכת,mfumo,nouns,0.2
+314,מוסר,adili,nouns,0.15
+315,להתנהג,kutii,verbs,1.5
+316,גיהנום,purigatori,nouns,1.7
+317,תרנגולת,batamzinga,nouns,1.25
+318,באושר,kwa furaha,adverbs,0.15
+319,דם,damu,nouns,0.7
+320,באופן אחראי,kwa kuwajibika,adverbs,2.1
+321,להרוג,ua,verbs,0.6
+322,בקלות,kiurahisi,adverbs,0.2
+323,מחלבה,maziwa,nouns,0.25
+324,גוף,tumbo,nouns,1.35
+325,מכונית,mtaa,nouns,0.55
+326,רב,mwalimu,nouns,1.8
+327,שלג,theluji,nouns,3.3
+328,ילד,mtoto wa kiume,nouns,4.3
+329,חדש,wa kale,adjectives,0.6
+330,לרוץ,kimbia,verbs,0.5
+331,שונית,ufuko,nouns,1.3
+332,עבודת יד,kazi za mikono,nouns,0.55
+333,ראש,mguu,nouns,0.7
+334,מצוין,mbaya,adjectives,0.3
+335,אשם,mkweli,adjectives,0.4
+336,משאית,gari la mzigo,nouns,0.35
+337,בדיוק,kwa usahihi,adverbs,0.5
+338,הקפת כדור הארץ,mzunguko,nouns,0.1
+339,ליפול,kuanguka,verbs,1.0
+340,בייקון,chakula cha asubuhi,nouns,1.1
+341,דיודה,diode,nouns,1.7
+342,דביק,kunata,adjectives,0.6
+343,פרק,mkia,nouns,0.2
+344,סוסה,farasi,nouns,3.65
+345,לקבל,kubaki,verbs,0.45
+346,זנב,bakuli,nouns,0.0
+347,קודם,antecedent,nouns,1.7
+348,לאסור,kukataza,verbs,2.1
+349,פרקליט,wakili,nouns,4.75
+350,אי,jukumu,nouns,0.0
+351,בחור,rafiki,nouns,1.05
+352,לחי,ulimi,nouns,0.85
+353,ראש,msumari,nouns,0.45
+354,לבחור,kutaka,verbs,1.05
+355,לאומי,kitaifa,adjectives,0.4
+356,לחרוק,kuteketa,verbs,0.25
+357,מקור,chanzo,nouns,0.0
+358,חלון,dirisha,nouns,0.3
+359,מותן,tumbo,nouns,0.95
+360,רעיה,kuoga,nouns,0.05
+361,להתעורר,kuamka,verbs,0.5
+362,מסע,ushindi,nouns,0.7
+363,לעזוב,kubaki,verbs,0.55
+364,יען,mbuni,nouns,0.1
+365,להסיק,kuamua,verbs,0.85
+366,לשכוח,kusamehe,verbs,1.2
+367,מרווח,uwazi,nouns,3.05
+368,מבושל,pikwa,adjectives,3.6
+369,מד,gari,nouns,0.45
+370,לפעמים,mara nyingine,adverbs,1.3
+371,ספרה,tarakimu,nouns,5.4
+372,לאחר מכן,baadae,adverbs,0.35
+373,משימה,mwanamke,nouns,0.05
+374,מאה,miaka kumi,nouns,1.0
+375,לבעוט,kupiga,verbs,0.7
+376,להשיג,kufanikiwa,verbs,2.45
+377,מנצח,lengo,nouns,0.55
+378,מטבח,mlango,nouns,0.5
+379,אמונה,ono,nouns,0.6
+380,תיאוריה,kanuni,nouns,1.75
+381,דשא,mwani,nouns,1.65
+382,לנהוג,endesha,verbs,0.45
+383,באדיבות,kiupole,adverbs,2.35
+384,אלים,kigomvi,adjectives,0.32
+385,תנור חימום,kipasha joto,nouns,0.55
+386,בקר,ngombe,nouns,3.35
+387,תותח,mpira,nouns,0.6
+388,עקשן,msumbufu,adjectives,0.85
+389,במקור,ya uhalisia,adverbs,1.0
+390,בערך,takriban,adverbs,0.18
+391,מטרייה,mwamvuli,nouns,0.55
+392,לחסוך,kutumia,verbs,0.7
+393,רופא,daktari,nouns,5.2
+394,סמל,ishara,nouns,0.9
+395,אפשרי,inawezekana,adjectives,0.6
+396,ודאי,ana hakika,adjectives,4.8
+397,זעיר,mkubwa mno,adjectives,0.55
+398,באופן לא טבעי,si asili,adverbs,0.65
+399,לקבל,kukubali,verbs,0.55
+400,דירה,hoteli,nouns,1.1
+401,כיתה,ushoroba,nouns,0.4
+402,להניח,kupa,verbs,0.4
+403,רעב,kua na njaa,adjectives,0.45
+404,להצדיק,kugombana,verbs,0.85
+405,פחמן,atomu,nouns,1.3
+406,לאמוד,kujifunza,verbs,0.7
+407,כרכרה,mkokoteni,nouns,3.65
+408,אינץ',yadi,nouns,1.9
+409,אכזרי,mkali,adjectives,1.2
+410,להבין,kusikiliza,verbs,1.2
+411,נוצרי,mkristo,nouns,3.15
+412,עכבר,sitaha,nouns,0.05
+413,שלם,kamili,adjectives,2.95
+414,בסיס,besi,nouns,0.85
+415,מטען,mzigo,nouns,0.1
+416,ארנב,paka,nouns,0.85
+417,מצחיק,wa kuchosha,adjectives,0.5
+418,אח,roho ,nouns,0.15
+419,קערה,sahani,nouns,2.95
+420,להגן,kuliinda,verbs,1.15
+421,חולה,ana wazimu,adjectives,0.8
+422,לסגור,kufunga,verbs,0.05
+423,צבא,kikosi,nouns,3.2
+424,אוגוסט,mwezi,nouns,2.7
+425,תמונה,kioo,nouns,1.55
+426,צבא,kundi,nouns,2.05
+427,מטרה,jitihada,nouns,0.75
+428,בעל ערך,yenye thamani,adjectives,2.85
+429,להניח,kuning'inia,verbs,0.6
+430,חדש,mpya,adjectives,4.45
+431,דבורה,malkia,nouns,0.7
+432,מרוץ,mbio,nouns,0.03
+433,זיהום,maambukizo,nouns,0.8
+434,לשון,koo,nouns,1.15
+435,כועס,safi,adjectives,0.5
+436,רע,mbaya,adjectives,0.53
+437,פרווה,ngozi,nouns,2.7
+438,עייף,iliyochoka,adjectives,1.6
+439,אמבטיה,mke,nouns,0.05
+440,דמוקרטיה,demokrasia,nouns,1.3
+441,דיאטה,matofaa,nouns,0.55
+442,כימיה,nadharia,nouns,0.25
+443,חולדה,panya,nouns,3.2
+444,ילד,kaka,nouns,2.65
+445,הצלחה,ushindi,nouns,3.55
+446,משרה,nguzo,nouns,0.3
+447,יארד,inchi,nouns,1.9
+448,דלת,sakafu,nouns,0.55
+449,מתכת,chuma,nouns,2.45
+450,מילה,fasihi,nouns,1.05
+451,לתת,kukana,verbs,0.1
+452,להסביר,kujadili,verbs,1.4
+453,לשוטט,kutangatanga,verbs,5.05
+454,סיפון,panya,nouns,0.05
+455,ים,ziwa,nouns,3.15
+456,דלת,kengele,nouns,0.7
+457,סופני,mwisho,adverbs,0.1
+458,מטומטם,mjanja,adjectives,0.55
+459,לצמוח,kupungua,verbs,0.7
+460,מעבר,njia,nouns,0.6
+461,עצלן,mvivu,adjectives,0.23
+462,לבחור,kuamua,verbs,2.75
+463,לרצות,kusihi,verbs,0.5
+464,לתת,kuweka,verbs,0.4
+465,עצוב,huzuni,adjectives,0.25
+466,תרשים,chati,nouns,3.85
+467,שורש,nyasi,nouns,0.85
+468,דם,nyama,nouns,1.35
+469,חשוב,lazima,adjectives,3.05
+470,לנדוד,kuondoka,verbs,1.05
+471,לשים,kupata,verbs,0.55
+472,ביוטופ,ekolojia,nouns,1.15
+473,מטבע,sarafu,nouns,0.95
+474,באופן עצמאי,kwa kujitegemea,adverbs,1.25
+475,לסגת,kufyonza,verbs,1.0
+476,חתול,mbwa,nouns,0.95
+477,קיר,tofali,nouns,1.75
+478,יכולת,ustadi,nouns,4.5
+479,רחוב,gari,nouns,0.55
+480,לפצח,kuvunja,verbs,0.25
+481,שקיעה,macheo,nouns,1.95
+482,רעיה,mama,nouns,2.6
+483,כועס,mwenye furaha,adjectives,0.65
+484,חודש,agosti,nouns,2.7
+485,סופר,msomaji,nouns,0.7
+486,נסיכה,mfalme,nouns,2.45
+487,גבר,mlinzi,nouns,0.65
+488,צוואר,mkono,nouns,0.75
+489,ספירה,mviringo,nouns,2.2
+490,בחשאיות,kwa siri,adverbs,0.5
+491,בהחלט,hakika,adverbs,5.05
+492,דעה,chaguo,nouns,1.45
+493,מכוער,mbaya,adjectives,1.15
+494,לבקש,kupuuza,verbs,0.4
+495,עצב,matumbo,nouns,0.45
+496,להמליץ,kushauri,verbs,3.35
+497,פטיש,nyundo,nouns,0.0
+498,מוסלמי,mwislamu,nouns,0.7
+499,בשקט,kwa ukimya,adverbs,0.55
+500,כנראה,labda,adverbs,0.75
+501,משעמם,zorota,adjectives,0.45
+502,ללכת,kuingia,verbs,0.4
+503,גבר,mpiganaji,nouns,1.35
+504,דרום,kaskazini,nouns,0.8
+505,טלויזיה,runinga,nouns,0.8
+506,ביתן,nyumba ndogo,nouns,3.85
+507,איחוד,shirikisho,nouns,2.5
+508,להתכנס,kuhudhuria,verbs,1.1
+509,למסור,kuchukua,verbs,0.65
+510,ברכות,kwa ulaini,adverbs,0.2
+511,מבוגר,mlezi,nouns,1.25
+512,קומביין,changanya,nouns,0.25
+513,לחלוק,kataa,verbs,0.6
+514,מיתוס,hadithi,nouns,1.75
+515,להגיד,kusema,verbs,1.1
+516,מסיבה,watu,nouns,0.95
+517,רומן,simulizi,nouns,0.95
+518,חליפין,ubadilishaji,nouns,0.75
+519,תפיסה,kuona,nouns,2.4
+520,עורף,nyuma,nouns,2.0
+521,צי,jeshi,nouns,3.65
+522,סדין,gombo,nouns,0.0
+523,האבקה,uchavushi,nouns,2.15
+524,הונאה,ulaghai,nouns,2.4
+525,תיבה,lifti,nouns,0.3
+526,נדיר,mpumbavu,adjectives,0.1
+527,עמוד,neno,nouns,0.65
+528,לרכוש,kupata,verbs,1.32
+529,בנקאי,mwanasheria,nouns,0.85
+530,תיאטרון,ukumbi,nouns,0.0
+531,עוף,wali,nouns,0.65
+532,רצועה,subira,nouns,0.1
+533,קרסול,dirisha,nouns,0.0
+534,חסר ביטחון,sio salama,adjectives,0.65
+535,נוקשה,ngumu,adjectives,0.55
+536,העולם הבא,kuzimu,nouns,1.7
+537,בחירה,mshipa,nouns,0.05
+538,אורז,maharagwe,nouns,1.0
+539,טנק,tenki,nouns,1.1
+540,לחשוב,kujaribu,verbs,0.25
+541,בר מזל,enye bahati,adjectives,0.05
+542,סירה,gari,nouns,1.15
+543,קש,nyimbo,nouns,0.0
+544,ייסורים,huzuni,nouns,3.0
+545,חושש,wa wasiwasi,adjectives,4.45
+546,תעשייה,biashara,nouns,1.85
+547,מפתח,funguo,nouns,1.35
+548,קצב,hesabu,nouns,0.1
+549,גמיש,rahisi,adjectives,0.65
+550,להזכיר,kusahau,verbs,0.55
+551,שריפה,moto,nouns,0.5
+552,אף,koo,nouns,0.95
+553,אלים,dhalimu,adjectives,0.6
+554,כדורעף,mpira wa wavu,nouns,2.6
+555,קישוט,mapambo,nouns,0.2
+556,קפה,maharagwe,nouns,0.9
+557,לכפול,kugawanya,verbs,0.85
+558,לטייל,kusafiri,verbs,2.55
+559,תלמיד,rais,nouns,0.25
+560,עצוב,wa kuchekesha,adjectives,0.55
+561,חשבון,pigo,nouns,0.1
+562,גודל,senti,nouns,0.15
+563,מעיל,sweta,nouns,2.85
+564,מכונית,baisikeli,nouns,1.35
+565,מטומטם,hodari,adjectives,0.55
+566,מאמר מערכת,uhariri,nouns,1.4
+567,דלת,korido,nouns,0.95
+568,מאמר,makala,nouns,1.95
+569,באופן אידיאלי,walau,adverbs,0.85
+570,הנהלה,kazi,nouns,0.9
+571,סבולת,bendi,nouns,0.1
+572,מתמטיקאי,mwanamahesabu,nouns,0.05
+573,מנחה,toleo,nouns,2.65
+574,לשלוט,kudhibiti,verbs,0.75
+575,המנון,ushindi,nouns,0.3
+576,אינטליגנציה,ujinga,nouns,0.65
+577,לעולם לא,kamwe,adjectives,0.62
+578,להתנגש,kugongana,verbs,3.85
+579,כהונה,huduma,nouns,0.55
+580,איש,mwanaume,nouns,0.4
+581,להניח,kujifanya,verbs,0.05
+582,לחלק,kugawanya,verbs,0.65
+583,מקלט,kibanda,nouns,1.2
+584,היגיון,hesabu,nouns,0.75
+585,מושב,kiti,nouns,0.05
+586,אישה,mwanaume,nouns,1.05
+587,פסל,sanamu,nouns,4.25
+588,באופן לא הוגן,si kwa haki,adverbs,0.55
+589,ליצור,kuharibu,verbs,0.55
+590,להפסיק,kuanza,verbs,0.55
+591,פתח,kufungua,nouns,3.05
+592,בקר,nyama ya ng'ombe,nouns,2.85
+593,מינט,minti,nouns,0.2
+594,בלון,kuoga,nouns,0.05
+595,לדעת,kupa,verbs,0.0
+596,אי,kisiwa,nouns,0.97
+597,סוללה,betri,nouns,1.45
+598,ברנדי,divai,nouns,2.85
+599,תוף,pembe,nouns,0.55
+600,להיכשל,kufanikiwa,verbs,0.55
+601,לא ברור,haijulikani,adjectives,4.1
+602,משונה,wa kawaida,adjectives,0.65
+603,דולר,dola,nouns,1.35
+604,לקבוע,kutambulisha,verbs,0.1
+605,קשת,mpiga mishale,nouns,0.1
+606,לנסות,kufanikiwa,verbs,1.3
+607,בחירה,chaguo,nouns,2.9
+608,יוגורט,mgando,nouns,0.55
+609,באמת,kiukweli,adverbs,0.3
+610,להחליט,kuhitimisha,verbs,0.85
+611,ללחוץ,kuvyombo vya habari,verbs,0.45
+612,לנסות,kufikiria,verbs,0.25
+613,זכות,maadili,nouns,0.8
+614,לנשוך,uma,verbs,0.0
+615,רעידת אדמה,tetemeko la ardhi,nouns,2.45
+616,פרצטמול,acetaminopheni,nouns,0.8
+617,תחביר,sintaksia,nouns,0.8
+618,מעטפה,bahasha,nouns,0.2
+619,להיפגש,kusalimia,verbs,0.85
+620,לעדכן,kufahamisha,verbs,5.15
+621,גובה,urefu,nouns,0.45
+622,מנזר,monasteri,nouns,0.0
+623,אינטליגנציה,hekima,nouns,4.5
+624,להכות,kupiga,verbs,0.25
+625,אור,mwanga,nouns,0.0
+626,להתחתן,kuchumbia,verbs,2.5
+627,להסכים,kugombana,verbs,0.6
+628,צינור,bustani,nouns,0.65
+629,דשא,mzizi,nouns,0.85
+630,לחשוק,kua na hamu,verbs,4.1
+631,לצרוך,kuandaa,verbs,0.25
+632,להצטרף,kuoa,verbs,0.35
+633,זיהום,ugonjwa,nouns,3.15
+634,בטוח,uhakika,adjectives,0.15
+635,שפע,wingi,nouns,3.05
+636,בעיקר,zaidi,adverbs,0.7
+637,שחקנית,mchezaji,nouns,3.7
+638,לקבל,kukana,verbs,0.25
+639,פאי,chokoleti,nouns,0.95
+640,חוף,ufuko,nouns,3.5
+641,טייס,dereva,nouns,2.4
+642,פעמון,mlango,nouns,0.7
+643,זרבובית,pua,nouns,0.45
+644,לצמוח,kukua,verbs,1.55
+645,להציע,kupendekeza,verbs,3.8
+646,ברור,ni dhahiri,adverbs,3.25
+647,אמבטיה,chumba,nouns,0.7
+648,קומה,mlango,nouns,0.55
+649,סטטיסטיקה,takwimu,nouns,0.1
+650,מבחן,jaribio,nouns,0.9
+651,גמיש,flexibo,adjectives,0.75
+652,יצירה,mchoro,nouns,1.15
+653,אבק,vumbi,nouns,0.85
+654,לגנוב,kununua,verbs,0.35
+655,להפוך,kuonekana,verbs,0.25
+656,לרצות,kutaka,verbs,4.1
+657,להיכנס,kudaiwa,verbs,0.0
+658,להסכים,kuitikia,verbs,2.8
+659,ערמומי,mgeni,adjectives,0.35
+660,להתעלם,kuondoka,verbs,0.55
+661,בייקון,maharagwe,nouns,0.6
+662,וילון,nguzo,nouns,0.75
+663,אורח חיים,mtindo wa maisha,nouns,1.25
+664,רוטב,matofaa,nouns,0.4
+665,כבוד,hadhi,nouns,0.65
+666,לטבוע,kutota,verbs,0.55
+667,צוות,wafanyakazi,nouns,0.2
+668,אופניים,baiskeli,nouns,0.1
+669,מעצר,funga,nouns,1.5
+670,פסל,sonara,nouns,0.25
+671,בנייה,uharibifu,nouns,0.55
+672,מכונית,mpira wa maji,nouns,0.25
+673,לחלוטין,kwa ukamilifu,adverbs,0.5
+674,סוודר,jaketi,nouns,2.85
+675,כלב,paka,nouns,0.95
+676,לפנות,kuondoka,verbs,0.1
+677,ליידע,kujulisha,verbs,5.15
+678,להוסיף,kuzidisha,verbs,1.0
+679,תעופה,safari ya angani,nouns,3.3
+680,מכונאי,mfanyakazi,nouns,1.75
+681,בית,jimbo,nouns,0.75
+682,תורה,nyimbo,nouns,0.25
+683,יופי,umri,nouns,0.6
+684,ללמוד,kusikiliza,verbs,0.9
+685,לייעץ,kupendekeza,verbs,3.35
+686,חוקי,halali,adjectives,0.5
+687,באופן אמין,pasipo tu,adverbs,0.5
+688,מיומנות,akili,nouns,1.95
+689,גבינה,mkate,nouns,0.65
+690,חגורה,kitanzi,nouns,1.4
+691,הפרה,uhalifu,nouns,2.65
+692,ירך,mdomo,nouns,0.75
+693,שנה,siku ya kuzaliwa,nouns,0.9
+694,ספר,biblia,nouns,2.2
+695,כדור,glavu,nouns,1.2
+696,צוק,mkia,nouns,0.0
+697,מוט,mlingoti,nouns,1.1
+698,להפסיד,kupata,verbs,0.5
+699,מחבט,raketi,nouns,0.95
+700,לקצור,kuvuna,verbs,1.6
+701,להתחזות,kudhani,verbs,0.05
+702,נוכחות,mlango,nouns,0.15
+703,מקרה,kesi,nouns,0.3
+704,להשיג,kujaribu,verbs,0.7
+705,מגדל,kengele,nouns,0.65
+706,דירה,fanicha,nouns,0.55
+707,גיוס כספים,mchango,nouns,0.5
+708,סקי,skiing,nouns,2.55
+709,אקזמה,uwasho,nouns,2.2
+710,שמיים,ulimwengu,nouns,1.35
+711,לשמור,kuweka,verbs,2.45
+712,לקחת,kupeleka,verbs,0.65
+713,להמתין,kungoja,verbs,0.2
+714,מיליונר,bilionea,nouns,0.45
+715,מכוסה,funikwa,adjectives,0.6
+716,אורתודונט,daktari,nouns,2.65
+717,בקתה,kibanda,nouns,3.85
+718,ארון,nguo,nouns,0.7
+719,חוף,pwani,nouns,0.7
+720,עקומה,pembe,nouns,2.05
+721,תחזית,wingu,nouns,1.35
+722,ספה,baseball,nouns,0.1
+723,עיתון,taarifa,nouns,1.8
+724,משימה,kazi,nouns,3.5
+725,עבר,zamani,nouns,1.7
+726,להפסיד,kuweka,verbs,0.35
+727,להגן,kulinda,verbs,2.88
+728,מעוקל,pinda,adjectives,0.6
+729,פיתוח,maendeleo,nouns,0.5
+730,לעיתים קרובות,mara nyingi,adverbs,0.55
+731,חריף,pilipili,adjectives,0.1
+732,באופן מוזר,ya kustajabisha,adverbs,4.65
+733,להעליב,kutukana,verbs,3.45
+734,לערב,kumhusisha,verbs,2.8
+735,צעיר,isiyotulia,adjectives,0.3
+736,מצלמה,mfanyakazi,nouns,0.1
+737,פח,chuma,nouns,1.4
+738,חדר שינה,bafu,nouns,0.65
+739,זרוע,misuli,nouns,0.85
+740,עמוס,mzito,adjectives,1.55
+741,לחשוד,kushukia,verbs,0.4
+742,מטומטם,wa upuzi,adjectives,4.65
+743,סל,mpira,nouns,0.65
+744,חיישן,sensa,nouns,0.7
+745,ברצינות,kwa umakini,adverbs,2.65
+746,לעזוב,kufika,verbs,0.5
+747,עצום,mpumbavu,adjectives,0.1
+748,אסטרטג,mkakati,nouns,2.9
+749,אזור,eneo,nouns,4.68
+750,נוזל,majimaji,nouns,0.45
+751,מבצע,mwigizaji,nouns,0.65
+752,לשכוח,kukumbusha,verbs,0.55
+753,מזכירה,mwanamke,nouns,1.0
+754,חשוף,haijafunikwa,adjectives,0.6
+755,שומר,mwanaume,nouns,0.65
+756,ניקוד,alama,nouns,0.55
+757,זהה,sawa,adjectives,4.3
+758,לגדל,kulea,verbs,0.0
+759,חורף,msimu,nouns,2.3
+760,מטבח,bafu,nouns,0.85
+761,להרוס,kutengeneza,verbs,0.55
+762,בלתי אפשרי,kutowekana,adjectives,0.6
+763,לאחרונה,hivi karibuni,adverbs,0.1
+764,קפיצה,kuruka,nouns,0.35
+765,מוזיקה,muziki,nouns,1.2
+766,מועמד,mwombaji,nouns,2.35
+767,חרב,panga,nouns,0.0
+768,למכור,kwenda,verbs,0.05
+769,חלון,kifundo cha mguu,nouns,0.0
+770,פינה,eneo,nouns,0.9
+771,שקרן,danganyifu,adjectives,0.55
+772,לקבל,kuamini,verbs,1.8
+773,עצבני,kuoga,adjectives,0.15
+774,עכשיו,sasahivi,adverbs,2.2
+775,שחקן כדורת,bowler,nouns,2.7
+776,היעדרות,kuwepo,nouns,0.65
+777,בקבוק,chombo,nouns,0.6
+778,לשמור,kukinga,verbs,4.45
+779,לוחם,mwanaume,nouns,1.35
+780,לריב,pigana,verbs,0.75
+781,בעצב,kwa huzuni,adverbs,1.0
+782,חילוניות,mwanaisilamu,nouns,1.45
+783,פתולוגיה,stadi ya magonjwa,nouns,2.55
+784,בענווה,kwa unyenyekevu,adverbs,0.5
+785,באופן מציאותי,kihalisia,adverbs,0.85
+786,ריאה,ini,nouns,0.9
+787,צנוע,nyenyekevu,adjectives,5.4
+788,הססני,kuwa yumba,adjectives,0.7
+789,לשפוט,hakimu,verbs,0.7
+790,בעוני,kwa ubaya,adverbs,0.25
+791,מסורת,utamaduni,nouns,0.55
+792,חומצה,asidi,nouns,0.85
+793,סביבה,mazingira,nouns,0.0
+794,פרפר,kipepeo,nouns,0.3
+795,לרכוש,kuchukua,verbs,1.25
+796,באופן חריג,sio kawaida,adverbs,4.65
+797,חצוף,jeuri,adjectives,0.38
+798,מנצח,uwepo,nouns,0.05
+799,קל,pole,adjectives,0.65
+800,טריק,saizi,nouns,0.0
+801,גורד שחקים,maghorofa,nouns,2.2
+802,עומק,ukubwa,nouns,1.4
+803,רציני,makini,adjectives,0.45
+804,התעמלות,mazoezi,nouns,0.65
+805,לפגוש,kupatana,verbs,0.35
+806,סרט,filamu,nouns,4.0
+807,רגיל,mara kwa mara,adjectives,0.05
+808,לקבל,kupokea,verbs,2.0
+809,באופן יצירתי,kiubunifu,adverbs,1.0
+810,אינץ',mita,nouns,2.05
+811,זמר,mtaalamu wa sauti,nouns,0.2
+812,להתחיל,kuacha,verbs,0.55
+813,ארכיבישוף,askofu,nouns,3.8
+814,תפוח,sosi,nouns,0.4
+815,בעצם,kimsingi,adverbs,0.4
+816,גדול,mkubwa sana,adjectives,3.9
+817,מזג,daktari,nouns,0.0
+818,מכונית,njia kuu,nouns,0.95
+819,סימן,alama,nouns,4.3
+820,וריד,chaguo,nouns,0.05
+821,פרח,imani,nouns,0.05
+822,שור,ndama,nouns,2.4
+823,הברה,silabu,nouns,0.9
+824,הנהלה,panya,nouns,0.0
+825,שיפוע,benki,nouns,0.05
+826,לעצור,kusimamisha,verbs,1.43
+827,קל,ngumu,adjectives,0.7
+828,היסטריה,ghasia,nouns,1.0
+829,להעציב,kuhuzunika,verbs,0.6
+830,לספוג,kulowesha,verbs,0.25
+831,נשיא,kamera,nouns,0.05
+832,חשוב,kwa umuhimu,adverbs,0.3
+833,לפגוע,kukashifu,verbs,3.45
+834,נפלא,maridadi,adjectives,1.15
+835,רכילות,habari,nouns,1.65
+836,משעמם,boreka,adjectives,1.6
+837,מילון,kamusi,nouns,2.55
+838,שיכור,mlevi,adjectives,0.5
+839,שלג,theluji,nouns,2.5
+840,דיכאון,huzuni,nouns,0.0
+841,המטולוגיה,hematolojia,nouns,2.55
+842,אמא,mke,nouns,2.6
+843,זרוע,shingo,nouns,0.75
+844,להקשיב,kutii,verbs,2.45
+845,אחווה,mlango,nouns,0.0
+846,להשאיל,kuuza,verbs,0.7
+847,לבכות,kulia,verbs,2.8
+848,לרכב,endesha,verbs,0.4
+849,חבילה,furushi,nouns,0.35
+850,מסע,mwendo,nouns,3.85
+851,מרק,chakula cha usiku,nouns,1.1
+852,אל,windo,nouns,0.05
+853,חדר שינה,baisikeli,nouns,0.15
+854,מצעד,bendi,nouns,1.95
+855,להזכיר,kuuza,verbs,0.0
+856,משולב,iliyojumuishwa,adjectives,2.8
+857,לנבוע,kugundua,verbs,0.45
+858,לשלוח,kuhudhuria,verbs,0.45
+859,להצדיע,kutoa heshima,verbs,0.35
+860,חזה,mwili,nouns,1.75
+861,חדר שינה,kitanda,nouns,1.35
+862,בגאווה,kwa jeuri,adverbs,0.3
+863,צמיגות,mnato,nouns,0.25
+864,מוזר,mwerevu,adjectives,0.35
+865,דיונה,dune,nouns,2.15
+866,אנשים,sherehe,nouns,0.95
+867,ביטוי,neno,nouns,2.5
+868,בעדינות,kwa utaratibu,adverbs,0.15
+869,מעסיק,mfanyakazi,nouns,1.05
+870,כינור,chombo,nouns,1.6
+871,מודעות,uangalifu,nouns,1.05
+872,מחשב,kompyuta,nouns,2.7
+873,שעועית,nyama ya nguruwe,nouns,0.6
+874,מידה,ukubwa,nouns,4.45
+875,מעלית,sanduku,nouns,0.3
+876,מוכר,inayojulikana,adjectives,0.4
+877,לקבור,kuzika,verbs,2.65
+878,עושר,umaarufu,nouns,0.95
+879,אבא,mtoto wa kike,nouns,0.8
+880,בוהן,kidole cha mkono,nouns,2.15
+881,להתדרדר,kuzorota,verbs,0.0
+882,לשחוק,kumomonyoka,verbs,0.15
+883,לילה,alfajiri,nouns,0.8
+884,איבר,figo,nouns,2.25
+885,טוב,salama,adjectives,0.4
+886,מנצח,mwanaume,nouns,0.4
+887,סילבוס,mtaala,nouns,0.65
+888,מוזיאון,jumba la makumbusho,nouns,0.2
+889,ספר,makala,nouns,1.6
+890,דוכס,mjuzi,nouns,0.45
+891,אופניים,gari,nouns,1.35
+892,לצוד,kuwinda,verbs,2.65
+893,ענק,mkubwa,adjectives,3.9
+894,קל,rahisi,adjectives,0.55
+895,להחזיק,kufyonza,verbs,0.15
+896,טרף,mungu,nouns,0.05
+897,להבין,kusamehe,verbs,0.7
+898,נקי,safi,adjectives,0.65
+899,מידע,gazeti,nouns,1.8
+900,כיסא,sofa,nouns,2.9
+901,איריס,boriti,nouns,0.3
+902,סירה,mota,nouns,1.65
+903,אנשים,puto,nouns,0.1
+904,קשה,bila jasho,adjectives,0.45
+905,אחר,wengine,adjectives,0.3
+906,ללכת,kutuma,verbs,0.4
+907,טיפול,tiba,nouns,0.8
+908,בזהירות,kwa utaratibu,adverbs,0.45
+909,בוודאי,ni wazi,adverbs,0.2
+910,לשיר,kuimba,verbs,0.35
+911,מטרה,mshale,nouns,1.1
+912,גאה,kujivunia,adjectives,0.25
+913,מדביר,dawa ya wadudu,nouns,1.0
+914,יד,kidole gumba,nouns,1.6
+915,למחול,kusamehe,verbs,5.4
+916,מכונית,gari la farasi,nouns,1.5
+917,ארוע,tukio,nouns,0.85
+918,לדעת,kuamini,verbs,0.85
+919,בקר,kondoo,nouns,2.95
+920,טלסקופ,darubini,nouns,0.0
+921,סלט,mpangilio wa chakula,nouns,0.95
+922,שליט,mtawala,nouns,4.5
+923,עצם,mkono,nouns,0.95
+924,לאסוף,kukusanya,verbs,2.05
+925,לשרוף,kuunguza,verbs,0.35
+926,לנחם,kufaraja,verbs,0.35
+927,סנט,saizi,nouns,0.15
+928,עץ,mbao,nouns,0.15
+929,חורף,msimu wa joto,nouns,0.85
+930,לדאוג,kuwa na wasiwasi,verbs,0.1
+931,איחוד,umoja,nouns,2.15
+932,טלפון,simu,nouns,2.23
+933,שד,jini,nouns,0.45
+934,בודד,mpweke,adjectives,1.7
+935,פלנטה,mwezi,nouns,1.6
+936,למסור,kubeba,verbs,0.8
+937,שחקן,mwimbaji,nouns,1.15
+938,דלת,lango,nouns,4.7
+939,באופן אחיד,sawa,adverbs,0.25
+940,לדכא,kukatisha tamaa,verbs,0.8
+941,בחוזקה,kwa nguvu,adverbs,0.0
+942,חרות,kujitawala,nouns,4.95
+943,הורה,mtu mzima,nouns,2.3
+944,חלק,kipande,nouns,0.1
+945,שחקן,mchezaji wa kike,nouns,3.7
+946,לשאת,kuchukua,verbs,2.55
+947,לשמור,kushindwa,verbs,0.35
+948,צמד,vitu viwili,nouns,5.7
+949,פחמימה,wanga,nouns,1.7
+950,לשאת,kuleta,verbs,2.15
+951,תקשורת,televisheni,nouns,1.7
+952,גבעה,jabali,nouns,2.65
+953,טלפון סלולרי,simu ya mkononi,nouns,4.3
+954,לדחות,kuhairisha,verbs,1.0
+955,אדם,mnyama,nouns,0.95
+956,סוודר,fulana,nouns,0.75
+957,אבן,jiwe,nouns,0.4
+958,תאונה,ajali,nouns,0.0
+959,רצפה,dari,nouns,0.7
+960,אסטרונום,mtaalam wa nyota,nouns,0.75
+961,דירה,nyumba,nouns,4.15
+962,בקוצר רוח,bila subira,adverbs,0.15
+963,לחוב,kukopesha,verbs,1.1
+964,רעיון,picha,nouns,1.0
+965,גאה,kujivunia,adjectives,0.1
+966,ביצה,ziwa,nouns,2.1
+967,לבחוש,kukoroga,verbs,5.15
+968,לקנות,kuiba,verbs,0.35
+969,להיכשל,kukanya,verbs,0.3
+970,מילה,kamusi,nouns,1.8
+971,להתחנן,kusihi,verbs,4.75
+972,מסך,kiwambo,nouns,0.3
+973,הערה,noti,nouns,0.55
+974,בייסבול,kochi,nouns,0.1
+975,בגדים,kifungo,nouns,0.95
+976,להנות,kuburudisha,verbs,2.3
+977,שיעורי בית,kazi ya ziada,nouns,1.0
+978,לב,upasuaji,nouns,0.75
+979,בערך,takribani,adverbs,0.7
+980,לחבוט,kukupiga ngumi,verbs,0.4
+981,מצחיק,inayochekesha,adjectives,0.45
+982,אכזרי,mwema,adjectives,0.45
+983,באופן לא סדיר,isivyo kawaida,adverbs,0.45
+984,סיר,kifaa,nouns,0.8
+985,מפתח,kifunguo,nouns,0.0
+986,ציור,mchoro,nouns,0.1
+987,ברצינות,kwa umakini,adverbs,0.7
+988,לטגן,kaanga,verbs,1.35
+989,לעצור,kuacha,verbs,0.35
+990,קש,mke,nouns,0.1
+991,למצוא,kupata,verbs,0.4
+992,גדול,kubwa,adjectives,0.4
+993,להחליט,kuamua,verbs,2.25
+994,עוזר,mwalimu,nouns,1.1
+995,פגישה,kikao,nouns,0.55
+996,מקצוע,chuo,nouns,0.95
+997,לתאר,kujulisha,verbs,1.5
+998,לגלות,kutokana,verbs,0.45
+999,קהה,mkali,adjectives,0.85
+1000,אישה,mwanamke,nouns,0.3
+1001,צנוע,pole,adjectives,0.65
+1002,לאחד,kuunganisha,verbs,0.65
+1003,דוקטור,mtaalamu wa meno,nouns,5.2
+1004,טרי,mzee,adjectives,0.55
+1005,רובוטיקה,roboti,nouns,0.6
+1006,עכבר,paka,nouns,0.9
+1007,טקסט,kitabu,nouns,3.1
+1008,להגיע,kutuma,verbs,0.45
+1009,זמר,mchezaji,nouns,1.15
+1010,איבר,ini,nouns,2.0
+1011,שד,pepo,nouns,0.8
+1012,נפש,akili,nouns,1.1
+1013,עץ,mpera,nouns,2.85
+1014,אוויר,molekuli,nouns,1.0
+1015,שקופית,teleza,nouns,0.2
+1016,בבגרות,kwa utu uzima,adverbs,0.8
+1017,עוגן,boti,nouns,1.2
+1018,לרכוש,kutafuta,verbs,1.0
+1019,המשך,mwendelezo,nouns,0.0
+1020,לדרוש,kutafiti,verbs,0.6
+1021,מכונית,geji,nouns,0.45
+1022,צינור,gari,nouns,0.25
+1023,משעמם,kuboreka,adjectives,0.6
+1024,עיירה,mji,nouns,4.05
+1025,לאבד,kutafuta,verbs,0.6
+1026,להחזיק,kubakisha,verbs,2.45
+1027,ראש,rais,nouns,1.35
+1028,לציית,kutenda,verbs,1.5
+1029,להפריד,kutenganisha,verbs,0.5
+1030,לתפוס,kudaka,verbs,0.5
+1031,לספוג,kutoa,verbs,1.0
+1032,להטריח,kusumbua,verbs,0.88
+1033,באמת,kweli,adverbs,1.2
+1034,אשמה,kosa,nouns,0.2
+1035,סולמית,reli,nouns,0.2
+1036,נושא,mada,nouns,0.2
+1037,קרסול,kiwiko,nouns,1.3
+1038,אטמוספירה,hali ya anga,nouns,3.1
+1039,גיטרה,ngoma,nouns,2.3
+1040,להחזיק,kuchukua,verbs,1.5
+1041,הלילה,leo usiku,adverbs,0.55
+1042,מתרגם,mtafsiri,nouns,0.3
+1043,מחבר,muumbaji,nouns,3.15
+1044,להסתכל,kuangalia,verbs,2.3
+1045,חיה,mtu,nouns,0.95
+1046,וויסקי,shampeni,nouns,2.9
+1047,עט,kalamu,nouns,0.4
+1048,פרקליט,mfanyakazi wa benki,nouns,0.85
+1049,כתף,mkono,nouns,2.0
+1050,חשוד,mshukiwa,nouns,0.4
+1051,מוזר,ya kushangaza,adjectives,0.6
+1052,זול,mchafu,adjectives,0.45
+1053,פוטופון,picha,nouns,0.5
+1054,לשתות,kunywa,verbs,2.2
+1055,מזוייף,feki,adjectives,0.6
+1056,חמאה,kiazi,nouns,0.6
+1057,כן,ana hatia,adjectives,0.4
+1058,שמח,ana hasira,adjectives,0.5
+1059,מנוע,injini,nouns,5.4
+1060,לפגוע,uma,verbs,0.6
+1061,מעולה,wa kutisha,adjectives,0.45
+1062,בצורה יפה,kwa uzuri,adverbs,3.55
+1063,רהיט,fleti,nouns,0.55
+1064,תרנגולת,chakula cha usiku,nouns,0.65
+1065,אישה,sekretari,nouns,1.0
+1066,נורמלי,si wa kawaida,adjectives,0.65
+1067,מעורפל,isiyo dhahiri,adjectives,4.1
+1068,סכנה,ugonjwa,nouns,0.95
+1069,בצדקנות,kwa ,adverbs,0.25
+1070,ציפורן,kichwa,nouns,0.45
+1071,סיפון,boti,nouns,1.05
+1072,מודרני,wa kale,adjectives,0.55
+1073,ראש,bega,nouns,1.1
+1074,להכריע,kuzidiwa,verbs,0.25
+1075,עובדה,ushahidi,nouns,1.6
+1076,זול,rahisi,adjectives,2.55
+1077,גשם,mvua,nouns,3.25
+1078,באופטימיות,kwa matuamini,adverbs,1.0
+1079,רפובליקה,jamhuri,nouns,0.45
+1080,להצטרף,kujipatia,verbs,0.2
+1081,לחקור,kugundua,verbs,2.65
+1082,להרוס,kuumba,verbs,0.55
+1083,עצב,mwili,nouns,0.9
+1084,בטן,mwili,nouns,1.35
+1085,ספרה,tarakimu,nouns,0.25
+1086,בינוני,mtumba,adjectives,0.55
+1087,להוסיף,kujiunga,verbs,0.9
+1088,מים,barafu,nouns,2.5
+1089,סופת שלגים,theluji kali,nouns,1.05
+1090,להופיע,kuondoka,verbs,0.7
+1091,עליז,mwenye furaha,adjectives,5.05
+1092,לארגן,kuandaa,verbs,4.5
+1093,וריד,mkono,nouns,0.8
+1094,חדר,kitanda,nouns,0.7
+1095,עריסה,mlazi,nouns,3.7
+1096,קדוש,mkosaji,nouns,0.5
+1097,מילון,neno,nouns,1.8
+1098,ספינת מלחמה,manowari,nouns,5.5
+1099,נהדר,kubwa,adjectives,0.75
+1100,גדול,mkubwa mno,adjectives,5.3
+1101,שער,mlango,nouns,4.7
+1102,בחירה,oni,nouns,1.45
+1103,ים,ufuko,nouns,2.45
+1104,לקלוט,kufahamu,verbs,3.9
+1105,שיעור,kiwango,nouns,1.15
+1106,רב,mchungaji,nouns,0.9
+1107,בערך,kwa kukadiria,adverbs,0.4
+1108,נהג,rubani,nouns,2.4
+1109,עפרון,penseli,nouns,0.3
+1110,זר,mgeni,nouns,0.3
+1111,לחטוף,kuteka nyara,verbs,2.2
+1112,מוגן,lindwa,adjectives,0.1
+1113,חד,mbutu,adjectives,0.85
+1114,לחוב,kuingia,verbs,0.0
+1115,שמש,anga,nouns,1.25
+1116,עצם,kiwiko,nouns,1.1
+1117,לסדר,panga,verbs,2.05
+1118,בוקר,mchana,nouns,1.45
+1119,שלילי,hasi,adjectives,1.05
+1120,להרתיח,kuchemsha,verbs,1.35
+1121,חיידק,vijidudu,nouns,2.7
+1122,פעולה,uendeshaji,nouns,0.5
+1123,לטעון,kutofautiana,verbs,2.85
+1124,מסטיק,fizi,nouns,0.6
+1125,לדחוף,kusukuma,verbs,0.2
+1126,אמבטיה,mbinu,nouns,0.0
+1127,לוחמנות,ubishani,nouns,3.6
+1128,לשטוף,kusuuza,verbs,4.75
+1129,לעזוב,kujitokeza,verbs,0.7
+1130,כסף,lulu,nouns,0.45
+1131,לחנך,kuelimisha,verbs,4.7
+1132,אופרה,opera,nouns,1.65
+1133,חוף,bahari,nouns,2.45
+1134,גמיש,mkubwa sana,adjectives,0.25
+1135,מלכה,nyuki,nouns,0.7
+1136,שטיח,nyumba,nouns,0.6
+1137,למסור,kukubali,verbs,0.5
+1138,מסכן,masikini,adjectives,1.7
+1139,להישאר,kubaki,verbs,2.05
+1140,לאפות,kuoka,verbs,1.9
+1141,ברית מילה,tohara,nouns,1.8
+1142, לנער,kutikisa,verbs,2.4
+1143,לסגת,kukataa,verbs,0.25
+1144,קשוח,mkorofi,adjectives,1.2
+1145,שר,rabai,nouns,0.9
+1146,מיץ,maziwa,nouns,1.05
+1147,זהב,dhahabu,nouns,1.35
+1148,לעזוב,kupuuza,verbs,0.55
+1149,רשמית,rasmi,adverbs,0.35
+1150,אמבטיה,jiko,nouns,0.85
+1151,הלילה,usiku huu,adverbs,1.4
+1152,לתסכל,kufadhaisha,verbs,2.4
+1153,טיפש,mpumbavu,adjectives,4.6
+1154,להסוות,kuficha,verbs,3.05
+1155,חתן,bibi arusi,nouns,1.15
+1156,תחזית,utabiri,nouns,0.8
+1157,לברך,kukutana,verbs,0.85
+1158,גוף,bega,nouns,1.15
+1159,פיכח,kutolewa,adjectives,0.5
+1160,קבר,kaburi,nouns,1.5
+1161,כביש,barabara,nouns,4.6
+1162,עצרת,mkutano,nouns,4.8
+1163,לנשל,kukataliwa,verbs,1.3
+1164,מדינה,nyumba,nouns,0.75
+1165,להשאיר,enda,verbs,0.75
+1166,רע,poa,adjectives,0.5
+1167,מספר,nambari,nouns,5.4
+1168,קתדרלה,kanisa kuu,nouns,4.25
+1169,טהור,safi,adjectives,0.6
+1170,אוכל,chakula,nouns,0.25
+1171,ישר,enye ukweli,adjectives,0.55
+1172,אינטליגנציה,mantiki,nouns,2.8
+1173,סיפור,hadithi,nouns,0.3
+1174,לפעמים,muda mwingine,adverbs,0.15
+1175,להופיע,kuhudhuria,verbs,3.8
+1176,לציית,kutii,verbs,0.4
+1177,גברים,undugu,nouns,0.9
+1178,ביקורתי,muhimu,adjectives,0.5
+1179,לערבב,kuchanganya,verbs,0.45
+1180,מכונית,daraja,nouns,0.45
+1181,טוב,sawa,adjectives,0.95
+1182,שמחה,amani,nouns,1.05
+1183,כוכב,nyota,nouns,3.17
+1184,להרהר,kuwaza,verbs,5.2
+1185,חרב,sime,nouns,0.3
+1186,תרנגולת,ndege,nouns,2.65
+1187,בוודאי,kwa hakika,adverbs,5.05
+1188,עץ,mti,nouns,0.55
+1189,לעקל,kukuifungia,verbs,0.1
+1190,שונה,wa kawaida,adjectives,0.5
+1191,דוקטור,tabia,nouns,0.0
+1192,אבא,mzazi,nouns,3.8
+1193,עצום,mkubwa sana,adjectives,5.3
+1194,תרבות,utamaduni,nouns,1.55
+1195,ספר,mada,nouns,0.55
+1196,לברר,kuwaza,verbs,0.8
+1197,כיכר,mraba,nouns,0.45
+1198,מחנה,kibanda,nouns,0.9
+1199,כומר,mtawa,nouns,3.25
+1200,בכנות,kwa ukweli,adverbs,0.38
+1201,להיכנס,kuondoka,verbs,0.5
+1202,חלש,dhaifu,adjectives,0.1
+1203,סרטן,maradhi,nouns,2.95
+1204,לדשדש,kuchanganya,verbs,0.4
+1205,חיל הים,jeshi la wanamaji,nouns,0.2
+1206,יד,mguu,nouns,1.05
+1207,קבורה מחדש,zika upya,nouns,1.5
+1208,תחבולן,mweka mipango,nouns,2.9
+1209,זיהום,angahewa,nouns,0.4
+1210,קרדיגן,fulana,nouns,1.9
+1211,לחנוק,kupumua,verbs,0.55
+1212,חדר,kuoga,nouns,0.7
+1213,לספוג,kumiliki,verbs,0.15
+1214,עייף,choka,adjectives,0.45
+1215,מורה,mkufunzi,nouns,4.05
+1216,לחמניה,biskuti,nouns,0.0
+1217,חרק,nyuki,nouns,2.1
+1218,גבר,mjomba,nouns,2.0
+1219,עגל,fahali,nouns,2.4
+1220,אחרי,baada ya,adverbs,0.55
+1221,טיעון,ukosoaji,nouns,1.15
+1222,ילד,patna,nouns,0.55
+1223,ריקוד,densi,nouns,0.35
+1224,סטודנט,profesa,nouns,0.9
+1225,בטן,mshipa,nouns,0.5
+1226,אל,padri,nouns,0.9
+1227,לבקר,kupinga,verbs,0.3
+1228,משרת,mtumishi,nouns,3.8
+1229,שיעור,darasa,nouns,0.1
+1230,להיפצע,kuumia,verbs,1.0
+1231,להדפיס,kuchapisha,verbs,0.1
+1232,ענן,mvuke,nouns,2.2
+1233,לחלוטין,kwa uzima,adverbs,0.55
+1234,מבולגן,chafu,adjectives,0.9
+1235,כובע,koti,nouns,0.8
+1236,מחר,kesho,adverbs,0.55
+1237,עוצמה,nguvu,nouns,4.15
+1238,להרוג,kukinga,verbs,0.45
+1239,סאטירה,satire,nouns,1.75
+1240,לסרב,kukataa,verbs,0.55
+1241,שריר,mkono,nouns,0.85
+1242,מזג אוויר,hali ya hewa,nouns,0.7
+1243,צפון,kusini,nouns,0.8
+1244,לשקר,kudanganya,verbs,0.55
+1245,המון,umati,nouns,4.3
+1246,חור,mke,nouns,0.0
+1247,חוקה,katiba,nouns,0.68
+1248,סירה,sitaha,nouns,1.05
+1249,לשחרר,kukutolewa,verbs,0.5
+1250,גשם,mvua,nouns,1.05
+1251,שיניים,meno,nouns,0.0
+1252,צמא,kua na kiu,adjectives,0.95
+1253,מיקרוסקופ,darubini,nouns,0.8
+1254,להביא,kurudisha,verbs,1.25
+1255,גודל,kina,nouns,1.4
+1256,קצף,puto,nouns,1.85
+1257,טחב,nyasi,nouns,1.65
+1258,עץ,karatasi,nouns,0.85
+1259,משוגע,ana kichaa,adjectives,5.3
+1260,בלתי נסלח,haionekani,adjectives,0.1
+1261,תזמורת,gwaride,nouns,1.95
+1262,מרפאה,kitanda,nouns,0.7
+1263,קופסה,sigara,nouns,0.35
+1264,פנינה,hela,nouns,0.45
+1265,מילה,ishara,nouns,0.55
+1266,לרצות,kuchagua,verbs,1.05
+1267,בעיקר,haswa,adverbs,0.1
+1268,גרף,jedwali,nouns,3.85
+1269,אצטילכולין,acetylcholine,nouns,0.3
+1270,תיבה,kesi,nouns,0.2
+1271,רעב,kua na njaa ,adjectives,0.95
+1272,מהיר,wa kasi,adjectives,4.9
+1273,באלגנטיות,kwa ufasaha,adverbs,1.9
+1274,באופן מוזר,kiajabu,adverbs,0.5
+1275,לכפול,kujumlisha,verbs,1.0
+1276,חשבון,mantiki,nouns,0.75
+1277,סוציוביולוגיה,jamii,nouns,0.4
+1278,להעניש,kuadhibu,verbs,1.43
+1279,להכות,piga,verbs,0.8
+1280,חיפוש,lengo,nouns,0.75
+1281,מורה,mwalimu,nouns,1.3
+1282,בבגרות,kiukomavu,adverbs,0.25
+1283,כבד,mkubwa,adjectives,1.75
+1284,פרלמנט,bunge,nouns,3.35
+1285,ציטופלזמה,cytoplasm,nouns,0.25
+1286,קרושה,krocheti,nouns,0.15
+1287,נהר,bonde,nouns,0.85
+1288,פעם אחת,mara moja,adverbs,1.15
+1289,רופא,mtaalamu wa meno,nouns,2.65
+1290,לשתות,kunywa,verbs,0.45
+1291,גוף,neva,nouns,0.9
+1292,גלריה,nyumba ya sanaa,nouns,0.0
+1293,בטוח,salama,adjectives,0.5
+1294,לסיים,kumaliza,verbs,1.03
+1295,פגיע,walio hatarini,adjectives,0.1
+1296,חדש,ya zamani,adjectives,0.55
+1297,צונאמי,sunami,nouns,1.05
+1298,אלפבית,alphabeti,nouns,0.4
+1299,בולט,wazi,adjectives,2.8
+1300,קל,imara,adjectives,0.55
+1301,נביא,nabii,nouns,2.45
+1302,ארמון,jumba la kubwa,nouns,2.2
+1303,שסתום,pistoni,nouns,1.55
+1304,ארוך,mfupi,adjectives,0.55
+1305,שארית,baki,nouns,1.05
+1306,כדור,mavazi,nouns,0.25
+1307,בית,fleti,nouns,4.15
+1308,גבול,mpaka,nouns,4.2
+1309,גמור,malizika,adjectives,2.95
+1310,רגל,mguu,nouns,0.25
+1311,צריף,makao,nouns,1.2
+1312,משרד,ofisi,nouns,0.9
+1313,משוגע,mgonjwa,adjectives,0.8
+1314,ערפל,wingu,nouns,2.67
+1315,כותנה,plastiki,nouns,0.75
+1316,בעדינות,kwa uangalifu,adverbs,0.0
+1317,לגיון,jeshi,nouns,3.2
+1318,משורר,mshairi,nouns,1.0
+1319,לחשוב,kuamua,verbs,1.45
+1320,גבר,baba,nouns,2.85
+1321,אשראי,mkopo,nouns,1.25
+1322,לגחך,kukenua,verbs,3.85
+1323,טופולוגיה,upangilio,nouns,3.05
+1324,ללכת,kuruhusu,verbs,0.05
+1325,עסק,kampuni,nouns,2.85
+1326,גאוני,mwenye akili,adjectives,0.75
+1327,שוקולד,keki,nouns,0.95
+1328,במרץ,kwa uhai,adverbs,0.25
+1329,לסמוך,tegemea,verbs,0.25
+1330,להתגבר,kutawala,verbs,1.0
+1331,לדבר,kusikia,verbs,0.7
+1332,להשאיר,kupata,verbs,0.45
+1333,בבטחה,kwa kujiamini,adverbs,0.5
+1334,משכורת,ada,nouns,0.65
+1335,להופיע,kutumbuiza,verbs,0.35
+1336,מסכן,maskini,adjectives,0.1
+1337,חלום,ndoto,nouns,0.45
+1338,צנוע,mnyenyekevu,adjectives,0.6
+1339,חול,mchanga,nouns,0.25
+1340,להביא,kuja,verbs,0.6
+1341,בבטחה,kwa usalama,adverbs,0.35
+1342,כלה,mtoto wa mfalme,nouns,0.65
+1343,מתון,vuguvugu,adjectives,0.45
+1344,כתב יד,muswada,nouns,1.65
+1345,מעיל,kofia,nouns,0.8
+1346,בנחישות,kiukakamavu,adverbs,0.3
+1347,לחם,nyama,nouns,0.55
+1348,תהילה,utajiri,nouns,0.95
+1349,שחמט,chess,nouns,3.25
+1350,זרע,mbegu,nouns,0.55
+1351,שמחה,furaha,nouns,0.65
+1352,להכחיש,kukana,verbs,1.45
+1353,בור,mjinga,adjectives,0.05
+1354,אל,roho,nouns,1.65
+1355,רע,ana hatia,adjectives,1.35
+1356,ניתוח,moyo,nouns,0.75
+1357,שיר,tuni,nouns,3.45
+1358,תוקפני,kwa mabavu,adjectives,0.75
+1359,פיל,ndovu,nouns,0.28
+1360,וירוס,kirusi,nouns,0.8
+1361,מכונית,gari,nouns,1.1
+1362,מיץ,juisi,nouns,0.25
+1363,מחברת,daftari,nouns,0.0
+1364,ענן,hali ya hewa,nouns,1.35
+1365,להתארס,kuoa,verbs,2.5
+1366,מבחן,mtihani,nouns,0.65
+1367,באופן ידידותי,kirafiki,adverbs,0.0
+1368,להריח,kunusia,verbs,1.3
+1369,רע,wa dhambi,adjectives,2.25
+1370,מצביע,kionyeshi,nouns,0.2
+1371,לקבל,kupeleka,verbs,0.5
+1372,מציאות,ndoto,nouns,0.7
+1373,לנצח,kufanikisha,verbs,2.55
+1374,ארוחה,nyama ya nguruwe,nouns,1.1
+1375,אוטו,gari,nouns,5.85
+1376,לחקות,kuiga,verbs,0.15
+1377,דמעה,jicho,nouns,1.45
+1378,משונה,wa kigeni,adjectives,3.75
+1379,להאשים,kushtaki,verbs,0.4
+1380,תסריטאי,mwandishi wa filamu,nouns,0.8
+1381,מטופל,mgonjwa,nouns,0.55
+1382,לקבל,kujipatia,verbs,1.85
+1383,קל,ana shida,adjectives,0.45
+1384,שטח,mkoa,nouns,4.45
+1385,לבדר,kufurahia,verbs,2.3
+1386,ערמומי,njia za panya,adjectives,1.65
+1387,טרי,mpana,adjectives,0.0
+1388,מורה,msaidizi,nouns,1.1
+1389,תקרה,paa,nouns,4.05
+1390,עבד,falahi,nouns,3.8
+1391,עצם,meno,nouns,0.9
+1392,נורא,kwa hasira,adverbs,0.45
+1393,מצעד,umati,nouns,1.0
+1394,לקבל,kununua,verbs,0.75
+1395,בצורת,ukame,nouns,0.55
+1396,אחרת,tofauti,adverbs,0.5
+1397,עיתון,neno,nouns,0.85
+1398,להתייפח,kutoa machozi,verbs,5.15
+1399,בחור,patna,nouns,0.85
+1400,באולינג,bowling,nouns,2.7
+1401,שמיים,anga,nouns,0.45
+1402,שלג,hali ya hewa,nouns,0.8
+1403,צלחת,bakuli,nouns,2.95
+1404,שלום,furaha,nouns,1.05
+1405,מנעול,kufuli,nouns,1.35
+1406,בבטחה,kwa ulinzi,adverbs,2.3
+1407,מורכב,rahisi,adjectives,0.45
+1408,פה,pua,nouns,0.8
+1409,להסריח,kutoa harufu,verbs,1.3
+1410,בשר,mkate,nouns,0.55
+1411,משימה,mgawo,nouns,0.45
+1412,יום הולדת,tarehe,nouns,1.5
+1413,לנחש,kubuni,verbs,0.05
+1414,גוף,kifua,nouns,1.75
+1415,לבהות,kukondoa macho,verbs,0.9
+1416,לשיר,kuimba,verbs,0.2
+1417,לצבוט,kufinya,verbs,0.4
+1418,למצוא,kujipatia,verbs,1.0
+1419,בזהירות,kwa uangalifu,adverbs,2.3
+1420,לאשר,kukubali,verbs,4.55
+1421,משימה,majani makavu,nouns,0.0
+1422,להתחבק,kumbatia,verbs,4.35
+1423,אב,kaka,nouns,1.05
+1424,מיטה,blanketi,nouns,1.35
+1425,שח,saratanji,nouns,3.25
+1426,לשמור,kubaki,verbs,0.4
+1427,נהר,bahari,nouns,2.3
+1428,קיבה,kiuno,nouns,0.95
+1429,טפטוף,mvua,nouns,3.85
+1430,ענן,ukungu,nouns,3.15
+1431,לבדר,kujipendekeza,verbs,0.3
+1432,מים,chumvi,nouns,0.7
+1433,מבוהל,kua na uoga,adjectives,0.95
+1434,כעס,ghadhabu,nouns,4.9
+1435,פסגה,chini,nouns,0.6
+1436,תובנה,ukweli,nouns,2.05
+1437,טלויזיה,runinga,nouns,1.8
+1438,לשון,misuli,nouns,0.85
+1439,בגדים,kabati,nouns,0.8
+1440,נייר,kadibodi,nouns,2.1
+1441,כדורגל,burudani,nouns,0.85
+1442,להקטין,kupunguza,verbs,0.25
+1443,אמא,rafiki,nouns,0.7
+1444,תיאוריה,kemia,nouns,0.25
+1445,כשירות,uelekevu,nouns,3.55
+1446,קוד,alama,nouns,2.15
+1447,בקר,mifugo,nouns,0.55
+1448,פול,kahawa,nouns,0.9
+1449,להשאיל,kupa,verbs,2.3
+1450,כריך,chakula cha mchana,nouns,1.8
+1451,מושחת,haramu,adjectives,2.4
+1452,ללחוש,kunong'oneza,verbs,1.7
+1453,להרגיז,kuchukiza,verbs,0.8
+1454,אקדח,alfajiri,nouns,0.0
+1455,סימולציה,onyesho,nouns,0.6
+1456,משאית,lori,nouns,3.4
+1457,מחלה,saratani,nouns,2.95
+1458,ללבוש,kuvaa,verbs,0.25
+1459,תמוה,mgeni,adjectives,4.45
+1460,לטעון,kutetea,verbs,0.85
+1461,גבר,mwanamke,nouns,1.05
+1462,לכאורה,inaonekana,adverbs,0.35
+1463,שחר,mchana,nouns,1.65
+1464,גב,shingo,nouns,0.9
+1465,פוליאסטר,pamba,nouns,0.75
+1466,תזמורת,bendi,nouns,4.35
+1467,מקצב,mahadhi,nouns,1.45
+1468,להחזיק,kushikilia,verbs,2.25
+1469,לקלקל,kuharibu,verbs,0.05
+1470,מכה,pigo,nouns,0.0
+1471,פרוזדור,darasa,nouns,0.4
+1472,סטודנט,mwanachuo,nouns,4.8
+1473,קהל,kikundi,nouns,4.3
+1474,מחוץ לנישואין,nje ya ndoa,adjectives,0.1
+1475,טייס,rubani msaidizi,nouns,0.6
+1476,אבץ,zinki,nouns,1.35
+1477,ספינת תותחים,meli ya vita,nouns,0.7
+1478,חוקי,halali,adjectives,0.6
+1479,נשיא,mwanasiasa,nouns,2.55
+1480,מטוס,ndege,nouns,0.0
+1481,אך ורק,kweli,adverbs,1.45
+1482,להרים,nyanyua,verbs,1.0
+1483,עורלה,govi,nouns,1.8
+1484,עכבר,menejimenti,nouns,0.0
+1485,חתול,simba,nouns,1.35
+1486,כסף,almasi,nouns,0.8
+1487,לדבר,kutambua,verbs,0.5
+1488,לעזור,kufadhili,verbs,5.4
+1489,דק,mwembamba,adjectives,3.75
+1490,לפספס,kukosa,verbs,0.5
+1491,לא סביר,sio rahisi,adverbs,0.0
+1492,דולר,watu,nouns,0.4
+1493,מושחת,mbaya,adjectives,2.25
+1494,בבית,nyumbani,adverbs,0.55
+1495,לבחון,kukagua,verbs,3.45
+1496,ראוי,wa heshima,adjectives,0.5
+1497,אחווה,baseball,nouns,0.25
+1498,ביוגרפיה,habari za kubuniwa,nouns,0.85
+1499,לקבל,kupendekeza,verbs,0.8
+1500,לנסות,kujaribu,verbs,0.75
+1501,סכנה,tishio,nouns,4.15
+1502,באופן סביל,kwa kutegemewa,adverbs,0.5
+1503,ברד,mvua ya mawe,nouns,3.25
+1504,לפזול,kufinya macho,verbs,0.9
+1505,מוסיקה,tuni,nouns,4.1
+1506,פשוט,kirahisi,adverbs,0.35
+1507,בשמחה,kwa furaha,adverbs,0.32
+1508,לדמיין,kujifanya,verbs,0.55
+1509,מיטה,chumba cha kulala,nouns,1.35
+1510,משעמם,wa kuchekesha,adjectives,0.5
+1511,מייפל,mnazi,nouns,1.5
+1512,דלת,uwepo,nouns,0.15
+1513,להיות ראוי,kuchuma,verbs,0.15
+1514,מוח,neva,nouns,0.5
+1515,רך,laini,adjectives,0.35
+1516,באופן מקומי,kienyeji,adverbs,0.1
+1517,כניסה,mlango,nouns,3.15
+1518,פופקורן,bisi,nouns,0.55
+1519,לחפש,kutafuta,verbs,0.95
+1520,נטייה,inflection,nouns,0.8
+1521,כשירות,uwezo,nouns,4.5
+1522,שחר,usiku,nouns,0.8
+1523,פטרוזיליה,pasile,nouns,0.4
+1524,מידע,kitabu,nouns,1.05
+1525,בית,ufunguo,nouns,1.05
+1526,מטאטא,ufagio,nouns,0.85
+1527,מטורף,ana wazimu,adjectives,5.3
+1528,להתווכח,kukubaliana,verbs,0.6
+1529,מולקולה,atomu,nouns,2.65
+1530,בשר,steki,nouns,4.2
+1531,להפוך,kufanikisha,verbs,0.45
+1532,שיר,wimbo,nouns,0.65
+1533,יקר,ghali,adjectives,0.05
+1534,ללגום,kukunywa,verbs,4.55
+1535,להיפגש,kukutana,verbs,0.05
+1536,יוצא,inayotoka,adjectives,0.7
+1537,לאסוף,kuokoa,verbs,1.3
+1538,לחוץ,kusisitiza,adjectives,0.5
+1539,סוכר,asali,nouns,2.25
+1540,לוח אם,bodi mama(mama as central),nouns,5.3
+1541,מכונית,motokaa,nouns,5.85
+1542,גודל,mbinu,nouns,0.0
+1543,בישוף,askofu,nouns,0.7
+1544,לחשוב,kutafakari,verbs,5.2
+1545,הרחק,ugenini,adverbs,0.55
+1546,אקדח,bunduki,nouns,0.0
+1547,להאמין,kujua,verbs,0.85
+1548,להעיד,kushuhudia,verbs,0.7
+1549,לקבל,kutuma,verbs,0.6
+1550,כבש,mifugo,nouns,2.95
+1551,לקחת,kuondoka,verbs,0.15
+1552,ספרות,kitabu,nouns,2.0
+1553,למנוע,kukataa,verbs,1.05
+1554,אחיין,shangazi,nouns,0.75
+1555,עצם,misuli,nouns,0.75
+1556,לעזוב,kuingia,verbs,0.5
+1557,נורא,mwenye huzuni,adjectives,0.85
+1558,לבלבל,kuchanganya,verbs,0.3
+1559,מדהים,kushangaza,adjectives,0.15
+1560,ביולוגיה,biolojia,nouns,1.15
+1561,הרמוניה,umoja,nouns,0.5
+1562,אמבטיה,chumba cha kulala,nouns,0.65
+1563,צר,mpana,adjectives,0.55
+1564,ליצור,kutengeneza,verbs,2.17
+1565,מאפין,muffini,nouns,0.4
+1566,להגיד,kuhakikisha,verbs,0.45
+1567,להרוס,kujenga,verbs,0.55
+1568,רגיל,kawaida,adjectives,0.53
+1569,יין,brandi,nouns,2.85
+1570,טלפון סללורי,simu mahiri,nouns,0.0
+1571,זרוע,mwili,nouns,1.7
+1572,מעיק,kulivu,adjectives,0.1
+1573,בלבול,kichaa,nouns,1.0
+1574,כישרון,zawadi,nouns,0.65
+1575,חדשני,bunifu,adjectives,3.4
+1576,חופש,uhuru,nouns,4.95
+1577,פגישה,shughuli,nouns,0.65
+1578,נוסחה,kuzidisha,nouns,0.2
+1579,מלך,mfalme,nouns,4.5
+1580,מייפל,mti,nouns,2.85
+1581,תפריט,agizo,nouns,1.0
+1582,סונטה,ushairi,nouns,0.2
+1583,סולטן,sultani,nouns,0.55
+1584,בקביעות,mara kwa mara,adverbs,1.15
+1585,חיית מחמד,paka,nouns,2.95
+1586,להגיע,kuleta,verbs,0.6
+1587,במדוייק,kwa usahihi,adverbs,0.85
+1588,חודשי,kila mwezi,adjectives,0.85
+1589,רופא,kanali,nouns,0.35
+1590,גלוי,bila siri,adjectives,0.65
+1591,גבה,jicho,nouns,0.8
+1592,שגוי,kosa,adjectives,0.5
+1593,לצחוק,kucheka,verbs,0.4
+1594,אבא,mwanaume,nouns,2.85
+1595,מורה,rabai,nouns,1.8
+1596,נקי,safi,adjectives,4.8
+1597,אלגברה,algebra,nouns,0.5
+1598,מטוס,uwanja wa ndege,nouns,1.55
+1599,עליונות,ukuu,nouns,2.3
+1600,עז,ngombe,nouns,1.1
+1601,קשה,rahisi,adjectives,0.55
+1602,עיר,jiji,nouns,4.05
+1603,לעצבן,kuongeza,verbs,0.45
+1604,סמל,insilia,nouns,0.65
+1605,גישה,hakika,nouns,0.35
+1606,להשאיל,kutaka,verbs,0.4
+1607,הרבה,nyingi zaidi,adverbs,0.8
+1608,המרה,uongofu,nouns,0.45
+1609,דבש,sukari,nouns,2.25
+1610,להכות,kupiga,verbs,2.45
+1611,תלותי,mhitaji,adjectives,0.65
+1612,מתבייש,ana hatia,adjectives,0.55
+1613,ישר,nyooka,adjectives,0.6
+1614,לתעב,kuchukia,verbs,0.7
+1615,אחרת,kitofauti,adverbs,0.1
+1616,רעד,kutetemeka,nouns,2.45
+1617,פשע,udanganyifu,nouns,2.7
+1618,מסיבה,sherehe,nouns,0.5
+1619,לצלול,piga mbizi,verbs,0.1
+1620,לגלות,kufanya utafiti,verbs,2.65
+1621,קמע,kutokea kwenye onyesho,nouns,0.6
+1622,קש,jukumu,nouns,0.0
+1623,מדים,sare,nouns,0.15
+1624,פחית,kopo,nouns,1.9
+1625,אנשים,senti,nouns,0.65
+1626,לזרוח,kuangaza,verbs,3.8
+1627,מסוק,helikopta,nouns,3.3
+1628,לסת,mfupa,nouns,0.95
+1629,דגל,bendera,nouns,1.1
+1630,פשע,kosa,nouns,2.65
+1631,משפט,hukumu,nouns,0.9
+1632,מלח,maji,nouns,0.7
+1633,להימלט,kukimbia,verbs,4.7
+1634,ללכת,kutembea,verbs,1.85
+1635,דלת,mlangoni,nouns,3.15
+1636,עתיק,wa kisasa,adjectives,0.55
+1637,להגיע,kukusanya,verbs,1.1
+1638,במאי,mkurugenzi,nouns,0.6
+1639,פסיקה,kesi,nouns,1.75
+1640,לגנוב,iba,verbs,0.8
+1641,להזכיר,kumbusha,verbs,1.1
+1642,מציאה,maafikiano,nouns,0.25
+1643,תובע,mwendesha mashtaka,nouns,3.0
+1644,חור,mapatano,nouns,0.0
+1645,נכנס,inayoingia,adjectives,0.7
+1646,קורבן,mwathirika,nouns,0.15
+1647,ילדותי,kutokomaa,adjectives,0.5
+1648,להתכוון,kuania,verbs,0.9
+1649,באופן אמין,kwa kuaminika,adverbs,0.2
+1650,הפוך,kinyume,adjectives,0.3
+1651,בקלות,wepesi,adverbs,0.4
+1652,תאורמה,nadharia,nouns,1.75
+1653,חסר בית,wasio na makazi,nouns,0.45
+1654,כנסייה,kwaya,nouns,1.5
+1655,עצב,huzuni,nouns,0.65
+1656,קורה,mbao,nouns,2.3
+1657,סעודה,kuku,nouns,0.65
+1658,הכחשה,kukiri,nouns,0.45
+1659,מבוגר,mtoto mchanga,nouns,0.8
+1660,עבריין,mkosaji,nouns,5.35
+1661,פסגה,upande,nouns,0.5
+1662,לנחור,kung'orota,verbs,0.5
+1663,לסייע,kusaidia,verbs,5.4
+1664,שדה תעופה,uwanja wa ndege,nouns,0.1
+1665,לעצור,kukamatwa,verbs,0.4
+1666,באופן פסיבי,pasipo tu,adverbs,0.4
+1667,לדכא,kutia moyo,verbs,0.6
+1668,משפטן,mwanasheria,nouns,4.75
+1669,שותף,mvulana,nouns,0.7
+1670,גדר,uzio,nouns,0.35
+1671,ענן,wingu,nouns,0.3
+1672,חוט,nyuzi,nouns,5.15
+1673,לשכוח,kujua,verbs,0.55
+1674,חדשות,vyombo vya habari,nouns,2.45
+1675,רכבת,treni,nouns,2.15
+1676,הכרחי,muhimu,adjectives,3.05
+1677,תפוח,mpangilio wa chakula,nouns,0.55
+1678,מוכר,julikana,adjectives,2.8
+1679,טוב,nzuri,adjectives,0.45
+1680,כחול,bluu,adjectives,1.05
+1681,אוטובוס,teksi,nouns,2.35
+1682,שריר,mfupa,nouns,0.75
+1683,יפה,ana ajabu,adjectives,1.15
+1684,שחיתות,rushwa,nouns,2.4
+1685,ציפורן,mkono,nouns,0.8
+1686,גשם,manyunyu,nouns,3.85
+1687,נושא,hadithi,nouns,0.8
+1688,תפוח,mwanga wa jua,nouns,0.05
+1689,לחנוק,kuwa nyororo,verbs,0.35
+1690,סעודה,supu,nouns,1.1
+1691,עצום,mdogo,adjectives,0.55
+1692,לברר,kuhitaji,verbs,0.6
+1693,לשלוט,kushinda,verbs,1.07
+1694,ישן,mbivu,adjectives,0.55
+1695,רדאר,rada,nouns,0.4
+1696,מורתח,chemshwa,adjectives,3.6
+1697,מטומטם,mjinga,adjectives,4.6
+1698,בבהירות,kwa ukali,adverbs,0.28
+1699,בסיס,msingi,nouns,0.55
+1700,להתחיל,kwenda,verbs,0.2
+1701,בית,kapeti,nouns,0.6
+1702,אבקן,stameni,nouns,2.15
+1703,מעורבב,kumbakumba,adjectives,0.0
+1704,להגביר,kuongeza,verbs,1.55
+1705,לשלוח,kwenda,verbs,0.4
+1706,סיפור,mada,nouns,0.8
+1707,לשמור,kusahau,verbs,0.5
+1708,בהכרח,kwa ulazima,adverbs,0.5
+1709,ללכת,kuja,verbs,0.7
+1710,שיר,hadithi,nouns,1.5
+1711,שבועי,kwa wiki,adjectives,0.85
+1712,להיכחד,kutoweka,verbs,5.1
+1713,יופי,uzuri,nouns,0.2
+1714,שיניים,kinywa,nouns,1.4
+1715,יהלום,hela,nouns,0.8
+1716,מסודר,kwa mpangilio,adjectives,0.5
+1717,עקום,isiyonyooka,adjectives,4.85
+1718,סיעור מוחות,changamsha bongo,nouns,0.0
+1719,אינטליגנטי,mpumbavu,adjectives,0.55
+1720,בורות,akili,nouns,0.65
+1721,אנרכיה,vurugu,nouns,4.55
+1722,כרגע,kwa sasa,adverbs,0.0
+1723,ללכת,kuuza,verbs,0.05
+1724,לעודד,kukanya,verbs,0.6
+1725,חלק,nyororo,adjectives,0.45
+1726,מצב,hasira,nouns,0.4
+1727,ילד,mvulana,nouns,3.8
+1728,לנדוד,kuzurura,verbs,5.05
+1729,משחק,mbinu,nouns,1.0
+1730,בדרך כלל,kwa kawaida,adverbs,0.45
+1731,יומיומי,kila siku,adverbs,3.3
+1732,לרדוף,kimbiza,verbs,2.05
+1733,חדשות,porojo,nouns,1.65
+1734,נוח,rahisi,adjectives,0.1
+1735,ביתן,kambi,nouns,0.9
+1736,נוכחות,mshindi,nouns,0.05
+1737,בחשיבות,bila masihara,adverbs,2.65
+1738,הצגה,onyesha,nouns,0.05
+1739,ורד,waridi,nouns,0.3
+1740,טרגדיה,kifo,nouns,2.1
+1741,להתחזות,kuonekana,verbs,0.7
+1742,תגמול,thawabu,nouns,4.35
+1743,תוכנית,mradi,nouns,0.25
+1744,לחנוק,kuziba,verbs,0.35
+1745,שבוע,wikendi,nouns,1.7
+1746,פילוסוף,mphilisophia,nouns,0.0
+1747,מזל,furaha,nouns,0.65
+1748,שחקן,mwigaji,nouns,0.73
+1749,אמן,msanii,nouns,1.15
+1750,מיכל,panya,nouns,0.0
+1751,אובך,wingu,nouns,1.25
+1752,מלוכלך,chafu,adjectives,0.15
+1753,כביש,gari,nouns,0.95
+1754,לכסות,kufunika,verbs,1.98
+1755,ללמוד,kuchambua,verbs,0.7
+1756,בטן,chumba cha kulala,nouns,0.05
+1757,שמלה,gauni,nouns,0.35
+1758,חזק,mwenye nguvu,adjectives,0.6
+1759,מבוגר,mtoto,nouns,0.85
+1760,יפה,kwa uzuri,adverbs,1.9
+1761,לעשות,kuumba,verbs,4.25
+1762,סיגר,sanduku ,nouns,0.35
+1763,מגירה,nguo,nouns,0.9
+1764,שלום,amani,nouns,0.5
+1765,להשפיל,kuaibisha,verbs,0.35
+1766,כלה,bwana arusi,nouns,1.15
+1767,לרדת,teremka,verbs,1.1
+1768,לבזבז,takataka,verbs,0.1
+1769,לנסות,kutimiza,verbs,0.7
+1770,שקיעה,machweo,nouns,0.0
+1771,בפתיחות,wazi,adverbs,0.4
+1772,לחשוב,kutafiti,verbs,0.8
+1773,באופן מציאותי,kwelikweli,adverbs,0.1
+1774,לקבל,kupa,verbs,1.2
+1775,לכתוב,kuchorachora,verbs,2.65
+1776,שור,farasi,nouns,1.0
+1777,מטומטם,mkubwa mno,adjectives,0.1
+1778,כלי,zeze,nouns,1.6
+1779,לדכא,kufeli,verbs,0.3
+1780,יארד,mita,nouns,3.1
+1781,בר השגה,nafuu,adjectives,2.55
+1782,מנורה,taa,nouns,0.45
+1783,פיקח,mpumbavu,adjectives,0.55
+1784,להסתכל,kuangalia,verbs,5.45
+1785,להבהיר,kueleza,verbs,4.35
+1786,אנשים,dola,nouns,0.4
+1787,אוזון,ozoni,nouns,3.1
+1788,נרגש,sisimka,adjectives,0.95
+1789,חייל,mvulana,nouns,0.55
+1790,כף,kijiko,nouns,0.25
+1791,בישוף,askofu mkuu,nouns,3.8
+1792,לשכוח,kudumisha,verbs,0.5
+1793,בנדיבות,kwa fadhili,adverbs,2.35
+1794,לדחות,kukataa,verbs,0.1
+1795,חבר,mvulana,nouns,1.05
+1796,נשמה,kaka,nouns,0.15
+1797,מבולגן,chafu,adjectives,0.5
+1798,עין,nyusi,nouns,0.8
+1799,תקרה,kanisa kuu,nouns,0.5
+1800,לצלוע,kuchechemea,verbs,1.85
+1801,התזה,chubwi,nouns,0.25
+1802,ברכות,kwa upole,adverbs,0.25
+1803,בעוצמה,kwa ukubwa,adverbs,0.4
+1804,מכללה,weledi,nouns,0.95
+1805,מאמנים,wakufunzi,nouns,0.8
+1806,לקחת,kuchukua,verbs,0.95
+1807,צבא,jeshi la wanamaji,nouns,3.65
+1808,קורס,tumbo,nouns,0.05
+1809,לבלוע,meza,verbs,2.05
+1810,ישן,mpya,adjectives,0.55
+1811,בחוזקה,kwa ukakamavu,adverbs,1.35
+1812,לוח אם,bodi kuu,nouns,5.3
+1813,מוט,pazia,nouns,0.75
+1814,ללכת,kuenda,verbs,2.55
+1815,לגמרי,kwa ukamilifu,adverbs,1.45
+1816,מעסיק,mwajiriwa,nouns,1.0
+1817,לתת,kujua,verbs,0.0
+1818,לקנות,kununua,verbs,2.5
+1819,לאפשר,kuruhusu,verbs,0.05
+1820,ענן,vumbi,nouns,1.25
+1821,אצבע,kiganja,nouns,1.45
+1822,דבורה,mdudu,nouns,2.1
+1823,שוטר,polisi,nouns,0.47
+1824,כתר,taji,nouns,0.0
+1825,מפעל,gari,nouns,0.5
+1826,לחנוק,kutakata,verbs,0.25
+1827,מינק,mafuta,nouns,0.15
+1828,תחזית,theluji,nouns,0.8
+1829,לשוחח,kueleza,verbs,1.4
+1830,בייסבול,undugu,nouns,0.25
+1831,להתעלם,kufanya utafiti,verbs,0.3
+1832,שופט,hakimu,nouns,1.9
+1833,קריקט,kriketi,nouns,0.3
+1834,בכנות,kwa kweli,adverbs,0.0
+1835,להתעלם,kupuuza,verbs,0.1
+1836,וידוי,kanusho,nouns,0.45
+1837,מועסק,mwajiri,nouns,1.0
+1838,ספה,kiti,nouns,2.9
+1839,רשמי,sahihi,adjectives,1.2
+1840,זווית,tao,nouns,2.05
+1841,נורא,hatari sana,adverbs,0.15
+1842,להתבונן,kutazama,verbs,5.45
+1843,בטיחות,starehe,nouns,0.9
+1844,כדור,mpira,nouns,2.2
+1845,רגשית,kwa hisia,adverbs,1.15
+1846,לדחות,kutoa,verbs,0.25
+1847,צוואר,uti,nouns,0.9
+1848,אגם,bwawa,nouns,2.1
+1849,רהיט,kitanda,nouns,2.5
+1850,רחב,mwembamba,adjectives,0.55
+1851,גדול,rahisi,adjectives,0.4
+1852,נשק,silaha,nouns,0.95
+1853,קורא,mtunzi,nouns,0.7
+1854,טיפשי,mpumbavu,adjectives,4.65
+1855,סבולת,ua,nouns,0.0
+1856,חלון,dirisha,nouns,0.65
+1857,אנרגיה,nishati,nouns,1.45
+1858,להתפלל,kuwasiliana,verbs,0.8
+1859,לבנים,chupi,nouns,0.2
+1860,בינוני,ya kawaida,adjectives,0.95
+1861,חוף,mchanga,nouns,1.3
+1862,רחב,mwembamba,adjectives,0.55
+1863,לבנות,kuumba,verbs,4.15
+1864,להתאחד,kuungana,verbs,3.1
+1865,לשנוא,chukia,verbs,0.25
+1866,לעזור,kusaidia,verbs,1.1
+1867,לאבד,poteza,verbs,0.0
+1868,אגודל,ukucha,nouns,1.45
+1869,לעומק,kwa undani,adverbs,0.7
+1870,סוף שבוע,wikiendi,nouns,0.05
+1871,צוק,kilima,nouns,2.65
+1872,ירח,sayari,nouns,1.6
+1873,להשתכר,kustahili,verbs,0.15
+1874,לסלוח,samehea,verbs,5.4
+1875,מיטה,kochi,nouns,1.85
+1876,להודיע,kutambua,verbs,1.0
+1877,להגיע,kuondoka,verbs,0.5
+1878,ציפורן,kidole gumba,nouns,1.45
+1879,קיר,pambo,nouns,0.5
+1880,זריז,wa haraka,adjectives,4.9
+1881,זמר,mwimbaji,nouns,0.95
+1882,בדרך כלל,kwa kawaida,adverbs,3.3
+1883,לעזוב,kuchukua,verbs,0.15
+1884,ליקר,karne,nouns,0.0
+1885,חשמלית,tramu,nouns,2.15
+1886,לתאר,kuamua,verbs,0.25
+1887,ערמומי,imara,adjectives,0.6
+1888,לדרג,kiwango,verbs,1.2
+1889,לתת,kutoa,verbs,0.5
+1890,חבר,mama,nouns,0.7
+1891,דיפלומטיה,diplomasia,nouns,1.65
+1892,לקבל,kushindwa,verbs,0.5
+1893,מדוייק,uhakika,adjectives,0.5
+1894,דביק,natanata,adjectives,0.8
+1895,מלך,mfalme,nouns,0.6
+1896,גרון,ulimi,nouns,1.15
+1897,תובנה,akili,nouns,2.5
+1898,שוטר,askari,nouns,4.85
+1899,ידית,mpini,nouns,0.15
+1900,עצבני,mchanga,adjectives,0.3
+1901,ניטרלי,upande wowote,adjectives,0.7
+1902,לשפוט,kuhukumu,verbs,2.13
+1903,מעיל,nguo,nouns,2.4
+1904,קיצוני,fikra mpya,adjectives,0.6
+1905,מטומטם,ana akili,adjectives,0.55
+1906,צד,chini,nouns,1.15
+1907,מיטה,hospitali,nouns,0.7
+1908,אלון,mpera,nouns,1.5
+1909,טניס,tenisi,nouns,0.1
+1910,שמיים,jua,nouns,1.25
+1911,כוס,kijiko,nouns,1.1
+1912,חלש,dhaifu,adjectives,0.6
+1913,המנון,majani makavu,nouns,0.0
+1914,להלוות,kudaiwa,verbs,1.1
+1915,מנגינה,muziki,nouns,4.1
+1916,קומה,paa,nouns,0.75
+1917,מובך,jisikia aibu,adjectives,0.55
+1918,לדחות,kukataa,verbs,1.55
+1919,צר,nyembamba,adjectives,1.88
+1920,מנוע,mota,nouns,5.4
+1921,עובד,makanika,nouns,1.75
+1922,לעיתים,mara chache,adverbs,1.15
+1923,כובע,sanduku,nouns,0.1
+1924,נורמלי,tofauti,adjectives,0.5
+1925,חץ,lengo,nouns,1.1
+1926,מאוד,kwa umaradufu,adverbs,1.35
+1927,להחליט,kufikiria,verbs,1.45
+1928,אח,kaka,nouns,2.3
+1929,לצעוד,kutembea ,verbs,0.7
+1930,ראש,kichwa,nouns,1.15
+1931,אוהד,msaidizi,nouns,0.3
+1932,מתוחכם,kisasa,adjectives,0.55
+1933,הכרחי,sio wa lazima,adjectives,0.6
+1934,עתיק,mpya,adjectives,0.6
+1935,להריח,kunusa,verbs,0.05
+1936,תמימות דעים,mapatano,nouns,0.6
+1937,ילד,mwanajeshi,nouns,0.55
+1938,הסכמה,pambano,nouns,0.55
+1939,אמיתי,halisi,adjectives,0.6
+1940,להטות,kupendelea,verbs,3.3
+1941,קינמון,mdalasini,nouns,0.75
+1942,יציאה,mahali ya kutokea,nouns,0.0
+1943,כף רגל,mguu,nouns,0.55
+1944,עובד,kamera,nouns,0.1
+1945,מלגה,ufadhili wa elimu,nouns,1.6
+1946,פלילי,wa dhambi,adjectives,2.4
+1947,ילד,wali,nouns,0.2
+1948,להפוך,kujitokeza,verbs,0.65
+1949,עורך דין,mwanasheria,nouns,0.0
+1950,חדשות,habari,nouns,1.4
+1951,חשוב,umuhimu zaidi,adverbs,0.7
+1952,טלה,kondoo,nouns,3.65
+1953,להעניש,kuadhibu,verbs,0.7
+1954,אנושות,kwa uweledi,adverbs,0.3
+1955,כתף,kichwa,nouns,1.1
+1956,נץ,ndege,nouns,2.9
+1957,אשליה,uhalisi,nouns,0.55
+1958,להתלונן,kuleta,verbs,0.05
+1959,להחמיר,kukuza,verbs,0.1
+1960,רחב,mbivu,adjectives,0.0
+1961,ציקלון,kimbunga,nouns,4.5
+1962,חזק,wa kujivunia,adjectives,0.2
+1963,להתווכח,kujadili,verbs,0.4
+1964,מכנית,kwa ustadi,adverbs,0.45
+1965,חג,likizo,nouns,0.8
+1966,שדה תעופה,ndege,nouns,1.55
+1967,אמבטיה,puto,nouns,0.05
+1968,באופן לא מדויק,si kwa usahihi,adverbs,0.5
+1969,מנטה,mti wa minti,nouns,0.6
+1970,נוכחות,kutokuwepo,nouns,0.65
+1971,סנוברד,ubao wa theluji,nouns,2.55
+1972,צמיחה,ukuaji,nouns,0.7
+1973,רוח,mungu,nouns,1.65
+1974,מנהלה,menejimenti,nouns,2.8
+1975,מכונית,honi,nouns,0.95
+1976,בשקט,kwa ukimya,adverbs,0.2
+1977,לאמת,kusema,verbs,0.45
+1978,בנימוס,kwa unyenyekevu,adverbs,0.1
+1979,קומבינציה,mjumuiko,nouns,2.5
+1980,דלת,undugu,nouns,0.0
+1981,פרה,mbuzi,nouns,1.1
+1982,עליון,juu,adjectives,0.25
+1983,צנזורה,udhibiti,nouns,0.65
+1984,באופן שלילי,kwa ubaya,adverbs,0.55
+1985,להתאמן,kujiandaa,verbs,0.35
+1986,להילחם,kupigana,verbs,0.6
+1987,לעיתים קרובות,mara nyingi,adverbs,1.3
+1988,באופן לא הוגן,bila haki,adverbs,0.75
+1989,לשכוח,kupuuza,verbs,1.6
+1990,גוף,mwili,nouns,0.45
+1991,תינוק,mtu mzima,nouns,0.8
+1992,באופן אחראי,kwa uwajibikaji,adverbs,1.25
+1993,ערבה,uwanda wenye majani,nouns,1.9
+1994,אדן,mlima,nouns,1.15
+1995,להקה,pombe,nouns,0.05
+1996,למשוך,kuvuta,verbs,1.0
+1997,צד,juu,nouns,0.5
+1998,ספר,kitabu,nouns,1.65
+1999,חיטה,nafaka,nouns,2.65
+2000,ג'ויסטיק,joystiki,nouns,0.4
+2001,היגיון,akili,nouns,2.8
+2002,ליצור,kuharibu,verbs,0.55
+2003,צער,aibu,nouns,0.8
+2004,שכר לימוד,ada,nouns,1.6
+2005,לטפל,tibu,verbs,0.2
+2006,כדור,mzinga,nouns,0.6
+2007,לשקר,kudanganya,verbs,2.75
+2008,בית משפט,korti,nouns,1.9
+2009,להרגיש,kuhisi,verbs,1.0
+2010,הנהלה,utawala,nouns,2.8
+2011,צופן,maandishi ya siri,nouns,0.9
+2012,נייד,inayo hamishika,adjectives,0.75
+2013,חזון,utambuzi,nouns,2.4
+2014,ממתק,matofaa,nouns,0.8
+2015,אטמוספירה,uchafuzi,nouns,0.4
+2016,לכלול,kukuhusisha,verbs,2.8
+2017,כביש מהיר,barabara kuu,nouns,4.6
+2018,רזה,nyembamba,adjectives,4.65
+2019,הוכחה,ukweli,nouns,1.6
+2020,זנב,mkia,nouns,2.0
+2021,מעוקל,yenye pindo,adjectives,0.1
+2022,להקיא,kutapika,verbs,0.05
+2023,כפתור,nguo,nouns,0.95
+2024,בשר,damu,nouns,1.35
+2025,כתב יד,muswada,nouns,1.95
+2026,כדור,mpira,nouns,1.77
+2027,עונה,msimu wa baridi,nouns,2.3
+2028,לרוב,kawaida,adverbs,0.25
+2029,מנצח,mgombea wa uchaguzi,nouns,1.15
+2030,עמק,bonde,nouns,0.0
+2031,חומץ,saladi,nouns,0.65
+2032,הבדל,tofauti,nouns,1.05
+2033,לשמור,kuazima,verbs,0.6
+2034,לבקש,kuomba,verbs,3.15
+2035,מינק,manyoya,nouns,2.7
+2036,גדה,pwani,nouns,3.5
+2037,אמונה,ua,nouns,0.05
+2038,כבש,mwanakondoo,nouns,3.65
+2039,מכללה,darasa,nouns,2.0
+2040,אוכלוסייה,watu,nouns,3.25
+2041,לשון,shavu,nouns,0.85
+2042,סמטה,bakuli,nouns,0.05
+2043,שעון,saa,nouns,0.25
+2044,להמתין,kusubiri,verbs,2.05
+2045,קרח,barafu,nouns,3.3
+2046,לקחת,kubeba,verbs,2.55
+2047,סמל,msimbo,nouns,2.15
+2048,אסם,nyumba,nouns,2.0
+2049,מעלית,gari,nouns,0.75
+2050,להבריק,kung'arisha,verbs,0.0
+2051,ג'ין,kileo,nouns,2.35
+2052,חוברת הדרכה,kitabu cha mkono,nouns,1.25
+2053,רגיל,kawaida,adjectives,0.2
+2054,לסלוח,kusahau,verbs,1.2
+2055,הרס,ujenzi,nouns,0.55
+2056,לציית,kusikiliza,verbs,2.45
+2057,מסדרון,mlango,nouns,0.95
+2058,לקרוא,kusoma,verbs,0.0
+2059,למות,kufariki,verbs,1.55
+2060,איום,hatari,nouns,4.15
+2061,כדור,kikapu,nouns,0.65
+2062,שחקן,mchezaji,nouns,1.25
+2063,תורה,kitabu,nouns,2.2
+2064,ישן,zamani,adjectives,0.0
+2065,מובך,kua na aibu,adjectives,0.05
+2066,עובדה,umaizi,nouns,2.05
+2067,שוביניסט,chauvinist,nouns,2.4
+2068,נזק,maumivu,nouns,2.55
+2069,להקשיב,kuzungumza,verbs,0.7
+2070,סרט,filamu,nouns,0.15
+2071,צדק,haki,nouns,1.42
+2072,חברה,biashara,nouns,2.85
+2073,מכונית,gari,nouns,3.4
+2074,משוגע,mwenye furaha,adjectives,0.55
+2075,כתף,mwili,nouns,1.15
+2076,אוניית קרב,meli ya vita,nouns,5.5
+2077,להאשים,kutiachaji,verbs,0.7
+2078,נוחות,usalama,nouns,0.9
+2079,כלייה,kiungo,nouns,2.25
+2080,ספר,kitabu,nouns,0.0
+2081,מבנה,muundo,nouns,3.05
+2082,שמח,mchangamfu,adjectives,5.05
+2083,מילה,gazeti,nouns,0.85
+2084,ארוחה,ugali,nouns,1.8
+2085,נפוטיזם,undugu,nouns,0.6
+2086,פשוט,ngumu,adjectives,0.45
+2087,מועדון,klabu,nouns,0.0
+2088,שטח,kanda,nouns,4.9
+2089,גוף,uti,nouns,1.05
+2090,להביא,kubeba,verbs,2.15
+2091,הכתרה,kusimikwa ufalme,nouns,0.05
+2092,לימודים,sheria,nouns,0.55
+2093,עמק,mto,nouns,0.85
+2094,מיטה,fanicha,nouns,2.5
+2095,קשוח,mwerevu,adjectives,0.6
+2096,זיהום,rais,nouns,0.15
+2097,צמח,mmea,nouns,1.6
+2098,להודות,kukubali,verbs,0.6
+2099,זעם,hasira,nouns,4.9
+2100,אריג,nguo,nouns,2.8
+2101,להימנע,kujiweka mbali,verbs,1.45
+2102,פעמון,mnara,nouns,0.65
+2103,רפוי,pwaya,adjectives,1.35
+2104,בועה,mapovu,nouns,1.85
+2105,תשלום,malipo,nouns,1.5
+2106,ילד,mtu mzima,nouns,0.85
+2107,לעזוב,kuondoka,verbs,0.35
+2108,לארגן,kuwa,verbs,0.65
+2109,אקדח,mbinu,nouns,0.15
+2110,אזור,kona,nouns,0.9
+2111,קדוש,takatifu,adjectives,1.8
+2112,לשאת,kupeleka,verbs,0.8
+2113,קבורה,kifo,nouns,2.7
+2114,פאסיבי,kupooza,adjectives,0.3
+2115,עובד,mfanyakazi,nouns,0.9
+2116,נסיכה,kisiwa,nouns,0.3
+2117,כפפה,mpira,nouns,1.2
+2118,מצב,mvulana,nouns,0.0
+2119,ספרות,neno,nouns,1.05
+2120,לקרוע,kuchana,verbs,0.2
+2121,הדיינות,jadiliano,nouns,1.65
+2122,עץ,mbao,nouns,0.4
+2123,חליל,filimbi,nouns,1.2
+2124,גבר,mshindi,nouns,0.4
+2125,להכחיש,kukubali,verbs,0.25
+2126,שמיכה,blanketi,nouns,0.28
+2127,תה,limau,nouns,0.55
+2128,גמיש,rahisi kubadilika,adjectives,1.35
+2129,הדגמה,katuni,nouns,0.0
+2130,לפתור,kutoa suluhisho,verbs,1.85
+2131,לנשום,kukaba,verbs,0.55
+2132,קתדרלה,dari,nouns,0.5
+2133,להפוך,kutengeneza,verbs,0.4
+2134,ג'נטלמן,bibi,nouns,0.8
+2135,לדרוש,hitaji,verbs,0.4
+2136,תנין,mamba,nouns,2.65
+2137,קר,baridi,adjectives,0.2
+2138,ספר,hadithi,nouns,2.0
+2139,מטרה,mshindi,nouns,0.55
+2140,שמפניה,wiski,nouns,2.9
+2141,חצוף,jeuri,adjectives,0.75
+2142,דוד,mwanaume,nouns,2.0
+2143,מולקולה,hewa,nouns,1.0
+2144,חתול,sungura,nouns,0.85
+2145,סינמטוגרפיה,sinema,nouns,0.6
+2146,כבד,kiungo,nouns,2.0
+2147,מלון,fleti,nouns,1.1
+2148,לשלם,kulipa,verbs,1.35
+2149,קנה סוכר,muwa,nouns,0.25
+2150,ספר,fasihi,nouns,2.0
+2151,נשיא,meya,nouns,1.35
+2152,להסביר,kufafanua,verbs,4.35
+2153,פרק,chaguo,nouns,0.15
+2154,פתיל,uzi,nouns,5.15
+2155,להרשות,kuruhusu,verbs,2.33
+2156,סמן,mshale,nouns,0.15
+2157,גודל,saizi,nouns,4.45
+2158,הפוך,kinyume,adjectives,0.4
+2159,בחירות,uchaguzi,nouns,2.9
+2160,שמפניה,bia,nouns,2.55
+2161,להגיע,kujitokeza,verbs,3.8
+2162,מפרק,mkono,nouns,1.23
+2163,בית דין,mahakama,nouns,2.05
+2164,לסמן,kutia alama,verbs,1.2
+2165,מלך,mtoto wa mfalme,nouns,2.45
+2166,דקה,sekunde,nouns,2.55
+2167,מועמדות,maombi,nouns,2.35
+2168,חרד,ogopa,adjectives,4.45
+2169,להבין,kuridhisha,verbs,0.15
+2170,לרחוץ,kuosha,verbs,4.75
+2171,שמיכה,kitanda,nouns,1.35
+2172,פרח,subira,nouns,0.0
+2173,דיאטה,saladi,nouns,0.95
+2174,להאמין,kuamini,verbs,1.0
+2175,עץ,mti,nouns,1.2
+2176,עכבר,ndezi,nouns,3.2
+2177,מנהרה,shimo,nouns,0.75
+2178,חוזה,mapatano,nouns,5.25
+2179,ללמוד,kujifunza,verbs,0.3
+2180,צעיר,mwenye furaha,adjectives,0.45
+2181,להקה,wanamuziki,nouns,4.35
+2182,באופן מסוכן,kwa uhatari,adverbs,0.45
+2183,עצם,taya,nouns,0.95
+2184,נכס,mali,nouns,2.95
+2185,אמבטיה,gogo,nouns,0.1
+2186,להראות,kujifanya,verbs,0.7
+2187,קרב,pambano,nouns,3.6
+2188,גדול,mzito,adjectives,1.75
+2189,להחזיר,kuleta,verbs,1.25
+2190,חברה,klabu,nouns,1.35
+2191,יחידה,jeshi,nouns,2.05
+2192,מטען,chaja,nouns,0.15
+2193,כבד,mzigo,adjectives,1.55
+2194,נזיר,mtawa,nouns,0.65
+2195,אגדה,hadithi,nouns,0.15
+2196,בוודאי,hakika,adverbs,1.65
+2197,לשמוע,kusikiliza,verbs,4.4
+2198,עלה,jani,nouns,1.35
+2199,ליצור,kuunda,verbs,4.15
+2200,אפליקציה,programu tumishi,nouns,0.3
+2201,סירה,meli,nouns,0.55
+2202,להתווכח,kukubali,verbs,0.6
+2203,נזיר,padri,nouns,3.25
+2204,לווה,mkopi,nouns,1.25
+2205,כומר,kasisi,nouns,2.45
+2206,ברידג',kadi,nouns,0.8
+2207,שעועית,wali,nouns,1.0
+2208,כיתה,chuo,nouns,2.0
+2209,סטייק,nyama,nouns,4.2
+2210,מלוכה,ufalme,nouns,1.3
+2211,תוף,gitaa,nouns,2.3
+2212,לפגוע,kuumia,verbs,0.7
+2213,נערה,mfanyakazi wa nyumbani,nouns,0.7
+2214,מולקולה,molekuli,nouns,0.1
+2215,דת,dini,nouns,1.45
+2216,פרווה,bunduki,nouns,0.0
+2217,נינוח,kupumzika,adjectives,0.5
+2218,בדיה,wasifu,nouns,0.85
+2219,שפך,delta,nouns,1.15
+2220,אקדח,manyoya,nouns,0.0
+2221,עיתונאי,mwanahabari,nouns,1.0
+2222,סנט,mke,nouns,0.0
+2223,דשן,samadi,nouns,0.7
+2224,לשחות,kuogelea,verbs,0.05
+2225,להסביר,kuthibitisha,verbs,1.1
+2226,טיפש,mpumbavu,adjectives,0.85
+2227,ים,mto,nouns,2.3
+2228,דוקטור,tabibu,nouns,5.2
+2229,מתכת,bati,nouns,1.4
+2230,מציאות,njozi,nouns,0.55
+2231,מוות,balaa,nouns,2.05
+2232,משוגע,mkubwa sana,adjectives,0.3
+2233,לסדר,kupanga,verbs,4.5
+2234,שומר,mtu mzima,nouns,1.25
+2235,לבן,nyeupe,adjectives,0.0
+2236,להעמיד פנים,jifanya,verbs,2.75
+2237,רגל,kichwa,nouns,0.7
+2238,אינטליגנציה,umaizi,nouns,2.5
+2239,בן,baba,nouns,1.25
+2240,להקשיב,kujifunza,verbs,0.9
+2241,יצירתי,mbunifu,adjectives,3.4
+2242,דיסק,diski,nouns,0.15
+2243,אמון,mtazamo,nouns,0.35
+2244,להציל,kulinda,verbs,1.75
+2245,מכולה,chupa,nouns,0.6
+2246,מבוגר,mzazi,nouns,2.3
+2247,המנון,biblia,nouns,0.25
+2248,לחגוג,kusherekea,verbs,0.65
+2249,לבקש,kutazamia,verbs,0.95
+2250,צר,mchafu,adjectives,0.0
+2251,משרה,menejimenti,nouns,0.9
+2252,מיץ,matofaa,nouns,1.15
+2253,מטוס,ndege,nouns,3.3
+2254,להביא,kulalamika,verbs,0.05
+2255,אורז,mvulana,nouns,0.2
+2256,להיכנס,kwenda,verbs,0.4
+2257,כוכב לכת,sayari,nouns,3.7
+2258,לרכוש,kujiunga,verbs,0.2
+2259,קול ,sauti,nouns,2.8
+2260,לאשר,kujulisha,verbs,1.0
+2261,להשיג,kushinda,verbs,2.55
+2262,מעונן,kivuli cha mawingu,nouns,0.8
+2263,לתת,kupokea,verbs,1.2
+2264,חריף,pilipili,adjectives,0.45
+2265,מעי,neva,nouns,0.45
+2266,יום הולדת,mwaka,nouns,0.9
+2267,אי,mtoto wa mfalme,nouns,0.3
+2268,שמח,mchanga,adjectives,0.45
+2269,חוזה,mazingira,nouns,0.75
+2270,סנט,seneti,nouns,0.9
+2271,בן,baba,nouns,1.05
+2272,מפורסם,inayofahamika,adjectives,5.0
+2273,עכבר,chombo,nouns,0.0
+2274,מוות,mazishi,nouns,2.7
+2275,להגיד,kushiriki,verbs,0.35
+2276,לשמור,kupa,verbs,0.4
+2277,גג,paa,nouns,0.65
+2278,ארוחה,kiuno,nouns,0.4
+2279,פרדס,kiunga,nouns,0.1
+2280,לחפש,kutafuta,verbs,1.89
+2281,לדכא,katisha tamaa,verbs,2.4
+2282,להפציר,kujipendekeza,verbs,0.5
+2283,ללמוד,kusahau,verbs,0.6
+2284,מדליה,medali,nouns,0.8
+2285,לאשר,kuzungumza,verbs,0.5
+2286,יוצר,muumbaji,nouns,5.1
+2287,להצליח,kujaribu,verbs,1.3
+2288,לשמוע,kusikia,verbs,1.05
+2289,מוטציה,jitu,nouns,0.4
+2290,תא הטייס,chumba cha rubani,nouns,1.0
+2291,להפוך,kupanga,verbs,0.65
+2292,זועם,mkali,adjectives,0.55
+2293,להצליח,kufeli,verbs,0.55
+2294,לתפוס,kamata,verbs,0.9
+2295,בשלווה,kwa amani,adverbs,0.2
+2296,קוף,nyani,nouns,0.0
+2297,לסלוח,kuelewa,verbs,0.7
+2298,מושל,gavana,nouns,3.75
+2299,עריסה,kitanda,nouns,4.1
+2300,מצלמה,rais,nouns,0.05
+2301,יום,asubuhi,nouns,1.45
+2302,בטבעיות,kiasili,adverbs,0.2
+2303,לשחרר,kuachilia,verbs,0.45
+2304,להרוס,kuharibu,verbs,0.3
+2305,להושיע,okoa,verbs,5.25
+2306,זכוכית,glasi,nouns,0.2
+2307,תבונה,akili,nouns,4.5
+2308,בנדיבות,kwa ukarimu,adverbs,0.45
+2309,גדול,nama,adjectives,0.25
+2310,פה,jino,nouns,1.4
+2311,לולאה,mkanda,nouns,1.4
+2312,סנט,watu,nouns,0.65
+2313,ויזה,mhuri,nouns,0.4
+2314,אי,ufuko,nouns,1.0
+2315,סופית,mwishoni,adverbs,0.1
+2316,סיוף,uzio,nouns,0.65
+2317,קופסה,kofia,nouns,0.1
+2318,אורז,kuku,nouns,0.65
+2319,קרח,maji,nouns,2.5
+2320,בשלווה,kwa amani,adverbs,2.42
+2321,ענו,mnyenyekevu,adjectives,5.4
+2322,יד,kidole,nouns,1.45
+2323,ללא הגיון,isiyo na akili,adverbs,0.75
+2324,מפולת שלגים,maporomoko ya theluji,nouns,2.5
+2325,תקשורת,lugha,nouns,2.15
+2326,אלומיניום,alumini,nouns,2.27
+2327,מקהלה,kiitiko,nouns,0.95
+2328, בענווה,kwa unyenyekevu,adverbs,0.25
+2329,בחשאי,kwa usiri,adverbs,0.1
+2330, קפלה,kanisa ,nouns,0.0
+2331,זעיר,mdogo,adjectives,0.45
+2332,להבין,kusoma,verbs,1.0
+2333,מלאך,malaika,nouns,0.8
+2334,בהרס,kwa vurugu,adverbs,0.2
+2335,כאב,madhara,nouns,2.55
+2336,ליקר,bendi,nouns,0.05
+2337,לעיתים רחוקות,mara chache,adverbs,0.55
+2338,תכנית,wazo,nouns,1.6
+2339,עצם,shingo,nouns,0.8
+2340,לוח שנה,kalenda,nouns,0.8
+2341,רטוב,lowa,adjectives,0.8
+2342,להשאיל,kuweka,verbs,0.6
+2343,לחבק,kukumbatia,verbs,1.07
+2344,עור,ngozi,nouns,0.1
+2345,מילת מפתח,nenokuu,nouns,0.8
+2346,להישבע,kuapa,verbs,4.65
+2347,פורל,samaki,nouns,0.05
+2348,לתת,kukopesha,verbs,2.3
+2349,כלכלה,uchumi,nouns,0.65
+2350,לאפשר,kwenda,verbs,0.05
+2351,להבין,kuelewa,verbs,3.9
+2352,בהירות,nuru,nouns,2.1
+2353,להסכים,kutofautiana,verbs,0.6
+2354,זוג,jozi,nouns,5.7
+2355,ציפור,kuku,nouns,2.65
+2356,פרק,usiku,nouns,0.05
+2357,לרכב,kuendesha,verbs,0.5
+2358,אגם,ziwa,nouns,0.45
+2359,תפוח,juisi,nouns,1.15
+2360,תקרה,sakafu,nouns,0.7
+2361,בלדה,wimbo,nouns,3.45
+2362,להיעלם,kupotea,verbs,5.1
+2363,מנוע,boti,nouns,1.65
+2364,לרצות,kukubali,verbs,0.55
+2365,להזניח,kupuuzia,verbs,1.3
+2366,מדיה,habari,nouns,2.45
+2367,לטאה,mjusi,nouns,2.65
+2368,סערה,upepo mkali,nouns,0.4
+2369,לקבל,kusamehe,verbs,1.0
+2370,אנציקלופדיה,ensaiklopidia,nouns,2.55
+2371,להצליח,kutimiza,verbs,2.45
+2372,אשם,ana aibu,adjectives,0.55
+2373,הזמנה,menyu,nouns,1.0
+2374,לעזוב,kuzurura,verbs,1.05
+2375,מסודר,kupanga,verbs,0.5
+2376,באדיבות,kwa fadhili,adverbs,3.55
+2377,ציפור,mwewe,nouns,2.9
+2378,להצטרף,kukuunga,verbs,0.5
+2379,לייעץ,kushauri,verbs,3.8
+2380,כרכרה,gari,nouns,1.5
+2381,דגל,bendera,nouns,1.3
+2382,בחירה,sura,nouns,0.15
+2383,סוס,farasi wa kike,nouns,3.65
+2384,מכונית,kiwanda,nouns,0.5
+2385,להרוויח,kufaida,verbs,1.6
+2386,מקלדת,kibodi,nouns,0.0
+2387,ברוגע,kwa utulivu,adverbs,2.52
+2388,לילה,sura,nouns,0.05
+2389,לקרות,kufanya,verbs,0.8
+2390,לבנות,kuharibu,verbs,0.55
+2391,גוף,mkono,nouns,1.7
+2392,סיפור,wimbo,nouns,1.5
+2393,מיטה,kiti,nouns,0.9
+2394,עבודה,jukumu,nouns,3.5
+2395,לקנות,kupata,verbs,0.75
+2396,קערה,kichochoro,nouns,0.05
+2397,גל,wimbi,nouns,0.7
+2398,דומה,sawasawa,adjectives,4.3
+2399,להמליץ,kukubali,verbs,0.8
+2400,דם,damu,nouns,0.8
+2401,טיסה,ndege,nouns,3.3
+2402,אישה,jukumu,nouns,0.05
+2403,מאמר,kitabu,nouns,1.6
+2404,מיידית,papo hapo,adverbs,1.15
+2405,סוס,ng'ombe dume,nouns,1.0
+2406,ייאוש,taabu,nouns,2.65
+2407,יכולת,ustadi,nouns,3.55
+2408,שריף,polisi,nouns,4.85
+2409,מכני,a kifundi,adjectives,0.65
+2410,להתרחש,kutukia,verbs,5.05
+2411,ביהביוריזם,somo la tabia,nouns,0.8
+2412,הר,mwamba,nouns,1.15
+2413,להאמין,kukubali,verbs,1.8
+2414,עצם,kifundo cha mguu,nouns,1.8
+2415,אכזר,katili,adjectives,1.7
+2416,נסיך,mfalme,nouns,2.6
+2417,לשמור,kuokota,verbs,1.3
+2418,אוקיינוס,bahari,nouns,3.15
+2419,בקול רם,kwa sauti,adverbs,0.3
+2420,להשיג,kuwa,verbs,0.45
+2421,חקלאות,kilimo,nouns,1.6
+2422,מכונה,injini,nouns,2.95
+2423,יוצר,mtunzi,nouns,3.15
+2424,מועדון,jamii,nouns,1.35
+2425,ממשלה,serikali,nouns,0.05
+2426,צופר,gari,nouns,0.95
+2427,חוק,shule,nouns,0.55
+2428,מים,maji,nouns,0.3
+2429,מטר,inchi,nouns,2.05
+2430,לשאוף,kujitahidi,verbs,0.1
+2431,להסכים,kujipendekeza,verbs,0.55
+2432,קשה,rahisi,adjectives,0.7
+2433,רעיה,tundu,nouns,0.0
+2434,חלבון,protini,nouns,0.15
+2435,ללכוד,kushika,verbs,0.15
+2436,ברך,mkono,nouns,0.95
+2437,חוף,kisiwa,nouns,1.0
+2438,אולם,ukumbi,nouns,0.6
+2439,בשר,ugali,nouns,0.8
+2440,אקוסטיקה,akustik,nouns,2.8
+2441,רגל,mkono,nouns,1.05
+2442,זיהום,utapiamlo,nouns,1.6
+2443,נשיא,mwanachuo,nouns,0.25
+2444,זרוע,mshipa,nouns,0.8
+2445,ציבורי,hadharani,adjectives,0.5
+2446,לשרוק,mluzi,verbs,0.1
+2447,מפוחד,ogopa,adjectives,1.15
+2448,חדר,chumba,nouns,1.15
+2449,להגן,kuokoa,verbs,1.75
+2450,לחזור,kurudia,verbs,0.35
+2451,אופנה,mtindo,nouns,1.05
+2452,כבידה,mvuto,nouns,0.5
+2453,ברך,mfupa,nouns,0.95
+2454,לבקש,kuuliza,verbs,1.1
+2455,להתעלם,kuepa,verbs,2.0
+2456,לכסות,kufunika,verbs,3.05
+2457,סיפור,kitabu,nouns,2.0
+2458,להבחין,kung'amua,verbs,1.05
+2459,להצטרף,kujumlisha,verbs,0.9
+2460,גרון,pua,nouns,0.95
+2461,להחליט,kuchagua,verbs,2.75
+2462,להיכשל,kushidwa,verbs,0.25
+2463,צוואר,mfupa,nouns,0.8
+2464,מיטת תינוק,kitanda cha mtoto,nouns,3.7
+2465,גאה,mwenye nguvu,adjectives,0.2
+2466,יציאה,mlangoni,nouns,1.65
+2467,מפה,ramani,nouns,0.45
+2468,להתכחש,kukataa,verbs,1.45
+2469,חמישי,wa tano,adjectives,0.25
+2470,גיטרה,gitaa,nouns,0.05
+2471,מערכת אקולוגית,mfumo wa ikolojia,nouns,0.65
+2472,להתווכח,kugombana,verbs,2.85
+2473,אטום,molekuli,nouns,2.65
+2474,רושם,imani,nouns,0.6
+2475,מהירות,mwendo,nouns,0.3
+2476,חרדל,mbegu,nouns,0.75
+2477,נסיכה,bibi arusi,nouns,0.65
+2478,להופיע,kuwa,verbs,0.65
+2479,קונגרס,mkutano,nouns,3.35
+2480,כיבוש,safari,nouns,0.7
+2481,עצוב,mbovu,adjectives,0.85
+2482,כביש,jukumu,nouns,0.1
+2483,למחוץ,kuminya,verbs,0.6
+2484,לפגוע,kuchapa,verbs,0.5
+2485,באופן אידיאלי,walau,adverbs,0.45
+2486,לרחף,kuelea,verbs,0.2
+2487,להתכווץ,kupotea,verbs,1.35
+2488,לתקוף,kushambulia,verbs,0.45
+2489,תעלול,bunduki,nouns,0.15
+2490,אסיפה,kusanyiko,nouns,4.8
+2491,לחפש,tafuta,verbs,1.3
+2492,באופן מדהים,kwa umaradufu,adverbs,1.0
+2493,אנדרטה,kinyagu,nouns,4.25
+2494,לשכנע,kushawishi,verbs,0.6
+2495,גלובליזם,utandawazi,nouns,0.4
+2496,להתחרות,kushindana,verbs,0.2
+2497,הומופון,nyumba ya nyumbani,nouns,0.5
+2498,אומללות,ukiwa,nouns,2.65
+2499,בטן,njia,nouns,0.05
+2500,במיוחד,makusudi,adverbs,2.4
+2501,קלף,daraja,nouns,0.8
+2502,לבחוש,koroga,verbs,2.4
+2503,לחשוב,kufikiria,verbs,1.7
+2504,סימן,ishara,nouns,0.0
+2505,נוירוזה,ugonjwa wa neurosis,nouns,1.1
+2506,לטגן,kukaanga,verbs,1.9
+2507,חתול,mnyama,nouns,2.95
+2508,להתרסק,kumgongano,verbs,3.85
+2509,לא אמין,asiyeaminika,adjectives,1.65
+2510,פרווה,mwanamke,nouns,0.2
+2511,דבורה,sisimizi,nouns,1.1
+2512,לגנוב,kupa,verbs,0.4
+2513,שקרן,si mwaminifu,adjectives,0.55
+2514,מטר,yadi,nouns,3.1
+2515,להביא,kutuma,verbs,0.6
+2516,ספר,insha,nouns,1.1
+2517,לבשל,kupika,verbs,0.35
+2518,עוני,utajiri,nouns,0.65
+2519,ליידע,arifu,verbs,0.0
+2520,מקהלה,kanisa,nouns,1.5
+2521,שבבים,kibanzi,nouns,0.15
+2522,משימה,kisiwa,nouns,0.0
+2523,יום,alfajiri,nouns,1.65
+2524,למצוא,pata,verbs,0.75
+2525,המון,gwaride,nouns,1.0
+2526,מרפק,kifundo cha mguu,nouns,1.3
+2527,חיבור,insha,nouns,1.0
+2528,חברה,jamii,nouns,1.55
+2529,בהחלט,vyema,adverbs,0.75
+2530,זרוע,mguu,nouns,1.75
+2531,לזכור,kukumbuka,verbs,1.7
+2532,להחליט,kuonyesha,verbs,0.25
+2533,לקחת,kumiliki,verbs,1.5
+2534,לילה,mchana,nouns,0.7
+2535,צפוף,ngumu,adjectives,0.4
+2536,עוזרת,msichana,nouns,0.7
+2537,ספר,andiko,nouns,3.1
+2538,קישוט,ukuta,nouns,0.5
+2539,לדחוף,kusukuma,verbs,1.0
+2540,מותן,chakula,nouns,0.4
+2541,אנשים,bunduki,nouns,0.35
+2542,לתקשר,kusali,verbs,0.8
+2543,להכחיש,kukataa,verbs,0.65
+2544,צלב,msalaba,nouns,0.65
+2545,זרוע,bega,nouns,2.0
+2546,גברת,bwana,nouns,0.8
+2547,קצר,mrefu,adjectives,0.55
+2548,מסיכה,maski,nouns,0.5
+2549,הססן,sitasita,adjectives,0.55
+2550,בטבעיות,kwa uhalisia,adverbs,0.75
+2551,להפציר,kuomba,verbs,4.75
+2552,גודש,ziada,nouns,3.05
+2553,עבודה,kazi,nouns,1.1
+2554,אנשים,idadi ya watu,nouns,3.25
+2555,בורא,mtengenezaji,nouns,5.1
+2556,להזהיר,onya,verbs,0.5
+2557,ברונכיטיס,ugonja wa bronchitis,nouns,0.8
+2558,לא משומש,haijatumika,adjectives,4.45
+2559,כבל,amari,nouns,0.07
+2560,ללא רבב,bila doa,adjectives,4.8
+2561,אגורה,peni,nouns,0.25
+2562,סופר,muandishi,nouns,0.65
+2563,להפריך,kukanusha,verbs,0.1
+2564,מחלה,ugonjwa wa kuambukiza ,nouns,3.15
+2565,טייס משנה,rubani msaidizi,nouns,1.0
+2566,נסיכה,mtoto mke wa mfalme,nouns,0.0
+2567,להקשיב,kuelewa,verbs,1.2
+2568,בהגינות,kwa haki,adverbs,0.55
+2569,ספה,kitanda,nouns,1.85
+2570,כוח,makadara,nouns,4.15
+2571,מחלה,hatari,nouns,0.95
+2572,סלט,siki,nouns,0.65
+2573,משמעותי,muhimu,adjectives,0.45
+2574,ניהיליזם,kutoamini dini,nouns,0.15
+2575,תא,gerezani,nouns,1.5
+2576,כסף,fedha,nouns,5.15
+2577,קיץ,msimu wa baridi,nouns,0.85
+2578,פרופסור,mwanafunzi,nouns,0.9
+2579,תחתית,juu,nouns,0.6
+2580,מיוחד,maalumu,adjectives,2.85
+2581,לטעון,kulalamika,verbs,1.45
+2582,סוללה,betri,nouns,0.0
+2583,שמח,ana hasira,adjectives,0.55
+2584,מוזר,wa kigeni,adjectives,4.45
+2585,מלך,mtoto wa mfalme,nouns,2.6
+2586,עמלה,mshahara,nouns,0.65
+2587,זרוע,mfupa,nouns,0.95
+2588,תחפושת,sherehe,nouns,0.25
+2589,דובדבן,cheri,nouns,1.9
+2590,חוטא,mtakatifu,nouns,0.5
+2591,שולחן,meza,nouns,0.0
+2592,יין,wiski,nouns,3.0
+2593,מדע,saikolojia,nouns,2.05
+2594,לקבל,kuweka,verbs,0.55
+2595,רדיאטור,radiator,nouns,0.7
+2596,ויכוח,mapatano,nouns,0.55
+2597,לנגב,kupanguza,verbs,0.0
+2598,קשה,nene,adjectives,0.4
+2599,זריחה,machweo,nouns,1.95
+2600,באופן חריג,sikawaida,adverbs,0.45
+2601,חבר,mwalimu,nouns,0.65
+2602,אסון,kifo,nouns,2.0
+2603,לסלוח,kukubali,verbs,1.0
+2604,מאוד,sana,adverbs,1.0
+2605,עסק,viwanda,nouns,1.85
+2606,מיותר,lazima,adjectives,0.6
+2607,להתפורר,kutenganisha,verbs,0.3
+2608,תרומה,mchango,nouns,2.65
+2609,לטאה,mjusi,nouns,0.05
+2610,פסקה,herufi,nouns,1.05
+2611,להתחתן,kujiunga,verbs,0.35
+2612,אישה,manyoya,nouns,0.2
+2613,מדבר,jangwa,nouns,2.15
+2614,ניצחון,fora,nouns,3.55
+2615,אננס,nanasi,nouns,0.0
+2616,כבד,pafu,nouns,0.9
+2617,משפט,wamuzi,nouns,1.75
+2618,להיעלם,kupungua,verbs,1.35
+2619,פוליטיקאי,rais,nouns,2.55
+2620,לחלוק,kukutokubali,verbs,0.85
+2621,לצמצם,kupungua,verbs,1.1
+2622,להתעלם,kusahau,verbs,1.6
+2623,תעלול,kuoga,nouns,0.0
+2624,רע,mkubwa sana,adjectives,0.3
+2625,נשיא,uchafuzi,nouns,0.15
+2626,סוס,mbwa,nouns,0.85
+2627,וויסקי,jini,nouns,3.0
+2628,מונית,basi,nouns,2.35
+2629,פוליטיקאי,mwanasiasa,nouns,0.35
+2630,בגדים,koti,nouns,2.4
+2631,בת,baba,nouns,0.8
+2632,צנום,mwembamba,adjectives,4.65
+2633,לחזות,kubainisha,verbs,0.7
+2634,גינה,mpira wa maji,nouns,0.65
+2635,מלוכלך,mwembamba,adjectives,0.0
+2636,קרטון,karatasi,nouns,2.1
+2637,תג,baji,nouns,0.2
+2638,מורה,rafiki,nouns,0.65
+2639,להישאר,kuondoka,verbs,0.55
+2640,כנסייה,kanisa,nouns,4.25
+2641,לבזבז,kuokoa,verbs,0.7
+2642,פרח,chavua,nouns,1.8
+2643,גשש,njia,nouns,0.1
+2644,לרצות,kuburudisha,verbs,0.3
+2645,יום,usiku,nouns,0.7
+2646,שיר,shairi,nouns,1.45
+2647,סוף שבוע,wiki,nouns,1.7
+2648,לצחוק,kucheka,verbs,3.85
+2649,שנייה,dakika,nouns,2.55
+2650,תמונה,wazo,nouns,1.0
+2651,בוגר,umekua,adjectives,0.5
+2652,תשוקה,hisia,nouns,2.95
+2653,צר,mpana,adjectives,0.55
+2654,תמיד,mara kwa mara,adverbs,0.7
+2655,להתחזות,kuwazia,verbs,0.55
+2656,חשמל,umeme,nouns,0.2
+2657,אומניפוטנטיות,uwezaji,nouns,2.3
+2658,רעיון,mpango,nouns,1.6
+2659,מנוע,injini,nouns,1.55
+2660,לעשות,kuacha,verbs,0.4
+2661,נייר,kuni,nouns,0.85
+2662,קוסם,mchawi,nouns,0.15
+2663,מסגרת,fremu,nouns,0.0
+2664,הזיה,uhalisi,nouns,0.7
+2665,פילם,sinema,nouns,4.0
+2666,להינות,kufurahia,verbs,0.2
+2667,תות,strouberi,nouns,1.9
+2668,למכור,kukumbusha,verbs,0.0
+2669,הודו,kuku,nouns,1.25
+2670,אחו,nyasi,nouns,1.9
+2671,ציוויליזציה,ustaarabu,nouns,1.25
+2672,כלב,farasi,nouns,0.85
+2673,מיטה,kitanda cha mtoto,nouns,4.1
+2674,אפס,sufuri,nouns,0.65
+2675,רעיה,senti,nouns,0.0
+2676,שביל,njia,nouns,0.75
+2677,קופסה,sanduku,nouns,0.0
+2678,חשמלי,chenye umeme,adjectives,0.65
+2679,אף,kinywa,nouns,0.8
+2680,דגנים,ngano,nouns,2.65
+2681,כריך,nyama,nouns,0.8
+2682,טלויזיה,mawasiliano,nouns,1.7
+2683,לחם,chizi,nouns,0.65
+2684,להימנע,kupuuza,verbs,2.0
+2685,כלי,kitendea kazi,nouns,1.1
+2686,כבוש,nyimbo,nouns,0.3
+2687,נורא,poa,adjectives,0.45
+2688,להכחיש,kupa,verbs,0.1
+2689,חייל,mwanajeshi,nouns,0.5
+2690,ענן,wingu,nouns,0.45
+2691,נמרצות,kikamilifu,adverbs,0.3
+2692,רגל,mkono,nouns,1.75
+2693,קל,mkubwa,adjectives,0.4
+2694,לרדוף,kushawishi,verbs,0.55
+2695,יקום,anga,nouns,1.35
+2696,לשכוח,kujifunza,verbs,0.6
+2697,נבט,miche,nouns,1.5
+2698,להבטיח,kuweka ahadi,verbs,4.65
+2699,לבנה,ukuta,nouns,1.75
+2700,קולונל,daktari wa meno,nouns,0.35
+2701,מטריצה,matriksi,nouns,1.05
+2702,לדעת,kusahau,verbs,0.55
+2703,פרה,mifugo,nouns,3.35
+2704,אינטליגנציה,ustadi,nouns,1.95
+2705,גג,sakafu,nouns,0.75
+2706,אישה,mume,nouns,1.05
+2707,אופניים,chumba cha kulala,nouns,0.15
+2708,לקבור,kuzikwa,verbs,1.55
+2709,מלוכלך,rahisi,adjectives,0.45
+2710,ערך,thamani,nouns,1.15
+2711,מילה,ukurasa,nouns,0.65
+2712,לעשות,kuwa,verbs,0.4
+2713,לעקוב,kufuata,verbs,2.05
+2714,מצלמה,lenzi,nouns,2.05
+2715,להודיע,kuonyesha,verbs,1.5
+2716,מילה,sentensi,nouns,2.5
+2717,שריר,ulimi,nouns,0.85
+2718,לשכנע,kufuatilia,verbs,0.55
+2719,חסר גוף,nje ya mwili,adjectives,1.3
+2720,ביטחון,nafsi,nouns,0.5
+2721,קיסר,mtawala,nouns,2.1
+2722,כס,kiti cha enzi,nouns,0.3
+2723,לסיים,maliza,verbs,1.0
+2724,אנתרופולוגיה,anthropolojia,nouns,2.6
+2725,לפקח,kuchunguza,verbs,3.45
+2726,להרוג,kuharibu,verbs,1.75
+2727,מטאור,meteor,nouns,0.5
+2728,לדחות,kuepa,verbs,1.05
+2729,להגן,kuua,verbs,0.45
+2730,להסכים,kukubali,verbs,0.6
+2731,סופר,mwandishi,nouns,0.95
+2732,פתוגן,pathojeni,nouns,2.7
+2733,נווה מדבר,oasisi,nouns,0.25
+2734,אקדח,bunduki,nouns,0.65
+2735,תחתית,upande,nouns,1.15
+2736,לתשאל,ulizia,verbs,1.85
+2737,אף,pua,nouns,1.15
+2738,ללכת,kuanza,verbs,0.2
+2739,לספק,kufahamu,verbs,0.15
+2740,להתרכבל,kukumbatia,verbs,4.35
+2741,בעל,mke,nouns,1.05
+2742,בלון,watu,nouns,0.1
+2743,כלא,chaguo,nouns,0.45
+2744,השתקפות,picha,nouns,1.55
+2745,חתול,panya,nouns,0.9
+2746,כוכב,nyota,nouns,2.1
+2747,להציל,kuokoa,verbs,0.3
+2748,אור,matofaa,nouns,0.05
+2749,גמיש,mwenye kiasi,adjectives,0.65
+2750,רעיה,majani makavu,nouns,0.1
+2751,לקרות,kutokea,verbs,5.05
+2752,להאשים,kulaumu,verbs,0.2
+2753,לשרבט,kuandika,verbs,2.65
+2754,נושא,kitabu,nouns,0.53
+2755,לעמוד,kusimama,verbs,0.7
+2756,הסכם,tundu,nouns,0.0
+2757,תפוח,peremende,nouns,0.8
+2758,לא הוגן,jeuri,adjectives,1.7
+2759,הערה,kumbuku,nouns,0.45
+2760,לחקור,kupuuza,verbs,0.3
+2761,בית,banda,nouns,2.0
+2762,לקחת,kuiba,verbs,1.7
+2763,בחוכמה,kwa akili,adverbs,0.8
+2764,רובה,mzinga,nouns,2.2
+2765,משכורת,hela,nouns,3.3
+2766,לתלות,kuweka,verbs,0.6
+2767,רופא,daktari wa meno,nouns,5.2
+2768,קליבר,kaliba,nouns,0.3
+2769,סמל,mjeshi,nouns,0.65
+2770,עצם,goti,nouns,0.95
+2771,גלקסי,giligili,nouns,0.3
+2772,חשמלי,chenye umeme,adjectives,0.0
+2773,כועס,mjeuri,adjectives,1.3
+2774,פושע,mhalifu,nouns,5.35
+2775,לתת,kuweka,verbs,0.4

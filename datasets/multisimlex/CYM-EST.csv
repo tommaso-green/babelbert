@@ -1,0 +1,3306 @@
+ID,CYM,EST,PoS,score
+1,cloch,torn,nouns,0.8
+2,rhewi,lõdisema,verbs,1.8
+3,derbyn,saatma,verbs,0.35
+4,enillydd,värav,nouns,0.45
+5,cynorthwyo,kaitsma,verbs,1.45
+6,rhyddid,vabadus,nouns,5.55
+7,gwneuthurio,koostama,verbs,3.3
+8,gadael,minema,verbs,1.0
+9,dawnsio,kleit,nouns,0.6
+10,ffilm,teater,nouns,1.05
+11,ystafell wely,jalgratas,nouns,0.05
+12,gwawr,relv,nouns,0.05
+13,crebachu,kasvama,verbs,0.35
+14,amnewidyn,vahetus,nouns,3.25
+15,gwn,märkmik,nouns,0.0
+16,gwestai,sõber,nouns,1.3
+17,bachgen,seisund,nouns,0.05
+18,portreadu,teavitama,verbs,0.25
+19,tynnu'n ôl,imenduma,verbs,0.45
+20,dod yn,näima,verbs,0.9
+21,dod yn,organiseerima,verbs,0.35
+22,ffrind,semu,nouns,5.4
+23,lori,auto,nouns,2.35
+24,gadael,alustama,verbs,0.3
+25,cyfraniad,pakkumine,nouns,1.9
+26,unigryw,vastandlik,adjectives,0.55
+27,dinistrio,päästma,verbs,0.2
+28,yn ddiffuant,tõsiselt,adverbs,1.55
+29,hyblyg,kerge,adjectives,1.2
+30,prynu,maksma,verbs,2.55
+31,cymysgu,lahustama,verbs,1.2
+32,erfyn,laenama,verbs,1.25
+33,anghwrtais,vali,adjectives,0.95
+34,yn amlwg,ilmselt,adverbs,1.4
+35,biliwnydd,kodutu,nouns,0.45
+36,yn lleol,ilmselgelt,adverbs,0.05
+37,lemwn,õun,nouns,1.15
+38,nai,tädi,nouns,1.05
+39,sudd,jäätisekokteil,nouns,1.25
+40,meddu ar,imenduma,verbs,0.6
+41,cegin,uks,nouns,0.35
+42,gwresogydd,vihmavari,nouns,0.05
+43,llygoden fawr,hiir,nouns,2.75
+44,gwneud,juhtuma,verbs,0.8
+45,ystafell ddosbarth,koridor,nouns,0.6
+46,deallusrwydd,ignorantsus,nouns,0.35
+47,llaw,jalg,nouns,0.95
+48,rhestr,rivi,nouns,1.25
+49,pennu,evakueerima,verbs,0.05
+50,map,ruut,nouns,0.3
+51,dewis,vangla,nouns,0.2
+52,cyffredin,uskumatu,adjectives,0.3
+53,oedolyn,imik,nouns,0.55
+54,ymuno,koostööd tegema,verbs,1.6
+55,dimai,abikaasa (naine),nouns,0.1
+56,ceisio,saavutama,verbs,1.0
+57,gwrthod,vältima,verbs,2.15
+58,priffordd,ülesanne,nouns,0.1
+59,gât,uks,nouns,2.6
+60,sobr,purjus,adjectives,0.35
+61,cyhoeddus,privaatne,adjectives,0.65
+62,actor,televisioon,nouns,1.1
+63,gadael,uitama,verbs,0.85
+64,trosedd,vargus,nouns,2.55
+65,agoriad,vahe,nouns,2.15
+66,bod mewn dyled,laenama,verbs,1.45
+67,hongian,panema,verbs,0.9
+68,arian cyfred,vahetus,nouns,0.95
+69,sarsiant,relv,nouns,0.65
+70,sinema,televisioon,nouns,1.65
+71,gweithred,suund,nouns,0.65
+72,corws,laulja,nouns,1.2
+73,llygad,pisar,nouns,1.15
+74,brawd,isa,nouns,1.2
+75,gogwyddo,kallutama,verbs,4.05
+76,priffordd,auto,nouns,0.95
+77,eang,kitsas,adjectives,0.2
+78,cred,mulje,nouns,1.3
+79,lema,silp,nouns,0.65
+80,estron,võõramaalane,nouns,2.85
+81,artiffisial,võlts,adjectives,4.75
+82,gliniadur,märkmik,nouns,0.8
+83,dewis,veen,nouns,0.05
+84,modur,paat,nouns,0.7
+85,anhrefnu,organiseeritud,verbs,0.4
+86,cysylltu,eraldama,verbs,0.2
+87,coginio,segama,verbs,0.9
+88,yn gyfrinachol,kindlalt,adverbs,0.55
+89,mynychu,tulema,verbs,2.4
+90,bys,pihk,nouns,0.4
+91,diflas,igav,adjectives,2.7
+92,yn annheg,põhjendamatult,adverbs,2.9
+93,nodadwy,ilmselge,adjectives,3.85
+94,yn ystyrlon,spetsiaalselt,adverbs,1.3
+95,athletwr,jooksja,nouns,2.8
+96,gwisgo,rebima,verbs,0.05
+97,yn anarferol,normaalselt,adverbs,0.45
+98,ewin,käsi,nouns,1.0
+99,dillad,mantel,nouns,1.8
+100,ymosodiad,äkkrünnak,nouns,3.65
+101,athro,sõber,nouns,0.9
+102,polyhedron,näitleja,nouns,0.15
+103,tafod,põsk,nouns,0.85
+104,ymadael,eraldama,verbs,1.2
+105,pwffian chwerthin,naerma,verbs,4.3
+106,cyfarch,esinema,verbs,0.15
+107,rhesymeg,aritmeetika,nouns,1.2
+108,yn oddefol,usaldusväärselt,adverbs,0.3
+109,coeden,paat,nouns,0.0
+110,yn afreolaidd,tavaliselt,adverbs,0.25
+111,wedi blino,igav,adjectives,1.1
+112,trafferthu,solvama,verbs,0.6
+113,fioled,lill,nouns,1.75
+114,bwlch,sigar,nouns,0.25
+115,bydysawd,taevas,nouns,1.35
+116,efelychiad,robootika,nouns,0.85
+117,arweinydd,juhataja,nouns,4.0
+118,flwyddyn,sajand,nouns,1.4
+119,absenoldeb,kohalolek,nouns,0.9
+120,barnu,süüdistama,verbs,2.85
+121,fel arfer,siiralt,adverbs,0.7
+122,cyfalaf,raha,nouns,3.3
+123,cwrs,kõht,nouns,0.05
+124,hawdd,keeruline,adjectives,0.3
+125,côn,tass,nouns,0.35
+126,teithio,minema,verbs,2.2
+127,mynd,reisima,verbs,2.2
+128,tafod,lihas,nouns,1.3
+129,wythnos,nädalavahetus,nouns,1.5
+130,pêl-foli,pall,nouns,2.35
+131,osgoi,tagasi lükkama,verbs,1.65
+132,theori,teoreem,nouns,2.95
+133,lleihau,piirama,verbs,3.55
+134,blanced ,voodi,nouns,1.15
+135,gwn,trikk,nouns,0.2
+136,amlen,kaunistus,nouns,0.25
+137,meddal,vägivaldne,adjectives,0.0
+138,bwriad,tahe,nouns,2.95
+139,berwi,praadima,verbs,1.0
+140,ffenestr,pilv,nouns,0.15
+141,mêr,veri,nouns,0.9
+142,claddedigaeth,surm,nouns,1.55
+143,barn,eelarvamus,nouns,2.5
+144,newid,muutma,verbs,2.85
+145,gorlethu,lämmatama,verbs,2.45
+146,dadlau,nõudma,verbs,1.7
+147,realiti,fantaasia,nouns,0.75
+148,cythraul,koletis,nouns,3.05
+149,glaw mân,vihm,nouns,3.9
+150,reidio,jooksma,verbs,0.45
+151,cryndod,maavärin,nouns,2.9
+152,roboteg,simulatsioon,nouns,0.85
+153,lifft,auto,nouns,0.45
+154,dyn,võitja,nouns,0.35
+155,pylu,kuluma,verbs,2.0
+156,ymdrechu,välistama,verbs,0.15
+157,parti,rahvas,nouns,0.95
+158,gwawr,öö,nouns,1.0
+159,ystafell wely,vannituba,nouns,1.65
+160,arbed,kulutama,verbs,0.45
+161,aderyn,kalkun,nouns,2.45
+162,yfed,segama,verbs,0.45
+163,athronydd,võidusõit,nouns,0.0
+164,siwmper,puuvill,nouns,0.7
+165,piston,mootor,nouns,2.15
+166,cnoi,lugema,verbs,0.1
+167,rheiddiadur,andur,nouns,0.2
+168,strwythur,topoloogia,nouns,1.5
+169,llaw,pöial,nouns,1.3
+170,potel,klaaspurk,nouns,2.65
+171,coridor,esik,nouns,4.15
+172,yn ddiweddarach,mitte kunagi,adverbs,0.15
+173,byth,ausalt,adverbs,0.0
+174,adeilad,tuba,nouns,1.4
+175,newyddion,klatš,nouns,2.5
+176,enillydd,kohalolek,nouns,0.35
+177,wedi'i goginio,keedetud,adjectives,1.5
+178,papur,papp,nouns,2.55
+179,fel arfer,ebaregulaarselt,adverbs,0.25
+180,hiliaeth,ksenofoobia,nouns,3.5
+181,amddiffyn,tapma,verbs,0.6
+182,cebl,kabel,nouns,0.0
+183,arholiad,õppekava,nouns,0.8
+184,gwthio,tõmbama,verbs,0.35
+185,deall,teadma,verbs,2.7
+186,angerdd,emotsioon,nouns,3.9
+187,goleddfu,mõjutama,verbs,4.05
+188,derbyn,soovitama,verbs,0.45
+189,batri,teater,nouns,0.2
+190,mynychu,ilmuma,verbs,0.95
+191,beirniadaeth,väide,nouns,1.4
+192,hafaliad,valem,nouns,3.6
+193,treial,test,nouns,4.35
+194,cosbi,alluma,verbs,0.5
+195,creadigol,innovatiivne,adjectives,3.15
+196,band,orkester,nouns,3.2
+197,magma,vulkaan,nouns,1.95
+198,dwyn,ostma,verbs,0.35
+199,terfysg,joonistus,nouns,0.05
+200,llywydd,linnapea,nouns,1.55
+201,jar,pudel,nouns,2.65
+202,dadl,arutelu,nouns,3.1
+203,crensian,naksama,verbs,1.35
+204,blaengroen,ümberlõikus,nouns,1.15
+205,prifysgol,ülikoolilinnak,nouns,1.6
+206,eilradd,oluline,adjectives,0.3
+207,lindys,siidiuss,nouns,2.35
+208,gwddf,käsi,nouns,0.6
+209,di-fau,puhas,adjectives,3.7
+210,dwywaith,üks kord,adverbs,0.7
+211,brenin,pritsess,nouns,1.15
+212,twr,kell,nouns,0.8
+213,yn amlwg,kindlalt,adverbs,2.75
+214,yn ddigynnwrf,tugevalt,adverbs,0.9
+215,top,külg,nouns,0.65
+216,asgwrn,kael,nouns,0.55
+217,sglodion,kursor,nouns,0.2
+218,gadael,ignoreerima,verbs,1.35
+219,cyfoeth,kuulsus,nouns,0.9
+220,anghwrtais,agressivne,adjectives,1.85
+221,yn ddiogel,õnnelikult,adverbs,0.8
+222,cleddyf,keskkond,nouns,0.0
+223,benthyg,paluma,verbs,1.25
+224,miliwnydd,dollar,nouns,0.8
+225,hyblyg,tagasihoidlik,adjectives,0.55
+226,ymuno,lisama,verbs,1.35
+227,bryn,kalju,nouns,1.85
+228,lladd,kaitsma,verbs,0.6
+229,ethol,määrama,verbs,2.7
+230,troelli,segunema,verbs,2.3
+231,ffraeo,ratsionaliseerima,verbs,0.85
+232,beibl,raamat,nouns,1.75
+233,brest,keha,nouns,1.45
+234,tasg,naine,nouns,0.05
+235,gwerthuso,analüüsima,verbs,3.5
+236,afal,mahl,nouns,1.3
+237,yn bennaf,enamasti,adverbs,3.45
+238,offeiriad,prohvet,nouns,1.45
+239,ffwr,naarits,nouns,2.8
+240,llidiog,kahtlev,adjectives,0.3
+241,car,automobiil,nouns,5.0
+242,cyflwr,kodu,nouns,0.3
+243,yn anaml,tihti,adverbs,0.35
+244,maer,pealik,nouns,1.65
+245,derbyn,eitama,verbs,0.25
+246,yn ddigynnwrf,õrnalt,adverbs,1.3
+247,miniog,nüri,adjectives,0.45
+248,cynghori,soovitama,verbs,4.3
+249,trefnu,korraldama,verbs,5.65
+250,theatr,patarei,nouns,0.2
+251,ffrog,tants,nouns,0.6
+252,yn ddibynadwy,vastutustundlikult,adverbs,3.8
+253,lemwn,tee,nouns,0.65
+254,weithiau,tihti,adverbs,0.55
+255,cyfathrebu,vestlus,nouns,3.9
+256,gwyliau,kalender,nouns,0.9
+257,ael,silm,nouns,1.25
+258,anelu,tabama,verbs,1.55
+259,papur,poster,nouns,1.4
+260,yn gyfiawn,küpselt,adverbs,0.7
+261,wedi ei orchuddio,katteta,adjectives,0.25
+262,cymhwysedd,võimekus,nouns,4.2
+263,gwin,alkohol,nouns,2.2
+264,presenoldeb,uks,nouns,0.2
+265,priodol,pidulik,adjectives,1.1
+266,malware,uss,nouns,0.35
+267,capel,kaabel,nouns,0.0
+268,hapusrwydd,rahu,nouns,1.8
+269,adeiladu,lisama,verbs,1.0
+270,gwahaniaethu,nõustuma,verbs,0.2
+271,yn drist,pööraselt,adverbs,0.4
+272,siaced,riided,nouns,1.7
+273,mawr,rahvuslik,adjectives,0.75
+274,yn gyfeillgar,ebatõenäoline,adverbs,0.0
+275,llew,kass,nouns,2.0
+276,gyrrwr,piloot,nouns,2.5
+277,gair,sõnaraamat,nouns,1.7
+278,euog,halb,adjectives,1.3
+279,cyfeiliornus,ebausaldusväärne,adjectives,1.0
+280,mariwana,maitsetaim,nouns,1.7
+281,ystafell wely,voodi,nouns,1.55
+282,dyfarniad,kohtumenetlus,nouns,2.0
+283,ychwanegu,korrutama,verbs,1.5
+284,siarcol,kivisüsi,nouns,2.9
+285,swper,hommikusöök,nouns,1.15
+286,dadl,kriitika,nouns,1.4
+287,cario ,tooma,verbs,2.0
+288,gweithiwr,tööandja,nouns,1.05
+289,ymadael,ootama,verbs,0.1
+290,gwn,koidik,nouns,0.05
+291,yn annibynnol,vastutustundlikult,adverbs,0.85
+292,corff,aluspesu,nouns,0.5
+293,cwmwl,ilm,nouns,1.25
+294,ychydig,umbes,adverbs,0.45
+295,deallusrwydd,oskus,nouns,1.75
+296,rhuthro,kiirustama,verbs,4.9
+297,maddau,aktsepteerima,verbs,1.75
+298,pîn-afal,nutitelefon,nouns,0.05
+299,tynnu'n ôl,pensionile jääma,verbs,0.2
+300,diflannu,leidma,verbs,0.4
+301,eira,torm,nouns,1.35
+302,bara,juust,nouns,0.95
+303,blanced,iil,nouns,0.25
+304,croen,ratas,nouns,0.1
+305,band,vastupidavus,nouns,0.15
+306,teledu,näitleja,nouns,1.1
+307,iard,toll,nouns,1.1
+308,yn rhyfedd,ebatavaliselt,adverbs,4.3
+309,enfawr,imepisike,adjectives,0.3
+310,prif fwrdd,emaplaat,nouns,3.05
+311,pwysig,ülioluline,adjectives,4.0
+312,cyfarfod,ujuma,verbs,0.0
+313,nenfwd,katus,nouns,3.9
+314,emyn,piibel,nouns,0.4
+315,tâl,palk,nouns,5.15
+316,treisgar,pehme,adjectives,0.0
+317,nenfwd,põrand,nouns,0.65
+318,harddwch,iga,nouns,0.6
+319,derbyn,uskuma,verbs,1.4
+320,styden,kutt,nouns,1.05
+321,brechdan,lõuna,nouns,1.0
+322,asgwrn,lihas,nouns,0.95
+323,adfer,parandama,verbs,3.75
+324,yn amlwg,kohalikult,adverbs,0.05
+325,beibl,hümn,nouns,0.4
+326,gwely,magamistuba,nouns,1.55
+327,amherchnogi,loobuma,verbs,2.0
+328,llenyddiaeth,raamat,nouns,2.35
+329,caban,laager,nouns,1.05
+330,gwrando,kuulma,verbs,2.95
+331,aeddfed,peen,adjectives,1.7
+332,saws,õun,nouns,0.4
+333,rhifyddeg,loogika,nouns,1.2
+334,ffurfiol,kohane,adjectives,1.1
+335,gludiog,märg,adjectives,1.05
+336,enfawr,suur,adjectives,3.75
+337,deiet,õun,nouns,0.65
+338,enwaediad,eesnahk,nouns,1.15
+339,dynion,korporatsioon,nouns,1.1
+340,ychwanegu,jagama,verbs,0.2
+341,digwyddiad codi arian,üritus,nouns,1.4
+342,deinosor,elevant,nouns,0.5
+343,cerbyd,buss,nouns,2.65
+344,codiad haul,päikeseloojang,nouns,1.1
+345,curo,segama,verbs,1.4
+346,gwely,haigla,nouns,0.95
+347,iâr,lind,nouns,2.15
+348,gofyn,palvetama,verbs,1.6
+349,paraseicoleg,neuropsühholoogia,nouns,1.65
+350,plesio,anuma,verbs,0.1
+351,pen-blwydd,aasta,nouns,1.05
+352,llyfn,terav,adjectives,0.55
+353,yn gyfrifol,usaldusväärselt,adverbs,3.8
+354,yn realistig,äsja,adverbs,0.15
+355,arae,list,nouns,1.25
+356,gwybodaeth,raamat,nouns,0.95
+357,cymryd,saama,verbs,1.95
+358,mam,issi,nouns,1.35
+359,rheolaidd,ignorantne,adjectives,0.2
+360,anghenus,ebakindel,adjectives,1.25
+361,basilica,mosaiik,nouns,0.7
+362,ffrâm,tabamus,nouns,0.25
+363,bachgen,laps,nouns,1.65
+364,tŷ,küün,nouns,0.9
+365,digwydd,tegema,verbs,0.8
+366,dannedd,luu,nouns,1.45
+367,iris,atsetüülkoliin,nouns,0.4
+368,cael,kaotama,verbs,0.15
+369,gwyliwr,mees,nouns,0.95
+370,agwedd,kindlus,nouns,1.0
+371,gwyliadwraeth,seelik,nouns,0.1
+372,bachgen,põngerjas,nouns,2.3
+373,mynychu,kohale jõudma,verbs,0.8
+374,protein,käepide,nouns,0.0
+375,golygyddol,uudised,nouns,0.85
+376,cinio,supp,nouns,1.4
+377,duw,kurat,nouns,1.0
+378,mwslim,piiskop,nouns,0.6
+379,traddodiad,käsitöö,nouns,0.75
+380,twnnel,rada,nouns,0.95
+381,gwaed,üdi,nouns,0.9
+382,ffêr,aken,nouns,0.0
+383,cot,riided,nouns,1.8
+384,yn union,ebatäpselt,adverbs,0.25
+385,creu,tegema,verbs,4.2
+386,gwrthbrofi,lubama,verbs,0.0
+387,gwerthfawr,laisk,adjectives,0.15
+388,dyn,täkk,nouns,1.05
+389,cornel,ala,nouns,0.7
+390,dillad,kapp,nouns,0.85
+391,dug,vabariik,nouns,0.4
+392,bachgen,riis,nouns,0.05
+393,danfon,minema,verbs,0.9
+394,hydoddi,ühendama,verbs,1.2
+395,planed,täht,nouns,2.3
+396,steil,elegants,nouns,2.8
+397,yn gadarnhaol,tõenäoliselt,adverbs,0.9
+398,rhoi,hoidma,verbs,0.3
+399,ennill,domineerima,verbs,2.6
+400,maer,president,nouns,1.55
+401,garw,jäik,adjectives,1.15
+402,cytoplasm,number,nouns,0.05
+403,dewis,arvamus,nouns,1.1
+404,mwtant,sotsiobioloogia,nouns,0.45
+405,pobl,dollar,nouns,0.05
+406,dosbarthu,vastu võtma,verbs,0.35
+407,gwaed,viirus,nouns,0.85
+408,cymryd,ära ütlema,verbs,0.35
+409,campws,ülikool,nouns,1.6
+410,dolen,vöö,nouns,0.5
+411,peiriant,arvuti,nouns,1.95
+412,ffôn symudol,telefon,nouns,4.25
+413,ochr,tipp,nouns,0.65
+414,cais,taotleja,nouns,1.6
+415,trosedd,pettus,nouns,3.0
+416,profi,seletama,verbs,1.85
+417,clo,võti,nouns,1.3
+418,hyder,suhtumine,nouns,1.0
+419,yn anhygoel,tihedalt,adverbs,0.2
+420,dwyn,röövima,verbs,3.6
+421,gwneud,lõpetama,verbs,0.65
+422,bargen,penn,nouns,0.5
+423,het,mantel,nouns,0.95
+424,poster,paber,nouns,1.4
+425,digio,solvama,verbs,2.95
+426,gwasgu,haarama,verbs,1.45
+427,ysgubor,maja,nouns,0.9
+428,de,põhi,nouns,1.0
+429,difrifol,naljakas,adjectives,0.45
+430,arferol,veider,adjectives,0.3
+431,yn gynnil,rahulikult,adverbs,1.3
+432,tasg,maantee,nouns,0.1
+433,gadael,tegema,verbs,0.65
+434,sinamon,komm,nouns,0.8
+435,diog,hõivatud,adjectives,0.15
+436,log,puitmaterjal,nouns,3.15
+437,uno,siduma,verbs,3.1
+438,newydd,iidne,adjectives,0.2
+439,swltan,ministeerium,nouns,0.25
+440,eliffant,dinosaurus,nouns,0.5
+441,cefnder,onu,nouns,1.25
+442,meddyg,arst,nouns,4.8
+443,hysbysu,tunnistama,verbs,1.0
+444,pennaeth,linnapea,nouns,1.65
+445,dillad,sahtel,nouns,0.8
+446,lluosiad,jagamine,nouns,1.1
+447,cymdeithas,kultuur,nouns,1.85
+448,yn fras,usaldusväärselt,adverbs,0.15
+449,ffenestr,uks,nouns,1.0
+450,anodd,raske,adjectives,4.8
+451,atom,molekul,nouns,1.65
+452,poblogaeth,rahvas,nouns,2.55
+453,digon,küllus,nouns,4.35
+454,pwerus,nõrk,adjectives,0.1
+455,iâ,vesi,nouns,2.1
+456,taclus,puhas,adjectives,2.0
+457,braich,lihas,nouns,1.0
+458,yn annhebygol,sõbralik,adverbs,0.0
+459,corn,auto,nouns,0.7
+460,anarferol,haruldane,adjectives,4.35
+461,dafad,lambatall,nouns,3.65
+462,finegr,salat,nouns,0.45
+463,cwyno,vaidlema,verbs,1.1
+464,menyw,teksad,nouns,0.2
+465,bricsen,sein,nouns,1.2
+466,dannedd,haamer,nouns,0.1
+467,drws,kell,nouns,0.4
+468,geiriadur,definitisioon,nouns,1.85
+469,drysu,õppima,verbs,0.3
+470,archwilio,avastama,verbs,2.5
+471,nerthol,võimas,adjectives,4.7
+472,yn rheolaidd,aeg-ajalt,adverbs,1.05
+473,cadw,kaotama,verbs,0.4
+474,bioleg,biotoop,nouns,0.85
+475,taliad,münt,nouns,1.05
+476,bwydlen,tellimus,nouns,0.8
+477,gwlychu,vähendama,verbs,0.25
+478,gorllewin,põhi,nouns,1.05
+479,siwmper,jakk,nouns,1.75
+480,pryf sidan,tõuk,nouns,2.35
+481,rhyddhau,püüdma,verbs,0.95
+482,hedfaniad,lennundus,nouns,2.45
+483,cyfathrebu,palvetama,verbs,0.7
+484,twrci,kana,nouns,1.75
+485,cyflawni,saavutama,verbs,3.2
+486,cynorthwyo,assisteerima,verbs,5.15
+487,tŷ,korter,nouns,2.05
+488,chwerthin,nutma,verbs,0.65
+489,asgwrn cefn,kael,nouns,1.25
+490,llys,kohtunik,nouns,1.25
+491,ffisigwr,doktor,nouns,4.8
+492,tasg,saar,nouns,0.0
+493,cymyl,udu,nouns,2.35
+494,cyhyrau,keel,nouns,1.3
+495,corff,rind,nouns,1.45
+496,cynhwysor,diood,nouns,1.0
+497,cyhyr,käsi,nouns,1.0
+498,brawdgarwch,mehed,nouns,1.1
+499,proffwydo,määrama,verbs,1.35
+500,gwraig,ema,nouns,2.05
+501,creu,sukelduma,verbs,0.15
+502,siwr,veendunud,adjectives,5.4
+503,ymddwyn,alluma,verbs,1.3
+504,ysbyty,voodi,nouns,0.95
+505,ysgwydd,pea,nouns,1.0
+506,dŵr,jää,nouns,2.1
+507,nôl rhywbeth,ostma,verbs,1.4
+508,parêd,rahvahulk,nouns,1.8
+509,gweiddi,kiljuma,verbs,3.6
+510,tymestl,tekk,nouns,0.25
+511,penderfynu,kohut mõistma,verbs,2.65
+512,byth,heldelt,adverbs,0.1
+513,llaw,ranne,nouns,1.75
+514,gwirod,vein,nouns,1.85
+515,eira,laviin,nouns,1.4
+516,twp,loll,adjectives,5.15
+517,heulwen,kiir,nouns,1.9
+518,methiant,pankrot,nouns,1.3
+519,swydd,tööriist,nouns,0.65
+520,stopio,hoiatama,verbs,0.8
+521,coleg,klass,nouns,1.25
+522,osôn,atmosfäär,nouns,1.95
+523,rhyfedd,normaalne,adjectives,0.3
+524,cig eidion,liha,nouns,2.9
+525,yn ofalus,ettevaatlikult,adverbs,3.65
+526,myfyrio,mõtlema,verbs,4.15
+527,llenwi,põlgama,verbs,0.0
+528,pren,tekk,nouns,0.05
+529,gweithiwr,kontor,nouns,0.7
+530,gadael,välja tõstma,verbs,0.7
+531,brecwast,õhtueine,nouns,1.15
+532,trefnu,koguma,verbs,0.6
+533,cyfarwyddwr,boss,nouns,3.45
+534,penodi,valima,verbs,2.7
+535,cadach,riided,nouns,1.5
+536,gafr,lehm,nouns,1.15
+537,aflonydd,noor,adjectives,0.7
+538,cywilydd,õnneseen,adjectives,0.05
+539,sinema,ooper,nouns,0.85
+540,ffactorio,lagunemine,nouns,1.2
+541,cyfnos,õhtu,nouns,3.9
+542,gitâr,viiul,nouns,1.15
+543,rheolaeth,amet,nouns,0.95
+544,cynfas,lennuk,nouns,0.15
+545,casglu,raputama,verbs,0.05
+546,darganfod,põgenema,verbs,0.25
+547,cred,lill,nouns,0.05
+548,rhuglen,lärm,nouns,1.1
+549,croes,munk,nouns,0.8
+550,bàth,palk,nouns,0.0
+551,stryd,auto,nouns,0.75
+552,dŵr,põud,nouns,0.35
+553,actor,hulktahukas,nouns,0.15
+554,anarchiaeth,kaos,nouns,3.65
+555,ffenestr,pahkluu,nouns,0.0
+556,llwybr,tunnel,nouns,0.95
+557,yn ansicr,hirmunud,adjectives,2.3
+558,sgïo,lumelaud,nouns,1.95
+559,cadair,diivan,nouns,2.15
+560,cyflawni,edu saavutama,verbs,4.3
+561,cymryd,kätte toimetama,verbs,0.5
+562,brwnt,odav,adjectives,0.65
+563,dec,hiir,nouns,0.15
+564,hen,värske,adjectives,0.1
+565,disgyn,vähenema,verbs,0.9
+566,gorchuddio,kaitsma,verbs,1.15
+567,derbyn,vastu võtma,verbs,3.6
+568,ystadegau,tennis,nouns,0.2
+569,ŷd,mais,nouns,1.55
+570,perllan,jaanalind,nouns,0.0
+571,gwaelod,pool,nouns,1.0
+572,cwmwl,järv,nouns,0.35
+573,cryfder,vägi,nouns,4.0
+574,bòs,direktor,nouns,3.45
+575,busnes,ühing,nouns,1.95
+576,dinistrio,lagunema,verbs,1.6
+577,corachaidd,väiksevõitu,adjectives,3.3
+578,asteroid,täht,nouns,2.1
+579,cymryd,kandma,verbs,0.9
+580,wedi eu cyfuno,segatud,adjectives,3.35
+581,tramgwyddo,heidutama,verbs,1.25
+582,cwpwrdd,riided,nouns,0.85
+583,miniog,sile,adjectives,0.55
+584,cariad,seltsiline,nouns,2.85
+585,ar ôl,enne,adverbs,0.35
+586,glob,maailm,nouns,4.2
+587,caffael,leidma,verbs,1.6
+588,batri,energia,nouns,2.3
+589,llwyddo,võitma,verbs,4.15
+590,ymwrthod,suruma,verbs,0.1
+591,erfyn,küsima,verbs,2.85
+592,yn heddychlon,kaootiliselt,adverbs,0.25
+593,bàth,abikaasa (naine),nouns,0.0
+594,fforddiadwy,odav,adjectives,4.55
+595,cystadlu,lõpetama,verbs,0.2
+596,chwilio,uitama,verbs,1.75
+597,algebra,tehe,nouns,0.9
+598,drws,korporatsioon,nouns,0.15
+599,gorchuddio,matma,verbs,0.8
+600,maint,trikk,nouns,0.05
+601,amgylchedd,mõõk,nouns,0.0
+602,yn sicr,selgelt,adverbs,2.75
+603,diddanu,nautima,verbs,1.8
+604,encilio,lahkuma,verbs,2.6
+605,pryd bwyd,õhtueine,nouns,3.25
+606,dermatitis,ekseem,nouns,3.3
+607,pwnc,lugu,nouns,1.55
+608,tymer,arst,nouns,0.1
+609,yn gyfan gwbl,margniaalselt,adverbs,0.65
+610,adfer,tooma,verbs,0.1
+611,gadael,välja tõstma,verbs,0.7
+612,cyfoeth,vaesus,nouns,0.6
+613,cyfuno,segunema,verbs,2.8
+614,diymhongar,paindlik,adjectives,0.55
+615,cwrw,šampus,nouns,1.3
+616,arferol,erinev,adjectives,0.75
+617,heb ei ddefnyddio,uus,adjectives,4.3
+618,dod,osalema,verbs,2.4
+619,dal,saama,verbs,1.8
+620,twyn,kõrb,nouns,1.1
+621,cyfiawnhau,kinnitama,verbs,1.05
+622,cyfathrebu,keel,nouns,1.85
+623,niwtral,rahulik,adjectives,1.75
+624,losin,kaneel,nouns,0.8
+625,dydd  ,koidik,nouns,1.35
+626,hedyn,veski,nouns,0.65
+627,ffroenell,vedelik,nouns,0.6
+628,balch ,pöörane,adjectives,0.3
+629,basged,pall,nouns,0.45
+630,cul,räpane,adjectives,0.25
+631,dysgu,kuulama,verbs,1.2
+632,ardderchog,halb,adjectives,0.05
+633,digid,tsütoplasma,nouns,0.05
+634,deallusrwydd,tarkus,nouns,4.05
+635,byth,negatiivne,adjectives,0.65
+636,cyfrifiadur,masin,nouns,1.95
+637,ystafell ymolchi,köök,nouns,1.1
+638,euog,häbenev,adjectives,2.0
+639,wedi blino,näljane,adjectives,0.55
+640,niwed,valu,nouns,1.9
+641,partner,kutt,nouns,1.45
+642,rhoi,panema,verbs,0.95
+643,dewin,kaabel,nouns,0.0
+644,brwydro,hammustama,verbs,0.6
+645,dod i feddiant,hankima,verbs,3.85
+646,llygoden,konteiner,nouns,0.2
+647,ewythr,nõbu,nouns,1.25
+648,dugiaeth,printskond,nouns,2.3
+649,blodyn,mugul,nouns,0.65
+650,aer,molekul,nouns,0.7
+651,ystafell,hoone,nouns,1.4
+652,ysglyfaeth,jumal,nouns,0.1
+653,heb fod yn ddrud,odav,adjectives,4.65
+654,oeraidd,habras,adjectives,0.35
+655,cadw,laenama,verbs,0.35
+656,disg,laadija,nouns,0.15
+657,braich,õlg,nouns,1.65
+658,fel arfer,harva,adverbs,0.35
+659,yn ofalus,ohtlikult,adverbs,0.25
+660,diffiniad,sõnaraamat,nouns,1.85
+661,crochenwaith,keraamika,nouns,3.7
+662,gludiog,räpane,adjectives,1.3
+663,deallusrwydd,loogika,nouns,2.15
+664,balch ,tugev,adjectives,0.75
+665,dafad,kari,nouns,1.25
+666,ceiniog,makse,nouns,1.05
+667,gwydn,kõva,adjectives,2.9
+668,calon,operatsioon,nouns,0.4
+669,lloches,hütt,nouns,1.6
+670,egluro,arutama,verbs,1.95
+671,afioneg,lennundus,nouns,3.7
+672,cartref,osariik,nouns,0.3
+673,crwm,sirge,adjectives,0.35
+674,mynnu,noomima,verbs,0.45
+675,persli,muffin,nouns,0.25
+676,yn gyfrinachgar,otseloomulikult,adverbs,0.25
+677,degawd,sajand,nouns,0.95
+678,cymryd rhan,ütlema,verbs,0.35
+679,canon,kuul,nouns,1.0
+680,gorynys,saar,nouns,2.7
+681,maint,ulatus,nouns,3.1
+682,cyflogwr,töötaja,nouns,1.05
+683,pwerus,vägev,adjectives,4.7
+684,gwisg,ball,nouns,0.75
+685,yn iawn,keskpärane,adjectives,2.85
+686,ceryddu,nõudma,verbs,0.45
+687,ufuddhau,karistama,verbs,0.5
+688,hwyliau,viha,nouns,1.55
+689,argraff,uskumus,nouns,1.3
+690,cytundeb,pakt,nouns,5.05
+691,dod â,taastama,verbs,0.1
+692,misol,iganädalane,adjectives,1.05
+693,cwpan,klaaspurk,nouns,1.15
+694,ceg,huul,nouns,2.45
+695,newydd,hiljutine,adjectives,3.45
+696,brecwast,peekon,nouns,0.75
+697,cywilydd,kurbus,nouns,1.25
+698,cwt,metsamajake,nouns,3.95
+699,perfformiwr,laul,nouns,1.0
+700,ffoi,põgenema,verbs,5.25
+701,coeden,leht,nouns,1.3
+702,deigryn,silm,nouns,1.15
+703,pêl,kinnas,nouns,0.25
+704,ffilm,linateos,nouns,4.55
+705,lansio,saatma,verbs,0.75
+706,madfall,madu,nouns,1.7
+707,gwrthod,valima,verbs,0.45
+708,taliad,auhind,nouns,1.3
+709,ehangu,kasvatama,verbs,3.8
+710,claddu,katma,verbs,0.8
+711,colli,hoidma,verbs,0.4
+712,pêl-fasged,pesapall,nouns,1.75
+713,ffôn clyfar,ananass,nouns,0.05
+714,wisgi,šampus,nouns,1.2
+715,llyfr,käsikiri,nouns,2.1
+716,ysgytlaeth,mahl,nouns,1.25
+717,darganfod,otsima,verbs,1.15
+718,yn amlwg,umbes,adverbs,0.3
+719,newynog,janune,adjectives,1.8
+720,ewin,pöial,nouns,1.05
+721,hir,kitsas,adjectives,0.65
+722,breuddwyd,taevas,nouns,0.5
+723,pêl-fas,diivan,nouns,0.1
+724,arestio,kahtlustama,verbs,0.7
+725,diafol,jumal,nouns,1.0
+726,ffensio,võimlemine,nouns,1.0
+727,gwraig,sent,nouns,0.1
+728,fisa,globalism,nouns,0.6
+729,dyffryn,depressioon,nouns,0.6
+730,log,vann,nouns,0.0
+731,yn annaturiol,loomulikult,adverbs,0.3
+732,yn heddychlon,uhkelt,adverbs,0.4
+733,denu,lööma,verbs,0.3
+734,pennod,valik,nouns,0.4
+735,bywgraffiad,ilukirjandus,nouns,0.75
+736,ceffyl,härg,nouns,1.05
+737,aloi,teras,nouns,2.75
+738,siart,graafik,nouns,3.8
+739,sy'n dod i mewn,väljuv,adjectives,0.35
+740,cath,koer,nouns,1.25
+741,gweinidogaeth,sultan,nouns,0.25
+742,tywynnu,kissitama,verbs,0.65
+743,ffin,piire,nouns,3.75
+744,hawdd,paindlik,adjectives,1.2
+745,heliwm,õhk,nouns,2.1
+746,gwregys,silmus,nouns,0.5
+747,perygl,tõbi,nouns,0.45
+748,argymell,nõu andma,verbs,4.3
+749,ffaith,vihje,nouns,1.0
+750,poen,kahju,nouns,1.9
+751,deiet,salat,nouns,0.85
+752,anghofio,säilitama,verbs,0.3
+753,atodiad,liide,nouns,3.5
+754,cyntedd,klassiruum,nouns,0.6
+755,cymryd,hankima,verbs,1.7
+756,orthodontydd,hambaarst,nouns,4.35
+757,eglwys gadeiriol,lagi,nouns,0.55
+758,trafferthu,raskendama,verbs,1.15
+759,cas,elekter,nouns,0.2
+760,wal,kindlus,nouns,1.1
+761,saeth,sihtmärk,nouns,0.7
+762,trist,naljakas,adjectives,0.35
+763,siwgr,mesi,nouns,1.9
+764,mynychu,kogunema,verbs,0.9
+765,priodi,kihluma,verbs,1.3
+766,traeth,rannik,nouns,2.55
+767,coginio,praadima,verbs,2.2
+768,ffens,hüppamine,nouns,0.45
+769,pen-glin,käsi,nouns,0.85
+770,helpu,abistama,verbs,5.15
+771,twyllo,petma,verbs,4.55
+772,anniben,korrapärane,adjectives,0.3
+773,arbed,hävitama,verbs,0.2
+774,cyflwr,poiss,nouns,0.05
+775,anhrefn,klass,nouns,0.2
+776,ethol,valima,verbs,3.6
+777,alwminiwm,tina,nouns,1.75
+778,gwadu,ülestunnistus,nouns,0.65
+779,sinema,popkorn,nouns,0.9
+780,codi,jooma,verbs,0.4
+781,lluwchwynt,vihm,nouns,1.05
+782,syml,keeruline,adjectives,0.4
+783,traethawd,raamat,nouns,1.1
+784,yn gryf,ametlikult,adverbs,0.6
+785,ynys,merevägi,nouns,0.3
+786,o ychydig,täielikult,adverbs,0.65
+787,cwch,auto,nouns,0.8
+788,plentynaidd,juhm,adjectives,1.85
+789,yn feirniadol,põhiliselt,adverbs,0.25
+790,yn sicr,mõnikord,adverbs,0.1
+791,torri,lammutama,verbs,4.0
+792,chwyrnu,ärkama,verbs,0.55
+793,anfoesol,illegaalne,adjectives,2.1
+794,capel,kirikutorn,nouns,0.8
+795,ymddangos,saama,verbs,1.0
+796,aderyn,hakk,nouns,2.3
+797,pla,putukamürk,nouns,1.0
+798,cul,pikk,adjectives,0.65
+799,prin,ebatavaline,adjectives,4.35
+800,pathogen,pisik,nouns,4.15
+801,merch,isa,nouns,0.95
+802,bws,takso,nouns,1.2
+803,brithyll,kitarr,nouns,0.0
+804,maes awyr,tükk,nouns,0.0
+805,hyll,toores,adjectives,0.4
+806,cyfrifiadur,ketas,nouns,0.7
+807,diddordeb,tähelepanu,nouns,2.6
+808,pryd bwyd,õhtusöök,nouns,3.1
+809,gwrando,alluma,verbs,1.3
+810,twll,abikaasa (naine),nouns,0.05
+811,clogwyn,pära,nouns,0.0
+812,tyfu,suurenema,verbs,4.15
+813,botwm,riided,nouns,0.5
+814,benthyg,andma,verbs,1.95
+815,angel,deemon,nouns,0.75
+816,wylo,nutma,verbs,4.45
+817,trwyn,suu,nouns,0.95
+818,cnoi,kaklema,verbs,0.6
+819,ysgol,õigus,nouns,0.35
+820,tenau,sale,adjectives,4.5
+821,twymyn,haigus,nouns,2.85
+822,trasiedi,surm,nouns,1.55
+823,dwywaith,alati,adverbs,0.2
+824,dyn,tüdruk,nouns,0.9
+825,ecosystem,majandus,nouns,0.65
+826,niweidio,jalaga lööma,verbs,1.75
+827,ffidil,kitarr,nouns,1.15
+828,ôl-ddodiad,järelliide,nouns,3.5
+829,llywydd,õpilane,nouns,0.25
+830,weithiau,kunaiganes,adverbs,0.85
+831,mae'n debygol,võib-olla,adverbs,2.5
+832,actores,näitleja,nouns,4.3
+833,delwedd,peegeldus,nouns,1.0
+834,hebog,kotkas,nouns,2.1
+835,mynydd,perv,nouns,0.55
+836,ifanc,püsimatu,adjectives,0.7
+837,masarnen,tamm,nouns,1.5
+838,gardd,voolik,nouns,0.45
+839,hurt,tark,adjectives,0.35
+840,ymddeol,tagasi võtma,verbs,0.2
+841,diferu,kallama,verbs,1.7
+842,offeiriad,jumal,nouns,1.1
+843,tâl,makse,nouns,4.1
+844,tenis,statistika,nouns,0.2
+845,codi,sikutama,verbs,1.15
+846,arall,vastandlik,adjectives,0.75
+847,smart,loll,adjectives,0.35
+848,gwraig,kõrs,nouns,0.0
+849,dyweddïad,sõrmus,nouns,1.4
+850,brenhines,mesilane,nouns,0.45
+851,cân,esineja,nouns,1.0
+852,crwm,agressiivne,adjectives,0.25
+853,cyn,pärast,adverbs,0.35
+854,llinyn,päikeseloojang,nouns,0.05
+855,dysgu,imenduma,verbs,0.8
+856,plentyn,poiss,nouns,2.3
+857,yn naturiol,vaikselt,adverbs,0.55
+858,oen,lammas,nouns,3.65
+859,gogledd,lõuna,nouns,1.0
+860,pellter,vaatenurk,nouns,0.4
+861,o ddifrif,oluliselt,adverbs,2.0
+862,creu,joonistama,verbs,0.65
+863,coron,võti,nouns,0.45
+864,safbwynt,vahemaa,nouns,0.4
+865,yn ofalus,praegu,adverbs,0.2
+866,ymadrodd,sõna,nouns,1.95
+867,milwr,rahu,nouns,0.3
+868,cyfeillgar,helde,adjectives,2.25
+869,enwogrwydd,jõukus,nouns,0.9
+870,bacwn,uba,nouns,0.35
+871,doler,rahvas,nouns,0.05
+872,dadl,kokkulepe,nouns,0.55
+873,enillydd,tšempion,nouns,5.2
+874,dysgu,segadusse ajama,verbs,0.3
+875,meddwl,pärima,verbs,0.95
+876,gwraig,naine,nouns,4.25
+877,baco,sigaret,nouns,2.9
+878,llythyr,lõik,nouns,0.8
+879,aer,heelium,nouns,2.1
+880,clou,tormakas,adjectives,3.65
+881,teledu,kino,nouns,1.65
+882,go iawn,võlts,adjectives,0.3
+883,stopio,kontrollima,verbs,0.5
+884,opera,kino,nouns,0.85
+885,to,põrand,nouns,0.7
+886,morwyn,tüdruk,nouns,2.3
+887,dyn,naine,nouns,0.65
+888,ysgrifennu,kritseldama,verbs,2.8
+889,anystwyth,kerge,adjectives,0.05
+890,dinas,väikelinn,nouns,2.1
+891,cyfaill,sõber,nouns,5.4
+892,llygad,kulm,nouns,1.25
+893,polyester,puuvill,nouns,1.25
+894,tasg,töö,nouns,3.15
+895,ennill,teostama,verbs,1.8
+896,anthropoleg,arheoloogia,nouns,1.5
+897,cyrraedd,osalema,verbs,0.8
+898,peiriannydd,tööline,nouns,2.2
+899,hylif,tila,nouns,0.6
+900,topoleg,struktuur,nouns,1.5
+901,tân,apokalüpsis,nouns,0.75
+902,dirprwy,ohvitser,nouns,0.75
+903,awyrennaeth,lennuseadmeteadus,nouns,3.7
+904,penelin,pahkluu,nouns,1.0
+905,neidr,sisalik,nouns,1.7
+906,stôl,tool,nouns,3.45
+907,prawf,kohtuotsus,nouns,2.0
+908,rhifyddeg,rütm,nouns,0.65
+909,cyfarfod,tervitama,verbs,1.4
+910,ffilm,nihilism,nouns,0.2
+911,anrhagweledig,ootamatu,adjectives,4.65
+912,anwybyddu,vältima,verbs,3.75
+913,hel,püüdma,verbs,1.7
+914,bodloni,heameelt tegema,verbs,3.25
+915,traethawd,kodutöö,nouns,1.85
+916,dechrau,lõpetama,verbs,0.3
+917,gwrando,õppima,verbs,1.2
+918,diogel,legaalne,adjectives,1.5
+919,nyrs,teadlane,nouns,0.3
+920,gludedd,plärtsatus,nouns,0.1
+921,moleciwl,õhk,nouns,0.7
+922,stoc,vara,nouns,3.15
+923,torf,kamp,nouns,2.65
+924,erthygl,ajakiri,nouns,2.2
+925,yn ddibynadwy,passiivselt,adverbs,0.3
+926,swyddfa,tööline,nouns,0.7
+927,siarad,kuulma,verbs,0.7
+928,anghyfreithlon,ebamoraalne,adjectives,2.1
+929,pobl,pidu,nouns,0.95
+930,taliad,paberraha,nouns,0.7
+931,gadael,saabuma,verbs,0.45
+932,cynorthwy-ydd,õpetaja,nouns,1.95
+933,gwin,naps,nouns,1.85
+934,awyr,unistus,nouns,0.5
+935,cawod,klooster,nouns,0.1
+936,ergyd,raam,nouns,0.25
+937,gwenynen,kuninganna,nouns,0.45
+938,casáu,kritiseerima,verbs,1.05
+939,cyfyngu,vähendama,verbs,3.55
+940,braich,säär,nouns,1.15
+941,yn aml,harva,adverbs,0.35
+942,cotwm,polüester,nouns,1.25
+943,gwersyll,metsamajake,nouns,1.05
+944,steil,mood,nouns,4.55
+945,danfon,tooma,verbs,0.9
+946,anniben,puhas,adjectives,0.25
+947,sylw,huvi,nouns,2.6
+948,ofnus,rahutu,adjectives,3.15
+949,cyflogwr,tööline,nouns,1.0
+950,mae'n debyg,lihtsalt,adverbs,0.8
+951,ffurfdroad,nakkus,nouns,0.0
+952,sgol,tuul,nouns,2.7
+953,banereg,lipp,nouns,0.95
+954,sensoriaeth,vabadus,nouns,0.25
+955,arian,kapital,nouns,3.3
+956,o bosibl,optimistlikult,adverbs,1.3
+957,cyflawni,võitma,verbs,1.8
+958,cyfreithiwr,pankur,nouns,1.0
+959,mam,eestkostja,nouns,1.9
+960,seren,asteroid,nouns,2.1
+961,dosbarth,kolledž,nouns,1.25
+962,cyrchwr,kiibid,nouns,0.2
+963,drifftio,voolama,verbs,2.4
+964,brawd,poeg,nouns,1.0
+965,moesol,legend,nouns,0.55
+966,diwylliant,ühiskond,nouns,1.85
+967,nenfwd,katedraal,nouns,0.55
+968,preifat,avalik,adjectives,0.65
+969,ymosodol,ebaviisakas,adjectives,1.85
+970,treisgar,vihane,adjectives,1.65
+971,ifanc,õnnelik,adjectives,0.55
+972,amau,arreteerima,verbs,0.7
+973,cinio,võileib,nouns,1.0
+974,cerflun,skulptuur,nouns,4.9
+975,crys,kampsun,nouns,1.15
+976,angenrheidiol,hädavajalik,adjectives,4.25
+977,homoffon,fotofon,nouns,0.25
+978,sefyllfa,seisund,nouns,3.05
+979,ymuno,omandama,verbs,0.35
+980,tywysoges,küpsis,nouns,0.05
+981,gwael,hirmus,adjectives,1.5
+982,gwrthod,hukka mõistma,verbs,0.55
+983,deintydd,kolonel,nouns,0.05
+984,ymchwilio,kontrollima,verbs,3.3
+985,cadw,andma,verbs,0.3
+986,rhosyn,liblikas,nouns,0.4
+987,plisman,kaaspiloot,nouns,0.2
+988,gwellt,abikaasa (naine),nouns,0.0
+989,maneg,ball,nouns,0.25
+990,bowliwr,keegel,nouns,1.45
+991,llyncu,rüüpama,verbs,2.45
+992,yn hawdd,mugavalt,adverbs,1.3
+993,cyfuniad,suhkruroog,nouns,0.45
+994,goruchafiaeth,kõikvõimsus,nouns,2.5
+995,seremoni,pidustus,nouns,2.8
+996,gwddf,nina,nouns,0.85
+997,pibell,auto,nouns,0.2
+998,torf,rahvasumm,nouns,5.1
+999,barnwr,kohus,nouns,1.25
+1000,methu,tuginema,verbs,0.15
+1001,tŷ,võti,nouns,0.65
+1002,soffa,tool,nouns,2.15
+1003,pobl,sent,nouns,0.05
+1004,egluro,selgitama,verbs,4.25
+1005,môr,jõgi,nouns,1.4
+1006,babi,tütar,nouns,1.3
+1007,methu,tabama,verbs,0.45
+1008,uchder,muutmine,nouns,0.1
+1009,sibrwd,rääkima,verbs,2.2
+1010,dod â,kandma,verbs,2.0
+1011,drôr,riided,nouns,0.8
+1012,dweud,väljendama,verbs,3.6
+1013,ysgafn,terav,adjectives,0.2
+1014,stondin,telefon,nouns,0.6
+1015,rhyfedd,kaval,adjectives,0.5
+1016,camera,president,nouns,0.2
+1017,cul,ulatuslik,adjectives,0.2
+1018,cwmwl,vine,nouns,2.3
+1019,ystafell ymolchi,magamistuba,nouns,1.65
+1020,band,paraad,nouns,0.9
+1021,arbed,kaitsma,verbs,2.35
+1022,sgrechian,karjuma,verbs,3.6
+1023,perfedd,närv,nouns,0.4
+1024,machlud haul,laud,nouns,0.05
+1025,hawdd,raske,adjectives,0.25
+1026,gair,kirjandus,nouns,1.45
+1027,sicr,kindel,adjectives,5.4
+1028,gweddïo,suhtlema,verbs,0.7
+1029,lefel,tulemus,nouns,2.2
+1030,arfordir,kallas,nouns,3.15
+1031,hael,kena,adjectives,1.55
+1032,caledwedd,karp,nouns,0.2
+1033,yn syml,ilmselt,adverbs,0.8
+1034,gwybod,unustama,verbs,0.25
+1035,caled,keeruline,adjectives,4.8
+1036,yn hanfodol,kriitiliselt,adverbs,0.25
+1037,gwael,üksildane,adjectives,0.45
+1038,achub,päästma,verbs,4.45
+1039,ofnadwy,kurb,adjectives,1.45
+1040,uno,jagama,verbs,0.6
+1041,haint,käänamine,nouns,0.0
+1042,pinsio,lööma,verbs,1.3
+1043,dal,kinni püüdma,verbs,3.8
+1044,dadlau,veenma,verbs,1.9
+1045,arnofio,allkirjastama,verbs,0.0
+1046,menyw,abikaasa (naine),nouns,4.25
+1047,cydweithredu,ühinema,verbs,1.6
+1048,eil,saal,nouns,0.6
+1049,bywyd wedi marwolaeth,puhastustuli,nouns,1.55
+1050,cleddyf,troon,nouns,0.65
+1051,firws,veri,nouns,0.85
+1052,adref,võõrsil,adverbs,0.55
+1053,ymuno,lahkuma,verbs,0.2
+1054,cytundeb,vaidlus,nouns,0.55
+1055,yn hapus,ohutult,adverbs,0.8
+1056,parsel,veok,nouns,1.0
+1057,anghofio,teadma,verbs,0.25
+1058,liberti,priius,nouns,5.55
+1059,trafod,seletama,verbs,1.95
+1060,anifail anwes,kass,nouns,2.5
+1061,mab,isa,nouns,1.35
+1062,glân,kena,adjectives,2.0
+1063,gwas,ori,nouns,2.1
+1064,nod,võitja,nouns,0.45
+1065,ffasiwn,stiil,nouns,4.55
+1066,concwest,võitlus,nouns,2.25
+1067,graff,diagramm,nouns,3.8
+1068,gallu,tugevus,nouns,2.4
+1069,sgwrs,suhtlus,nouns,3.9
+1070,eglwys,katedraal,nouns,3.8
+1071,bri,jõukus,nouns,0.75
+1072,yn bwysig,tõsiselt,adverbs,2.0
+1073,swydd,juhtkond,nouns,0.95
+1074,gwm,piparmünt,nouns,0.6
+1075,ymbarél,kaliiber,nouns,0.05
+1076,trist,uhke,adjectives,0.1
+1077,canrif,kümnend,nouns,0.95
+1078,cyfarwyddwr,kinematograafia,nouns,1.15
+1079,symud,lõimima,verbs,0.2
+1080,cul,valge,adjectives,0.1
+1081,ofnus,närviline,adjectives,2.85
+1082,pot,seade,nouns,0.15
+1083,yn dawel,valjusti,adverbs,0.1
+1084,gwadu,aktsepeerima,verbs,0.25
+1085,lamp,džinn,nouns,0.4
+1086,fector,maatriks,nouns,1.3
+1087,yn rhyfeddol,fantastiliselt,adverbs,4.25
+1088,ceisio,veenma,verbs,0.7
+1089,cuddwisgo,katma,verbs,2.25
+1090,coleg,amet,nouns,0.5
+1091,arsylwi,vaatama,verbs,3.15
+1092,yn drist,emotsionaalselt,adverbs,1.9
+1093,glaw,rahe,nouns,2.15
+1094,hapus,noor,adjectives,0.55
+1095,goruchafiath,võit,nouns,4.15
+1096,theori,keemia,nouns,0.55
+1097,rhythm,meloodia,nouns,1.85
+1098,cadernid,jõud,nouns,4.0
+1099,mwydyn,pahavara,nouns,0.35
+1100,damwain,katastroof,nouns,3.85
+1101,trafodaeth,diplomaatia,nouns,2.85
+1102,ffrio,keetma,verbs,1.0
+1103,sawl,kaks korda,adverbs,1.15
+1104,gormesu,loobuma,verbs,0.1
+1105,mam,sõber,nouns,1.55
+1106,atwrnai,advokaat,nouns,4.15
+1107,handlen,valk,nouns,0.0
+1108,bygythiad,oht,nouns,3.2
+1109,yn nerfus,rahutult,adverbs,4.05
+1110,blits,rünnak,nouns,3.65
+1111,caniatáu,heaks kiitma,verbs,3.15
+1112,gorchuddio,maskeerima,verbs,2.25
+1113,graddio,lõppema,verbs,1.5
+1114,deuod,kondensaator,nouns,1.0
+1115,crebachu,kaduma,verbs,1.9
+1116,ffwr,naine,nouns,0.25
+1117,cwest,eesmärk,nouns,1.8
+1118,caled,sitke,adjectives,2.9
+1119,rhoi,teadma,verbs,0.0
+1120,concwest,hümn,nouns,0.15
+1121,athro,juhendaja,nouns,3.9
+1122,proffwydo,eeldama,verbs,1.85
+1123,mintys poethion,näts,nouns,0.6
+1124,gwyddoniaeth,psühholoogia,nouns,2.0
+1125,braich,keha,nouns,0.95
+1126,corff,käsi,nouns,0.95
+1127,gradd,kool,nouns,1.2
+1128,gwenynen,sipelgas,nouns,1.0
+1129,hynafol,modernne,adjectives,0.3
+1130,braich,veen,nouns,0.6
+1131,cyfieithydd,võõras,nouns,0.65
+1132,allwedd,maja,nouns,0.65
+1133,bowlen,saba,nouns,0.0
+1134,gwirod,bänd,nouns,0.3
+1135,yn uchel,õrnalt,adverbs,0.0
+1136,ffantasi,reaalsus,nouns,0.75
+1137,afal,kaste,nouns,0.4
+1138,yr wyddor,pastakas,nouns,0.3
+1139,gadael,sisenema,verbs,0.35
+1140,colli,süüa tegema,verbs,0.0
+1141,hyfforddwraig,mängija,nouns,0.9
+1142,capten,madrus,nouns,1.35
+1143,gorffennol,eellane,nouns,1.2
+1144,ewythr,tädi,nouns,1.65
+1145,cytuno,vaidlema,verbs,0.4
+1146,gwyddbwyll,tuli,nouns,0.75
+1147,minc,õli,nouns,0.2
+1148,bwyd,programm,nouns,0.2
+1149,incwm,maks,nouns,0.7
+1150,garddwrn,käsivars,nouns,1.75
+1151,hwyliau,emotsioon,nouns,3.1
+1152,rhad,soodne,adjectives,4.65
+1153,dynwared,portreteerima,verbs,2.75
+1154,prif air,süntaks,nouns,0.65
+1155,môr,rand,nouns,1.85
+1156,cwmwl,torm,nouns,1.1
+1157,pledio,küsima,verbs,2.45
+1158,stondin,kast,nouns,0.6
+1159,credu,teadma,verbs,1.9
+1160,tywydd,laine,nouns,0.2
+1161,gwahanu,väljuma,verbs,1.2
+1162,duw,preester,nouns,1.1
+1163,cyhyrau,luu,nouns,0.95
+1164,siocled,pirukas,nouns,0.55
+1165,niwl,pilv,nouns,2.95
+1166,corff,õlg,nouns,0.85
+1167,therapi,biheiviorism,nouns,1.4
+1168,mwsogl,muru,nouns,1.55
+1169,blanced,puit,nouns,0.05
+1170,cwch,mootor,nouns,0.7
+1171,stumog,keha,nouns,1.4
+1172,haematoleg,patoloogia,nouns,1.5
+1173,gwirio,male,nouns,0.75
+1174,cyd-beilot,võmm,nouns,0.2
+1175,ysgoloriaeth,õppemaks,nouns,1.15
+1176,dioddefwr,telefon,nouns,0.15
+1177,amsugno,tagasi võtma,verbs,0.45
+1178,yn bwysig,ametlikult,adverbs,2.4
+1179,mynychu,saatma,verbs,0.35
+1180,cig,võileib,nouns,0.65
+1181,beic,magamistuba,nouns,0.05
+1182,ffon reoli,radar,nouns,0.25
+1183,ysgwyd,koguma,verbs,0.05
+1184,llawenydd,uhkus,nouns,1.55
+1185,osgoi,eitama,verbs,2.15
+1186,main,peenike,adjectives,4.5
+1187,ffliwt,muusika,nouns,1.2
+1188,penwythnos,rass,nouns,0.0
+1189,cyfansoddiad,senat,nouns,0.95
+1190,llosgfynydd,magma,nouns,1.95
+1191,cythraul,ingel,nouns,0.75
+1192,dod yn,teostama,verbs,0.9
+1193,cyfreithiwr,jurist,nouns,4.15
+1194,glofa,kalju,nouns,0.15
+1195,tywysoges,kuningas,nouns,1.15
+1196,trydanol,mehaaniline,adjectives,0.55
+1197,dal,imiteerima,verbs,0.45
+1198,rhedwr,sportlane,nouns,2.8
+1199,crio,naerma,verbs,0.65
+1200,gwawr,päev,nouns,1.35
+1201,crogi,tapma,verbs,2.3
+1202,dicter,pettumus,nouns,1.9
+1203,amrwd,kole,adjectives,0.4
+1204,gallu,pädevus,nouns,4.2
+1205,pen,nina,nouns,0.85
+1206,brwydr,sõjakus,nouns,1.75
+1207,raced,lärm,nouns,0.45
+1208,peiriant,mootor,nouns,3.1
+1209,ton,ilm,nouns,0.2
+1210,yn ddiffuant,ausalt,adverbs,4.75
+1211,yn berffaith,tõesti,adverbs,0.7
+1212,potel,konteiner,nouns,1.75
+1213,llyfr,lugu,nouns,2.05
+1214,cydweithredu,osalema,verbs,2.35
+1215,sudd,lusikas,nouns,0.35
+1216,casglu,korraldama,verbs,0.6
+1217,treth,sissetulek,nouns,0.7
+1218,lluosi,jagama,verbs,0.65
+1219,arbed,koguma,verbs,2.05
+1220,cwch,ankur,nouns,1.1
+1221,da,viies,adjectives,0.35
+1222,gwrando,mõistma,verbs,1.2
+1223,diflannu,kahanema,verbs,1.9
+1224,drwm,ruupor,nouns,0.75
+1225,tudalen,lõik,nouns,1.2
+1226,peilliad,tolmukas,nouns,1.55
+1227,disgleirdeb,täht,nouns,1.25
+1228,dod,minema,verbs,0.7
+1229,isrwtîn,kompilaator,nouns,0.45
+1230,ffidil,instrument,nouns,2.4
+1231,chwedl,moraal,nouns,0.55
+1232,llyfr,õnnetus,nouns,0.05
+1233,gwynt,torm,nouns,2.7
+1234,alltud,tulnukas,nouns,2.85
+1235,banciwr,advokaat,nouns,1.0
+1236,cywilydd,ärritunud,adjectives,0.25
+1237,cyfradd,väärtus,nouns,2.2
+1238,hunan,kindlustunne,nouns,0.65
+1239,menyw,karusnahk,nouns,0.25
+1240,cwpan,lusikas,nouns,1.1
+1241,bar,vangla,nouns,0.9
+1242,ffôl,lapsik,adjectives,1.85
+1243,pren,palk,nouns,3.15
+1244,pothell,illustratsioon,nouns,0.05
+1245,meddyg,tuju,nouns,0.1
+1246,mwynhau,meelt lahutama,verbs,1.8
+1247,trydan,karp,nouns,0.2
+1248,papur,puit,nouns,0.95
+1249,dodrefn,voodi,nouns,1.9
+1250,benthyciwr,krediit,nouns,1.45
+1251,ceg,hammas,nouns,1.05
+1252,tywydd,pilv,nouns,1.25
+1253,anhygoel,räpane,adjectives,0.25
+1254,creulon,ebaaus,adjectives,2.0
+1255,cyfiawnder,vahekohus,nouns,1.3
+1256,gwraig,vann,nouns,0.0
+1257,cred,arvamus,nouns,3.7
+1258,arloesol,loominguline,adjectives,3.15
+1259,gwn,karusnahk,nouns,0.35
+1260,car,voolik,nouns,0.2
+1261,neigaredd,kuningas,nouns,0.8
+1262,cath,jänes,nouns,1.0
+1263,llwyddo,proovima,verbs,1.15
+1264,modfedd,meeter,nouns,1.3
+1265,ysbryd,jumal,nouns,1.05
+1266,mwgwd,pidu,nouns,0.6
+1267,mob,rahvahulk,nouns,5.1
+1268,anghytuno,nõustuma,verbs,0.3
+1269,pêl-fas,korvpall,nouns,1.75
+1270,diflannu,kaduma,verbs,5.2
+1271,gwacáu,määrama,verbs,0.05
+1272,dicter,raev,nouns,4.35
+1273,yn wallgof,kurvalt,adverbs,0.4
+1274,gwaelod,ülaosa,nouns,0.6
+1275,drws,kohalolek,nouns,0.2
+1276,derbyn,tagasi lükkama,verbs,0.35
+1277,traethu,meelde tuletama,verbs,1.15
+1278,glaswellt,sammal,nouns,1.55
+1279,uchel,ebaviisakas,adjectives,0.95
+1280,diflas,väsinud,adjectives,1.1
+1281,siarad,tunnistama,verbs,0.85
+1282,eisiau,ihaldama,verbs,4.6
+1283,eang,kitsas,adjectives,0.3
+1284,clywed,kuulama,verbs,2.95
+1285,blodyn,vastupidavus,nouns,0.25
+1286,gwasgu,kallistama,verbs,1.75
+1287,niwrosis,meel,nouns,1.2
+1288,trosedd,rünnak,nouns,2.3
+1289,telesgop,tool,nouns,0.0
+1290,gweinidog,rabi,nouns,3.65
+1291,gwahanu,lisama,verbs,0.2
+1292,yn ddiweddar,realistlikult,adverbs,0.15
+1293,emyn,vallutus,nouns,0.15
+1294,llygoden,tekk,nouns,0.15
+1295,dod â,kaebama,verbs,0.05
+1296,dinistrio,tegema,verbs,0.45
+1297,rheoli,hiir,nouns,0.0
+1298,trychineb,õnnetus,nouns,3.85
+1299,brwnt,hämmastav,adjectives,0.25
+1300,gwych,rõõmustav,adjectives,2.5
+1301,brigeryn,tolmendamine,nouns,1.55
+1302,llynges,saar,nouns,0.3
+1303,afal,dieet,nouns,0.65
+1304,o ddifrif,siiralt,adverbs,1.55
+1305,cynhwysydd,hiir,nouns,0.2
+1306,cyrraedd,lahkuma,verbs,0.45
+1307,wedi ymlacio,stressis,adjectives,0.3
+1308,amgueddfa,piparmünt,nouns,0.0
+1309,llwy,mahl,nouns,0.35
+1310,yn swyddogol,tähtsalt,adverbs,2.4
+1311,rhoi,varastama,verbs,0.2
+1312,clwstwr,rahvahulk,nouns,2.65
+1313,alcohol,kokteil,nouns,1.85
+1314,canser,haigus,nouns,2.55
+1315,dimai,suurus,nouns,0.35
+1316,cysyniad,uskumus,nouns,2.6
+1317,reis,uba,nouns,1.0
+1318,hollalluogrwydd,ülevõim,nouns,2.5
+1319,ffa,riis,nouns,1.0
+1320,caled,lihtne,adjectives,0.25
+1321,cyflwr,pakt,nouns,0.1
+1322,pobl,rahvastik,nouns,2.55
+1323,gwyddonydd,õde,nouns,0.3
+1324,dyddiad,kalender,nouns,2.15
+1325,ceisio,edu saavutama,verbs,1.15
+1326,tlodi,jõukus,nouns,0.6
+1327,gair,ajaleht,nouns,0.85
+1328,rhagflaenydd,minevik,nouns,1.2
+1329,chwilio,pärima,verbs,1.25
+1330,bwrdd,päikeseloojang,nouns,0.05
+1331,injan,masin,nouns,3.1
+1332,amsugno,õppima,verbs,0.8
+1333,ffonoleg,ekraan,nouns,0.1
+1334,enaid,vend,nouns,0.3
+1335,taliad,tasu,nouns,4.1
+1336,llinyn,juhe,nouns,1.7
+1337,rhyfedd,harilik,adjectives,0.35
+1338,symbol,kood,nouns,1.95
+1339,derbyn,tunnistama,verbs,3.05
+1340,cefnfor,meri,nouns,3.55
+1341,buddugoliaeth,triumf,nouns,4.15
+1342,ymholi,mõtlema,verbs,0.95
+1343,bowlio,keeglimängija,nouns,1.45
+1344,lwcus,häbenev,adjectives,0.05
+1345,heddwch,õnn,nouns,1.8
+1346,gwddf,keel,nouns,0.8
+1347,brecwast,õhtusöök,nouns,1.25
+1348,ynys,rand,nouns,1.1
+1349,gadael,ilmuma,verbs,0.25
+1350,beic,auto,nouns,1.1
+1351,nerf,soolikas,nouns,0.4
+1352,amddiffyn,katma,verbs,1.15
+1353,dyn,laps,nouns,0.7
+1354,semester,periood,nouns,4.3
+1355,anghenfil,deemon,nouns,3.05
+1356,ystafell,voodi,nouns,0.5
+1357,jar,tass,nouns,1.15
+1358,gwyn,kitsas,adjectives,0.1
+1359,calendr,kuupäev,nouns,2.15
+1360,nofel,kirjanik,nouns,1.3
+1361,diflas,turvaline,adjectives,0.25
+1362,ymosodiad,kuritegu,nouns,2.3
+1363,cyfrwys,karm,adjectives,0.3
+1364,yn gyfrifol,iseseisvalt,adverbs,0.85
+1365,rhaniad,korrutamine,nouns,1.1
+1366,carchar,valik,nouns,0.2
+1367,ffabrig,lina,nouns,2.3
+1368,tarth,pilv,nouns,2.33
+1369,calibr,vihmavari,nouns,0.05
+1370,ci,hobune,nouns,0.9
+1371,gwahaniaethu,vaidlema,verbs,0.95
+1372,siampên,õlu,nouns,1.3
+1373,bacwn,hommikusöök,nouns,0.75
+1374,bara,jahu,nouns,1.1
+1375,iard,meeter,nouns,1.4
+1376,awyren,helikopter,nouns,2.55
+1377,yn obeithiol,võimalikult,adverbs,1.3
+1378,caniau,pudel,nouns,0.65
+1379,anifail,inimene,nouns,0.85
+1380,brwydro,tapma,verbs,0.95
+1381,ceisio,mõtlema,verbs,0.6
+1382,siwr,enesekindel,adjectives,3.95
+1383,wedi'i ferwi,küpsetatud,adjectives,1.5
+1384,mynd  ,saatma,verbs,0.9
+1385,corfforaeth,äri,nouns,1.95
+1386,nod,otsing,nouns,1.8
+1387,byth,hiljem,adverbs,0.15
+1388,brenin,onupojapoliitika,nouns,0.8
+1389,dadansoddi,võrdlema,verbs,2.7
+1390,tyfu,kahanema,verbs,0.35
+1391,salwch,vähk,nouns,2.55
+1392,benthyg,müüma,verbs,0.45
+1393,erfyn,anuma,verbs,4.1
+1394,camera,tööline,nouns,0.05
+1395,arwyddluniau,eneseväärikus,nouns,0.05
+1396,darganfod,asukohta määrama,verbs,2.1
+1397,darostyngedig,tagasihoidlik,adjectives,2.25
+1398,anrhydedd,austus,nouns,2.55
+1399,mawr,ulatuslik,adjectives,3.9
+1400,yn sicr,ilmselgelt,adverbs,2.65
+1401,priodferch,peigmees,nouns,1.35
+1402,sigâr,toru,nouns,0.75
+1403,teledu,kommunikatsioon,nouns,1.55
+1404,byd,maakera,nouns,4.2
+1405,morgrugyn,kärbes,nouns,0.75
+1406,anghrybwylladwy,abieluväline,adjectives,0.55
+1407,llywydd,kaamera,nouns,0.2
+1408,syml,raske,adjectives,0.25
+1409,braich,kael,nouns,0.6
+1410,braich,haru,nouns,0.9
+1411,cymryd rhan,koostööd tegema,verbs,2.35
+1412,car,tänav,nouns,0.75
+1413,anwybyddu,printima,verbs,0.0
+1414,rhyddid,tsensuur,nouns,0.25
+1415,telesgop,ajurünnak,nouns,0.0
+1416,chwaraewr,treener,nouns,0.9
+1417,haul,taevas,nouns,1.1
+1418,pêl-droed,lõbu,nouns,0.55
+1419,awyr,päike,nouns,1.1
+1420,sgriblo,kirjutama,verbs,2.8
+1421,cythruddo,arvama,verbs,0.2
+1422,treisgar,passiivne,adjectives,0.25
+1423,paragraff,täht,nouns,0.8
+1424,cotwm,sviiter,nouns,0.7
+1425,planhigyn,põllumajandus,nouns,1.1
+1426,bodloni,hoomama,verbs,0.4
+1427,cymylog,prognoos,nouns,0.5
+1428,cig,leib,nouns,0.45
+1429,portreadu,imiteerima,verbs,2.75
+1430,yfed,tõstma,verbs,0.4
+1431,sylfaen,jalg,nouns,0.85
+1432,blwch,lift,nouns,0.15
+1433,gwybod,uskuma,verbs,1.9
+1434,llac,paindlik,adjectives,1.3
+1435,hapusrwydd,kurbus,nouns,0.7
+1436,gŵr,mees,nouns,3.8
+1437,myfyrdod,pilt,nouns,1.0
+1438,wedi cyffroi,ehmunud,adjectives,2.0
+1439,organ,neer,nouns,2.35
+1440,bronceitus,paratsetamol,nouns,0.65
+1441,cryptogram,sümbol,nouns,2.25
+1442,yn wahanol,normaalne,adjectives,0.75
+1443,llwyddo,läbi kukkuma,verbs,0.35
+1444,mynd i mewn,võlgnema,verbs,0.15
+1445,claf,sessioon,nouns,0.4
+1446,cymysgu,segama,verbs,2.3
+1447,perswadio,vaidlema,verbs,1.9
+1448,gosod,andma,verbs,0.95
+1449,yn onest,siiralt,adverbs,4.75
+1450,gwan,võimas,adjectives,0.1
+1451,amaethyddiaeth,taim,nouns,1.1
+1452,canol,eine,nouns,0.15
+1453,llygoden,kass,nouns,0.65
+1454,treisgar,radikaalne,adjectives,1.2
+1455,cystrawen,märksõna,nouns,0.65
+1456,dosbarthu,võtma,verbs,0.5
+1457,cath,hiir,nouns,0.65
+1458,cwmwl,aken,nouns,0.15
+1459,alaw,rütm,nouns,1.85
+1460,glaswellt,tera,nouns,0.55
+1461,paragraff,lehekülg,nouns,1.2
+1462,troed,käsi,nouns,0.95
+1463,caniatáu,kuluma,verbs,0.1
+1464,oriel,advokaat,nouns,0.0
+1465,gair,väljend,nouns,1.95
+1466,arian parod,raha,nouns,4.2
+1467,drwg,ebamoraalne,adjectives,3.35
+1468,cosbi,lööma,verbs,1.4
+1469,canlyn,veenma,verbs,0.35
+1470,penderfynu,portreteerima,verbs,0.2
+1471,cefnogwr,kriket,nouns,0.05
+1472,gwerth,määr,nouns,2.2
+1473,cymysgu,jooma,verbs,0.45
+1474,oedran,ilu,nouns,0.6
+1475,barnu,tunnistama,verbs,0.95
+1476,perygl,ähvardus,nouns,3.2
+1477,ysgwydd,käsi,nouns,1.65
+1478,grawnfwyd,nisu,nouns,2.55
+1479,dyn,kahtlusalune,nouns,0.8
+1480,cael,omandama,verbs,3.77
+1481,gwn,rahvas,nouns,0.1
+1482,gorffen,võistlema,verbs,0.2
+1483,gorffwyll,hull,adjectives,4.5
+1484,llyfr nodiadau,relv,nouns,0.0
+1485,milwr,poiss,nouns,0.6
+1486,metel,alumiinium,nouns,2.8
+1487,caffael,saama,verbs,3.7
+1488,ffôn,putka,nouns,0.6
+1489,gosod mewn trefn,organiseerima,verbs,5.65
+1490,tymor,semester,nouns,4.3
+1491,ymgeisydd,taotlus,nouns,1.6
+1492,poen,lein,nouns,2.15
+1493,yn debygol,positiivselt,adverbs,0.9
+1494,llesteirio,heidutama,verbs,2.35
+1495,actor,näitlejanna,nouns,4.3
+1496,asgwrn,küünarnukk,nouns,1.4
+1497,meddwl,proovima,verbs,0.6
+1498,germ,haigusetekitaja,nouns,4.15
+1499,bwlch,ava,nouns,2.15
+1500,synnwyr,intuitsioon,nouns,3.55
+1501,deall,rahuldama,verbs,0.4
+1502,ymddiried,sõltuma,verbs,3.4
+1503,damwain,raamat,nouns,0.05
+1504,gaeaf,suvi,nouns,0.95
+1505,parasetamol,bronhiit,nouns,0.65
+1506,heicio,ronima,verbs,2.35
+1507,cyw iâr,riis,nouns,0.5
+1508,gŵr bonheddig,leedi,nouns,0.8
+1509,chwilio,taotlema,verbs,1.15
+1510,ymennydd,närv,nouns,1.35
+1511,cell,ruum,nouns,1.9
+1512,salwch,palavik,nouns,2.85
+1513,ymgeisydd,võitja,nouns,1.0
+1514,tanc,auto,nouns,0.9
+1515,unffurf,vormimata,adjectives,0.3
+1516,dynwared,jäädvustama,verbs,0.45
+1517,bwthyn,metsamajake,nouns,3.35
+1518,arogli,rikkuma,verbs,0.0
+1519,gwerthu,laenama,verbs,0.45
+1520,llafn,muru,nouns,0.55
+1521,newynog,väsinud,adjectives,0.55
+1522,yn ysgafn,säravalt,adverbs,0.3
+1523,ewythr,mees,nouns,1.55
+1524,llywodraeth,sisalik,nouns,0.0
+1525,deall,lugema,verbs,0.85
+1526,drwm,kitarr,nouns,1.1
+1527,gwydr,märk,nouns,0.15
+1528,gwawdlyd,põlglik,adjectives,4.6
+1529,cath,lõvi,nouns,2.0
+1530,dewis,valimine,nouns,3.0
+1531,cenllysg,vihm,nouns,2.15
+1532,ychwanegu,ühinema,verbs,1.35
+1533,doniol,tõsine,adjectives,0.45
+1534,coctel,alkohol,nouns,1.85
+1535,fitamin,raud,nouns,0.8
+1536,darganfod,kaduma,verbs,0.4
+1537,gwythïen,valik,nouns,0.05
+1538,drws,põrand,nouns,0.65
+1539,cynorthwy-ydd,teenijanna,nouns,2.25
+1540,yn arbennig,tähendusrikkalt,adverbs,1.3
+1541,llymeitio,neelatama,verbs,2.45
+1542,modryb,õepoeg,nouns,1.05
+1543,tymor,talv,nouns,2.65
+1544,sefyll,kõndima,verbs,0.7
+1545,saethydd,rajaleidja,nouns,0.35
+1546,dyn,onu,nouns,1.55
+1547,cywilydd,süüdi,adjectives,2.0
+1548,anghytuno,kaklema,verbs,1.35
+1549,haearn,vitamiin,nouns,0.8
+1550,gwisg unffurf,heegeldus,nouns,0.2
+1551,boddi,päästma,verbs,0.45
+1552,newyddiadurwr,luuletaja,nouns,0.9
+1553,plismon,poliitik,nouns,0.35
+1554,gwefus,puus,nouns,0.4
+1555,mynegi,ütlema,verbs,3.6
+1556,ffres,lai,adjectives,0.1
+1557,lleng,armee,nouns,3.4
+1558,log,puit,nouns,3.1
+1559,yn hyderus,salaja,adverbs,0.55
+1560,yn derfynol,põhiliselt,adverbs,0.4
+1561,hela,otsima,verbs,2.3
+1562,dadansoddi,hindama,verbs,3.5
+1563,hawdd,haavatav,adjectives,0.3
+1564,llyncu,jooma,verbs,2.5
+1565,yn fecanyddol,ideaalselt,adverbs,0.2
+1566,gwartheg,lammas,nouns,1.25
+1567,pobl,õhupall,nouns,0.1
+1568,pryd bynnag,vahepeal,adverbs,0.85
+1569,creu,hävitama,verbs,0.35
+1570,papur newydd,informatsioon,nouns,1.3
+1571,plât,kauss,nouns,1.85
+1572,derbyn,püüdma,verbs,1.8
+1573,erydu,hajuma,verbs,2.0
+1574,purdan,teispoolsus,nouns,1.55
+1575,caban,hütt,nouns,3.95
+1576,cwympo,haiget tegema,verbs,1.55
+1577,cyfnewid,valuuta,nouns,0.95
+1578,menyn,kartul,nouns,0.6
+1579,nodyn,ülesanne,nouns,0.55
+1580,newydd,vana,adjectives,0.35
+1581,dillad,kalts,nouns,1.5
+1582,to,aken,nouns,0.65
+1583,benthyg,tahtma,verbs,0.4
+1584,herwgipio,varastama,verbs,3.6
+1585,meteor,gravitatsioon,nouns,0.7
+1586,ffa,peekon,nouns,0.35
+1587,anaeddfed,täiskasvanud,adjectives,0.25
+1588,cerdded,seisma,verbs,0.7
+1589,ynys,poolsaar,nouns,2.7
+1590,methu,edu saavutama,verbs,0.35
+1591,papur lapio,sadam,nouns,0.0
+1592,fformiwla,võrrand,nouns,3.6
+1593,yn ddarostyngedig,uhkelt,adverbs,0.35
+1594,go fach,kääbuskasvu,adjectives,3.3
+1595,dillad,nööp,nouns,0.5
+1596,niwl,vihm,nouns,2.2
+1597,bore,päev,nouns,1.4
+1598,beirniadu,vihkama,verbs,1.05
+1599,dur,sulam,nouns,2.75
+1600,dan straen,lõdvestunud,adjectives,0.3
+1601,rheoli,peatuma,verbs,0.5
+1602,hedfan,sipelgas,nouns,0.75
+1603,dant,suu,nouns,1.05
+1604,arbed,uppuma,verbs,0.45
+1605,archeoleg,antropoloogia,nouns,1.5
+1606,testun,raamat,nouns,1.55
+1607,baled,laul,nouns,3.7
+1608,coroni,vesi,nouns,0.1
+1609,cyfnod,kümnend,nouns,1.75
+1610,chwipio,lööma,verbs,2.4
+1611,bod yn ddyledus,sisenema,verbs,0.15
+1612,rheol,tava,nouns,3.05
+1613,mynnu,vaidlema,verbs,1.7
+1614,nofio,kohtuma,verbs,0.0
+1615,glân,plekitu,adjectives,3.7
+1616,dewis,hääletama,verbs,3.6
+1617,gwraidd,muru,nouns,0.75
+1618,blwch,putka,nouns,0.6
+1619,cymysg,kombineeritud,adjectives,3.35
+1620,yn falch,rahumeelselt,adverbs,0.4
+1621,trallod,meeleheide,nouns,2.85
+1622,cerdd,rütm,nouns,1.25
+1623,cymryd,omama,verbs,1.5
+1624,ysgrifennydd,naine,nouns,0.8
+1625,yn realistig,ideaalselt,adverbs,0.9
+1626,cracio,murdma,verbs,2.2
+1627,plesio,rahuldama,verbs,3.25
+1628,ardderchog,suurepärane,adjectives,4.45
+1629,sitrws,apelsin,nouns,3.25
+1630,aderyn,kana,nouns,2.15
+1631,sant,patune,nouns,0.75
+1632,ffa,kohv,nouns,1.1
+1633,llwy,tass,nouns,1.1
+1634,marwolaeth,katastroof,nouns,1.7
+1635,pen-blwydd,kuupäev,nouns,1.6
+1636,myffin,petersell,nouns,0.25
+1637,chwedl,satiir,nouns,0.65
+1638,dis,kuubik,nouns,2.6
+1639,soned,ilu,nouns,0.5
+1640,busnes,tööstus,nouns,2.0
+1641,yn bryderus,närviliselt,adverbs,4.05
+1642,llygredd,president,nouns,0.05
+1643,drewi,lõhnama,verbs,3.3
+1644,tun,alumiinium,nouns,1.75
+1645,atgoffa,müüma,verbs,0.0
+1646,prawf,katse,nouns,4.35
+1647,dirmygu,laadima,verbs,0.0
+1648,concwest,teekond,nouns,0.7
+1649,esgus,oletama,verbs,0.85
+1650,gwaed,liha,nouns,1.0
+1651,cyfamod,kokkulepe,nouns,5.05
+1652,eira,ilm,nouns,1.25
+1653,diflas,vaimustav,adjectives,0.1
+1654,yn weithredol,passiivselt,adverbs,0.2
+1655,morwr,kapten,nouns,1.35
+1656,mamfwrdd,süsteemiplaat,nouns,3.05
+1657,danfon,osalema,verbs,0.35
+1658,synhwyrydd,radiaator,nouns,0.2
+1659,corff,kõht,nouns,1.4
+1660,coridor,uks,nouns,0.95
+1661,brwydro,mängima,verbs,0.45
+1662,darganfod,uurima,verbs,2.5
+1663,gwerthfawr,eriline,adjectives,2.45
+1664,cymysgu,raputama,verbs,2.05
+1665,rhesymoli,vaidlema,verbs,0.85
+1666,torf,paraad,nouns,1.8
+1667,bwriadu,üritama,verbs,1.85
+1668,credu,aktsepteerima,verbs,1.4
+1669,gymnasteg,vehklemine,nouns,1.0
+1670,chwarae,kaklema,verbs,0.45
+1671,maddau,unustama,verbs,0.95
+1672,palmwydd,sõrm,nouns,0.4
+1673,ffôn,ohver,nouns,0.15
+1674,mynachlog,tušš,nouns,0.1
+1675,gorffwyll,haige,adjectives,0.8
+1676,proffwyd,preester,nouns,1.45
+1677,ymgyrch,ahv,nouns,0.05
+1678,caethwas,teenija,nouns,2.1
+1679,porth,väljapääs,nouns,2.65
+1680,angor,paat,nouns,1.1
+1681,anaml,napp,adjectives,1.1
+1682,yn ddarostyngedig,kehvasti,adverbs,0.6
+1683,morgrugyn,mesilane,nouns,1.0
+1684,gwaed,keha,nouns,1.15
+1685,ap,galaktika,nouns,0.1
+1686,datgelwyd,kaetud,adjectives,0.25
+1687,barn,valik,nouns,1.1
+1688,gweithred,mäng,nouns,0.95
+1689,log,valem,nouns,1.4
+1690,top,põhi,nouns,0.6
+1691,lens,kaamera,nouns,1.65
+1692,ymwrthod,ära tõukama,verbs,2.0
+1693,sychedig,näljane,adjectives,1.8
+1694,canwr,koosseis,nouns,0.4
+1695,cyffrous,nüri,adjectives,0.1
+1696,corff,veri,nouns,1.15
+1697,dinistrio,koostama,verbs,0.1
+1698,ceunant,org,nouns,3.35
+1699,trefnu,korratu,verbs,0.4
+1700,ychwanegu,ehitama,verbs,1.0
+1701,craig,miin,nouns,0.15
+1702,dwyn,soetama,verbs,0.75
+1703,plesio,nõustuma,verbs,0.8
+1704,merch,teenijanna,nouns,2.3
+1705,cyfrwys,kummaline,adjectives,0.5
+1706,ymwybyddiaeth,tähelepanu,nouns,2.45
+1707,cyfansoddiad,imperaator,nouns,0.45
+1708,braf,helde,adjectives,1.55
+1709,llawdriniaeth,süda,nouns,0.4
+1710,blawd,leib,nouns,1.1
+1711,yn derfynol,erinevalt,adverbs,0.1
+1712,yn garedig,kenasti,adverbs,3.1
+1713,rhad,taskukohane,adjectives,4.55
+1714,digartref,miljardär,nouns,0.45
+1715,fideo,film,nouns,4.55
+1716,cwyno,tooma,verbs,0.05
+1717,dimai,rahvas,nouns,0.05
+1718,golchi,loputama,verbs,3.15
+1719,teledu,stsenarist,nouns,0.75
+1720,anhygoel,tavaline,adjectives,0.3
+1721,disg,arvuti,nouns,0.7
+1722,allbriodasol,ebakohane,adjectives,0.55
+1723,mintys,muuseum,nouns,0.0
+1724,canolig,halb,adjectives,0.95
+1725,dal gafael,hoidma,verbs,4.25
+1726,hyblyg,liigutatav,adjectives,1.85
+1727,newyddiadur,artikkel,nouns,2.2
+1728,pennod,ots,nouns,0.05
+1729,bwrw,näpistama,verbs,1.3
+1730,rhyfelwr,mees,nouns,1.05
+1731,llun,mäss,nouns,0.05
+1732,anaml,tavaliselt,adverbs,0.35
+1733,gwddf,luu,nouns,0.55
+1734,gorsedd,mõõk,nouns,0.65
+1735,barn,mõte,nouns,2.65
+1736,syml,kerge,adjectives,3.75
+1737,portreadu,teesklema,verbs,0.85
+1738,llawr,uks,nouns,0.65
+1739,derbyn,andestama,verbs,1.75
+1740,cwrw,alkohol,nouns,2.75
+1741,clecian,krõmpsutama,verbs,1.35
+1742,geiriadur,entsüklopeedia,nouns,1.9
+1743,yn fuan,koheselt,adverbs,2.2
+1744,ffrind,kutt,nouns,1.25
+1745,nos,koidik,nouns,1.0
+1746,darganfod,omandama,verbs,1.6
+1747,ffens,käsipuu,nouns,0.15
+1748,byddin,leegion,nouns,3.4
+1749,hyfforddiant,stipendium,nouns,1.15
+1750,gwaith celf,kunstnik,nouns,1.4
+1751,anhawster,pingutus,nouns,1.75
+1752,yn sicr,närviline,adjectives,0.15
+1753,cytundeb,auk,nouns,0.05
+1754,cyhuddo,valetama,verbs,0.55
+1755,perfformio,au andma,verbs,0.15
+1756,llawr,tekk,nouns,1.55
+1757,plentyn,mees,nouns,0.7
+1758,gyrru,peatuma,verbs,0.35
+1759,gwesty,korter,nouns,0.65
+1760,chwerthin,itsitama,verbs,4.3
+1761,bachgen,vend,nouns,1.75
+1762,colli,saama,verbs,0.15
+1763,criced,toetaja,nouns,0.05
+1764,cytundeb,seisund,nouns,0.1
+1765,archwilio,järgima,verbs,0.65
+1766,ciwb,mänguasi,nouns,0.4
+1767,teclyn,pott,nouns,0.15
+1768,rhaglen,toit,nouns,0.2
+1769,rhannu,ühendama,verbs,0.6
+1770,nerth,võimekus,nouns,2.4
+1771,tarddu,avastama,verbs,0.4
+1772,harbwr,ümbris,nouns,0.0
+1773,yn enfawr,avatult,adverbs,0.45
+1774,ffasiwn,moodus,nouns,0.55
+1775,ffôl,loll,adjectives,4.75
+1776,sychu,halvenema,verbs,0.35
+1777,alcohol,õlu,nouns,2.75
+1778,asgwrn,põlv,nouns,1.4
+1779,ysgwydd,keha,nouns,0.85
+1780,stêc,liha,nouns,3.65
+1781,syfrdanu,tähistama,verbs,0.35
+1782,mygu,põletama,verbs,1.05
+1783,gyferbyn,muu,adjectives,0.75
+1784,eirlithriad,lumi,nouns,1.4
+1785,cysur,ohutus,nouns,1.25
+1786,cerddoriaeth,flööt,nouns,1.2
+1787,corff,selgroog,nouns,1.1
+1788,benthyca,andma,verbs,2.45
+1789,haf,talv,nouns,0.95
+1790,yn wir,perfektselt,adverbs,0.7
+1791,gadael,võtma,verbs,0.45
+1792,aros,lahkuma,verbs,0.3
+1793,calendr,puhkus,nouns,0.9
+1794,unwaith,kaks korda,adverbs,0.7
+1795,syth,kõver,adjectives,0.35
+1796,chwilio,jahtima,verbs,2.3
+1797,hwyl,jalgpall,nouns,0.55
+1798,yn onest,mitte kunagi,adverbs,0.0
+1799,cyfrwng,uudised,nouns,0.85
+1800,microsgop,bioloog,nouns,1.0
+1801,anferthedd,suurus,nouns,3.1
+1802,gwalch,lind,nouns,2.3
+1803,hanfodol,vajalik,adjectives,4.25
+1804,dydd ,öö,nouns,0.65
+1805,brawdgarwch,uks,nouns,0.15
+1806,ffenestr,katus,nouns,0.65
+1807,encilio,laskuma,verbs,0.85
+1808,hysbysu,portreteerima,verbs,0.25
+1809,blwch  ,müts,nouns,0.15
+1810,tric,mäng,nouns,1.35
+1811,digid,arv,nouns,5.0
+1812,allwedd,lukk,nouns,1.3
+1813,nam,süsteem,nouns,0.3
+1814,danfon,saama,verbs,0.35
+1815,cymysg,vana,adjectives,0.2
+1816,atgyweirio,taastama,verbs,3.75
+1817,newydd,kasutamata,adjectives,4.3
+1818,hen,uus,adjectives,0.35
+1819,darllen,hammustama,verbs,0.1
+1820,prynu,varastama,verbs,0.35
+1821,disgybl,üliõpilane,nouns,4.3
+1822,twf,väetis,nouns,1.1
+1823,seren,planeet,nouns,2.3
+1824,amwys,ebaselge,adjectives,4.65
+1825,gweithredu,algebra,nouns,0.9
+1826,darllen,hoomama,verbs,0.85
+1827,pren,palk,nouns,3.1
+1828,esgob,moslem,nouns,0.6
+1829,cangen,käsi,nouns,0.9
+1830,confensiwn,reegel,nouns,3.05
+1831,ofnadwy,halb,adjectives,3.05
+1832,cau,oksendama,verbs,0.0
+1833,esgus,portreteerima,verbs,0.85
+1834,ymddygiadaeth,teraapia,nouns,1.4
+1835,modur,auto,nouns,5.0
+1836,crisial,klaas,nouns,2.2
+1837,cyngres,parlament,nouns,2.6
+1838,talu,ostma,verbs,2.55
+1839,minc,karusnahk,nouns,2.8
+1840,gwrthod,andma,verbs,0.15
+1841,actor,laulja,nouns,1.55
+1842,holi,vajama,verbs,0.4
+1843,yn deg,ebaausalt,adverbs,0.3
+1844,cenedlaethol,tuntud,adjectives,0.5
+1845,drws,värav,nouns,2.6
+1846,siarad,sosistama,verbs,2.2
+1847,carped,maja,nouns,0.45
+1848,afiechyd,oht,nouns,0.45
+1849,car,tank,nouns,0.9
+1850,wal,telliskivi,nouns,1.2
+1851,gwartheg,jogurt,nouns,0.25
+1852,llunio,tegema,verbs,3.3
+1853,yn annheg,ausalt,adverbs,0.3
+1854,glan y môr,rand,nouns,4.35
+1855,sioe,matemaatik,nouns,0.05
+1856,helmed,relv,nouns,0.7
+1857,pont,kaart,nouns,0.15
+1858,brawdgarwch,pesapall,nouns,0.1
+1859,anonest,tõene,adjectives,0.35
+1860,asgwrn,pahkluu,nouns,2.05
+1861,cydio,kokku suruma,verbs,1.45
+1862,enillydd,mees,nouns,0.35
+1863,dysgu,unustama,verbs,0.4
+1864,cymhwysedd,võime,nouns,4.05
+1865,teiffŵn,tsüklon,nouns,3.45
+1866,arolygu,eksamineerima,verbs,2.85
+1867,tric,vann,nouns,0.0
+1868,canlyn,uurima,verbs,0.65
+1869,cadno,jahikoer,nouns,0.9
+1870,llyn,soo,nouns,1.1
+1871,bagiau,ümbermaailmareis,nouns,0.45
+1872,sudd,piim,nouns,0.95
+1873,garddwrn,käelaba,nouns,1.75
+1874,erthygl,raamat,nouns,0.95
+1875,gitâr,forell,nouns,0.0
+1876,modern,iidne,adjectives,0.3
+1877,siampên,viski,nouns,1.2
+1878,diemwnt,raha,nouns,1.1
+1879,cwmni,äri,nouns,4.1
+1880,seren,heledus,nouns,1.25
+1881,melys,elektriline,adjectives,0.1
+1882,cyd-beilot,kokpit,nouns,0.55
+1883,caled,kerge,adjectives,0.25
+1884,gwaethygu,tüütama,verbs,1.15
+1885,llosgi,lämmatama,verbs,1.05
+1886,person,tegelane,nouns,2.8
+1887,gwybod,aru saama,verbs,2.85
+1888,sgrîn,fonoloogia,nouns,0.1
+1889,plentyn,poiss,nouns,1.65
+1890,cymysgu,süüa tegema,verbs,0.9
+1891,pryderus,hirmul,adjectives,3.15
+1892,doniol,nüri,adjectives,0.15
+1893,ofnus,häbelik,adjectives,1.85
+1894,barn,uskumus,nouns,3.7
+1895,balchder,kartmatu,adjectives,1.45
+1896,beio,lükkama,verbs,0.3
+1897,canon,relv,nouns,2.35
+1898,esgus,ette kujutama,verbs,1.7
+1899,cymharu,analüüsima,verbs,2.7
+1900,lladd,hävitama,verbs,2.95
+1901,dymuno,soovima,verbs,4.6
+1902,gwefrydd,ketas,nouns,0.15
+1903,cyfnewid,asendus,nouns,3.25
+1904,gorffen,lõpetama,verbs,1.5
+1905,cyffredin,kummaline,adjectives,0.35
+1906,cofleidio,pigistama,verbs,1.75
+1907,hyfryd,imeline,adjectives,2.5
+1908,ystlum,vampiir,nouns,1.0
+1909,cwrw,karastusjook,nouns,2.0
+1910,eglwys,koor,nouns,1.1
+1911,alcohol,vein,nouns,2.2
+1912,stori,teema,nouns,1.55
+1913,meddu ar,võtma,verbs,1.5
+1914,diangen,vajalik,adjectives,0.25
+1915,acwsteg,heli,nouns,2.9
+1916,eirfwrdd,suusatamine,nouns,1.95
+1917,chwerthin,laulma,verbs,0.4
+1918,anghefnogi,julgustama,verbs,0.05
+1919,senedd,kongress,nouns,2.6
+1920,cred,konseptsioon,nouns,2.6
+1921,tun,metall,nouns,2.7
+1922,tiwtora,harima,verbs,4.25
+1923,sgleinio,informeerima,verbs,0.0
+1924,gair,lehekülg,nouns,0.75
+1925,casglu,kokku hoidma,verbs,2.05
+1926,crosio,ülikond,nouns,0.2
+1927,braich,põlv,nouns,0.85
+1928,dyddiad,sünnipäev,nouns,1.6
+1929,blin,õnnelik,adjectives,0.2
+1930,ceiniog,tehing,nouns,0.5
+1931,cod,sümbol,nouns,1.95
+1932,cynllun,mõte,nouns,2.15
+1933,aneglur,ebamäärane,adjectives,4.65
+1934,tarian,käeturvis,nouns,2.0
+1935,mewnwelediad,fakt,nouns,1.0
+1936,mynychu,vaidlema,verbs,0.1
+1937,merch,tita,nouns,1.3
+1938,caban,maamaja,nouns,3.35
+1939,pêl,võrkpall,nouns,2.35
+1940,sarhau,haavama,verbs,2.95
+1941,fformiwla,logaritm,nouns,1.4
+1942,darllenydd,autor,nouns,0.7
+1943,rhoi,eitama,verbs,0.15
+1944,lluosi,lisama,verbs,1.5
+1945,difetha,haistma,verbs,0.0
+1946,ffug,päris,adjectives,0.3
+1947,rhythm,luuletus,nouns,1.25
+1948,yn hael,mitte kunagi,adverbs,0.1
+1949,storm,orkaan,nouns,3.45
+1950,cydymaith,semu,nouns,4.25
+1951,clywed,rääkima,verbs,0.7
+1952,corff,närv,nouns,0.5
+1953,lleihau,leotama,verbs,0.25
+1954,bawd,küüs,nouns,1.05
+1955,planed,kuu,nouns,2.05
+1956,datblygiad,korjandus,nouns,0.45
+1957,yma,nüüd,adverbs,1.95
+1958,pwyll,hool,nouns,3.4
+1959,canolig,okei,adjectives,2.85
+1960,myfyriwr,õpetaja,nouns,1.0
+1961,disgwyl,lahkuma,verbs,0.1
+1962,tynnu,lükkama,verbs,0.35
+1963,trefnu,saama,verbs,0.35
+1964,cinio,hommikusöök,nouns,1.25
+1965,swyddog,asetäitja,nouns,0.75
+1966,diymhongar,rikkumata,adjectives,1.2
+1967,balŵn,rahvas,nouns,0.1
+1968,pren,kivi,nouns,0.6
+1969,ffuglen,biograafia,nouns,0.75
+1970,losin,õun,nouns,0.5
+1971,nendwr,palee,nouns,0.7
+1972,egluro,defineerima,verbs,3.5
+1973,rhan,peatükk,nouns,4.05
+1974,bioleg gymdeithasol,mutant,nouns,0.45
+1975,rhif,number,nouns,5.0
+1976,hurt,hiiglasuur,adjectives,0.1
+1977,targed,nool,nouns,0.7
+1978,heulwen,õun,nouns,0.2
+1979,llyfr,artikkel,nouns,0.95
+1980,cyferbyn,ainulaadne,adjectives,0.55
+1981,cofio,mõtlema,verbs,1.35
+1982,esgus,valetama,verbs,2.0
+1983,gwrthddadlau,arutlema,verbs,2.85
+1984,medrydd,auto,nouns,0.65
+1985,derwen,vaher,nouns,1.5
+1986,negyddol,mitte kunagi,adjectives,0.65
+1987,penderfynu,valima,verbs,3.9
+1988,goruchafu,võitma,verbs,2.6
+1989,bregus,jäik,adjectives,0.35
+1990,symudol,paindlik,adjectives,1.85
+1991,lladd,kägistama,verbs,2.0
+1992,ffres,uus,adjectives,4.0
+1993,gwrthod,vältima,verbs,1.65
+1994,harmoni,klaver,nouns,1.1
+1995,ergydio,mööda lööma,verbs,0.45
+1996,diflas,terav,adjectives,0.45
+1997,gaeaf,aastaeg,nouns,2.65
+1998,datgan,kuulutama,verbs,3.5
+1999,siryf,võmm,nouns,2.95
+2000,dathliad,tseremoonia,nouns,2.8
+2001,ceirios,maasikas,nouns,1.15
+2002,yn uchel,pehmelt,adverbs,0.1
+2003,cynhwysydd,pudel,nouns,1.75
+2004,meddwl,otsustama,verbs,2.15
+2005,cario ,võtma,verbs,0.9
+2006,offeryn,töö,nouns,0.65
+2007,gweriniaeth,hertsog,nouns,0.4
+2008,diogelwch,mugavus,nouns,1.25
+2009,gwraig,abikaasa (mees),nouns,2.7
+2010,gwastraffu,muretsema,verbs,0.15
+2011,gofyn,aitama,verbs,0.6
+2012,cawl,õhtusöök,nouns,1.4
+2013,collfarnu,tagasi lükkama,verbs,0.55
+2014,talwrn,kaaspiloot,nouns,0.55
+2015,cwmpawd,elevant,nouns,0.55
+2016,diod,õlu,nouns,2.0
+2017,te,sidrun,nouns,0.65
+2018,dewis,tahtma,verbs,1.15
+2019,clecs,uudised,nouns,2.5
+2020,staff,vokalist,nouns,0.4
+2021,llawysgrif,artikkel,nouns,1.2
+2022,anwybyddu,küsima,verbs,0.1
+2023,sblash,sisehõõrdumine,nouns,0.1
+2024,rhodio,uitama,verbs,3.65
+2025,erydu,lubama,verbs,0.1
+2026,swil,kallis,adjectives,0.05
+2027,gwerthfawr,püha,adjectives,2.05
+2028,jîns,naine,nouns,0.2
+2029,brawd,poiss,nouns,1.75
+2030,clariffeio,seletama,verbs,4.25
+2031,cymryd,jätma,verbs,0.45
+2032,gwobr,makse,nouns,1.3
+2033,tröedigaeth,kõrgus,nouns,0.1
+2034,crynnu,külmuma,verbs,1.8
+2035,goddefol,vägivaldne,adjectives,0.25
+2036,tynnu'n ôl,tagasi lükkama,verbs,1.95
+2037,dyfalu,ärritama,verbs,0.2
+2038,stêc,kana,nouns,0.85
+2039,car,veok,nouns,2.35
+2040,tystio,kohut mõistma,verbs,0.95
+2041,onest,süüdi,adjectives,0.45
+2042,ymddengys,saama,verbs,0.9
+2043,anwybyddu,unustama,verbs,1.3
+2044,cymryd,varastama,verbs,2.2
+2045,cae,kaer,nouns,0.9
+2046,creu,teenima,verbs,0.35
+2047,anghwrtais,kriitiline,adjectives,1.1
+2048,plasty,skulptor,nouns,0.25
+2049,difeddiannu,tähelepanuta jätma,verbs,1.0
+2050,ciledrych,jõllitama,verbs,0.65
+2051,gwythïen,käsi,nouns,0.6
+2052,noswaith,videvik,nouns,3.9
+2053,yn falch,tagasihoidlikult,adverbs,0.35
+2054,beddrod,hauakamber,nouns,1.0
+2055,beichio,nutma,verbs,3.6
+2056,holi,otsima,verbs,1.25
+2057,llwch,luud,nouns,0.65
+2058,priodferch,printsess,nouns,1.2
+2059,glo,puusüsi,nouns,2.9
+2060,medal,tossud,nouns,0.3
+2061,stryd,põiktänav,nouns,3.3
+2062,ennill,edu saavutama,verbs,4.15
+2063,aflonyddu,hirmutama,verbs,2.0
+2064,stumog,magamistuba,nouns,0.1
+2065,brwydro,mitte nõustuma,verbs,1.35
+2066,yn gadarn,pehmelt,adverbs,0.5
+2067,cerddoriaeth,meloodia,nouns,3.0
+2068,yn wir,oluliselt,adverbs,0.85
+2069,symbol,krüptogramm,nouns,2.25
+2070,darganfod,taipama,verbs,3.5
+2071,hurt,haruldane,adjectives,0.0
+2072,môr,tsunaami,nouns,1.45
+2073,anaeddfed,vastutustundetu,adjectives,2.25
+2074,crybwyll,kritiseerima,verbs,1.1
+2075,rhannu,korrutama,verbs,0.65
+2076,drwg,süüdi,adjectives,1.3
+2077,ymuno,lisama,verbs,0.9
+2078,hyll,sassis,adjectives,1.4
+2079,brenin,prints,nouns,1.5
+2080,anwybodus,regulaarne,adjectives,0.2
+2081,cymysgu,sõitma,verbs,0.1
+2082,brwydr,vallutus,nouns,2.25
+2083,mynd  ,jätma,verbs,1.0
+2084,rhedeg,sõitma,verbs,0.45
+2085,ffatri,auto,nouns,0.3
+2086,bara,liha,nouns,0.45
+2087,gwneuthurwr,looja,nouns,4.45
+2088,twyll,kuritegu,nouns,3.0
+2089,gofyn,paluma,verbs,2.85
+2090,car,paat,nouns,0.8
+2091,drwg  ,vinge,adjectives,0.05
+2092,amlwg,märgatav,adjectives,3.85
+2093,geiriadur,sõna,nouns,1.7
+2094,matrics,vektor,nouns,1.3
+2095,canu,hõljuma,verbs,0.0
+2096,post,kiirus,nouns,0.15
+2097,gwern,järv,nouns,1.1
+2098,maes llafur,eksam,nouns,0.8
+2099,glân,sassis,adjectives,0.25
+2100,diflas,naljakas,adjectives,0.15
+2101,sŵn,kõristi,nouns,1.1
+2102,gallu,pädevus,nouns,4.05
+2103,dirywio,pühkima,verbs,0.35
+2104,cyw iâr,õhtusöök,nouns,0.7
+2105,pen,jalg,nouns,0.65
+2106,dweud,osalema,verbs,0.35
+2107,proffesiwn,kolledž,nouns,0.5
+2108,palas,pilvelõhkuja,nouns,0.7
+2109,corn,trumm,nouns,0.75
+2110,prysur,laisk,adjectives,0.15
+2111,afon,org,nouns,1.1
+2112,eryr,pistrik,nouns,2.1
+2113,llyfr,kirjandus,nouns,2.35
+2114,swil,hirmunud,adjectives,1.85
+2115,organ,maks,nouns,1.9
+2116,gwrthod,vastu võtma,verbs,0.35
+2117,gwarcheidwad,ema,nouns,1.9
+2118,adnewid,vahetama,verbs,2.85
+2119,seciwlarydd,religioon,nouns,1.5
+2120,clyfar,loll,adjectives,0.25
+2121,llyfr,tekst,nouns,1.55
+2122,ceinder,stiil,nouns,2.8
+2123,hyfforddwr,õpetaja,nouns,3.9
+2124,awst,kuu,nouns,2.0
+2125,pencampwr,võitja,nouns,5.2
+2126,yn wahanol,surmavalt,adverbs,0.1
+2127,potel,plekkpurk,nouns,0.65
+2128,gwyddoniadur,sõnaraamat,nouns,1.9
+2129,meddu ,hoidma,verbs,2.4
+2130,drwg,suurepärane,adjectives,0.15
+2131,anatomeg,bioloogia,nouns,2.4
+2132,newyddion,juhtkiri,nouns,0.85
+2133,alcohol,džinn,nouns,2.1
+2134,mab,poiss,nouns,3.3
+2135,arian cyfred,kokkulangevus,nouns,0.05
+2136,traeth,saar,nouns,1.1
+2137,crio,vesistama,verbs,4.45
+2138,cyffredin,külm,adjectives,0.2
+2139,plentyn,täiskasvanu,nouns,0.9
+2140,degawd,ajastu,nouns,1.75
+2141,rhoi,riputama,verbs,0.9
+2142,cadlong,lahingulaev,nouns,4.45
+2143,medi,saavutama,verbs,0.45
+2144,addurn,sein,nouns,0.65
+2145,newyddion,meedium,nouns,0.85
+2146,porth,uks,nouns,3.55
+2147,gwn,seersant,nouns,0.65
+2148,mynd o'r golwg,haihtuma,verbs,5.2
+2149,beic,nahk,nouns,0.1
+2150,braisg,suur,adjectives,4.0
+2151,dychan,müüt,nouns,0.65
+2152,yn rhyfedd,erinevalt,adverbs,2.0
+2153,damweinio,ilmnema,verbs,0.9
+2154,radar,juhtkang,nouns,0.25
+2155,pur,tagasihoidlik,adjectives,1.2
+2156,athro,abiline,nouns,1.95
+2157,yn gywir,aktiivselt,adverbs,0.65
+2158,presenoldeb,võitja,nouns,0.35
+2159,dod yn,tegema,verbs,0.8
+2160,archesgob,piiskop,nouns,3.45
+2161,clogwyn,küngas,nouns,1.85
+2162,dyffryn,jõgi,nouns,1.1
+2163,mawr,paindlik,adjectives,0.3
+2164,pennod,öö,nouns,0.05
+2165,casglu,osalema,verbs,0.9
+2166,glaw,lumetorm,nouns,1.05
+2167,drachtio,neelama,verbs,2.5
+2168,gwefus,suu,nouns,2.45
+2169,bwcler,kilp,nouns,2.0
+2170,rhoddi,laenama,verbs,2.45
+2171,iselder,org,nouns,0.6
+2172,gwenith,teravili,nouns,2.55
+2173,tynnu,kaotama,verbs,0.7
+2174,crebachu,vähendama,verbs,2.8
+2175,hysbysu,teavitama,verbs,4.85
+2176,perl,raha,nouns,0.4
+2177,cofleidio,hoidma,verbs,2.15
+2178,cerdyn,sild,nouns,0.15
+2179,iâr,kalkun,nouns,1.75
+2180,yn emosiynol,kurvalt,adverbs,1.9
+2181,cwch,puur,nouns,0.0
+2182,canrif,aasta,nouns,1.4
+2183,raced,pall,nouns,1.0
+2184,mynach,preester,nouns,2.0
+2185,cyflymder,post,nouns,0.15
+2186,tramorwr,tõlge,nouns,0.65
+2187,gwerthuso,õppima,verbs,0.75
+2188,ystafell wely,kõht,nouns,0.1
+2189,dadlau,karjuma,verbs,1.4
+2190,crio,nuuksuma,verbs,3.6
+2191,iaith,suhtlus,nouns,1.85
+2192,arian,pärl,nouns,0.4
+2193,meddw,kaine,adjectives,0.35
+2194,cerflunwaith,kuju,nouns,4.9
+2195,cyhoeddi,kuulutama,verbs,4.4
+2196,deffro,haigutama,verbs,0.55
+2197,cyfarch,kohtuma,verbs,1.4
+2198,dinistrio,tapma,verbs,2.95
+2199,gwydn,kerge,adjectives,0.05
+2200,meddwl,neuroos,nouns,1.2
+2201,theatr,film,nouns,1.05
+2202,asetylocolin,iiris,nouns,0.4
+2203,brysio,tormama,verbs,4.9
+2204,wastad,kaks korda,adverbs,0.2
+2205,ymerawdwr,põhiseadus,nouns,0.45
+2206,peilot,autojuht,nouns,2.5
+2207,awyrgylch,reostus,nouns,1.0
+2208,poenus,häbenev,adjectives,0.25
+2209,llwyddo,teostama,verbs,3.2
+2210,mecanyddol,elektriline,adjectives,0.55
+2211,etholiad,valik,nouns,3.0
+2212,busnes,firma,nouns,4.1
+2213,dygnwch,lill,nouns,0.25
+2214,sain,akustika,nouns,2.9
+2215,eliffant,compass,nouns,0.55
+2216,hurt,rumal,adjectives,5.15
+2217,esgob,peapiiskop,nouns,3.45
+2218,ased,aktsia,nouns,3.15
+2219,hurt,nutikas,adjectives,0.25
+2220,cyflawni,saama,verbs,0.9
+2221,bardd,ajakirjanik,nouns,0.9
+2222,cynddaredd,viha,nouns,4.35
+2223,nihiliaeth,film,nouns,0.2
+2224,estrys,puuvijaaed,nouns,0.0
+2225,blaengau,püüdma,verbs,0.15
+2226,clun,huul,nouns,0.4
+2227,masarnen,puu,nouns,2.6
+2228,rhybuddio,peatuma,verbs,0.8
+2229,bowlen,taldrik,nouns,1.85
+2230,caffael,ühinema,verbs,0.35
+2231,dygnwch,bänd,nouns,0.15
+2232,dyn,isa,nouns,2.0
+2233,ffordd,maantee,nouns,4.15
+2234,yn dynn,tugevalt,adverbs,1.6
+2235,llyfr,informatsioon,nouns,0.95
+2236,alaw,muusika,nouns,3.0
+2237,gwellt,hümn,nouns,0.0
+2238,mis,august,nouns,2.0
+2239,theorem,teooria,nouns,2.95
+2240,yn hyfryd,elegantselt,adverbs,3.1
+2241,wisgi,džinn,nouns,1.75
+2242,sigâr,karp,nouns,0.25
+2243,bisged,pritsess,nouns,0.05
+2244,brandi,vein,nouns,1.4
+2245,brandi,alkohol,nouns,2.35
+2246,cynyddu,kasvama,verbs,4.15
+2247,bedd,taasmatmine,nouns,1.0
+2248,ffwr,relv,nouns,0.35
+2249,ymbarél,küttekeha,nouns,0.05
+2250,rhwygo,kandma,verbs,0.05
+2251,dadlau,erinema,verbs,0.95
+2252,disgyn,taganema,verbs,0.85
+2253,rasio,filosoof,nouns,0.0
+2254,ecsema,dermatiit,nouns,3.3
+2255,derbyn,kätte toimetama,verbs,0.35
+2256,yn hysbys,hea,adjectives,0.3
+2257,trên,tramm,nouns,2.5
+2258,cyrnol,hambaarst,nouns,0.05
+2259,mab,vend,nouns,1.0
+2260,ffynhonnell,kast,nouns,0.0
+2261,beirniadu,märkima,verbs,1.1
+2262,parti,mask,nouns,0.6
+2263,ffotoffon,homofoon,nouns,0.25
+2264,yn fras,kergelt,adverbs,0.5
+2265,yn dawel,loomulikult,adverbs,0.55
+2266,het,karp,nouns,0.15
+2267,petrusgar,raevukas,adjectives,0.3
+2268,creu,saama,verbs,0.8
+2269,sylw,teadlikkus,nouns,2.45
+2270,pibell,sigar,nouns,0.75
+2271,heddiw,täna õhtul,adverbs,2.05
+2272,coginio,kaotama,verbs,0.0
+2273,cyhoeddi,informeerima,verbs,4.85
+2274,dyweddïad,kohtumine,nouns,0.4
+2275,angen,pärima,verbs,0.4
+2276,cytuno,mitte nõustuma,verbs,0.3
+2277,tebyg,samasugune,adjectives,4.5
+2278,rhyddhau,suruma,verbs,0.25
+2279,anfeidredd,null,nouns,0.45
+2280,dinistrio,looma,verbs,0.35
+2281,carreg,puit,nouns,0.6
+2282,ewin,pea,nouns,0.3
+2283,cydnabod,rääkima,verbs,0.85
+2284,cyhuddo,kohut mõistma,verbs,2.85
+2285,pleidlais,väljapääs,nouns,0.2
+2286,gofal,ettevaatus,nouns,3.4
+2287,apwyntiad,kaasamine,nouns,0.4
+2288,cyflog,raha,nouns,3.15
+2289,codi arian,arendus,nouns,0.45
+2290,arian,deemant,nouns,1.1
+2291,arf,kiiver,nouns,0.7
+2292,digonedd,paljusus,nouns,4.35
+2293,braf,julm,adjectives,0.0
+2294,drwg,keskpärane,adjectives,0.95
+2295,creu,ette kujutama,verbs,1.25
+2296,llywydd,reostus,nouns,0.05
+2297,cysuro,alandama,verbs,0.0
+2298,rheolwr,juht,nouns,4.0
+2299,blin,vägivaldne,adjectives,1.65
+2300,tybio,ennustama,verbs,1.85
+2301,meddwl,mõtisklema,verbs,4.15
+2302,creulon,kena,adjectives,0.0
+2303,entropi,informatsioon,nouns,0.85
+2304,drud,häbelik,adjectives,0.05
+2305,canu,naerma,verbs,0.4
+2306,gwylio,uurima,verbs,3.15
+2307,blodyn,põõsas,nouns,1.25
+2308,llen,varras,nouns,0.15
+2309,mwstard,seeme,nouns,0.7
+2310,symbol,märk,nouns,4.55
+2311,cyflog,tasu,nouns,5.15
+2312,ysgol,klass,nouns,1.2
+2313,plaladdwr,putukas,nouns,1.0
+2314,anrheg,kirjanik,nouns,0.3
+2315,ffrio,küpsetama,verbs,2.2
+2316,aseiniad,märge,nouns,0.55
+2317,pren,paber,nouns,0.95
+2318,ansicr,hädaline,adjectives,1.25
+2319,realiti,illusioon,nouns,0.6
+2320,priodfab,pruut,nouns,1.35
+2321,enfawr,loll,adjectives,0.1
+2322,i ffwrdd,kodus,adverbs,0.55
+2323,ci hela,rebane,nouns,0.9
+2324,tasg,kõrs,nouns,0.1
+2325,storm,pilv,nouns,1.1
+2326,rinsio,pesema,verbs,3.15
+2327,fflat,hotell,nouns,0.65
+2328,tywysogaeth,hertsogkond,nouns,2.3
+2329,yn onest,ustavalt,adverbs,2.55
+2330,doethineb,intelligentsus,nouns,4.05
+2331,greddf,meel,nouns,3.55
+2332,yn gadarn,rahulikult,adverbs,0.9
+2333,amnewid,taastama,verbs,0.35
+2334,trefn,menüü,nouns,0.8
+2335,taro,külge tõmbama,verbs,0.3
+2336,blwyddyn,sünnipäev,nouns,1.05
+2337,dillad,jakk,nouns,1.7
+2338,dewis,otsustama,verbs,3.9
+2339,car,jalgratas,nouns,1.1
+2340,hyderus,kindel,adjectives,3.95
+2341,dibynnu ar,tuginema,verbs,3.4
+2342,credyd,laenaja,nouns,1.45
+2343,yn unffurf,mõnikord,adverbs,0.3
+2344,cydnabod,aktsepteerima,verbs,3.05
+2345,diwydiant,äri,nouns,2.0
+2346,gwifren,nöör,nouns,1.7
+2347,casglwr,alamprogramm,nouns,0.45
+2348,daeargryn,vappumine,nouns,2.9
+2349,da,vürtsikas,adjectives,0.55
+2350,mathemategydd,etendus,nouns,0.05
+2351,awyr,univesum,nouns,1.35
+2352,dal,jälitama,verbs,1.7
+2353,strategydd,skeemitaja,nouns,3.4
+2354,sŵn,rakett,nouns,0.45
+2355,gwirod,sajand,nouns,0.0
+2356,mawr,raske,adjectives,1.55
+2357,gwrthod,tagasi võtma,verbs,1.95
+2358,anialwch,luide,nouns,1.1
+2359,gadael,jääma,verbs,0.3
+2360,yn ddibynadwy,umbes,adverbs,0.15
+2361,hyblyg,suur,adjectives,0.3
+2362,patholeg,hematoloogia,nouns,1.5
+2363,argyhoeddi,proovima,verbs,0.7
+2364,atgoffa,unustama,verbs,0.4
+2365,traeth,riff,nouns,0.8
+2366,gwthio,süüdistama,verbs,0.3
+2367,talu,kohtlema,verbs,0.15
+2368,deilen,seemik,nouns,1.05
+2369,cinio,kana,nouns,0.7
+2370,weithiau,kindlalt,adverbs,0.1
+2371,gwleidydd,politseinik,nouns,0.35
+2372,gwddf,selgroog,nouns,1.25
+2373,llonydd,neutraalne,adjectives,1.75
+2374,osgoi,ignoreerima,verbs,3.75
+2375,tafod,kõri,nouns,0.8
+2376,ufuddhau,kuulama,verbs,1.3
+2377,llwyn,lill,nouns,1.25
+2378,niweidio,ründama,verbs,2.8
+2379,cosbi,õpetama,verbs,0.15
+2380,afon,meri,nouns,1.4
+2381,sgil,intelligentsus,nouns,1.75
+2382,presenoldeb,puudumine,nouns,0.9
+2383,barnu,otsustama,verbs,2.65
+2384,siaced,sviiter,nouns,1.75
+2385,cafflo,tüssama,verbs,4.55
+2386,awdur,lugeja,nouns,0.7
+2387,gynfad,rannik,nouns,0.4
+2388,pêl,reket,nouns,1.0
+2389,trafodaeth,vaidlus,nouns,3.1
+2390,aren,organ,nouns,2.35
+2391,benthyg,võlgnema,verbs,1.45
+2392,gwych,halb,adjectives,0.15
+2393,madfall,valitsus,nouns,0.0
+2394,amlwg,avalikustamata,adjectives,0.35
+2395,sanctaidd,kallis,adjectives,2.05
+2396,sylweddol,vähetähtis,adjectives,0.3
+2397,dryswch,hüsteeria,nouns,2.35
+2398,weithiau,ühtlaselt,adverbs,0.3
+2399,cadw,omama,verbs,2.4
+2400,fel arfer,ebanormaalselt,adverbs,0.45
+2401,yn afresymol,ebaausalt,adverbs,2.9
+2402,bathodyn,klaas,nouns,0.15
+2403,dwywaith,mitu korda,adverbs,1.15
+2404,maint,sent,nouns,0.35
+2405,chwibanu,peatuma,verbs,0.2
+2406,ffêr,luu,nouns,2.05
+2407,adeiladwaith,purustamine,nouns,0.5
+2408,cebl,võlur,nouns,0.0
+2409,ogleuo,haisema,verbs,3.3
+2410,diymhongar,alandlik,adjectives,2.25
+2411,llyfr,piibel,nouns,1.75
+2412,yr un peth,sarnane,adjectives,4.5
+2413,crwt,tütar,nouns,1.1
+2414,salad,dieet,nouns,0.85
+2415,cyfaddef,eitama,verbs,0.35
+2416,bàth,trikk,nouns,0.0
+2417,lliain,riie,nouns,2.3
+2418,anodd ei gael,haruldane,adjectives,1.1
+2419,swper,eine,nouns,3.25
+2420,bydiaeth,viisa,nouns,0.6
+2421,rhesymoli,mõtlema,verbs,2.4
+2422,stori,pliiats,nouns,0.4
+2423,gwarcheidwad,täiskasvanu,nouns,1.85
+2424,llygoden,rott,nouns,2.75
+2425,cinio,eine,nouns,3.1
+2426,sero,lõpmatus,nouns,0.45
+2427,o bosibl,pigem,adverbs,1.95
+2428,rhiant,isa,nouns,2.8
+2429,diweddar,uus,adjectives,3.45
+2430,egluro,tõestama,verbs,1.85
+2431,coes,käsivars,nouns,1.15
+2432,rhoi,laenama,verbs,1.95
+2433,tad,vend,nouns,1.2
+2434,parch,au,nouns,2.55
+2435,tric,suurus,nouns,0.05
+2436,dichonadwy,võimatu,adjectives,0.65
+2437,seicoleg,teadus,nouns,2.0
+2438,cansen siwgr,kombain,nouns,0.45
+2439,ar hyn o bryd,delikaatselt,adverbs,0.2
+2440,gêm,tegu,nouns,0.95
+2441,merch,kutt,nouns,0.9
+2442,gweiddi,vaidlema,verbs,1.4
+2443,delta,meri,nouns,1.1
+2444,cyw iâr,steik,nouns,0.85
+2445,iogwrt,kari,nouns,0.25
+2446,anwybodus,ühtne,adjectives,0.3
+2447,ystafell,kong,nouns,1.9
+2448,oedolyn,laps,nouns,0.9
+2449,camera,järg,nouns,0.05
+2450,anwybyddu,jätma,verbs,1.35
+2451,maddau,vabandama,verbs,1.65
+2452,hysteria,segadus,nouns,2.35
+2453,bawd,käsi,nouns,1.3
+2454,gweddïo,küsima,verbs,1.6
+2455,clwb,märk,nouns,0.35
+2456,alcohol,brändi,nouns,2.35
+2457,troed,liiv,nouns,0.1
+2458,storm,lumi,nouns,1.35
+2459,ennill,lõikama,verbs,0.45
+2460,dewis,peatükk,nouns,0.4
+2461,gadael,taganema,verbs,2.6
+2462,lan,rannik,nouns,3.15
+2463,deall,kuulama,verbs,1.2
+2464,llaeth,mahl,nouns,0.95
+2465,hyfforddwyr,medal,nouns,0.3
+2466,anadlu,lämbuma,verbs,0.9
+2467,coeden,vaher,nouns,2.6
+2468,tegan,kuup,nouns,0.4
+2469,golau,klaviatuur,nouns,0.1
+2470,cynffon,kalju,nouns,0.0
+2471,caniatáu,minema,verbs,0.25
+2472,digwyddiad,rahakorjamine,nouns,1.4
+2473,drws,aken,nouns,1.0
+2474,sillaf,algvorm,nouns,0.65
+2475,llynges,armee,nouns,3.2
+2476,perlysieuyn,kanep,nouns,1.7
+2477,afal,sidrun,nouns,1.15
+2478,gwydn,kaval,adjectives,0.3
+2479,gwely,mööbel,nouns,1.9
+2480,melin,seeme,nouns,0.65
+2481,cwmwl,udu,nouns,2.95
+2482,gwallgof,rahul,adjectives,0.3
+2483,clymu,ühendama,verbs,3.1
+2484,modryb,onu,nouns,1.65
+2485,yn wael,tagasihoidlikult,adverbs,0.6
+2486,doniol,kurb,adjectives,0.35
+2487,gadael,kohtuma,verbs,0.05
+2488,crefydd,sekularist,nouns,1.5
+2489,dwyn,andma,verbs,0.2
+2490,awdur,anne,nouns,0.3
+2491,ymosod,haiget tegema,verbs,2.8
+2492,sgert,käekell,nouns,0.1
+2493,menyw,sekretär,nouns,0.8
+2494,car,sild,nouns,0.45
+2495,dosbarth,kaos,nouns,0.2
+2496,oeraidd,järsk,adjectives,1.15
+2497,galar,piin,nouns,2.15
+2498,mae'n debyg,ilmselgelt,adverbs,1.4
+2499,drwg,õudne,adjectives,3.05
+2500,rhyddid,oaas,nouns,0.7
+2501,amaethyddiaeth,monokultuur,nouns,1.05
+2502,mawr,kerge,adjectives,0.1
+2503,deallus,loll,adjectives,0.35
+2504,carchar,trell,nouns,0.9
+2505,cadw,jääma,verbs,0.85
+2506,piano,harmoonia,nouns,1.1
+2507,pwyntydd,slaid,nouns,0.05
+2508,metr,jard,nouns,1.4
+2509,cân,ballaad,nouns,3.7
+2510,silff,mägi,nouns,0.55
+2511,penderfynu,lõpetama,verbs,1.0
+2512,sbeislyd,nõrk,adjectives,0.0
+2513,lifft,kast,nouns,0.15
+2514,cael,jääma,verbs,0.0
+2515,yn dynn,uskumatult,adverbs,0.2
+2516,mam,abikaasa (naine),nouns,2.05
+2517,anobaith,kannatused,nouns,2.85
+2518,tref,suurlinn,nouns,2.1
+2519,gwneud,looma,verbs,4.2
+2520,dirmygus,põlastav,adjectives,4.6
+2521,menyw,mees,nouns,0.65
+2522,nawr,siin,adverbs,1.95
+2523,trin,maksma,verbs,0.15
+2524,caniatáu,andma,verbs,1.75
+2525,sâl,pöörane,adjectives,0.8
+2526,tywysoges,saar,nouns,0.0
+2527,rabi,vaimulik,nouns,3.65
+2528,disgybl,president,nouns,0.25
+2529,injan,kolb,nouns,2.15
+2530,aros,saama,verbs,0.0
+2531,ymosodol,kõver,adjectives,0.25
+2532,addysgu,õpetama,verbs,4.25
+2533,cnawd,veri,nouns,1.0
+2534,seryddwr,galaktika,nouns,0.75
+2535,modd,mood,nouns,0.55
+2536,gwin,brändi,nouns,1.4
+2537,glas,punane,adjectives,0.6
+2538,dod â,saatma,verbs,0.9
+2539,ymofyn,otsima,verbs,1.15
+2540,lladd,pooma,verbs,2.3
+2541,tynnu,looma,verbs,0.65
+2542,erthygl,käsikiri,nouns,1.2
+2543,ungnwd,põllumajandus,nouns,1.05
+2544,gwybodaeth,ajaleht,nouns,1.3
+2545,iro,laotama,verbs,0.35
+2546,halen,vesi,nouns,0.55
+2547,cyfreithiol,ohutu,adjectives,1.5
+2548,drws,koridor,nouns,0.95
+2549,dychryn,kummitama,verbs,2.0
+2550,cromlin,nurk,nouns,1.4
+2551,bàth,õhupall,nouns,0.1
+2552,llawr,katus,nouns,0.7
+2553,cardigan,särk,nouns,1.15
+2554,bachgen,sõdur,nouns,0.6
+2555,mynd,sisenema,verbs,1.65
+2556,reis,kana,nouns,0.5
+2557,sylfaen,hape,nouns,0.5
+2558,system,viga,nouns,0.3
+2559,llygredd,atmosfäär,nouns,1.0
+2560,plentyn,tüdruk,nouns,1.45
+2561,llong ryfel,sõjalaev,nouns,4.45
+2562,annisgwyl,ettenägematu,adjectives,4.65
+2563,yn hawdd,umbes,adverbs,0.5
+2564,dysgu,karistama,verbs,0.15
+2565,anghofio,õppima,verbs,0.4
+2566,etholi,tagasi lükkama,verbs,0.45
+2567,cymysgu,kombineerima,verbs,2.8
+2568,gwely,tekk,nouns,1.15
+2569,rhwystredigaeth,viha,nouns,1.9
+2570,machlud haul,päikesetõus,nouns,1.1
+2571,digwydd,juhtuma,verbs,0.9
+2572,unwaith,otsekohe,adverbs,0.6
+2573,coch,sinine,adjectives,0.6
+2574,cydsyniad,valuuta,nouns,0.05
+2575,anwybodaeth,intelligentsus,nouns,0.35
+2576,ystafell,vann,nouns,0.55
+2577,cliw,sõna,nouns,0.55
+2578,dychmygu,teesklema,verbs,1.7
+2579,canrif,naps,nouns,0.0
+2580,dec,paat,nouns,0.9
+2581,stopio,vilistama,verbs,0.2
+2582,hawdd,karm,adjectives,0.05
+2583,awyren,leht,nouns,0.15
+2584,gwario,kokku hoidma,verbs,0.45
+2585,dodrefn,korter,nouns,0.85
+2586,cwt,varjend,nouns,1.6
+2587,mygu,üle kuhjama,verbs,2.45
+2588,hyrwyddo,edendama,verbs,2.5
+2589,nerfus,veendunud,adjectives,0.15
+2590,oren,tsitrus,nouns,3.25
+2591,eisiau,valima,verbs,1.15
+2592,caws,leib,nouns,0.95
+2593,dweud ar goedd,teadustama,verbs,4.4
+2594,hedyn,sinep,nouns,0.7
+2595,hysbysu,poleerima,verbs,0.0
+2596,bàth,tuba,nouns,0.55
+2597,diffinio,selgitama,verbs,3.5
+2598,coffi,uba,nouns,1.1
+2599,trist,hirmus,adjectives,1.45
+2600,tsunami,meri,nouns,1.45
+2601,aros,säilitama,verbs,0.85
+2602,rhythm,kadents,nouns,0.85
+2603,amddiffyn,päästma,verbs,2.35
+2604,anghefnogi,ärritama,verbs,1.25
+2605,gweithiwr,mehaanik,nouns,2.2
+2606,gweithiwr,kaamera,nouns,0.05
+2607,penderfynu,mõtlema,verbs,2.15
+2608,gwych,kohutav,adjectives,0.25
+2609,dweud celwydd,teesklema,verbs,2.0
+2610,sylweddoli,avastama,verbs,3.5
+2611,creu,hävitama,verbs,0.45
+2612,fflat,mööbel,nouns,0.85
+2613,gwrthod,valetama,verbs,0.7
+2614,buwch,kits,nouns,1.15
+2615,yn fras,imlselgelt,adverbs,0.3
+2616,arian,palk,nouns,3.15
+2617,brwnt,kitsas,adjectives,0.25
+2618,yn fras,marginaalselt,adverbs,0.45
+2619,priodi,ühinema,verbs,2.25
+2620,wedi ei dychryn,põnevil,adjectives,2.0
+2621,yn achlysurol,regulaarselt,adverbs,1.05
+2622,ebol,hobune,nouns,3.55
+2623,gwythïen,kõht,nouns,0.3
+2624,mynd i mewn,lahkuma,verbs,0.35
+2625,dadlau,vaidlema,verbs,2.85
+2626,sedd,pank,nouns,0.25
+2627,hyder,ise,nouns,0.65
+2628,sgriptiwr,televisioon,nouns,0.75
+2629,dibynnu,nurjuma,verbs,0.15
+2630,yn ddiamynedd,umbes,adverbs,0.4
+2631,pen-glin,luu,nouns,1.4
+2632,mynd  ,algama,verbs,0.5
+2633,yn anarferol,kummaliselt,adverbs,4.3
+2634,meddwl,ratsionaliseerima,verbs,2.4
+2635,yn llachar,õrnalt,adverbs,0.3
+2636,darn,lennujaam,nouns,0.0
+2637,cicio,haiget tegema,verbs,1.75
+2638,eang,suur,adjectives,3.9
+2639,cenedlaethol,suur,adjectives,0.75
+2640,ffrind,ema,nouns,1.55
+2641,tywysoges,pruut,nouns,1.2
+2642,marw,matma,verbs,1.0
+2643,llyfr,essee,nouns,1.1
+2644,cas,riistvara,nouns,0.2
+2645,diweddeb,rütm,nouns,0.85
+2646,gwrthod,tunnistama,verbs,0.35
+2647,asgwrn,hambad,nouns,1.45
+2648,tuedd,arvamus,nouns,2.5
+2649,ysbryd,lamp,nouns,0.4
+2650,ffabrig,riided,nouns,1.9
+2651,maes awyr,lennuk,nouns,1.65
+2652,ardal,nurk,nouns,0.7
+2653,cytuno,heameelt tegema,verbs,0.8
+2654,dweud yn gyhoeddus,teadustama,verbs,3.5
+2655,torri,pragunema,verbs,2.2
+2656,yn hysbys,riiklik,adjectives,0.5
+2657,heddwch,sõdur,nouns,0.3
+2658,delwedd,idee,nouns,0.8
+2659,rheilffordd,aed,nouns,0.15
+2660,yn ddiffuant,tavaliselt,adverbs,0.7
+2661,papur newydd,sõna,nouns,0.85
+2662,tad,tütar,nouns,0.95
+2663,euog,aus,adjectives,0.45
+2664,cytuno,erinema,verbs,0.2
+2665,dal,vabastama,verbs,0.95
+2666,esgusodi,andestama,verbs,1.65
+2667,cerflunydd,mõis,nouns,0.25
+2668,gwych,hiilgav,adjectives,4.9
+2669,indrawn,vili,nouns,1.55
+2670,gair,vihje,nouns,0.55
+2671,merch,põngerjas,nouns,1.1
+2672,annibynadwy,kaudne,adjectives,1.0
+2673,yn angheuol,õnnelikult,adverbs,0.05
+2674,eira,jää,nouns,2.9
+2675,drwg,valelik,adjectives,2.05
+2676,lladrad,kuritegu,nouns,2.55
+2677,bwrw,karistama,verbs,1.4
+2678,tywydd,lumi,nouns,1.25
+2679,senedd,põhiseadus,nouns,0.95
+2680,gwybod,andma,verbs,0.0
+2681,mainc,tool,nouns,3.45
+2682,ymdrech,raskus,nouns,1.75
+2683,tagu,hingama,verbs,0.9
+2684,lleihau,kahanema,verbs,2.8
+2685,rhoi,ära tõukama,verbs,0.65
+2686,cludo,tõstma,verbs,1.15
+2687,popcorn,kino,nouns,0.9
+2688,seren,kabel,nouns,0.8
+2689,ffug,tehislik,adjectives,4.75
+2690,anfoesol,halb,adjectives,3.35
+2691,mêl,meierei,nouns,0.25
+2692,babi,täiskasvanu,nouns,0.55
+2693,cynffon,kauss,nouns,0.0
+2694,mawr,hiiglasuur,adjectives,3.75
+2695,gafael,kallistama,verbs,2.15
+2696,derbyn,võtma,verbs,1.95
+2697,cig,veiseliha,nouns,2.9
+2698,hyblyg,lahtine,adjectives,1.3
+2699,blodyn,uskumus,nouns,0.05
+2700,car,tehas,nouns,0.3
+2701,morwyn,abiline,nouns,2.25
+2702,yn gadarn,tihedalt,adverbs,1.6
+2703,archwilio,inspekteerima,verbs,2.85
+2704,am ddim,süütu,adjectives,0.55
+2705,main,kitsas,adjectives,3.2
+2706,derbyn,andma,verbs,0.45
+2707,cadair,voodi,nouns,0.75
+2708,pydru,hävitama,verbs,1.6
+2709,sesiwn,patsient,nouns,0.4
+2710,cig,peekon,nouns,2.8
+2711,yn aml,vahepeal,adverbs,0.55
+2712,esgeuluso,ära tõukama,verbs,1.0
+2713,yn dawel,passivselt,adverbs,1.2
+2714,tad,poeg,nouns,1.35
+2715,gofyn,ignoreerima,verbs,0.1
+2716,cig,steik,nouns,3.65
+2717,gwely,tuba,nouns,0.5
+2718,geneth,laps,nouns,1.45
+2719,polyn,lipp,nouns,1.1
+2720,gwallgof,õnnetu,adjectives,0.65
+2721,ffrind,külaline,nouns,1.3
+2722,disgyrchiant,meteoor,nouns,0.7
+2723,arloeswr,vibukütt,nouns,0.35
+2724,llaw,küüs,nouns,1.0
+2725,dilyniant,kaamera,nouns,0.05
+2726,reis,poiss,nouns,0.05
+2727,matrics,molekul,nouns,0.5
+2728,arfordir,rand,nouns,2.55
+2729,cyfraith,kool,nouns,0.35
+2730,ar unwaith,varsti,adverbs,2.2
+2731,traeth,meri,nouns,1.85
+2732,lledaenu,määrima,verbs,0.35
+2733,dechrau,minema,verbs,0.5
+2734,danfon,käivitama,verbs,0.75
+2735,trydanol,magus,adjectives,0.1
+2736,gwerthu,minema,verbs,0.15
+2737,gwasgu,vabastama,verbs,0.25
+2738,claddu,surema,verbs,1.0
+2739,syniad,pilt,nouns,0.8
+2740,wal,dekoratsioon,nouns,0.65
+2741,mynach,rist,nouns,0.8
+2742,yn amlwg,kindlalt,adverbs,2.65
+2743,rhannu,lisama,verbs,0.2
+2744,cydymaith,armastaja,nouns,2.85
+2745,cwningen,kass,nouns,1.0
+2746,llygoden,juhtkond,nouns,0.0
+2747,balch,kurb,adjectives,0.1
+2748,cymeryd,saama,verbs,3.6
+2749,dillad isaf,keha,nouns,0.5
+2750,yn bennaf,sügavalt,adverbs,0.5
+2751,deilen,puu,nouns,1.3
+2752,yn bwysig,tõesti,adverbs,0.85
+2753,car,lift,nouns,0.45
+2754,dadlau,kaebama,verbs,1.1
+2755,meddwl,mäletama,verbs,1.35
+2756,salad,äädikas,nouns,0.45
+2757,dyrchafu,propageerima,verbs,2.5
+2758,dŵr,sool,nouns,0.55
+2759,cynilwr,kokkuhoid,nouns,2.05
+2760,crwydro,otsima,verbs,1.75
+2761,angen,korraldama,verbs,0.35
+2762,heno,täna,adverbs,2.05
+2763,sgwâr,kaart,nouns,0.3
+2764,pen,tähestik,nouns,0.3
+2765,dianc,pagema,verbs,5.25
+2766,gwybodaeth,entroopia,nouns,0.85
+2767,cul,peenike,adjectives,3.2
+2768,yn fanwl gywir,vale,adjectives,0.3
+2769,prynu,saama,verbs,1.4
+2770,niwroseicoleg,parapsühholoogia,nouns,1.65
+2771,yn fras,kannatamatult,adverbs,0.4
+2772,tyfu,laiendama,verbs,3.8
+2773,soffistigedig,küps,adjectives,1.7
+2774,amhosib,teostatav,adjectives,0.65
+2775,pastai,šokolaad,nouns,0.55
+2776,allwedd,kroon,nouns,0.45
+2777,galaeth,astronoom,nouns,0.75
+2778,cadair,pink,nouns,3.45
+2779,yn feddal,tugevalt,adverbs,0.5
+2780,hawdd,suur,adjectives,0.1
+2781,swydd,ülesanne,nouns,3.15
+2782,byw,ellu jääma,verbs,2.85
+2783,yn wahanol,imelikult,adverbs,2.0
+2784,annog,heidutama,verbs,0.05
+2785,brenhiniaeth,demokraatia,nouns,0.75
+2786,pobl,relv,nouns,0.1
+2787,gadael,ühinema,verbs,0.2
+2788,carbon,aatom,nouns,1.0
+2789,cynnig,panus,nouns,1.9
+2790,cloch,uks,nouns,0.4
+2791,syniad,skeem,nouns,2.15
+2792,afu,kops,nouns,1.0
+2793,gwybod,hoomama,verbs,2.7
+2794,dec,põrand,nouns,1.55
+2795,awyrennu,lend,nouns,2.45
+2796,alcohol,viski,nouns,2.35
+2797,brwnt,kleepuv,adjectives,1.3
+2798,sigarét,tubakas,nouns,2.9
+2799,trafod syniadau,teleskoop,nouns,0.0
+2800,lleuad,planeet,nouns,2.05
+2801,mwynhau,vihkama,verbs,0.05
+2802,gwlyb,kleepuv,adjectives,1.05
+2803,blwch,allikas,nouns,0.0
+2804,atgoffa,ütlema,verbs,1.15
+2805,stumog,suund,nouns,0.05
+2806,wisgi,alkohol,nouns,2.35
+2807,yn ochelgar,tähelepanelikult,adverbs,3.65
+2808,cwrs,tegu,nouns,0.65
+2809,arwydd,sümbol,nouns,4.55
+2810,crwydro,lahkuma,verbs,0.85
+2811,archwilio,ignoreerima,verbs,0.1
+2812,pêl,korv,nouns,0.45
+2813,reidio,segama,verbs,0.1
+2814,bacwn,liha,nouns,2.8
+2815,gŵr,abikaasa (naine),nouns,2.7
+2816,economi,ökosüsteem,nouns,0.65
+2817,yn aeddfed,õiglaselt,adverbs,0.7
+2818,caffael,varastama,verbs,0.75
+2819,dweud celwydd,süüdistama,verbs,0.55
+2820,eginblanhigyn,leht,nouns,1.05
+2821,dadlau,nõustuma,verbs,0.4
+2822,llwm,nüri,adjectives,2.7
+2823,cadair,taburet,nouns,3.45
+2824,penwythnos,nädal,nouns,1.5
+2825,asid,alus,nouns,0.5
+2826,dinistr,ehitamine,nouns,0.5
+2827,hawdd,lihtne,adjectives,3.75
+2828,ufuddhau,käituma,verbs,1.3
+2829,galaeth,rakendus,nouns,0.1
+2830,hurt,intelligentne,adjectives,0.35
+2831,cyfoeth,prestiiž,nouns,0.75
+2832,mynd,müüma,verbs,0.15
+2833,yn oddefol,aktiivselt,adverbs,0.2
+2834,crwydro,rändama,verbs,3.65
+2835,anhrefn,anarhia,nouns,3.65
+2836,rhythm,aritmeetika,nouns,0.65
+2837,diogel,tüütu,adjectives,0.25
+2838,atodi,ühinema,verbs,0.9
+2839,afu,organ,nouns,1.9
+2840,yn oddefol,vaikselt,adverbs,1.2
+2841,rhyfelgarwch,lahing,nouns,1.75
+2842,bwlb,lill,nouns,0.65
+2843,stopio,sõitma,verbs,0.35
+2844,sinematograffeg,režissöör,nouns,1.15
+2845,buan,kiire,adjectives,3.65
+2846,fflora,loodus,nouns,2.35
+2847,cerddorfa,bänd,nouns,3.2
+2848,tad,ema,nouns,1.35
+2849,gwraig,auk,nouns,0.05
+2850,cipio,püüdma,verbs,3.8
+2851,yn anghywir,täpselt,adverbs,0.25
+2852,cyfaill,kaaslane,nouns,4.25
+2853,syniad,arvamus,nouns,2.65
+2854,asgwrn,käsi,nouns,1.45
+2855,chwalu,purustama,verbs,4.0
+2856,bioleg,anatoomia,nouns,2.4
+2857,ale,tänav,nouns,3.3
+2858,bachgen,poeg,nouns,3.3
+2859,tywysog,kuningas,nouns,1.5
+2860,llawr,lagi,nouns,0.65
+2861,crëwr,valmistaja,nouns,4.45
+2862,dadlau,osalema,verbs,0.1
+2863,rhagolwg,pilvkate,nouns,0.5
+2864,gogledd,lääs,nouns,1.05
+2865,afal,päikesepaiste,nouns,0.2
+2866,tudalen,sõna,nouns,0.75
+2867,gwan,vürtsine,adjectives,0.0
+2868,hofrennydd,lennuk,nouns,2.55
+2869,twrci,lind,nouns,2.45
+2870,oedolyn,eestkostja,nouns,1.85
+2871,deall,teadma,verbs,2.85
+2872,y rhan fwyaf,põhiliselt,adverbs,3.45
+2873,yn hapus,surmavalt,adverbs,0.05
+2874,camera,lääts,nouns,1.65
+2875,wythnosol,igakuine,adjectives,1.05
+2876,anghofio,andestama,verbs,0.95
+2877,newydd,värske,adjectives,4.0
+2878,dychmygu,looma,verbs,1.25
+2879,athro,õpilane,nouns,1.0
+2880,yn agored,massiivselt,adverbs,0.45
+2881,oer,tavaline,adjectives,0.2
+2882,offeiriad,munk,nouns,2.0
+2883,arllwys,tilkuma,verbs,1.7
+2884,poeni,raiskama,verbs,0.15
+2885,marwolaeth,matmine,nouns,1.55
+2886,cadw,säilitama,verbs,4.25
+2887,senoffobia,rassism,nouns,3.5
+2888,da,tuntud,adjectives,0.3
+2889,darganfod,pärinema,verbs,0.4
+2890,diplomyddiaeth,läbirääkimine,nouns,2.85
+2891,metr,toll,nouns,1.3
+2892,cegin,vannituba,nouns,1.1
+2893,cymeriad,inimene,nouns,2.8
+2894,creigres,rand,nouns,0.8
+2895,artist,kunstiteos,nouns,1.4
+2896,ysgyfaint,maks,nouns,1.0
+2897,drws,ukseava,nouns,3.55
+2898,castell,sein,nouns,1.1
+2899,eang,värske,adjectives,0.1
+2900,darlun,vill,nouns,0.05
+2901,moleciwl,maatriks,nouns,0.5
+2902,cyfreithlon,ebaseaduslik,adjectives,0.4
+2903,person,loom,nouns,0.85
+2904,dyn,partner,nouns,1.45
+2905,byddin,merevägi,nouns,3.2
+2906,dillad,riie,nouns,1.9
+2907,boch,keel,nouns,0.85
+2908,gwirio,õigustama,verbs,1.05
+2909,gwaith llaw,traditsioon,nouns,0.75
+2910,ffôn,mobiiltelefon,nouns,4.25
+2911,yn gynnil,valjult,adverbs,0.0
+2912,banc,iste,nouns,0.25
+2913,olew,naarits,nouns,0.2
+2914,hir,lühike,adjectives,0.3
+2915,llo,pull,nouns,1.65
+2916,anghofio,ignoreerima,verbs,1.3
+2917,sudd,õun,nouns,1.3
+2918,gwn,kahur,nouns,2.35
+2919,machlud haul,keel,nouns,0.05
+2920,ynys,ülesanne,nouns,0.0
+2921,emosiwn,kirg,nouns,3.9
+2922,archwilio,uurima,verbs,3.3
+2923,biolegydd,mikroskoop,nouns,1.0
+2924,brawychus,halb,adjectives,1.5
+2925,byr,pikk,adjectives,0.3
+2926,diog,kallis,adjectives,0.15
+2927,hurt,rumal,adjectives,4.75
+2928,cardbord,paber,nouns,2.55
+2929,dosbarthu,kandma,verbs,2.3
+2930,tristwch,rõõm,nouns,0.7
+2931,amsugno,omama,verbs,0.6
+2932,dyweddïo,abielluma,verbs,1.3
+2933,cyfreithiwr,prokurör,nouns,2.3
+2934,offeryn,viiul,nouns,2.4
+2935,gêm,lõbu,nouns,1.65
+2936,sleid,osuti,nouns,0.05
+2937,troseddu,tüütama,verbs,0.6
+2938,moleciwl,aatom,nouns,1.65
+2939,bowlen,põiktänav,nouns,0.0
+2940,erlynydd,advokaat,nouns,2.3
+2941,pwnc,raamat,nouns,0.75
+2942,ffynnu,proovima,verbs,1.0
+2943,balŵn,vann,nouns,0.1
+2944,urddas,tunnus,nouns,0.05
+2945,car,näidik,nouns,0.65
+2946,trefnus,sassis,adjectives,0.3
+2947,gwely,tool,nouns,0.75
+2948,anghefnogi,nurjuma,verbs,0.8
+2949,rhadlon,kena,adjectives,2.05
+2950,duw,saak,nouns,0.1
+2951,beiddgar,uhke,adjectives,1.45
+2952,oedolyn,vanem,nouns,2.55
+2953,democratiaeth,monarhia,nouns,0.75
+2954,machlud haul,õhtu,nouns,2.55
+2955,dyffryn,kanjon,nouns,3.35
+2956,llyfr nodiadau,sülearvuti,nouns,0.8
+2957,anghywir,täpne,adjectives,0.3
+2958,tad,mees,nouns,2.0
+2959,myfyriwr,õpilane,nouns,4.3
+2960,nerfus,hirmunud,adjectives,2.85
+2961,nerf,aju,nouns,1.35
+2962,yn anhygoel,hämmastavalt,adverbs,4.25
+2963,diddanu,heameelt tegema,verbs,2.2
+2964,yn weithredol,täpselt,adverbs,0.65
+2965,anghyfrifol,ebaküps,adjectives,2.25
+2966,cab,buss,nouns,1.2
+2967,cyntedd,koridor,nouns,4.15
+2968,anghyfreithlon,seaduslik,adjectives,0.4
+2969,ymddangos,osalema,verbs,0.95
+2970,nodyn,makse,nouns,0.7
+2971,nos,päev,nouns,0.65
+2972,cludo,kätte toimetama,verbs,2.3
+2973,allanfa,valimisõigus,nouns,0.2
+2974,pibell,aed,nouns,0.45
+2975,anwybyddu,avastama,verbs,0.1
+2976,asgwrn cefn,keha,nouns,1.1
+2977,pryd bwyd,vöökoht,nouns,0.15
+2978,ymuno,abielluma,verbs,2.25
+2979,car,maantee,nouns,0.95
+2980,troi allan,lahkuma,verbs,0.7
+2981,gwael,uhke,adjectives,0.35
+2982,terfyn,piir,nouns,3.75
+2983,troi allan,vabastama,verbs,0.7
+2984,hen,segatud,adjectives,0.2
+2985,cot,müts,nouns,0.95
+2986,chwydu,sulgema,verbs,0.0
+2987,doler,miljonär,nouns,0.8
+2988,arbennig,väärtuslik,adjectives,2.45
+2989,trefnu,vajama,verbs,0.35
+2990,casglu,otsustama,verbs,1.0
+2991,fflat,maja,nouns,2.05
+2992,cath,lemmikloom,nouns,2.5
+2993,gwerthu,meenutama,verbs,0.0
+2994,diniwed,vaba,adjectives,0.55
+2995,nerf,keha,nouns,0.5
+2996,eisiau,laenama,verbs,0.4
+2997,yn amlwg,diskreetselt,adverbs,0.25
+2998,yn gyfforddus,kergelt,adverbs,1.3
+2999,cwtsh,kallistama,verbs,4.1
+3000,cyfathrebu,televisioon,nouns,1.55
+3001,trwyn,pea,nouns,0.85
+3002,braf,seltskondlik,adjectives,2.05
+3003,cadw,unustama,verbs,0.3
+3004,curo,piitsutama,verbs,2.4
+3005,anodd,kerge,adjectives,0.3
+3006,dathlu,üllatama,verbs,0.35
+3007,rhesymeg,intelligentsus,nouns,2.15
+3008,yn ffyddlon,ausalt,adverbs,2.55
+3009,bysellfwrdd,valgus,nouns,0.1
+3010,trwyn,kõri,nouns,0.85
+3011,llawysgrif,raamat,nouns,2.1
+3012,jin,alkohol,nouns,2.1
+3013,mefus,kirss,nouns,1.15
+3014,balchder,rõõm,nouns,1.55
+3015,cadair,teleskoop,nouns,0.0
+3016,aur,tsink,nouns,0.8
+3017,modfedd,jard,nouns,1.1
+3018,awyrgylch,osoon,nouns,1.95
+3019,adfer,vahetama,verbs,0.35
+3020,pledio,paluma,verbs,4.1
+3021,mynd  ,tulema,verbs,0.7
+3022,tagu,tapma,verbs,2.0
+3023,yn beryglus,ettevaatlikult,adverbs,0.25
+3024,harddwch,sonett,nouns,0.5
+3025,dyn,valvur,nouns,0.95
+3026,dod yn,ilmuma,verbs,1.0
+3027,cemeg,teooria,nouns,0.55
+3028,awyren,lennujaam,nouns,1.65
+3029,yn debygol,võimalikult,adverbs,1.95
+3030,dysgu,hindama,verbs,0.75
+3031,amherchnogi,andma,verbs,0.65
+3032,deintydd,ortodont,nouns,4.35
+3033,pili-pala,roos,nouns,0.4
+3034,noswaith,päikeseloojang,nouns,2.55
+3035,dod â,tulema,verbs,1.45
+3036,brawd,hing,nouns,0.3
+3037,mawr,ruumikas,adjectives,4.0
+3038,hynafol,uus,adjectives,0.2
+3039,plesio,meelt lahutama,verbs,2.2
+3040,nos,peatükk,nouns,0.05
+3041,argymell,vastu võtma,verbs,0.45
+3042,rhoi,lubama,verbs,1.75
+3043,stori,raamat,nouns,2.05
+3044,hyfryd,rõõmsameelne,adjectives,3.1
+3045,lleihau,laskuma,verbs,0.9
+3046,cwpan,torbik,nouns,0.35
+3047,brawd,õde,nouns,1.5
+3048,alwminiwm,metall,nouns,2.8
+3049,gweithiwr,tööandja,nouns,1.0
+3050,anniben,kole,adjectives,1.4
+3051,traeth,kallas,nouns,4.35
+3052,soffa,pesapall,nouns,0.1
+3053,brechdan,liha,nouns,0.65
+3054,sbeislyd,hea,adjectives,0.55
+3055,llwyddo,saavutama,verbs,4.3
+3056,myfyriwr,professor,nouns,1.0
+3057,pechadur,pühak,nouns,0.75
+3058,neuadd,vahekäik,nouns,0.6
+3059,priffordd,tee,nouns,4.15
+3060,hanfodol,oluline,adjectives,4.0
+3061,angau,tragöödia,nouns,1.55
+3062,trwm,suur,adjectives,1.55
+3063,iâ,lumi,nouns,2.9
+3064,ffêr,küünarnukk,nouns,1.0
+3065,dringo,matkama,verbs,2.35
+3066,troed,baas,nouns,0.85
+3067,argraffu,ignoreerima,verbs,0.0
+3068,ardal,tsoon,nouns,4.95
+3069,drws,köök,nouns,0.35
+3070,parth,ala,nouns,4.95
+3071,yn ddwfn,enamasti,adverbs,0.5
+3072,glaw,uduvihm,nouns,3.9
+3073,sychder,vesi,nouns,0.35
+3074,yn syth,ükskord,adverbs,0.6
+3075,llenyddiaeth,sõna,nouns,1.45
+3076,cyfarfod,jätma,verbs,0.05
+3077,ynys,printsess,nouns,0.0
+3078,ceg,nina,nouns,0.95
+3079,pledio,heameelt tegema,verbs,0.1
+3080,yfory,täna õhtul,adverbs,0.35
+3081,cael,võtma,verbs,1.7
+3082,athro,üliõpilane,nouns,1.0
+3083,adeiladu,hävitama,verbs,0.1
+3084,cynllwyniwr,strateeg,nouns,3.4
+3085,ciwb,täring,nouns,2.6
+3086,cymysgu,kloppima,verbs,1.4
+3087,allanfa,ukseava,nouns,2.65
+3088,drws,kelder,nouns,0.6
+3089,radical,vägivaldne,adjectives,1.2
+3090,pumed,parim,adjectives,0.35
+3091,coflaid,kaisutama,verbs,4.1
+3092,atom,süsinik,nouns,1.0
+3093,cwch,tekk,nouns,0.9
+3094,biotop,bioloogia,nouns,0.85
+3095,cael,panema,verbs,0.25
+3096,taith,vallutus,nouns,0.7
+3097,cynnyrch llaeth,mesi,nouns,0.25
+3098,ymosod,välja vihastama,verbs,0.75
+3099,gofyn,anuma,verbs,2.45
+3100,duw,hing,nouns,1.05
+3101,parêd,orkester,nouns,0.9
+3102,metel,tina,nouns,2.7
+3103,dyn,abikaasa (mees),nouns,3.8
+3104,emosiwn,meeleolu,nouns,3.1
+3105,tŷ,vaip,nouns,0.45
+3106,corwynt,torm,nouns,3.45
+3107,hawdd,kange,adjectives,0.05
+3108,amddiffyn,kaitsma,verbs,4.45
+3109,cyfreithiwr,galerii,nouns,0.0
+3110,bychanu,rahustama,verbs,0.0
+3111,cryf,uhke,adjectives,0.75
+3112,colli,lahutama,verbs,0.7
+3113,wedi tyfu,ebaküps,adjectives,0.25
+3114,cyfuniad,liit,nouns,2.3
+3115,gwaith cartref,essee,nouns,1.85
+3116,baner,mast,nouns,1.1
+3117,bach,hiiglasuur,adjectives,0.3
+3118,coflaid,lämmatama,verbs,0.45
+3119,thema,raamat,nouns,0.5
+3120,rhith,reaalsus,nouns,0.6
+3121,undeb,kombinatsioon,nouns,2.3
+3122,ymhel â rhywbeth,kaasa arvama,verbs,1.0
+3123,yn ddi-drefn,rahumeelselt,adverbs,0.25
+3124,ffres,vana,adjectives,0.1
+3125,lori,pakk,nouns,1.0
+3126,unig,vaene,adjectives,0.45
+3127,gwialen,kardin,nouns,0.15
+3128,pennu,prognoosima,verbs,1.35
+3129,yn bennaf,surmavalt,adverbs,0.4
+3130,amddiffyn,aitama,verbs,1.45
+3131,ongl,kurv,nouns,1.4
+3132,sinc,kuld,nouns,0.8
+3133,caniatáu,ümber lükkama,verbs,0.0
+3134,pensil,lugu,nouns,0.4
+3135,gwallgof,pöörane,adjectives,4.5
+3136,gên,luu,nouns,1.0
+3137,ofnadwy,suurepärane,adjectives,0.25
+3138,cynorthwyo,küsima,verbs,0.6
+3139,efallai,tõenäoliselt,adverbs,2.5
+3140,twll,kokkulepe,nouns,0.05
+3141,ffrind,õpetaja,nouns,0.9
+3142,dicter,tuju,nouns,1.55
+3143,ymddangos,lahkuma,verbs,0.25
+3144,rhoi,saama,verbs,0.35
+3145,gitâr,trumm,nouns,1.1
+3146,blodyn,kannike,nouns,1.75
+3147,chwilio,leidma,verbs,1.15
+3148,dwyn,võtma,verbs,2.2
+3149,yn ddymunol,lahkelt,adverbs,3.1
+3150,ysgubell,tolm,nouns,0.65
+3151,yn ddelfrydol,realistlikult,adverbs,0.9
+3152,apocalyps,tuli,nouns,0.75
+3153,tram,rong,nouns,2.5
+3154,braich,ranne,nouns,1.75
+3155,arian,sularaha,nouns,4.2
+3156,gwydr,kristall,nouns,2.2
+3157,methu,heidutama,verbs,0.8
+3158,arbediad,säästja,nouns,2.05
+3159,rhiant,täiskasvanu,nouns,2.55
+3160,casáu,nautima,verbs,0.05
+3161,balchder,vaene,adjectives,0.35
+3162,gwehyddu,liikuma,verbs,0.2
+3163,lleoli,leidma,verbs,2.1
+3164,benthyg,hoidma,verbs,0.35
+3165,enillydd,kandidaat,nouns,1.0
+3166,pont,auto,nouns,0.45
+3167,portreadu,otsustama,verbs,0.2
+3168,cul,lai,adjectives,0.3
+3169,anghofio,meelde tuletama,verbs,0.4
+3170,to,lagi,nouns,3.9
+3171,hapus,vihane,adjectives,0.2
+3172,dŵr,kroonimine,nouns,0.1
+3173,tywod,jalg,nouns,0.1
+3174,ci,kass,nouns,1.25
+3175,heno,homme,adverbs,0.35
+3176,mosäig,basiilika,nouns,0.7
+3177,cyflwr,olukord,nouns,3.05
+3178,cynnwys,kaasa lööma,verbs,1.0
+3179,mêl,suhkur,nouns,1.9
+3180,cymeradwyo,lubama,verbs,3.15
+3181,natur,floora,nouns,2.35
+3182,ochr,põhi,nouns,1.0
+3183,lladd,kaklema,verbs,0.95
+3184,penelin,luu,nouns,1.4
+3185,person dan amheuaeth,mees,nouns,0.8
+3186,modrwy,kihlus,nouns,1.4
+3187,jin,viski,nouns,1.75
+3188,cylchfordaith,pagas,nouns,0.45
+3189,llyfr,teema,nouns,0.63
+3190,taro,sihtima,verbs,1.55
+3191,yn swyddogol,tugevalt,adverbs,0.6
+3192,rhad,räpane,adjectives,0.65
+3193,llyn,pilv,nouns,0.35
+3194,eglwys gadeiriol,kirik,nouns,3.8
+3195,gwerddon,vabadus,nouns,0.7
+3196,dyn,sõber,nouns,1.25
+3197,perswadio,järgima,verbs,0.35
+3198,glaw,udu,nouns,2.2
+3199,ysgwyd,segama,verbs,2.05
+3200,gwych,imeline,adjectives,4.45
+3201,blaen,sõrm,nouns,0.7
+3202,yn negyddol,ebaloomulikult,adverbs,0.8
+3203,plymio,looma,verbs,0.15
+3204,miniog,leebe,adjectives,0.2
+3205,anonest,halb,adjectives,2.05
+3206,dianc,leidma,verbs,0.25
+3207,gêm,trikk,nouns,1.35
+3208,dweud celwydd,eitama,verbs,0.7
+3209,tybio,teesklema,verbs,0.85
+3210,beirniadol,ebaviisakas,adjectives,1.1
+3211,cyffes,eitamine,nouns,0.65
+3212,sgôr,tase,nouns,2.2
+3213,tristwch,häbi,nouns,1.25
+3214,ceffyl,koer,nouns,0.9
+3215,braich,luu,nouns,1.45
+3216,onest,valelik,adjectives,0.35
+3217,heb ei ddatgelu,avalik,adjectives,0.35
+3218,yn ddelfrydol,mehaaniliselt,adverbs,0.2
+3219,pelydr,päikesepaiste,nouns,1.9
+3220,neidio,aed,nouns,0.45
+3221,mynd i mewn,minema,verbs,1.65
+3222,canwr,näitleja,nouns,1.55
+3223,ras,nädalavahetus,nouns,0.0
+3224,egni,patarei,nouns,2.3
+3225,tribiwnlys,õiglus,nouns,1.3
+3226,gwellt,ülesanne,nouns,0.1
+3227,yn annaturiol,negatiivselt,adverbs,0.8
+3228,yn agored i niwed,kerge,adjectives,0.3
+3229,ceffyl,täkkvarss,nouns,3.55
+3230,chwaer,vend,nouns,1.5
+3231,arbed,vabastama,verbs,4.45
+3232,afal,komm,nouns,0.5
+3233,bustach,hobune,nouns,1.05
+3234,bys,varvas,nouns,0.7
+3235,stumog,veen,nouns,0.3
+3236,anhapus,pöörane,adjectives,0.65
+3237,gwraig,härrasmees,nouns,0.8
+3238,plisman,šerif,nouns,2.95
+3239,tatws,või,nouns,0.6
+3240,llifo,triivima,verbs,2.4
+3241,seiclon,taifuun,nouns,3.45
+3242,cydnabod,teavitama,verbs,1.0
+3243,siriol,rõõmustav,adjectives,3.1
+3244,methdaliad,läbikukkumine,nouns,1.3
+3245,tad,vanem,nouns,2.8
+3246,pen,õlg,nouns,1.0
+3247,anghefnogi,frustreerima,verbs,2.35
+3248,diogelu,turvama,verbs,4.45
+3249,hwyl,mäng,nouns,1.65
+3250,sugnwr gwaed,nahkhiir,nouns,1.0
+3251,ymgeisio,kavatsema,verbs,1.85
+3252,rhagorol,suurepärane,adjectives,4.9
+3253,cynffon,peatükk,nouns,0.05
+3254,angenrheidiol,ebavajalik,adjectives,0.25
+3255,seler,uks,nouns,0.6
+3256,ewyllys,kavatsus,nouns,2.95
+3257,pêl,kahur,nouns,1.0
+3258,annheg,julm,adjectives,2.0
+3259,dadelfennu,teguriteks lahutamine,nouns,1.2
+3260,nod,klubi,nouns,0.35
+3261,awdur,romaan,nouns,1.3
+3262,asgwrn,lõug,nouns,1.0
+3263,morthwyl,hambad,nouns,0.1
+3264,emyn,kõrs,nouns,0.0
+3265,pêl,kostüüm,nouns,0.75
+3266,môr,delta,nouns,1.1
+3267,yn gain,ilusti,adverbs,3.1
+3268,mynd  ,lubama,verbs,0.25
+3269,canwr,refrään,nouns,1.2
+3270,anodd,lihtne,adjectives,0.4
+3271,menyw,ülesanne,nouns,0.05
+3272,addurn,ümbrik,nouns,0.25
+3273,pen,küüs,nouns,0.3
+3274,baner,liputeadus,nouns,0.95
+3275,côr,kirik,nouns,1.1
+3276,hael,sõbralik,adjectives,2.25
+3277,ofnus,ebakindel,adjectives,2.3
+3278,glaswellt,juur,nouns,0.75
+3279,mygu,kallistama,verbs,0.45
+3280,ceirchen,põld,nouns,0.9
+3281,brifo ,kukkuma,verbs,1.55
+3282,serameg,pottsepatöö,nouns,3.7
+3283,pennod,osa,nouns,4.05
+3284,tric,relv,nouns,0.2
+3285,ennill,tegema,verbs,0.35
+3286,band,naps,nouns,0.3
+3287,dydd  ,hommik,nouns,1.4
+3288,troed,pea,nouns,0.65
+3289,arfordir,kahuripaat,nouns,0.4
+3290,goroesi,elama,verbs,2.85
+3291,tarw,vasikas,nouns,1.65
+3292,gwrtaith,kasv,nouns,1.1
+3293,prin,loll,adjectives,0.0
+3294,gwaethygu,ründama,verbs,0.75
+3295,car,autopasun,nouns,0.7
+3296,ale,kauss,nouns,0.0
+3297,trychineb,surm,nouns,1.7
+3298,yn naturiol,ebaloomulikult,adverbs,0.3
+3299,dyn,sõjamees,nouns,1.05
+3300,pêl-fas,korporatsioon,nouns,0.1
+3301,môr,ookean,nouns,3.55
+3302,bws,sõiduk,nouns,2.65
+3303,dod,tooma,verbs,1.45
+3304,mwnci,kampaania,nouns,0.05
+3305,rhadlon,sisenev,adjectives,0.35

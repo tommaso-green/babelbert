@@ -1,0 +1,3210 @@
+ID,CYM,HEB,PoS,score
+1,yn fuan,מיד,adverbs,1.95
+2,dadlau,להתווכח,verbs,3.0
+3,sero,אינסוף,nouns,0.6
+4,ffrind,חבר,nouns,5.25
+5,dod yn,להופיע,verbs,0.7
+6,harddwch,סונטה,nouns,0.35
+7,ffidil,גיטרה,nouns,1.5
+8,oedolyn,ילד,nouns,1.1
+9,carreg,עץ,nouns,0.45
+10,trafod,להסביר,verbs,1.45
+11,gwartheg,יוגורט,nouns,0.55
+12,yn hyfryd,באלגנטיות,adverbs,2.5
+13,awyren,סדין,nouns,0.0
+14,tad,גבר,nouns,2.45
+15,diffinio,להבהיר,verbs,2.8
+16,sgôr,שלב,nouns,1.65
+17,olew,מינק,nouns,0.15
+18,llenyddiaeth,ספר,nouns,2.1
+19,dinas,עיירה,nouns,2.9
+20,methu,לדכא,verbs,0.4
+21,cicio,לפגוע,verbs,1.5
+22,modern,עתיק,adjectives,0.5
+23,adeiladu,לחבר,verbs,1.7
+24,cynorthwyo,לבקש,verbs,1.05
+25,cymryd,לרכוש,verbs,1.25
+26,cred,פרח,nouns,0.0
+27,yn ystyrlon,במיוחד,adverbs,1.9
+28,canwr,מקהלה,nouns,1.35
+29,cul,לבן,adjectives,0.0
+30,cul,רחב,adjectives,0.55
+31,gradd,לימודים,nouns,1.2
+32,nerthol,חזק,adjectives,5.0
+33,diwydiant,עסק,nouns,1.95
+34,awyrennu,טיסה,nouns,3.0
+35,rhoi,להשאיל,verbs,1.75
+36,archeoleg,אנתרופולוגיה,nouns,1.75
+37,dod yn,לעשות,verbs,0.4
+38,trwyn,פה,nouns,0.9
+39,rhagolwg,מעונן,nouns,0.65
+40,diferu,לשפוך,verbs,2.35
+41,gwerddon,חופש,nouns,0.6
+42,injan,שסתום,nouns,2.15
+43,amherchnogi,לתת,verbs,0.95
+44,hapusrwydd,עצב,nouns,0.75
+45,cynddaredd,כעס,nouns,4.45
+46,band,ליקר,nouns,0.0
+47,euog,רע,adjectives,1.05
+48,hurt,עצום,adjectives,0.1
+49,niwl,ענן,nouns,2.85
+50,adeilad,חדר,nouns,1.25
+51,tric,משחק,nouns,1.25
+52,rhyddid,צנזורה,nouns,0.55
+53,gyrrwr,טייס,nouns,2.7
+54,baner,חקר דגלים,nouns,1.05
+55,ochr,תחתית,nouns,1.35
+56,blaengau,לשאוף,verbs,0.25
+57,cerddoriaeth,חליל,nouns,1.3
+58,cymysgu,לשתות,verbs,0.6
+59,corff,גב,nouns,1.15
+60,cinio,כריך,nouns,1.35
+61,tagu,להרוג,verbs,1.9
+62,poenus,מובך,adjectives,0.7
+63,cynghori,להציע,verbs,3.25
+64,dosbarth,מכללה,nouns,1.3
+65,drwm,גיטרה,nouns,1.55
+66,ceg,אף,nouns,0.9
+67,dwyn,לרכוש,verbs,1.2
+68,dinistrio,ליצור,verbs,0.55
+69,car,רחוב,nouns,0.9
+70,sbeislyd,טוב,adjectives,0.45
+71,awdur,קורא,nouns,0.8
+72,anwybodaeth,אינטליגנציה,nouns,0.5
+73,pwyll,דאגה,nouns,2.8
+74,aren,איבר,nouns,2.35
+75,pryd bwyd,מותן,nouns,0.4
+76,asgwrn,שריר,nouns,0.7
+77,gwrthod,לשקר,verbs,0.8
+78,dynion,אחוה,nouns,1.05
+79,osgoi,לדחות,verbs,1.05
+80,bol,כרס,nouns,4.45
+81,dyweddïad,פגישה,nouns,0.45
+82,cynhwysydd,עכבר,nouns,0.0
+83,cyfansoddwr,סופר,nouns,2.6
+84,glofa,סלע,nouns,0.95
+85,menyw,גבר,nouns,0.9
+86,wagen,כרכרה,nouns,3.85
+87,popcorn,קולנוע,nouns,0.85
+88,traeth,שונית,nouns,1.35
+89,afal,ממתק,nouns,0.75
+90,yn naturiol,בשקט,adverbs,0.3
+91,diflas,מלהיב,adjectives,0.5
+92,sillaf,למה,nouns,0.7
+93,sgrechian,לצרוח,verbs,4.1
+94,swyddog,סגן,nouns,1.6
+95,gorynys,אי,nouns,2.65
+96,rhewi,לרעוד,verbs,1.75
+97,gwin,ליקר,nouns,1.75
+98,aflonydd,צעיר,adjectives,0.35
+99,cig,סטייק,nouns,3.3
+100,dadlau,לדרוש,verbs,1.35
+101,athro,תלמיד,nouns,1.1
+102,yn realistig,באופן אידיאלי,adverbs,0.95
+103,yr un peth,דומה,adjectives,4.3
+104,tywynnu,לפזול,verbs,0.75
+105,pobl,סנט,nouns,0.65
+106,machlud haul,שולחן,nouns,0.0
+107,ysgubor,בית,nouns,0.85
+108,cath,ארנב,nouns,1.15
+109,yn feirniadol,בעצם,adverbs,0.0
+110,drysu,ללמוד,verbs,0.3
+111,yn wreiddiol,באופן יצירתי,adverbs,1.05
+112,gwaith llaw,מסורת,nouns,0.6
+113,gallu,כשירות,nouns,4.25
+114,dysgu,לאמוד,verbs,0.6
+115,gwrando,לציית,verbs,2.35
+116,dosbarthu,לקחת,verbs,0.65
+117,liberti,חרות,nouns,5.55
+118,ysgwydd,גוף,nouns,1.15
+119,yn feddal,בנחישות,adverbs,0.4
+120,planhigyn,חקלאות,nouns,1.15
+121,crosio,מדים,nouns,0.15
+122,pen,כתף,nouns,1.15
+123,deallusrwydd,תובנה,nouns,2.4
+124,casglu,להגיע,verbs,0.95
+125,gŵr,גבר,nouns,3.5
+126,bagiau,הקפת כדור הארץ,nouns,0.1
+127,buwch,עז,nouns,1.45
+128,yn annaturiol,בטבעיות,adverbs,0.5
+129,ymofyn,לחפש,verbs,0.8
+130,disgleirio,לזהור,verbs,4.45
+131,stori,שיר,nouns,1.55
+132,gwn,סמל,nouns,0.45
+133,cwmni,עסק,nouns,3.6
+134,gwydn,קל,adjectives,0.5
+135,digwyddiad,התרמה,nouns,1.75
+136,dyn,חשוד,nouns,0.75
+137,tarth,ענן,nouns,2.4
+138,ailgynhesu,חימום מראש,nouns,2.9
+139,siriol,מהנה,adjectives,3.35
+140,diddanu,לרצות,verbs,1.3
+141,beic,חדר שינה,nouns,0.15
+142,siriol,שמח,adjectives,5.25
+143,mynd  ,לאפשר,verbs,0.05
+144,sarsiant,אקדח,nouns,0.45
+145,anrhagweledig,בלתי צפוי,adjectives,4.8
+146,nod,חיפוש,nouns,1.65
+147,dathliad,טקס,nouns,2.65
+148,pêl,תותח,nouns,0.8
+149,nos,שחר,nouns,0.9
+150,sgil,אינטליגנציה,nouns,1.65
+151,yn annhebygol,באופן ידידותי,adverbs,0.0
+152,wedi blino,רעב,adjectives,0.55
+153,tribiwnlys,צדק,nouns,1.5
+154,argyhoeddi,להתווכח,verbs,1.05
+155,cyfamod,הסכם,nouns,5.25
+156,aeddfed,מתוחכם,adjectives,1.65
+157,gwraig,אמבטיה,nouns,0.05
+158,anghwrtais,ביקורתי,adjectives,1.0
+159,cleddyf,כס,nouns,0.65
+160,miniog,קהה,adjectives,0.9
+161,awdur,יוצר,nouns,3.5
+162,coctel,אלכוהול,nouns,2.1
+163,prif air,תחביר,nouns,0.6
+164,cinio,מרק,nouns,1.55
+165,stopio,לשרוק,verbs,0.15
+166,dannedd,פטיש,nouns,0.0
+167,hawdd,גמיש,adjectives,1.25
+168,modfedd,מטר,nouns,1.45
+169,yn oddefol,באופן אמין,adverbs,0.6
+170,cymysg,ישן,adjectives,0.1
+171,cyfreithiwr,תובע,nouns,2.65
+172,yn gyfrifol,באופן עצמאי,adverbs,0.8
+173,cytuno,לחלוק,verbs,0.55
+174,cofleidio,למחוץ,verbs,1.55
+175,diplomyddiaeth,הדיינות,nouns,2.1
+176,cyllell,אקדח,nouns,1.25
+177,blodyn,שיח,nouns,1.75
+178,llun,מהומה,nouns,0.1
+179,gadael,להגיע,verbs,0.5
+180,brifo,להעציב,verbs,0.6
+181,pêl-droed,כיף,nouns,0.55
+182,buan,זריז,adjectives,4.65
+183,casglu,לשמור,verbs,1.9
+184,nofio,להיפגש,verbs,0.05
+185,jar,כוס,nouns,1.7
+186,oer,רגיל,adjectives,0.2
+187,pont,קלף,nouns,0.7
+188,hyblyg,קל,adjectives,1.25
+189,artist,יצירה,nouns,1.4
+190,gwenynen,נמלה,nouns,1.25
+191,sleid,מצביע,nouns,0.2
+192,cystadlu,לסיים,verbs,0.1
+193,cwrw,אלכוהול,nouns,2.5
+194,cyfreithiol,בטוח,adjectives,0.9
+195,bychanu,לנחם,verbs,0.35
+196,ufuddhau,להתנהג,verbs,1.6
+197,dewis,דעה,nouns,1.2
+198,ynys,חצי אי,nouns,2.65
+199,pêl-foli,כדור,nouns,2.3
+200,swydd,הנהלה,nouns,0.8
+201,troed,חול,nouns,0.3
+202,sychedig,רעב,adjectives,1.55
+203,gwisgedig,מכוסה,adjectives,2.3
+204,amddiffyn,לשמור,verbs,4.25
+205,ardderchog,רע,adjectives,0.3
+206,dyn,אישה,nouns,0.9
+207,eirfwrdd,סקי,nouns,2.3
+208,yn union,באופן לא מדויק,adverbs,0.5
+209,llonydd,ניטרלי,adjectives,1.3
+210,bwrw,להעניש,verbs,1.4
+211,cwmpawd,פיל,nouns,0.0
+212,dyn,לוחם,nouns,1.05
+213,arall,הפוך,adjectives,0.8
+214,graddio,לסיים,verbs,1.45
+215,de,צפון,nouns,1.15
+216,hyll,גס,adjectives,0.75
+217,cotwm,פוליאסטר,nouns,1.45
+218,benthyg,לשמור,verbs,0.65
+219,geiser,אביב,nouns,0.0
+220,bwlb,פרח,nouns,1.25
+221,hysbysu,להבריק,verbs,0.0
+222,ysgrifennydd,אישה,nouns,0.85
+223,ofnus,ביישן,adjectives,1.9
+224,balch,עצוב,adjectives,0.35
+225,ymosodol,חצוף,adjectives,1.1
+226,theatr,סוללה,nouns,0.0
+227,awyren,מסוק,nouns,2.95
+228,derbyn,לסלוח,verbs,1.25
+229,rhyddhau,ללחוץ,verbs,0.5
+230,proffwyd,כומר,nouns,1.6
+231,dal,לקבל,verbs,1.45
+232,hysteria,בלבול,nouns,1.55
+233,diflas,משמים,adjectives,3.35
+234,pobl,אוכלוסייה,nouns,2.7
+235,bwthyn,ביתן,nouns,3.6
+236,newynog,צמא,adjectives,1.55
+237,ci hela,שועל,nouns,1.35
+238,lluosi,לחלק,verbs,1.1
+239,blaengroen,ברית מילה,nouns,1.3
+240,aderyn,הודו,nouns,2.15
+241,beibl,המנון,nouns,0.5
+242,cario ,לקחת,verbs,1.3
+243,cyflymder,משרה,nouns,0.3
+244,prin,לעולם לא,adverbs,2.65
+245,anghytuno,לריב,verbs,1.2
+246,llwy,מיץ,nouns,0.3
+247,ceisio,להצליח,verbs,1.3
+248,ymgeisio,להתכוון,verbs,0.9
+249,hydwyll,טיפשי,adjectives,1.6
+250,wedi ymlacio,לחוץ,adjectives,0.5
+251,ffôn symudol,טלפון,nouns,4.35
+252,cyfreithiwr,גלריה,nouns,0.0
+253,cardigan,חולצה,nouns,1.45
+254,methu,לסמוך,verbs,0.35
+255,gardd,צינור,nouns,0.6
+256,garw,נוקשה,adjectives,1.2
+257,gwely,חדר שינה,nouns,1.75
+258,bachgen,אח,nouns,2.1
+259,hapusrwydd,מזל,nouns,0.95
+260,beic,מכונית,nouns,1.45
+261,cwch,מנוע,nouns,1.05
+262,cliw,מילה,nouns,0.55
+263,cymryd,ללכוד,verbs,1.05
+264,angerdd,רגש,nouns,3.55
+265,dyweddïo,להתחתן,verbs,1.55
+266,boch,לשון,nouns,1.0
+267,telesgop,סיעור מוחות,nouns,0.0
+268,gwadu,לקבל,verbs,0.3
+269,telesgop,כיסא,nouns,0.15
+270,danfon,ללכת,verbs,0.9
+271,meddyg,מזג,nouns,0.0
+272,ystafell wely,בטן,nouns,0.05
+273,graff,תרשים,nouns,4.3
+274,arian,הון,nouns,3.7
+275,bara,קמח,nouns,1.25
+276,canol,ארוחה,nouns,0.4
+277,tywysoges,לחמניה,nouns,0.0
+278,oeraidd,שביר,adjectives,0.4
+279,gwych,מצוין,adjectives,5.25
+280,gwrando,לשמוע,verbs,3.4
+281,dychan,מיתוס,nouns,0.7
+282,gwleidydd,שוטר,nouns,0.45
+283,noswaith,דמדומים,nouns,3.55
+284,cyfnod,עשור,nouns,1.85
+285,cwpl,צמד,nouns,5.75
+286,plesio,לספק,verbs,3.25
+287,plât,קערה,nouns,2.05
+288,cyfiawnder,בית דין,nouns,1.5
+289,teledu,קולנוע,nouns,1.85
+290,yfed,לערבב,verbs,0.6
+291,cyffredin,מוזר,adjectives,0.5
+292,yn falch,בענווה,adverbs,0.55
+293,perlysieuyn,מריחואנה,nouns,2.45
+294,pwnc,סולמית,nouns,0.5
+295,glaw,ברד,nouns,2.35
+296,yn enfawr,בפתיחות,adverbs,0.6
+297,afal,לימון,nouns,1.65
+298,penderfynu,לחשוב,verbs,1.4
+299,cythruddo,לנחש,verbs,0.05
+300,naïf,תמים,adjectives,5.4
+301,gwydr,תג,nouns,0.2
+302,yn fras,בוודאי,adverbs,0.6
+303,iâr,הודו,nouns,1.8
+304,eliffant,מצפן,nouns,0.0
+305,esgob,ארכיבישוף,nouns,3.05
+306,finegr,סלט,nouns,0.75
+307,penderfynu,לתאר,verbs,0.2
+308,beichio,לבכות,verbs,4.3
+309,diemwnt,כסף,nouns,1.05
+310,gwraidd,דשא,nouns,0.85
+311,cyflwr,חוזה,nouns,0.7
+312,syml,קשה,adjectives,0.4
+313,gwych,נורא,adjectives,0.4
+314,yn ddiweddar,כרגע,adverbs,1.05
+315,mariwana,עשב,nouns,2.45
+316,derwen,מייפל,nouns,1.85
+317,nod,מנצח,nouns,0.55
+318,patholeg,המטולוגיה,nouns,1.95
+319,soffa,כיסא,nouns,2.45
+320,cynnig,תרומה,nouns,2.35
+321,rhyddid,חופש,nouns,5.55
+322,tasg,מטלה,nouns,5.15
+323,swper,ארוחת בוקר,nouns,1.75
+324,yn garedig,בעדינות,adverbs,0.55
+325,cyfuniad,איחוד,nouns,2.55
+326,brwydr,לוחמנות,nouns,2.55
+327,enaid,אח,nouns,0.1
+328,yn fras,באופן אמין,adverbs,0.2
+329,bachgen,שותף,nouns,0.55
+330,jar,בקבוק,nouns,2.8
+331,alaw,מוסיקה,nouns,3.35
+332,yma,עכשיו,adverbs,2.5
+333,cwyno,לטעון,verbs,1.5
+334,gwraig,אישה,nouns,4.85
+335,brandi,אלכוהול,nouns,2.4
+336,creulon,לא הוגן,adjectives,1.4
+337,ysgyfaint,כבד,nouns,1.15
+338,yn garedig,בצורה יפה,adverbs,3.35
+339,wal,מבצר,nouns,1.0
+340,yn onest,בכנות,adverbs,5.0
+341,gitâr,כינור,nouns,1.5
+342,myfyriwr,מורה,nouns,1.1
+343,derbyn,להסכים,verbs,3.6
+344,wal,לבנה,nouns,1.45
+345,ffon reoli,רדאר,nouns,0.15
+346,sinc,זהב,nouns,1.05
+347,synhwyrydd,רדיאטור,nouns,0.5
+348,deinosor,פיל,nouns,0.65
+349,heno,מחר,adverbs,0.75
+350,llaw,ציפורן,nouns,1.0
+351,yn garedig,בנדיבות,adverbs,2.7
+352,deallusrwydd,בורות,nouns,0.5
+353,sylfaen,חומצה,nouns,0.6
+354,lifft,תיבה,nouns,0.3
+355,gwythïen,בטן,nouns,0.55
+356,ychydig,בערך,adverbs,0.45
+357,digonedd,שפע,nouns,3.85
+358,yn ddiogel,בזהירות,adverbs,2.05
+359,glaw,טפטוף,nouns,3.45
+360,gwallgof,אומלל,adjectives,0.6
+361,syniad,תמונה,nouns,0.9
+362,hanesyddiaethwr,היסטוריון,nouns,3.0
+363,yn onest,לעולם לא,adverbs,0.0
+364,purdan,העולם הבא,nouns,1.9
+365,alwminiwm,בדיל,nouns,2.0
+366,digid,מספר,nouns,5.3
+367,mynychu,להתכנס,verbs,0.95
+368,yn ysgafn,בנדיבות,adverbs,0.55
+369,crefydd,חילוניות,nouns,1.2
+370,cenllysg,גשם,nouns,2.35
+371,senedd,חוקה,nouns,0.95
+372,bachgen,אורז,nouns,0.2
+373,cytuno,לרצות,verbs,0.85
+374,ysglyfaeth,אל,nouns,0.05
+375,ysbrydol,חסר גוף,adjectives,1.2
+376,grawnfwyd,חיטה,nouns,2.5
+377,tymor,חורף,nouns,2.05
+378,benthyg,לתת,verbs,1.75
+379,chwerthin,לגחך,verbs,4.6
+380,eisiau,לחשוק,verbs,4.35
+381,pobl,אקדח,nouns,0.35
+382,anghorfforol,רוחני,adjectives,1.2
+383,concwest,המנון,nouns,0.25
+384,paraseicoleg,נוירופסיכולוגיה,nouns,1.65
+385,gwerth,שיעור,nouns,1.7
+386,credu,לקבל,verbs,1.4
+387,dewis,וריד,nouns,0.0
+388,meddal,אלים,adjectives,0.35
+389,cnawd,דם,nouns,1.2
+390,ysgrifennu,לשרבט,verbs,3.0
+391,maddau,להבין,verbs,0.95
+392,mam,רעיה,nouns,2.15
+393,bwyd,תוכנית,nouns,0.3
+394,portreadu,להודיע,verbs,0.6
+395,awyren,שדה תעופה,nouns,1.65
+396,derbyn,להכחיש,verbs,0.3
+397,yn heddychlon,בהרס,adverbs,0.2
+398,craig,מכרה,nouns,0.95
+399,asetylocolin,איריס,nouns,0.35
+400,serameg,קדרות,nouns,3.9
+401,misol,שבועי,adjectives,1.25
+402,wythnos,סוף שבוע,nouns,1.65
+403,dosbarthu,לקבל,verbs,0.55
+404,dod i feddiant,להשיג,verbs,3.5
+405,yr wyddor,עט,nouns,0.4
+406,weithiau,בוודאי,adverbs,0.05
+407,log,עץ,nouns,2.55
+408,car,גשר,nouns,0.55
+409,crio,לצחוק,verbs,0.55
+410,caled,פשוט,adjectives,0.4
+411,aderyn,נץ,nouns,2.15
+412,mynd,להיכנס,verbs,1.3
+413,arnofio,לשיר,verbs,0.2
+414,pwrs,תיק,nouns,2.3
+415,ysbryd,אל,nouns,1.2
+416,pleserdaith,מסע,nouns,3.65
+417,ymuno,לרכוש,verbs,0.25
+418,brandi,יין,nouns,1.7
+419,dygnwch,פרח,nouns,0.1
+420,rhythm,חשבון,nouns,0.1
+421,mynachlog,מקלחת,nouns,0.0
+422,canlyn,לחקור,verbs,0.6
+423,dwywaith,פעם אחת,adverbs,1.15
+424,balchder,מסכן,adjectives,0.15
+425,casglu,לסדר,verbs,1.45
+426,ymarfer,לחזור,verbs,0.75
+427,amgylchedd,חרב,nouns,0.0
+428,yn sicr,לפעמים,adverbs,0.05
+429,sffer,כדור,nouns,3.4
+430,dadlau,להצדיק,verbs,1.1
+431,trist,נורא,adjectives,1.7
+432,cymryd,למסור,verbs,0.65
+433,gwn,תותח,nouns,2.45
+434,awyrgylch,זיהום,nouns,0.9
+435,ychwanegu,לבנות,verbs,1.7
+436,geiriadur,מילה,nouns,1.8
+437,ciledrych,לבהות,verbs,0.75
+438,da,חריף,adjectives,0.45
+439,balch ,חזק,adjectives,0.5
+440,clwstwr,קהל,nouns,2.65
+441,tatws,חמאה,nouns,0.6
+442,cadernid,כוח,nouns,4.55
+443,ar unwaith,בקרוב,adverbs,1.95
+444,chwalu,לרסק,verbs,4.25
+445,pren,קורה,nouns,2.55
+446,brechdan,בשר,nouns,0.7
+447,myfyrdod,תמונה,nouns,1.25
+448,ysgytlaeth,מיץ,nouns,1.55
+449,swil,מפוחד,adjectives,1.9
+450,apwyntiad,התחייבות,nouns,0.45
+451,athro,רב,nouns,2.55
+452,aur,אבץ,nouns,1.05
+453,perygl,איום,nouns,3.85
+454,wedi ei orchuddio,לבוש,adjectives,2.3
+455,heddwch,שמחה,nouns,0.9
+456,cenedlaethol,מוכר,adjectives,0.6
+457,edau,חוט,nouns,4.4
+458,yn anarferol,בדרך כלל,adverbs,0.6
+459,ffres,חדש,adjectives,3.75
+460,llesteirio,לדכא,verbs,2.4
+461,ffrind,אורח,nouns,1.35
+462,helmed,נשק,nouns,1.15
+463,awdur,כישרון,nouns,0.65
+464,angenrheidiol,חשוב,adjectives,3.25
+465,marw,לקבור,verbs,1.15
+466,ystafell,אמבטיה,nouns,0.85
+467,gweithiwr,משרד,nouns,0.95
+468,tuedd,דעה,nouns,2.6
+469,bygythiad,סכנה,nouns,3.85
+470,gwddf,זרוע,nouns,0.75
+471,haeddu,להשתכר,verbs,0.35
+472,gwartheg,פרה,nouns,3.4
+473,diangen,הכרחי,adjectives,0.55
+474,lwc,שמחה,nouns,0.95
+475,actor,זמר,nouns,1.45
+476,môr,אוקיינוס,nouns,3.75
+477,drws,חלון,nouns,1.15
+478,ymuno,לעזוב,verbs,0.55
+479,llythyr,פסקה,nouns,1.25
+480,hawdd,פשוט,adjectives,3.35
+481,anthropoleg,ארכיאולוגיה,nouns,1.75
+482,parasetamol,ברונכיטיס,nouns,0.8
+483,deallus,מטומטם,adjectives,0.45
+484,modryb,דוד,nouns,2.55
+485,llawr,דלת,nouns,0.55
+486,awyr,שמש,nouns,1.05
+487,trefnu,מבולגן,verbs,0.55
+488,tacsi,מונית,nouns,5.55
+489,corff,לבנים,nouns,0.3
+490,cael,לרכוש,verbs,3.5
+491,lindys,תולעת משי,nouns,2.25
+492,yn drist,רגשית,adverbs,1.5
+493,argymell,לייעץ,verbs,3.3
+494,wedi cyffroi,מבוהל,adjectives,1.6
+495,silff,הר,nouns,0.2
+496,danfon,להגיע,verbs,0.45
+497,cyhoeddus,פרטי,adjectives,0.55
+498,brawdgarwch,דלת,nouns,0.0
+499,gwyliadwraeth,חצאית,nouns,0.25
+500,yn gyfeillgar,לא סביר,adverbs,0.0
+501,arbennig,בעל ערך,adjectives,2.55
+502,yn iawn,בינוני,adjectives,1.7
+503,yn gyfan gwbl,באופן שולי,adverbs,0.45
+504,trwm,גדול,adjectives,1.25
+505,taro,לכוון,verbs,0.8
+506,dychmygu,להתחזות,verbs,1.45
+507,ofnadwy,מעולה,adjectives,0.4
+508,denu,להכות,verbs,0.45
+509,dewis,להצביע,verbs,3.55
+510,goddefol,אלים,adjectives,0.3
+511,caledwedd,מקרה,nouns,0.25
+512,angenrheidiol,מיותר,adjectives,0.55
+513,gwallgof,משוגע,adjectives,4.55
+514,cyfraith,לימודים,nouns,0.65
+515,gofyn,להתפלל,verbs,1.95
+516,piano,הרמוניה,nouns,1.0
+517,gynfad,חוף,nouns,0.65
+518,caffael,להצטרף,verbs,0.25
+519,deall,לקרוא,verbs,0.9
+520,gwn,שחר,nouns,0.0
+521,llygredd,נשיא,nouns,0.05
+522,gorffen,להתחרות,verbs,0.1
+523,saeth,מטרה,nouns,1.05
+524,cwningen,חתול,nouns,1.15
+525,yn aeddfed,בצדקנות,adverbs,0.55
+526,biolegydd,מיקרוסקופ,nouns,0.95
+527,glaswellt,להב,nouns,0.55
+528,ffraeo,לשכנע,verbs,1.05
+529,cotwm,סוודר,nouns,0.8
+530,esgeuluso,לנשל,verbs,0.65
+531,myffin,פטרוזיליה,nouns,0.45
+532,lleuad,פלנטה,nouns,2.1
+533,ymgeisydd,מנצח,nouns,1.0
+534,ongl,עקומה,nouns,2.0
+535,hawdd,פגיע,adjectives,0.15
+536,cymysgu,לצרף,verbs,3.85
+537,pennod,זנב,nouns,0.2
+538,corwynt,סערה,nouns,3.4
+539,modrwy,אירוסין,nouns,1.85
+540,gweiddi,להתווכח,verbs,1.9
+541,syml,קל,adjectives,3.35
+542,cymysgu,לבשל,verbs,1.15
+543,trydanol,מתוק,adjectives,0.0
+544,arferol,שונה,adjectives,0.8
+545,hyfryd,נפלא,adjectives,2.95
+546,yn sicr,בהחלט,adverbs,5.75
+547,bwystfil,חיה,nouns,3.15
+548,trên,חשמלית,nouns,2.7
+549,delta,ים,nouns,1.3
+550,pêl,תחפושת,nouns,0.25
+551,ymwrthod,לנשל,verbs,1.95
+552,anhygoel,מלוכלך,adjectives,0.15
+553,band,סבולת,nouns,0.1
+554,cerflunwaith,אנדרטה,nouns,4.6
+555,gwerthuso,ללמוד,verbs,0.6
+556,mynd i mewn,לעזוב,verbs,0.55
+557,addurn,קיר,nouns,0.5
+558,anifail anwes,חתול,nouns,2.7
+559,metel,פח,nouns,2.2
+560,wedi tyfu,ילדותי,adjectives,0.55
+561,pobl,דולר,nouns,0.05
+562,braich,רגל,nouns,1.3
+563,gweithiwr,מצלמה,nouns,0.1
+564,sigarét,טבק,nouns,2.3
+565,meddu ,לשמור,verbs,2.8
+566,mêr,דם,nouns,1.0
+567,ymuno,להוסיף,verbs,1.15
+568,damwain,ספר,nouns,0.0
+569,cymryd,לגנוב,verbs,2.35
+570,gwellt,משימה,nouns,0.0
+571,ffwr,אישה,nouns,0.25
+572,dydd  ,בוקר,nouns,1.55
+573,clywed,להבחין,verbs,0.95
+574,eang,גדול,adjectives,2.9
+575,priodol,רשמי,adjectives,1.0
+576,economi,מערכת אקולוגית,nouns,0.55
+577,hyfforddwyr,מדליה,nouns,0.65
+578,beiddgar,גאה,adjectives,0.9
+579,bach,עצום,adjectives,0.55
+580,dysgu,לבלבל,verbs,0.3
+581,o ychydig,לחלוטין,adverbs,0.45
+582,algebra,פעולה,nouns,0.7
+583,ystadegau,טניס,nouns,0.1
+584,wedi blino,משעמם,adjectives,0.85
+585,penderfynu,לשפוט,verbs,2.35
+586,gwm,מנטה,nouns,0.8
+587,glob,עולם,nouns,4.35
+588,stumog,וריד,nouns,0.55
+589,arholiad,סילבוס,nouns,0.7
+590,cwympo,למעוד,verbs,4.55
+591,diog,יקר ערך,adjectives,0.0
+592,athro,סטודנט,nouns,1.05
+593,yn wahanol,נורמלי,adjectives,0.8
+594,treisgar,רך,adjectives,0.35
+595,caseg,סוס,nouns,3.95
+596,hurt,אינטליגנטי,adjectives,0.45
+597,symudol,גמיש,adjectives,1.3
+598,angor,סירה,nouns,1.2
+599,hapus,עליז,adjectives,5.25
+600,tramorwr,מתרגם,nouns,0.45
+601,gorffwyll,מטורף,adjectives,4.55
+602,yn uchel,בעדינות,adverbs,0.2
+603,soned,יופי,nouns,0.35
+604,am ddim,תמים,adjectives,0.1
+605,maes awyr,חלק,nouns,0.1
+606,cymryd rhan,לשתף,verbs,1.65
+607,ewin,ראש,nouns,0.4
+608,byw,לשרוד,verbs,3.05
+609,ceffyl,סוסה,nouns,3.95
+610,anwybyddu,לעזוב,verbs,0.95
+611,nerth,יכולת,nouns,2.25
+612,yn drist,נורא,adverbs,0.6
+613,band,מצעד,nouns,1.4
+614,syth,מעוקל,adjectives,0.55
+615,chwydu,לסגור,verbs,0.05
+616,cyfeillgar,נדיר,adjectives,0.85
+617,yn onest,בנאמנות,adverbs,1.8
+618,nos,יום,nouns,0.6
+619,ffilm,ניהיליזם,nouns,0.15
+620,alcohol,ברנדי,nouns,2.4
+621,gwin,ברנדי,nouns,1.7
+622,cegin,אמבטיה,nouns,1.2
+623,bag,ארנק,nouns,2.3
+624,gogwyddo,להטות,verbs,3.85
+625,newyddiadur,כתבה,nouns,2.35
+626,rhesymeg,חשבון,nouns,1.05
+627,meddyg,אורתודונט,nouns,1.8
+628,plesio,להפציר,verbs,0.3
+629,cyfeiliornus,לא אמין,adjectives,1.6
+630,haearn,ויטמין,nouns,1.25
+631,braisg,גדול,adjectives,3.9
+632,nôl rhywbeth,לקנות,verbs,1.0
+633,ffôl,מטומטם,adjectives,4.65
+634,cyhuddo,לשפוט,verbs,2.6
+635,cul,דק,adjectives,3.35
+636,gadael,להופיע,verbs,0.35
+637,yn ddibynadwy,באופן אחראי,adverbs,3.2
+638,awdur,רומן,nouns,1.4
+639,ffroenell,נוזל,nouns,0.45
+640,arian cyfred,חליפין,nouns,1.0
+641,synnwyr,אינטואיציה,nouns,4.2
+642,cig,כריך,nouns,0.7
+643,anelu,להכות,verbs,0.8
+644,troi allan,להשאיר,verbs,0.7
+645,ton,מזג אוויר,nouns,0.3
+646,amlwg,חבוי,adjectives,0.5
+647,arloeswr,קשת,nouns,0.15
+648,anwybyddu,להימנע,verbs,2.4
+649,atwrnai,פרקליט,nouns,4.35
+650,canfod,לשמוע,verbs,0.95
+651,cloch,דלת,nouns,0.75
+652,tiwtora,לחנך,verbs,3.9
+653,maint,גודל,nouns,3.35
+654,coflaid,לחנוק,verbs,0.45
+655,danfon,להביא,verbs,1.15
+656,sylweddol,זעיר,adjectives,0.45
+657,llywodraeth,לטאה,nouns,0.05
+658,dweud yn gyhoeddus,להכריז,verbs,4.3
+659,concwest,קרב,nouns,2.2
+660,diymhongar,גמיש,adjectives,0.3
+661,beio,לדחוף,verbs,0.25
+662,llyfr,כתב יד,nouns,1.45
+663,llwyn,פרח,nouns,1.75
+664,cadw,להישאר,verbs,0.5
+665,brwnt,צר,adjectives,0.0
+666,gorllewin,צפון,nouns,1.5
+667,coch,כחול,adjectives,1.1
+668,ffrio,לבשל,verbs,2.05
+669,profocio,לפגוע,verbs,1.5
+670,traeth,ים,nouns,2.05
+671,seler,דלת,nouns,0.55
+672,gwirod,להקה,nouns,0.0
+673,iâr,ציפור,nouns,2.2
+674,benthyca,לתת,verbs,2.5
+675,cyfalaf,כסף,nouns,3.7
+676,plentyn,מבוגר,nouns,1.1
+677,ysbryd,מנורה,nouns,0.45
+678,addysgu,ללמד,verbs,3.9
+679,gwthio,למשוך,verbs,0.55
+680,yn bwysig,רשמית,adverbs,1.6
+681,aneglur,מעורפל,adjectives,4.15
+682,dur,סגסוגת,nouns,2.3
+683,haint,נטייה,nouns,0.05
+684,torri,להרוס,verbs,4.25
+685,hysbysu,לעדכן,verbs,4.6
+686,asteroid,כוכב,nouns,1.95
+687,cnoi,לקרוא,verbs,0.0
+688,persli,מאפין,nouns,0.45
+689,angenrheidiol,חיוני,adjectives,4.9
+690,stêc,עוף,nouns,1.45
+691,hynod,משונה,adjectives,3.55
+692,fflora,טבע,nouns,2.15
+693,dydd  ,שחר,nouns,1.6
+694,gwin,אלכוהול,nouns,2.1
+695,concwest,מסע,nouns,0.85
+696,cyflawni,לנצח,verbs,2.0
+697,amau,לעצור,verbs,0.45
+698,cân,מבצע,nouns,0.85
+699,damcaniaeth,תיאוריה,nouns,5.05
+700,ynys,חיל הים,nouns,0.3
+701,bàth,עץ,nouns,0.1
+702,reis,ילד,nouns,0.2
+703,bowlen,צלחת,nouns,2.05
+704,cyw iâr,סטייק,nouns,1.45
+705,gêm,כיף,nouns,1.25
+706,traddodiad,עבודת יד,nouns,0.6
+707,byth,לעיתים רחוקות,adverbs,2.65
+708,hyfforddwr,מורה,nouns,4.05
+709,digon,גודש,nouns,3.85
+710,taliad,מטבע,nouns,1.25
+711,targed,חץ,nouns,1.05
+712,machlud haul,זריחה,nouns,1.55
+713,cyflwr,ילד,nouns,0.0
+714,ffrio,לאפות,verbs,1.7
+715,urddas,סמל,nouns,0.65
+716,gadael,לעשות,verbs,0.35
+717,difeddiannu,להזניח,verbs,0.65
+718,herwgipio,לגנוב,verbs,2.8
+719,derbyn,להאמין,verbs,1.4
+720,diniwed,נאיבי,adjectives,5.4
+721,ymadael,להמתין,verbs,0.2
+722,braf,חברותי,adjectives,2.7
+723,tad,הורה,nouns,3.2
+724,drws,מטבח,nouns,0.55
+725,gwraig,קש,nouns,0.1
+726,pothell,הדגמה,nouns,0.0
+727,pryderus,עצבני,adjectives,0.75
+728,ysgoloriaeth,שכר לימוד,nouns,1.1
+729,partner,בחור,nouns,1.2
+730,yn ddiweddarach,לעולם לא,adverbs,0.45
+731,gwrthod,למנוע,verbs,1.05
+732,cwch,עץ,nouns,0.55
+733,hen,חדש,adjectives,0.5
+734,tŷ,אסם,nouns,0.85
+735,pâr,זוג,nouns,5.75
+736,blwch  ,כובע,nouns,0.05
+737,difetha,להריח,verbs,0.05
+738,dŵr,קרח,nouns,2.2
+739,clecian,לחרוק,verbs,0.8
+740,esgus,לדמיין,verbs,1.45
+741,cath,אריה,nouns,2.15
+742,creadigol,חדשני,adjectives,2.9
+743,rhyddid,נווה מדבר,nouns,0.6
+744,dŵr,בצורת,nouns,0.4
+745,tystio,לשפוט,verbs,0.9
+746,ecosystem,כלכלה,nouns,0.55
+747,cymysgu,להכות,verbs,0.6
+748,egluro,להבהיר,verbs,4.15
+749,mygu,לחבק,verbs,0.45
+750,dinistrio,להרוג,verbs,2.45
+751,dringo,לטייל,verbs,2.3
+752,dyddiad,יומן,nouns,1.85
+753,cymysgu,לרכב,verbs,0.4
+754,yn ffyddlon,בכנות,adverbs,1.8
+755,damwain,חירום,nouns,1.85
+756,erthygl,ספר,nouns,1.4
+757,enillydd,נוכחות,nouns,0.0
+758,llyfr,מידע,nouns,1.1
+759,dwys,קשה,adjectives,0.55
+760,cyfansoddiad,קיסר,nouns,0.35
+761,lliain,בד,nouns,2.05
+762,meddwl,להרהר,verbs,4.55
+763,enwaediad,עורלה,nouns,1.3
+764,tram,רכבת,nouns,2.7
+765,dod â,להתלונן,verbs,0.0
+766,gwyddoniaeth,פסיכולוגיה,nouns,1.85
+767,tywynnu,לזרוח,verbs,4.45
+768,yn rheolaidd,לעיתים,adverbs,1.05
+769,caniatáu,להפריך,verbs,0.1
+770,torf,מצעד,nouns,1.7
+771,gadael,לקחת,verbs,0.2
+772,ennill,להשיג,verbs,2.0
+773,cwmwl,חלון,nouns,0.3
+774,acwsteg,קול ,nouns,2.75
+775,diflas,מוגן,adjectives,0.1
+776,dychmygu,ליצור,verbs,1.2
+777,stryd,מכונית,nouns,0.9
+778,bywyd wedi marwolaeth,גיהנום,nouns,1.9
+779,brenin,נסיכה,nouns,1.45
+780,tramgwyddo,לדכא,verbs,0.85
+781,beddrod,קבר,nouns,1.25
+782,goleddfu,להסית,verbs,3.85
+783,magma,הר געש,nouns,1.85
+784,deigryn,עין,nouns,1.2
+785,hen,טרי,adjectives,0.5
+786,anifail,אדם,nouns,0.8
+787,ceg,שיניים,nouns,1.3
+788,cyrchwr,שבבים,nouns,0.15
+789,cymeryd,לקבל,verbs,3.6
+790,modfedd,יארד,nouns,1.55
+791,piston,מנוע,nouns,2.15
+792,yn ofalus,בזהירות,adverbs,3.4
+793,canon,כדור,nouns,0.8
+794,iâ,מים,nouns,2.2
+795,sobr,שיכור,adjectives,0.55
+796,anwybyddu,לחקור,verbs,0.3
+797,llym,אכזרי,adjectives,1.65
+798,mab,ילד,nouns,3.7
+799,erlynydd,עורך דין,nouns,2.65
+800,entropi,מידע,nouns,0.9
+801,crys,קרדיגן,nouns,1.45
+802,drwg  ,מצוין,adjectives,0.3
+803,peiriannydd,עובד,nouns,2.0
+804,barn,אמונה,nouns,4.15
+805,hashnod,נושא,nouns,0.5
+806,cwch,מכונית,nouns,1.2
+807,tasg,כביש,nouns,0.0
+808,byddin,צי,nouns,3.6
+809,yn gyfrinachgar,בנימוס,adverbs,0.1
+810,mab,אבא,nouns,1.45
+811,ystafell wely,אמבטיה,nouns,1.5
+812,pleidlais,יציאה,nouns,0.05
+813,rhosyn,פרפר,nouns,0.45
+814,yn gyfrifol,באופן אמין,adverbs,3.2
+815,actores,שחקן,nouns,3.7
+816,deall,להקשיב,verbs,1.45
+817,profi,להסביר,verbs,1.55
+818,ar hyn o bryd,בעדינות,adverbs,0.0
+819,seiclon,טייפון,nouns,4.15
+820,gallu,כוח,nouns,2.25
+821,gwych,מהנה,adjectives,2.95
+822,llymeitio,לבלוע,verbs,2.85
+823,pêl,כדורעף,nouns,2.3
+824,tarddu,לגלות,verbs,0.55
+825,erfyn,להפציר,verbs,4.3
+826,priodi,להתארס,verbs,1.55
+827,reis,שעועית,nouns,1.15
+828,madfall,נחש,nouns,1.65
+829,sgriptiwr,טלויזיה,nouns,0.8
+830,pobl,מסיבה,nouns,1.25
+831,wisgi,אלכוהול,nouns,2.25
+832,cath,חיית מחמד,nouns,2.7
+833,priffordd,כביש,nouns,4.15
+834,yn ochelgar,בקפידה,adverbs,3.4
+835,cerflunydd,אחוזה,nouns,0.4
+836,dewin,כבל,nouns,0.15
+837,twnnel,שביל,nouns,1.25
+838,afon,עמק,nouns,1.05
+839,post,מהירות,nouns,0.3
+840,dadlau,להתלונן,verbs,1.5
+841,bacwn,ארוחה,nouns,1.05
+842,chwilio,לשוטט,verbs,1.5
+843,priffordd,מכונית,nouns,1.1
+844,duw,כומר,nouns,1.05
+845,amwys,לא ברור,adjectives,4.15
+846,amhosib,אפשרי,adjectives,0.85
+847,yn hawdd,בנוחיות,adverbs,1.35
+848,tymer,דוקטור,nouns,0.0
+849,diflas,חד,adjectives,0.9
+850,yn hapus,נורא,adverbs,0.15
+851,theori,היפותזה,nouns,5.05
+852,gwneuthurio,לבנות,verbs,3.2
+853,pren,אבן,nouns,0.45
+854,bachgen,מצב,nouns,0.0
+855,camera,המשך,nouns,0.0
+856,campws,אוניברסיטה,nouns,1.8
+857,credu,לדעת,verbs,1.4
+858,perswadio,לרדוף,verbs,0.45
+859,siampên,וויסקי,nouns,1.75
+860,yn ddwfn,באופן משמעותי,adverbs,1.85
+861,anodd ei gael,מצומצם,adjectives,1.55
+862,chwedl,סאטירה,nouns,0.7
+863,trafodaeth,טיעון,nouns,2.7
+864,melys,חשמלי,adjectives,0.0
+865,hawdd,קשה,adjectives,0.5
+866,rhadlon,נכנס,adjectives,0.55
+867,halen,מים,nouns,0.75
+868,clwb,סימן,nouns,0.0
+869,hylif,זרבובית,nouns,0.45
+870,gosod mewn trefn,לארגן,verbs,5.4
+871,pen,אף,nouns,1.15
+872,yn ddiweddar,באופן מציאותי,adverbs,0.1
+873,troed,יד,nouns,0.85
+874,cerddoriaeth,מנגינה,nouns,3.35
+875,coridor,דלת,nouns,0.85
+876,busnes,חברה,nouns,3.6
+877,erfyn,להשאיל,verbs,0.35
+878,mynd  ,להגיע,verbs,1.05
+879,heulwen,תפוח,nouns,0.0
+880,llwybr,מנהרה,nouns,1.25
+881,brithyll,גיטרה,nouns,0.05
+882,ffuglen,ביוגרפיה,nouns,0.4
+883,rhesymol,פיכח,adjectives,1.75
+884,pry,דבורה,nouns,1.55
+885,sigâr,קופסה,nouns,0.35
+886,cryfder,עוצמה,nouns,4.55
+887,cracio,לשבור,verbs,3.1
+888,daeargryn,רעד,nouns,2.85
+889,gweithredu,אלגברה,nouns,0.7
+890,ffurfiol,ראוי,adjectives,1.0
+891,arbed,לטבוע,verbs,0.6
+892,ymddwyn,לציית,verbs,1.6
+893,ystafell ymolchi,מטבח,nouns,1.2
+894,cig,בקר,nouns,2.65
+895,gwn,פרווה,nouns,0.05
+896,cadw,לשכוח,verbs,0.45
+897,ysgwyd,לבחוש,verbs,2.15
+898,rheolaidd,בור,adjectives,0.05
+899,methdaliad,כישלון,nouns,1.15
+900,banciwr,פרקליט,nouns,1.0
+901,agwedd,אמון,nouns,0.95
+902,drwg,בינוני,adjectives,0.45
+903,cydnabod,לדבר,verbs,0.5
+904,wylo,לבכות,verbs,5.0
+905,gŵr,אישה,nouns,1.85
+906,bara,גבינה,nouns,0.85
+907,anarchiaeth,כאוס,nouns,4.4
+908,ethol,לבחור,verbs,3.55
+909,realiti,הזיה,nouns,0.95
+910,criced,אוהד,nouns,0.35
+911,yn bendant,בוודאי,adverbs,5.75
+912,caban,מחנה,nouns,1.1
+913,anonest,ישר,adjectives,0.55
+914,yn uchel,נורא,adverbs,0.1
+915,drud,ביישן,adjectives,0.05
+916,sudd,כף,nouns,0.3
+917,personol,פרטי,adjectives,4.45
+918,gwrthbrofi,להרשות,verbs,0.1
+919,car,מונית,nouns,3.4
+920,merch,אבא,nouns,1.1
+921,doniol,משעמם,adjectives,0.5
+922,sioe,מתמטיקאי,nouns,0.05
+923,ysbyty,מיטה,nouns,0.85
+924,rhannu,לכפול,verbs,1.1
+925,deintydd,קולונל,nouns,0.3
+926,yn gywir,נמרצות,adverbs,1.05
+927,cyn,אחרי,adverbs,0.55
+928,newyddion,רכילות,nouns,2.5
+929,fel arfer,באופן שגרתי,adverbs,4.15
+930,yn ofalus,בבטחה,adverbs,2.05
+931,stoc,נכס,nouns,3.2
+932,crochenwaith,קרמיקה,nouns,3.9
+933,teiffŵn,ציקלון,nouns,4.15
+934,drws,מסדרון,nouns,0.85
+935,person,חיה,nouns,0.8
+936,milwr,שלום,nouns,0.5
+937,cyhyrau,לשון,nouns,1.6
+938,calendr,חג,nouns,1.1
+939,lleihau,לרדת,verbs,1.05
+940,symudiad,פעילות,nouns,1.45
+941,ceffyl,שור,nouns,1.25
+942,pwnc,ספר,nouns,0.65
+943,datgan,להודיע,verbs,4.3
+944,rhyfedd,תמוה,adjectives,3.55
+945,ymchwilio,לבחון,verbs,3.5
+946,trin,לשלם,verbs,0.2
+947,menyw,רעיה,nouns,4.85
+948,cod,סמל,nouns,2.25
+949,llwy,כוס,nouns,1.25
+950,treth,הכנסה,nouns,0.9
+951,hyfryd,משמח,adjectives,3.35
+952,brysio,למהר,verbs,5.35
+953,drôr,בגדים,nouns,0.85
+954,sinema,אופרה,nouns,1.35
+955,dinistrio,להציל,verbs,0.35
+956,eglwys,מקהלה,nouns,1.05
+957,osgoi,להתעלם,verbs,2.4
+958,dodrefn,מיטה,nouns,1.95
+959,dwys,מטומטם,adjectives,0.1
+960,perfformiwr,שיר,nouns,0.85
+961,lladd,להילחם,verbs,0.95
+962,sgleinio,ליידע,verbs,0.0
+963,het,קופסה,nouns,0.05
+964,brechdan,ארוחה,nouns,1.35
+965,cot,כובע,nouns,1.0
+966,ffoi,לברוח,verbs,5.15
+967,calendr,תאריך,nouns,1.85
+968,cred,דעה,nouns,4.15
+969,negyddol,לעולם לא,adjectives,1.1
+970,rhesymeg,אינטליגנציה,nouns,2.35
+971,arwyddluniau,כבוד,nouns,0.65
+972,alltud,חייזר,nouns,2.9
+973,tristwch,בושה,nouns,1.2
+974,yn gadarn,בחוזקה,adverbs,1.7
+975,cred,תפיסה,nouns,3.65
+976,chwedl,מוסר,nouns,0.35
+977,dynwared,ללכוד,verbs,0.15
+978,apocalyps,שריפה,nouns,0.85
+979,stori,עפרון,nouns,0.45
+980,siwmper,כותנה,nouns,0.8
+981,yn sicr,ברור,adverbs,2.85
+982,lleng,צבא,nouns,3.2
+983,cab,אוטובוס,nouns,1.55
+984,teledu,תקשורת,nouns,1.45
+985,darganfod,לאבד,verbs,0.55
+986,anniben,מכוער,adjectives,1.15
+987,yn fecanyddol,באופן אידיאלי,adverbs,0.15
+988,cred,רושם,nouns,1.15
+989,dianc,למצוא,verbs,0.45
+990,pibell,מכונית,nouns,0.25
+991,dod â,לשלוח,verbs,1.15
+992,di-ffurf,חסר צורה,adjectives,5.5
+993,anodd,קל,adjectives,0.45
+994,drws,אחווה,nouns,0.0
+995,cebl,קוסם,nouns,0.15
+996,llyfr,חיבור,nouns,1.2
+997,yn agos,באזור,adverbs,3.75
+998,calibr,מטרייה,nouns,0.3
+999,coginio,לערבב,verbs,1.15
+1000,brenin,נפוטיזם,nouns,0.75
+1001,haematoleg,פתולוגיה,nouns,1.95
+1002,cwch,עוגן,nouns,1.2
+1003,i ffwrdd,בבית,adverbs,0.75
+1004,ffrog,ריקוד,nouns,0.5
+1005,gwybod,לתת,verbs,0.0
+1006,preifat,אישי,adjectives,4.45
+1007,modur,סירה,nouns,1.05
+1008,anarferol,נדיר,adjectives,4.45
+1009,crisial,זכוכית,nouns,2.4
+1010,ceisio,להשיג,verbs,0.9
+1011,ysgwyd,לאסוף,verbs,0.1
+1012,anniben,נקי,adjectives,0.45
+1013,ci,חתול,nouns,1.3
+1014,ffa,בייקון,nouns,0.6
+1015,yn gyfforddus,בקלות,adverbs,1.35
+1016,allwedd,בית,nouns,0.8
+1017,dirmygus,לעגני,adjectives,3.8
+1018,galaeth,אפליקציה,nouns,0.3
+1019,strategydd,תחבולן,nouns,3.55
+1020,moesol,אגדה,nouns,0.35
+1021,cywilydd,בר מזל,adjectives,0.05
+1022,creu,להפוך,verbs,0.4
+1023,ardal,פינה,nouns,1.1
+1024,dillad,ארון,nouns,0.95
+1025,prin,יוצא דופן,adjectives,4.45
+1026,priffordd,משימה,nouns,0.0
+1027,emyn,תורה,nouns,0.5
+1028,dechrau,החל,verbs,5.6
+1029,llygoden,חולדה,nouns,2.95
+1030,cardbord,נייר,nouns,2.4
+1031,papur,קרטון,nouns,2.4
+1032,claf,פגישה,nouns,0.55
+1033,disgybl,סטודנט,nouns,5.05
+1034,anghofio,לסלוח,verbs,1.5
+1035,yn ofalus,באופן מסוכן,adverbs,0.5
+1036,arbed,לאסוף,verbs,1.9
+1037,rhad,מלוכלך,adjectives,0.4
+1038,garddwrn,יד,nouns,1.65
+1039,sefyllfa,נסיבות,nouns,4.8
+1040,diog,עסוק,adjectives,0.4
+1041,seciwlarydd,דת,nouns,1.2
+1042,cyfarch,להופיע,verbs,0.3
+1043,pêl-fas,כדורסל,nouns,2.15
+1044,croen,אופניים,nouns,0.1
+1045,gadael,לנסוג,verbs,3.15
+1046,anwybyddu,להדפיס,verbs,0.1
+1047,bowlen,זנב,nouns,0.0
+1048,therapi,ביהביוריזם,nouns,1.55
+1049,maddau,לשכוח,verbs,1.5
+1050,hedfaniad,תעופה,nouns,3.0
+1051,log,נוסחה,nouns,0.6
+1052,sudd,תפוח,nouns,1.1
+1053,asgwrn,מרפק,nouns,1.6
+1054,cyfiawnder,זכות,nouns,0.55
+1055,ufuddhau,להעניש,verbs,0.6
+1056,cân,בלדה,nouns,4.15
+1057,cynorthwyo,לסייע,verbs,5.85
+1058,gwaed,וירוס,nouns,0.85
+1059,car,אופניים,nouns,1.45
+1060,coron,מפתח,nouns,0.0
+1061,hurt,טיפש,adjectives,5.05
+1062,dweud ar goedd,להודיע,verbs,4.55
+1063,map,כיכר,nouns,0.5
+1064,ergydio,לפספס,verbs,0.55
+1065,pla,מדביר,nouns,1.05
+1066,gair,מילון,nouns,1.8
+1067,creu,להרוס,verbs,0.55
+1068,tref,עיר,nouns,2.9
+1069,brawd,ילד,nouns,2.1
+1070,yn syth,פעם אחת,adverbs,0.75
+1071,cawl,סעודה,nouns,1.55
+1072,caled,קשיח,adjectives,3.4
+1073,blanced,סערה,nouns,0.4
+1074,gwellt,רעיה,nouns,0.1
+1075,absenoldeb,נוכחות,nouns,0.95
+1076,pennu,לחזות,verbs,0.9
+1077,corn,תוף,nouns,0.6
+1078,yn ddwfn,בעיקר,adverbs,0.65
+1079,barnwr,בית משפט,nouns,1.3
+1080,raced,כדור,nouns,1.1
+1081,maddau,לקבל,verbs,1.25
+1082,pwerus,חלש,adjectives,0.5
+1083,sgrîn,פונולוגיה,nouns,0.15
+1084,ochr,פסגה,nouns,0.45
+1085,gwythïen,בחירה,nouns,0.0
+1086,atodiad,סיומת,nouns,3.35
+1087,sain,אקוסטיקה,nouns,2.75
+1088,casglu,להחליט,verbs,1.1
+1089,pwysig,הכרחי,adjectives,3.25
+1090,treisgar,פאסיבי,adjectives,0.3
+1091,cymryd yn ganiataol,לחזות,verbs,0.6
+1092,cab,מכונית,nouns,3.4
+1093,arwres,גיבור,nouns,3.7
+1094,dioddefwr,טלפון,nouns,0.15
+1095,trychineb,מוות,nouns,2.0
+1096,newynog,עייף,adjectives,0.55
+1097,creu,לדמיין,verbs,1.2
+1098,plismon,פוליטיקאי,nouns,0.45
+1099,yn llachar,מאוד,adverbs,0.2
+1100,yn lleol,קרוב,adverbs,3.75
+1101,môr,צונאמי,nouns,1.45
+1102,amlwg,בולט,adjectives,3.7
+1103,casáu,להינות,verbs,0.2
+1104,cael,לשים,verbs,0.55
+1105,lleihau,להנמיך,verbs,4.3
+1106,ymerawdwr,חוקה,nouns,0.35
+1107,siwgr,דבש,nouns,1.85
+1108,mwynhau,לשנוא,verbs,0.2
+1109,ofnadwy,רע,adjectives,3.65
+1110,ystafell ddosbarth,פרוזדור,nouns,0.55
+1111,cyfradd,ערך,nouns,1.7
+1112,cryptogram,סמל,nouns,1.85
+1113,cymysgu, לנער,verbs,2.15
+1114,aer,מולקולה,nouns,1.0
+1115,ymaflyd,לקחת,verbs,1.05
+1116,barn,נטייה,nouns,2.6
+1117,deall,לדעת,verbs,2.55
+1118,ymbarél,קליבר,nouns,0.3
+1119,mainc,כיסא,nouns,2.8
+1120,morgrugyn,דבורה,nouns,1.25
+1121,gwythïen,זרוע,nouns,0.75
+1122,canrif,שנה,nouns,1.8
+1123,gêm,טריק,nouns,1.25
+1124,sobr,רציונלי,adjectives,1.75
+1125,rhoi,לגנוב,verbs,0.45
+1126,barnu,להעיד,verbs,0.9
+1127,nerfus,בטוח,adjectives,0.15
+1128,llunio,לעשות,verbs,3.2
+1129,gwely,כיסא,nouns,0.9
+1130,medal,מאמנים,nouns,0.65
+1131,yn wallgof,בעצב,adverbs,0.6
+1132,yn hyderus,בחשאיות,adverbs,0.6
+1133,dadlau,לצעוק,verbs,1.9
+1134,ffotoffon,הומופון,nouns,0.65
+1135,mawr,כבד,adjectives,1.25
+1136,archwilio,לרדוף,verbs,0.6
+1137,chwerthin,לשיר,verbs,0.55
+1138,coflaid,להתרכבל,verbs,3.7
+1139,cwch,סיפון,nouns,1.45
+1140,canon,רובה,nouns,2.45
+1141,ffliwt,מוזיקה,nouns,1.3
+1142,ystafell wely,מיטה,nouns,1.75
+1143,gwych,יפה,adjectives,1.65
+1144,petrusgar,זועם,adjectives,0.6
+1145,rhoi,לקבל,verbs,0.55
+1146,datgymalu,למות,verbs,0.35
+1147,yn emosiynol,בעצב,adverbs,1.5
+1148,gwaethygu,לתקוף,verbs,0.55
+1149,gaeaf,קיץ,nouns,1.1
+1150,gadael,להצטרף,verbs,0.55
+1151,dweud celwydd,להאשים,verbs,0.7
+1152,amddiffyn,להרוג,verbs,0.7
+1153,dimai,גודל,nouns,0.1
+1154,trist,גאה,adjectives,0.35
+1155,gwydr,קריסטל,nouns,2.4
+1156,heicio,לטפס,verbs,2.3
+1157,car,מפעל,nouns,0.5
+1158,llygoden,סיפון,nouns,0.05
+1159,sgriblo,לכתוב,verbs,3.0
+1160,stopio,לנהוג,verbs,0.5
+1161,prawf,פסיקה,nouns,2.15
+1162,mae'n debyg,בוודאי,adverbs,0.65
+1163,papur,עץ,nouns,0.9
+1164,perswadio,להתווכח,verbs,1.75
+1165,twyll,פשע,nouns,2.45
+1166,ergyd,מסגרת,nouns,0.0
+1167,eliffant,דינוזאור,nouns,0.65
+1168,amaethyddiaeth,מונוקלטורה,nouns,0.75
+1169,yn ddiffuant,ברצינות,adverbs,1.0
+1170,gwraig,אמא,nouns,2.15
+1171,gwleidydd,נשיא,nouns,1.65
+1172,degawd,עידן,nouns,1.85
+1173,gwddf,עצם,nouns,0.7
+1174,hyfforddiant,מלגה,nouns,1.1
+1175,yn ddiffuant,ביושר,adverbs,5.0
+1176,arolygu,לבחון,verbs,3.05
+1177,ap,גלקסי,nouns,0.3
+1178,yn uchel,ברכות,adverbs,0.25
+1179,ffenestr,קרסול,nouns,0.0
+1180,dechrau,ללכת,verbs,0.35
+1181,modd,אופנה,nouns,0.4
+1182,casglu,לנער,verbs,0.1
+1183,ymgyrch,קוף,nouns,0.0
+1184,codi,לגרור,verbs,1.4
+1185,eglur,ברור,adjectives,2.85
+1186,rhadlon,נחמד,adjectives,2.7
+1187,dyn,בעל,nouns,3.5
+1188,gwybodaeth,עיתון,nouns,1.3
+1189,afal,מיץ,nouns,1.1
+1190,pensil,סיפור,nouns,0.45
+1191,dwywaith,תמיד,adverbs,0.65
+1192,gogledd,מערב,nouns,1.5
+1193,stopio,לשלוט,verbs,0.45
+1194,enillydd,מועמד,nouns,1.0
+1195,yn berffaith,באמת,adverbs,1.15
+1196,drwg,אשם,adjectives,1.05
+1197,pren,נייר,nouns,0.9
+1198,modur,אוטו,nouns,5.45
+1199,emyn,כבוש,nouns,0.25
+1200,dweud celwydd,להכחיש,verbs,0.8
+1201,darganfod,לחקור,verbs,2.4
+1202,amnewidyn,החלפה,nouns,3.35
+1203,cyd-beilot,תא הטייס,nouns,0.7
+1204,dydd ,לילה,nouns,0.6
+1205,llygoden,הנהלה,nouns,0.0
+1206,cydnabod,להסכים,verbs,3.45
+1207,meddwl,נוירוזה,nouns,1.2
+1208,tyfu,להתרחב,verbs,4.35
+1209,aros,לקבל,verbs,0.35
+1210,cysyniad,אמונה,nouns,3.65
+1211,angen,לסדר,verbs,0.15
+1212,steil,אלגנטיות,nouns,2.2
+1213,gadael,לפגוש,verbs,0.4
+1214,anadlu,לחנוק,verbs,1.05
+1215,cwrtais,ראוי,adjectives,1.0
+1216,curo,לנצח,verbs,4.25
+1217,mygu,לשרוף,verbs,1.2
+1218,trafferthu,לפגוע,verbs,1.1
+1219,ffenestr,ענן,nouns,0.3
+1220,canlyn,לשכנע,verbs,0.45
+1221,braich,שריר,nouns,1.0
+1222,brawdgarwch,גברים,nouns,1.05
+1223,gwneud,להפסיק,verbs,0.35
+1224,arfordir,ספינת תותחים,nouns,0.65
+1225,dysgu,להקשיב,verbs,1.1
+1226,gwyliau,לוח שנה,nouns,1.1
+1227,prynu,לשלם,verbs,2.6
+1228,sâl,משוגע,adjectives,0.75
+1229,stopio,להזהיר,verbs,1.1
+1230,amherchnogi,להתכחש,verbs,1.95
+1231,cadach,בגדים,nouns,1.55
+1232,pêl,סל,nouns,0.55
+1233,madfall,ממשלה,nouns,0.05
+1234,reis,עוף,nouns,0.65
+1235,yn sylfaenol,לחלוטין,adverbs,0.55
+1236,taliad,הערה,nouns,0.05
+1237,yn ddiffuant,לרוב,adverbs,0.25
+1238,banereg,דגל,nouns,1.05
+1239,baco,סיגריה,nouns,2.3
+1240,tegan,קובייה,nouns,0.8
+1241,casglu,לאגד,verbs,4.65
+1242,ychwanegu,לכפול,verbs,1.55
+1243,myfyriwr,פרופסור,nouns,1.05
+1244,hunan,ביטחון,nouns,0.4
+1245,coes,זרוע,nouns,1.3
+1246,caffael,למצוא,verbs,1.45
+1247,digartref,מיליונר,nouns,0.5
+1248,ffens,קפיצה,nouns,0.35
+1249,greddf,חוש,nouns,4.2
+1250,soffa,בייסבול,nouns,0.1
+1251,eilradd,משמעותי,adjectives,0.45
+1252,bwrw,לצבוט,verbs,0.8
+1253,glaw mân,גשם,nouns,3.45
+1254,bore,יום,nouns,1.55
+1255,asgwrn,לסת,nouns,1.3
+1256,gwlyb,דביק,adjectives,0.7
+1257,poen,נזק,nouns,1.9
+1258,harmoni,פסנתר,nouns,1.0
+1259,yn aeddfed,בחוכמה,adverbs,1.0
+1260,glaswellt,טחב,nouns,1.6
+1261,fflat,מלון,nouns,0.9
+1262,cytundeb,חוזה,nouns,5.25
+1263,cerbyd,אוטובוס,nouns,2.45
+1264,ffabrig,בגדים,nouns,2.0
+1265,gwern,אגם,nouns,1.35
+1266,moleciwl,אטום,nouns,2.2
+1267,duw,שטן,nouns,1.3
+1268,hydoddi,לערבב,verbs,1.8
+1269,styden,בחור,nouns,1.1
+1270,coleg,כיתה,nouns,1.3
+1271,argraff,אמונה,nouns,1.15
+1272,hwyliau,כעס,nouns,0.75
+1273,mynychu,לשלוח,verbs,0.45
+1274,gwrtaith,צמיחה,nouns,1.05
+1275,hapusrwydd,שלום,nouns,0.9
+1276,cenedlaethol,גדול,adjectives,0.65
+1277,arogli,לקלקל,verbs,0.05
+1278,codiad haul,שקיעה,nouns,1.55
+1279,atgoffa,למכור,verbs,0.0
+1280,rabi,מורה,nouns,2.55
+1281,cartref,מדינה,nouns,0.65
+1282,reidio,לרוץ,verbs,0.55
+1283,dodrefn,דירה,nouns,0.8
+1284,germ,פתוגן,nouns,3.85
+1285,amddiffyn,לעזור,verbs,1.35
+1286,egluro,לשוחח,verbs,1.45
+1287,llawr,סיפון,nouns,2.1
+1288,gŵr bonheddig,גברת,nouns,0.9
+1289,rhyfelgarwch,קרב,nouns,2.55
+1290,sylw,עניין,nouns,2.3
+1291,cyflog,כסף,nouns,3.25
+1292,gwerthfawr,מיוחד,adjectives,2.55
+1293,cyfathrebu,שפה,nouns,1.9
+1294,creu,לעשות,verbs,4.35
+1295,archwilio,לחקור,verbs,3.5
+1296,barn,רעיון,nouns,2.7
+1297,dec,עכבר,nouns,0.05
+1298,llygoden fawr,עכבר,nouns,2.95
+1299,gwraig,בעל,nouns,1.85
+1300,fflat,רהיט,nouns,0.8
+1301,trafodaeth,דיפלומטיה,nouns,2.1
+1302,tad,בן,nouns,1.45
+1303,cul,מלוכלך,adjectives,0.0
+1304,sudd,מילקשייק,nouns,1.55
+1305,ffynhonnell,קופסה,nouns,0.0
+1306,diweddar,רענן,adjectives,3.15
+1307,hela,לחפש,verbs,2.2
+1308,gorsedd,חרב,nouns,0.65
+1309,masarnen,אלון,nouns,1.85
+1310,braich,עצם,nouns,1.45
+1311,trefnu,לאסוף,verbs,1.45
+1312,swydd,כלי,nouns,0.4
+1313,yn hysbys,לאומי,adjectives,0.6
+1314,realiti,אשליה,nouns,0.6
+1315,cais,מועמד,nouns,2.1
+1316,cyfrifiadur,מכונה,nouns,2.25
+1317,oren,פרי הדר,nouns,3.15
+1318,niwroseicoleg,פרפסיכולוגיה,nouns,1.65
+1319,byth,בכנות,adverbs,0.0
+1320,smart,מטומטם,adjectives,0.5
+1321,pili-pala,ורד,nouns,0.45
+1322,bachgen,בן,nouns,3.7
+1323,diniwed,חופשי,adjectives,0.1
+1324,amddiffyn,לכסות,verbs,1.3
+1325,gweithiwr,מכונאי,nouns,2.0
+1326,cansen siwgr,קומביין,nouns,0.25
+1327,yn amlwg,כביכול,adverbs,0.65
+1328,datgelwyd,מכוסה,adjectives,0.5
+1329,athro,מדריך,nouns,4.05
+1330,trychineb,תאונה,nouns,3.75
+1331,lori,חבילה,nouns,0.7
+1332,yn beryglus,בזהירות,adverbs,0.5
+1333,yn gyfrinachol,בבטחה,adverbs,0.6
+1334,wal,קישוט,nouns,0.5
+1335,chwyrnu,להתעורר,verbs,0.5
+1336,dwywaith,הרבה,adverbs,0.75
+1337,gwn,מחברת,nouns,0.0
+1338,salad,דיאטה,nouns,1.1
+1339,caban,בקתה,nouns,3.6
+1340,clun,שפה,nouns,0.8
+1341,yn wael, בענווה,adverbs,0.3
+1342,ceisio,לחשוב,verbs,0.4
+1343,aloi,פלדה,nouns,2.3
+1344,coginio,לאבד,verbs,0.0
+1345,maes awyr,מטוס,nouns,1.65
+1346,gwrando,ללמוד,verbs,1.1
+1347,enillydd,גבר,nouns,0.5
+1348,partner,ילד,nouns,0.55
+1349,anghofio,להזכיר,verbs,0.55
+1350,crebachu,להקטין,verbs,3.05
+1351,balŵn,אמבטיה,nouns,0.05
+1352,plisman,טייס,nouns,0.65
+1353,cyfarwyddwr,סינמטוגרפיה,nouns,1.05
+1354,chwaer,אח,nouns,2.35
+1355,abdomen,בטן,nouns,4.45
+1356,estron,זר,nouns,2.9
+1357,llyn,ביצה,nouns,1.35
+1358,disgybl,נשיא,nouns,0.25
+1359,yfed,לגדל,verbs,0.0
+1360,llawr,תקרה,nouns,0.65
+1361,mintys,מוזיאון,nouns,0.2
+1362,cymysgu,להתמוסס,verbs,1.8
+1363,ffa,אורז,nouns,1.15
+1364,menyw,משימה,nouns,0.0
+1365,heb ei ddatgelu,גלוי,adjectives,0.5
+1366,llywydd,ראש,nouns,1.85
+1367,gwanwyn,גייזר,nouns,0.0
+1368,blodyn,סיגלית,nouns,1.8
+1369,dynwared,לגלם,verbs,3.5
+1370,dinistr,בנייה,nouns,0.55
+1371,eira,מפולת שלגים,nouns,1.55
+1372,saethydd,גשש,nouns,0.15
+1373,car,צינור,nouns,0.25
+1374,camera,עדשה,nouns,1.85
+1375,yn gadarn,ברכות,adverbs,0.4
+1376,hynafol,מודרני,adjectives,0.5
+1377,drws,פעמון,nouns,0.75
+1378,natur,צמחייה,nouns,2.15
+1379,yn ddi-drefn,בשלווה,adverbs,0.2
+1380,car,מד,nouns,0.45
+1381,derbyn,לקחת,verbs,1.6
+1382,cyflym,זריז,adjectives,5.2
+1383,asgwrn cefn,צוואר,nouns,1.2
+1384,system,אשמה,nouns,0.2
+1385,twrci,תרנגולת,nouns,1.8
+1386,di-fau,נקי,adjectives,3.65
+1387,dweud,לבטא,verbs,4.05
+1388,corn,מכונית,nouns,0.85
+1389,bysellfwrdd,אור,nouns,0.0
+1390,anhrefn,אנרכיה,nouns,4.4
+1391,gwallgof,שמח,adjectives,0.45
+1392,balŵn,אנשים,nouns,0.1
+1393,bodloni,להבין,verbs,0.45
+1394,siarad,להקשיב,verbs,0.85
+1395,euog,מתבייש,adjectives,1.4
+1396,mawr,רחב,adjectives,2.9
+1397,darganfod,לנבוע,verbs,0.55
+1398,arbediad,אדם חסכן,nouns,1.75
+1399,lamp,שד,nouns,0.45
+1400,dillad,אריג,nouns,2.0
+1401,hysbysu,לאשר,verbs,1.05
+1402,asid,בסיס,nouns,0.6
+1403,gwybod,להאמין,verbs,1.4
+1404,corff,בטן,nouns,1.5
+1405,asgwrn,צוואר,nouns,0.7
+1406,main,צר,adjectives,3.35
+1407,dafad,טלה,nouns,3.4
+1408,ymadrodd,מילה,nouns,2.25
+1409,tun,מתכת,nouns,2.2
+1410,holi,לדרוש,verbs,0.55
+1411,steil,אופנה,nouns,4.25
+1412,dilyniant,מצלמה,nouns,0.0
+1413,yn ddiamynedd,בערך,adverbs,0.3
+1414,yn hael,באדיבות,adverbs,2.7
+1415,troed,ראש,nouns,0.75
+1416,orthodontydd,רופא,nouns,4.55
+1417,pêl,מחבט,nouns,1.1
+1418,myfyriwr,תלמיד,nouns,5.05
+1419,nawr,כאן,adverbs,2.5
+1420,sanctaidd,יקר ערך,adjectives,1.85
+1421,yfory,הלילה,adverbs,0.75
+1422,dyrchafu,לקדם,verbs,2.05
+1423,gadael,להתעלם,verbs,0.95
+1424,to,תקרה,nouns,4.1
+1425,cadair,מיטה,nouns,0.9
+1426,yn ddelfrydol,מכנית,adverbs,0.15
+1427,hongian,להניח,verbs,0.65
+1428,hurt,פיקח,adjectives,0.45
+1429,pelydr,שמש,nouns,1.95
+1430,swyddfa,עובד,nouns,0.95
+1431,cwtsh,להתחבק,verbs,3.7
+1432,llawysgrif,מאמר,nouns,1.6
+1433,dadlau,להסכים,verbs,0.5
+1434,salwch,סרטן,nouns,2.7
+1435,newydd,חדש,adjectives,3.15
+1436,ufuddhau,להקשיב,verbs,2.35
+1437,berwi,לטגן,verbs,1.4
+1438,hanfodol,חשוב,adjectives,3.65
+1439,gyrru,לעצור,verbs,0.5
+1440,cyhyr,זרוע,nouns,1.0
+1441,gwybod,לשכוח,verbs,0.55
+1442,ffenestr,גג,nouns,0.7
+1443,angel,שד,nouns,0.7
+1444,derbyn,לאשר,verbs,3.45
+1445,crëwr,יוצר,nouns,5.15
+1446,dysgu,לשכוח,verbs,0.6
+1447,planed,ירח,nouns,2.1
+1448,sibrwd,לדבר,verbs,2.2
+1449,presenoldeb,היעדרות,nouns,0.95
+1450,ffrâm,מכה,nouns,0.0
+1451,benthyg,לחוב,verbs,1.8
+1452,adnewid,להתחלף,verbs,2.6
+1453,cynllwyniwr,אסטרטג,nouns,3.55
+1454,rheolaeth,מנהלה,nouns,2.3
+1455,chwaraewr,מאמן,nouns,0.85
+1456,dyn,דוד,nouns,1.25
+1457,iaith,תקשורת,nouns,1.9
+1458,disgyn,לצמצם,verbs,1.05
+1459,miliwnydd,דולר,nouns,0.95
+1460,argyhoeddi,לנסות,verbs,0.6
+1461,yn oddefol,בשקט,adverbs,1.15
+1462,priodol,מנומס,adjectives,1.0
+1463,deall,לסלוח,verbs,0.95
+1464,pêl,כפפה,nouns,0.55
+1465,yn dawel,בקול רם,adverbs,0.25
+1466,brenin,נסיך,nouns,1.7
+1467,machlud haul,חוט,nouns,0.0
+1468,troi drosodd,לפגוע,verbs,0.6
+1469,llyfn,חד,adjectives,0.6
+1470,brecwast,ארוחת ערב,nouns,1.75
+1471,rhiant,מבוגר,nouns,1.85
+1472,storm,ענן,nouns,1.55
+1473,llywydd,פוליטיקאי,nouns,1.65
+1474,ar hyn o bryd,לאחרונה,adverbs,1.05
+1475,cymylog,תחזית,nouns,0.65
+1476,tywysoges,מלך,nouns,1.45
+1477,datblygiad,גיוס כספים,nouns,0.6
+1478,siwr,בטוח,adjectives,5.1
+1479,flwyddyn,מאה,nouns,1.8
+1480,atgoffa,להגיד,verbs,1.05
+1481,pathogen,חיידק,nouns,3.85
+1482,canser,מחלה,nouns,2.7
+1483,diflannu,להתכווץ,verbs,1.95
+1484,beirniadu,לשנוא,verbs,0.7
+1485,ansicr,תלותי,adjectives,1.05
+1486,gohirio,לסיים,verbs,0.7
+1487,priodi,להתאחד,verbs,3.5
+1488,cerddorfa,להקה,nouns,3.45
+1489,llygad,גבה,nouns,1.1
+1490,yn lleol,בוודאי,adverbs,0.1
+1491,parsel,משאית,nouns,0.7
+1492,hyll,מבולגן,adjectives,1.15
+1493,geiriadur,אנציקלופדיה,nouns,2.05
+1494,sylfaen,כף רגל,nouns,1.15
+1495,claddedigaeth,מוות,nouns,1.8
+1496,yn ddarostyngedig,בעוני,adverbs,0.3
+1497,bregus,נוקשה,adjectives,0.4
+1498,tad,אם,nouns,2.0
+1499,marw,להתפורר,verbs,0.35
+1500,yn gwrtais,בחשאי,adverbs,0.1
+1501,cab,טקסי,nouns,5.55
+1502,dillad,כפתור,nouns,0.75
+1503,penwythnos,שבוע,nouns,1.65
+1504,gwybodaeth,אנטרופיה,nouns,0.9
+1505,dathlu,להפתיע,verbs,0.65
+1506,nodyn,משימה,nouns,0.65
+1507,bwrdd,שקיעה,nouns,0.0
+1508,bodloni,לרצות,verbs,3.25
+1509,tebyg,זהה,adjectives,4.3
+1510,amlen,קישוט,nouns,0.2
+1511,main,רזה,adjectives,4.3
+1512,taith,כיבוש,nouns,0.85
+1513,rasio,פילוסוף,nouns,0.0
+1514,cyhuddo,לשקר,verbs,0.7
+1515,cynnyrch llaeth,דבש,nouns,0.35
+1516,gofyn,להתעלם,verbs,0.35
+1517,darllen,להבין,verbs,0.9
+1518,rhoi,לנשל,verbs,0.95
+1519,ffordd,אופן,nouns,4.25
+1520,beibl,ספר,nouns,1.8
+1521,gwregys,לולאה,nouns,0.65
+1522,rhedwr,ספורטאי,nouns,2.6
+1523,anghefnogi,להיכשל,verbs,0.4
+1524,cydnabod,להודיע,verbs,1.05
+1525,addurn,מעטפה,nouns,0.2
+1526,tŷ,מפתח,nouns,0.8
+1527,fitamin,ברזל,nouns,1.25
+1528,rhedeg,לרכב,verbs,0.55
+1529,atom,מולקולה,nouns,2.2
+1530,rhoi,להניח,verbs,1.05
+1531,ynys,חוף,nouns,1.2
+1532,cerdded,לעמוד,verbs,1.1
+1533,hebog,עיט,nouns,2.6
+1534,eira,קרח,nouns,2.9
+1535,chwarae,לריב,verbs,0.95
+1536,cytoplasm,ספרה,nouns,0.25
+1537,codi,לשתות,verbs,0.0
+1538,arbed,להגן,verbs,2.55
+1539,balchder,נועז,adjectives,0.9
+1540,derbyn,לתפוס,verbs,1.45
+1541,minc,פרווה,nouns,2.6
+1542,asgwrn,קרסול,nouns,1.55
+1543,hen,מעורבב,adjectives,0.1
+1544,dwyn,לקחת,verbs,2.35
+1545,marwolaeth,אסון,nouns,2.0
+1546,curo,לשלב,verbs,0.6
+1547,polyester,כותנה,nouns,1.45
+1548,ymddangos,להפוך,verbs,0.7
+1549,dweud,לאמת,verbs,0.55
+1550,lleihau,לכווץ,verbs,3.05
+1551,cyffredin,קר,adjectives,0.2
+1552,uchel,חצוף,adjectives,0.35
+1553,gwefus,ירך,nouns,0.8
+1554,brawd,נשמה,nouns,0.1
+1555,symbol,צופן,nouns,1.85
+1556,malu,לרסק,verbs,5.0
+1557,ci,סוס,nouns,1.1
+1558,trosedd,הונאה,nouns,2.45
+1559,yn weithredol,במדוייק,adverbs,1.05
+1560,sychu,להתדרדר,verbs,0.3
+1561,ymosodiad,בליץ,nouns,3.3
+1562,handlen,חלבון,nouns,0.0
+1563,niweidio,לתקוף,verbs,3.05
+1564,llafn,דשא,nouns,0.55
+1565,hurt,חכם,adjectives,0.5
+1566,cryf,גאה,adjectives,0.5
+1567,anferthedd,מידה,nouns,3.35
+1568,nod,מועדון,nouns,0.0
+1569,gwalch,ציפור,nouns,2.15
+1570,tyfu,להתכווץ,verbs,0.7
+1571,hapus,משוגע,adjectives,0.45
+1572,gair,ביטוי,nouns,2.25
+1573,amgylchiad,מצב,nouns,4.8
+1574,cylchfordaith,מטען,nouns,0.1
+1575,cludo,להרים,verbs,1.4
+1576,gwirod,מאה,nouns,0.0
+1577,ailadrodd,להתאמן,verbs,0.75
+1578,cul,ארוך,adjectives,1.1
+1579,atgyweirio,לשקם,verbs,3.95
+1580,cnoi,לריב,verbs,0.65
+1581,ysgol,ציון,nouns,1.2
+1582,torri,לנתץ,verbs,5.05
+1583,gorffennol,קודם,nouns,1.6
+1584,disg,מחשב,nouns,0.9
+1585,protein,ידית,nouns,0.0
+1586,glaw,סופת שלגים,nouns,1.25
+1587,stori,נושא,nouns,1.2
+1588,tynnu'n ôl,לספוג,verbs,0.6
+1589,doniol,רציני,adjectives,0.45
+1590,braich,ברך,nouns,1.1
+1591,actor,שחקנית,nouns,3.7
+1592,pwyntydd,שקופית,nouns,0.2
+1593,crebachu,לצמוח,verbs,0.7
+1594,iselder,עמק,nouns,0.3
+1595,adfer,לתקן,verbs,3.95
+1596,golau,מקלדת,nouns,0.0
+1597,eira,סערה,nouns,1.6
+1598,atom,פחמן,nouns,1.25
+1599,dwyn,לתת,verbs,0.45
+1600,gwefrydd,דיסק,nouns,0.15
+1601,lefel,ניקוד,nouns,1.65
+1602,gwrthod,להימנע,verbs,1.5
+1603,byd,גלובוס,nouns,4.35
+1604,perygl,מחלה,nouns,0.7
+1605,deffro,לנחור,verbs,0.5
+1606,bydiaeth,ויזה,nouns,0.45
+1607,gwaelod,צד,nouns,1.35
+1608,fel arfer,באופן חריג,adverbs,0.6
+1609,arian,משכורת,nouns,3.25
+1610,gafr,פרה,nouns,1.45
+1611,maneg,כדור,nouns,0.55
+1612,gwybod,להבין,verbs,2.1
+1613,ymuno,להשתתף,verbs,3.2
+1614,twyn,מדבר,nouns,1.45
+1615,dosbarth,כאוס,nouns,0.15
+1616,dwyn,לחטוף,verbs,2.8
+1617,aseiniad,הערה,nouns,0.65
+1618,torf,המון,nouns,4.55
+1619,gwaelod,פסגה,nouns,0.65
+1620,twll,הסכם,nouns,0.0
+1621,cerbyd,עגלה,nouns,3.85
+1622,wisgi,יין,nouns,2.65
+1623,cynorthwy-ydd,מורה,nouns,1.85
+1624,arf,קסדה,nouns,1.15
+1625,cyfarfod,לשחות,verbs,0.05
+1626,perfformio,להצדיע,verbs,0.3
+1627,anobaith,אומללות,nouns,3.1
+1628,cas,חשמל,nouns,0.2
+1629,cath,כלב,nouns,1.3
+1630,drachtio,לבלוע,verbs,2.3
+1631,erydu,לדהות,verbs,2.55
+1632,cymryd,לקבל,verbs,1.6
+1633,canu,לרחף,verbs,0.2
+1634,yn llachar,בקלות,adverbs,0.4
+1635,miniog,מתון,adjectives,0.5
+1636,adref,הרחק,adverbs,0.75
+1637,anghofio,ללמוד,verbs,0.6
+1638,dimai,אנשים,nouns,0.65
+1639,ymennydd,עצם,nouns,0.8
+1640,dant,פה,nouns,1.3
+1641,awdur,מלחין,nouns,2.6
+1642,gwrando,להבין,verbs,1.45
+1643,coeden,סירה,nouns,0.55
+1644,onest,אשם,adjectives,0.35
+1645,ewin,יד,nouns,1.0
+1646,deallusrwydd,היגיון,nouns,2.35
+1647,anghofio,לדעת,verbs,0.55
+1648,geiriadur,הגדרה,nouns,1.7
+1649,rheiddiadur,חיישן,nouns,0.5
+1650,pwffian chwerthin,לצחוק,verbs,4.6
+1651,cymryd rhan,להצטרף,verbs,3.2
+1652,corff,דם,nouns,1.05
+1653,yn fawr,באופן מדהים,adverbs,0.55
+1654,rhif,ספרה,nouns,5.3
+1655,anatomeg,ביולוגיה,nouns,2.9
+1656,gallu,כשירות,nouns,4.5
+1657,gweinidogaeth,סולטן,nouns,0.7
+1658,top,צד,nouns,0.45
+1659,gweinyddiaeth,הנהלה,nouns,2.3
+1660,trafod syniadau,טלסקופ,nouns,0.0
+1661,gorffen,לסיים לימודים,verbs,1.45
+1662,bàth,תעלול,nouns,0.0
+1663,dinistrio,ליצור,verbs,0.55
+1664,llenwi,לתעב,verbs,0.4
+1665,yn debygol,בהחלט,adverbs,1.2
+1666,môr,חוף,nouns,2.05
+1667,rhwystredigaeth,כעס,nouns,2.35
+1668,llosgi,לחנוק,verbs,1.2
+1669,dwyn,לקנות,verbs,0.4
+1670,gwartheg,פרה,nouns,4.35
+1671,archesgob,בישוף,nouns,3.05
+1672,dôl,ערבה,nouns,2.4
+1673,dicter,זעם,nouns,4.45
+1674,lifft,מכונית,nouns,0.5
+1675,ffôl,ילדותי,adjectives,2.0
+1676,anghefnogi,לעודד,verbs,0.5
+1677,anghefnogi,לתסכל,verbs,2.4
+1678,yn sicr,עצבני,adjectives,0.15
+1679,newydd,ישן,adjectives,0.5
+1680,gweddïo,לבקש,verbs,1.95
+1681,asgwrn,שיניים,nouns,1.2
+1682,oedolyn,תינוק,nouns,0.8
+1683,cryndod,רעידת אדמה,nouns,2.85
+1684,storm,הוריקן,nouns,3.4
+1685,priodferch,נסיכה,nouns,1.1
+1686,indrawn, דגן,nouns,1.45
+1687,tric,אקדח,nouns,0.1
+1688,dod â,להחזיר,verbs,0.6
+1689,gwallgof,מעולה,adjectives,0.35
+1690,rhannu,לאחד,verbs,0.55
+1691,cwt,ביתן,nouns,3.85
+1692,busnes,תעשייה,nouns,1.95
+1693,go iawn,מזוייף,adjectives,0.55
+1694,yn dynn,בנחישות,adverbs,1.7
+1695,dec,סירה,nouns,1.45
+1696,uno,לחלק,verbs,0.55
+1697,teledu,שחקן,nouns,1.15
+1698,dibynnu,להיכשל,verbs,0.35
+1699,parth,שטח,nouns,5.1
+1700,llew,חתול,nouns,2.15
+1701,ffwr,מינק,nouns,2.6
+1702,pen-blwydd,תאריך,nouns,1.4
+1703,jîns,אישה,nouns,0.35
+1704,lluosiad,חילוק,nouns,1.35
+1705,llys,שופט,nouns,1.3
+1706,gwahaniaethu,להסכים,verbs,0.55
+1707,llaw,רגל,nouns,0.85
+1708,cwympo,להיפצע,verbs,1.55
+1709,dal,לחקות,verbs,0.15
+1710,yn fras,באופן שולי,adverbs,0.45
+1711,caffael,לגנוב,verbs,1.2
+1712,cau,להקיא,verbs,0.05
+1713,stumog,מותן,nouns,0.9
+1714,mwsogl,דשא,nouns,1.6
+1715,tanc,מכונית,nouns,1.15
+1716,siocled,פאי,nouns,0.65
+1717,rhyfedd,רגיל,adjectives,0.5
+1718,losin,קינמון,nouns,1.0
+1719,allanfa,כניסה,nouns,1.7
+1720,yn ysgafn,בבהירות,adverbs,0.4
+1721,ysgubell,אבק,nouns,0.75
+1722,corfforaeth,עסק,nouns,2.6
+1723,barnu,להאשים,verbs,2.6
+1724,mêl,מחלבה,nouns,0.35
+1725,talu,לטפל,verbs,0.2
+1726,gwaed,מוח,nouns,1.0
+1727,hwyl,משחק,nouns,1.25
+1728,amsugno,להחזיק,verbs,0.25
+1729,nenfwd,רצפה,nouns,0.65
+1730,blin,אלים,adjectives,1.2
+1731,hyblyg,נייד,adjectives,1.3
+1732,trwyn,גרון,nouns,0.85
+1733,matrics,מולקולה,nouns,0.25
+1734,ewythr,גבר,nouns,1.25
+1735,cig,בייקון,nouns,2.55
+1736,newid,להשתנות,verbs,2.6
+1737,brawdgarwch,בייסבול,nouns,0.25
+1738,offeiriad,אל,nouns,1.05
+1739,ymddangos,להתחזות,verbs,0.7
+1740,creu,להרוס,verbs,0.55
+1741,crwydro,לחפש,verbs,1.5
+1742,car,סירה,nouns,1.2
+1743,creu,לצלול,verbs,0.1
+1744,ardderchog,משוגע,adjectives,0.35
+1745,hwyliau,רגש,nouns,2.8
+1746,cwmwl,אובך,nouns,2.3
+1747,llygoden,חתול,nouns,1.05
+1748,rhagfarn,שוביניסט,nouns,2.65
+1749,plaladdwr,מזיק,nouns,1.05
+1750,tarw,עגל,nouns,2.2
+1751,brenhines,דבורה,nouns,0.65
+1752,trist,מצחיק,adjectives,0.5
+1753,llygredd,אטמוספירה,nouns,0.9
+1754,hawdd,נוקשה,adjectives,0.4
+1755,clariffeio,להסביר,verbs,4.15
+1756,mwstard,גרגיר,nouns,0.85
+1757,onest,שקרן,adjectives,0.55
+1758,harddwch,גיל,nouns,0.7
+1759,yn gadarn,ברוגע,adverbs,0.75
+1760,dyfalu,להרגיז,verbs,0.05
+1761,rhaglen,אוכל,nouns,0.3
+1762,ymgynnull,לאסוף,verbs,4.65
+1763,ŷd,תירס,nouns,1.45
+1764,enfawr,מטומטם,adjectives,0.1
+1765,ysgwydd,ראש,nouns,1.15
+1766,gwych,נפלא,adjectives,4.6
+1767,tenis,סטטיסטיקה,nouns,0.1
+1768,yn ddymunol,באדיבות,adverbs,3.35
+1769,o ddifrif,בכנות,adverbs,1.0
+1770,gwych,רע,adjectives,0.45
+1771,archwilio,לגלות,verbs,2.4
+1772,bioleg,ביוטופ,nouns,1.0
+1773,orthodontydd,רופא,nouns,1.8
+1774,llawenydd,גאווה,nouns,1.85
+1775,gwraig,חור,nouns,0.0
+1776,bedd,קבורה מחדש,nouns,1.25
+1777,tric,גודל,nouns,0.0
+1778,ciwb,צעצוע,nouns,0.8
+1779,anarferol,משונה,adjectives,4.4
+1780,ystafell,בניין,nouns,1.25
+1781,cyfoeth,עוני,nouns,0.7
+1782,anghofio,להתעלם,verbs,1.2
+1783,holi,לחפש,verbs,1.3
+1784,gwan,חריף,adjectives,0.1
+1785,cadw,לתת,verbs,0.35
+1786,opera,קולנוע,nouns,1.35
+1787,methiant,פשיטת רגל,nouns,1.15
+1788,band,תזמורת,nouns,3.45
+1789,deallusrwydd,מיומנות,nouns,1.65
+1790,ymadael,להיפרד,verbs,2.3
+1791,dadl,ביקורת,nouns,1.6
+1792,ffatri,מכונית,nouns,0.5
+1793,ennill,להיות ראוי,verbs,0.35
+1794,hyderus,ודאי,adjectives,5.1
+1795,ymosodol,מעוקל,adjectives,0.05
+1796,wedi'i ferwi,מבושל,adjectives,2.7
+1797,golygyddol,חדשות,nouns,1.45
+1798,ysgol,חוק,nouns,0.65
+1799,cemeg,תיאוריה,nouns,0.25
+1800,dyn,אבא,nouns,2.45
+1801,anhrefnu,מסודר,verbs,0.55
+1802,alwminiwm,מתכת,nouns,2.55
+1803,ffisigwr,דוקטור,nouns,4.9
+1804,ymddangos,לעזוב,verbs,0.35
+1805,niweidio,לבעוט,verbs,1.5
+1806,gwddf,אף,nouns,0.85
+1807,goroesi,לחיות,verbs,3.05
+1808,yn graff,בבגרות,adverbs,1.0
+1809,dweud,להשתתף,verbs,0.3
+1810,fioled,פרח,nouns,1.8
+1811,yn agored,בעוצמה,adverbs,0.6
+1812,gludedd,התזה,nouns,0.25
+1813,yn bwysig,באמת,adverbs,0.65
+1814,adeiladu,להרוס,verbs,0.55
+1815,tŷ,שטיח,nouns,0.65
+1816,fideo,פילם,nouns,3.65
+1817,arbed,לבזבז,verbs,0.55
+1818,gorchuddio,להסוות,verbs,2.5
+1819,tasg,קש,nouns,0.0
+1820,taith,טיול,nouns,3.65
+1821,gaeaf,עונה,nouns,2.05
+1822,pwnc,סיפור,nouns,1.2
+1823,ffilm,תיאטרון,nouns,1.4
+1824,erthygl,עיתון,nouns,2.35
+1825,dyweddïad,טבעת,nouns,1.85
+1826,anghyfreithlon,חוקי,adjectives,0.55
+1827,pêl-fasged,בייסבול,nouns,2.15
+1828,pêl,ספירה,nouns,3.4
+1829,mathemategydd,הצגה,nouns,0.05
+1830,angau,טרגדיה,nouns,1.8
+1831,hanfodol,הכרחי,adjectives,4.9
+1832,heno,היום,adverbs,1.5
+1833,yn annheg,בהגינות,adverbs,0.55
+1834,gwrthwynebydd,מתנגד,nouns,3.6
+1835,darganfod,לרכוש,verbs,1.45
+1836,stumog,גוף,nouns,1.5
+1837,gadael,לפנות,verbs,0.7
+1838,basged,כדור,nouns,0.55
+1839,anghofio,לשמור,verbs,0.45
+1840,amgueddfa,מינט,nouns,0.2
+1841,yn weithredol,בשמחה,adverbs,0.3
+1842,arwr,גיבורה,nouns,3.7
+1843,yn achlysurol,בקביעות,adverbs,1.05
+1844,plymio,ליצור,verbs,0.1
+1845,anwybyddu,לבקש,verbs,0.35
+1846,troed,בסיס,nouns,1.15
+1847,syniad,תכנית,nouns,2.45
+1848,yn ystyrlon,לעומק,adverbs,1.85
+1849,arfordir,גדה,nouns,2.95
+1850,llawlyfr,מדריך טיולים,nouns,1.45
+1851,eang,טרי,adjectives,0.05
+1852,amsugno,לסגת,verbs,0.6
+1853,nodadwy,ברור,adjectives,3.7
+1854,symbol,קוד,nouns,2.25
+1855,yn syml,לכאורה,adverbs,0.5
+1856,diflas,עייף,adjectives,0.85
+1857,yn fras,בקלות,adverbs,0.2
+1858,hurt,נדיר,adjectives,0.1
+1859,anaeddfed,בוגר,adjectives,0.55
+1860,cyfuno,לשלב,verbs,3.85
+1861,athronydd,מרוץ,nouns,0.0
+1862,duw,רוח,nouns,1.2
+1863,llosgfynydd,מגמה,nouns,1.85
+1864,digid,ציטופלזמה,nouns,0.25
+1865,caban,צריף,nouns,3.85
+1866,twyllo,לרמות,verbs,4.75
+1867,yn gynnil,בקול רם,adverbs,0.2
+1868,tsunami,ים,nouns,1.45
+1869,ceunant,עמק,nouns,3.5
+1870,hael,נחמד,adjectives,1.15
+1871,bwriadu,לנסות,verbs,0.9
+1872,goruchafu,לנצח,verbs,2.4
+1873,cyfoeth,תהילה,nouns,1.2
+1874,dec,קומה,nouns,2.1
+1875,rhyddhau,לתפוס,verbs,1.05
+1876,cynghori,להמליץ,verbs,3.3
+1877,gwersyll,ביתן,nouns,1.1
+1878,unffurf,חסר צורה,adjectives,0.1
+1879,yn dawel,בטבעיות,adverbs,0.3
+1880,ffaith,תובנה,nouns,1.5
+1881,canrif,ליקר,nouns,0.0
+1882,môr,שפך,nouns,1.3
+1883,afon,ים,nouns,1.7
+1884,bowlen,סמטה,nouns,0.0
+1885,anfoesol,רע,adjectives,2.75
+1886,da,חמישי,adjectives,0.25
+1887,encilio,לעזוב,verbs,3.15
+1888,diddordeb,קשב,nouns,2.3
+1889,portreadu,להחליט,verbs,0.2
+1890,cwt,מקלט,nouns,1.75
+1891,poeni,לבזבז,verbs,0.1
+1892,wedi ei orchuddio,חשוף,adjectives,0.5
+1893,swltan,כהונה,nouns,0.7
+1894,prawf,עובדה,nouns,1.2
+1895,ynys,נסיכה,nouns,0.3
+1896,tarian,באקלר,nouns,1.8
+1897,log,אמבטיה,nouns,0.1
+1898,arestio,לחשוד,verbs,0.45
+1899,lladd,לתלות,verbs,1.95
+1900,arian,יהלום,nouns,1.05
+1901,sbeislyd,חלש,adjectives,0.1
+1902,potel,קנקן,nouns,2.8
+1903,blwch,מקור,nouns,0.0
+1904,het,מעיל,nouns,1.0
+1905,strwythur,טופולוגיה,nouns,2.05
+1906,colli,לקבל,verbs,0.45
+1907,llaeth,מיץ,nouns,1.2
+1908,cynllun,רעיון,nouns,2.45
+1909,siofinist,דעה קדומה,nouns,2.65
+1910,prifysgol,קמפוס,nouns,1.8
+1911,pryderus,חושש,adjectives,4.3
+1912,llywydd,תלמיד,nouns,0.25
+1913,cymryd rhan,להגיד,verbs,0.3
+1914,oen,כבש,nouns,3.4
+1915,cyhyrau,עצם,nouns,0.7
+1916,bioleg,אנטומיה,nouns,2.9
+1917,gymnasteg,סיוף,nouns,0.85
+1918,pennu,לפנות,verbs,0.1
+1919,diflas,בינוני,adjectives,0.65
+1920,brwnt,דביק,adjectives,0.75
+1921,mob,קהל,nouns,4.55
+1922,bawd,יד,nouns,1.4
+1923,gwario,לחסוך,verbs,0.55
+1924,erthygl,כתב יד,nouns,1.6
+1925,glân,מבולגן,adjectives,0.45
+1926,yn oddefol,במרץ,adverbs,0.25
+1927,argraffu,להתעלם,verbs,0.1
+1928,actor,טלויזיה,nouns,1.15
+1929,tafod,שריר,nouns,1.6
+1930,gwneuthurwr,בורא,nouns,5.15
+1931,sinema,פופקורן,nouns,0.85
+1932,peiriant,מחשב,nouns,2.25
+1933,digwyddiad codi arian,ארוע,nouns,1.75
+1934,anhrefn,שיעור,nouns,0.15
+1935,porth,יציאה,nouns,1.7
+1936,hapus,כועס,adjectives,0.55
+1937,batri,אנרגיה,nouns,2.45
+1938,troseddu,להטריד,verbs,1.1
+1939,drwg,מעולה,adjectives,0.45
+1940,hael,חברותי,adjectives,0.85
+1941,radical,אלים,adjectives,0.95
+1942,bws,רכב,nouns,2.45
+1943,cornel,אזור,nouns,1.1
+1944,pen-glin,עצם,nouns,1.6
+1945,ymosod,לעצבן,verbs,0.55
+1946,brwydro,לשחק,verbs,0.95
+1947,camera,נשיא,nouns,0.05
+1948,yn gyfrinachgar,בוודאי,adverbs,0.1
+1949,plentynaidd,טיפשי,adjectives,2.0
+1950,canu,לצחוק,verbs,0.55
+1951,aros,לעזוב,verbs,0.55
+1952,cerdyn,ברידג',nouns,0.7
+1953,yn wir,חשוב,adverbs,0.65
+1954,fel arfer,בכנות,adverbs,0.25
+1955,cymhwysedd,יכולת,nouns,4.5
+1956,ffôn,תא,nouns,0.3
+1957,llynges,צבא,nouns,3.6
+1958,byddin,לגיון,nouns,3.2
+1959,cyfathrebu,טלויזיה,nouns,1.45
+1960,trosedd,תקיפה,nouns,2.45
+1961,afal,רוטב,nouns,0.55
+1962,ystafell ymolchi,חדר שינה,nouns,1.5
+1963,gwybodaeth,ספר,nouns,1.1
+1964,buwch,בקר,nouns,4.35
+1965,wedi ei dychryn,נרגש,adjectives,1.6
+1966,blanced,עץ,nouns,0.15
+1967,galar,ייסורים,nouns,2.85
+1968,siaced,בגדים,nouns,1.65
+1969,diflannu,להיכחד,verbs,5.0
+1970,diafol,אל,nouns,1.3
+1971,yn ansicr,מפוחד,adjectives,1.75
+1972,chwilio,לבקש,verbs,0.8
+1973,batri,תיאטרון,nouns,0.0
+1974,cell,חדר,nouns,2.55
+1975,nendwr,ארמון,nouns,0.95
+1976,lens,מצלמה,nouns,1.85
+1977,cyfarfod,לעזוב,verbs,0.4
+1978,syniad,דעה,nouns,2.7
+1979,canwr,צוות,nouns,0.05
+1980,yn naturiol,באופן לא טבעי,adverbs,0.5
+1981,tad,בן,nouns,1.4
+1982,papur newydd,מידע,nouns,1.3
+1983,oedolyn,הורה,nouns,1.85
+1984,maes llafur,מבחן,nouns,0.7
+1985,doler,אנשים,nouns,0.05
+1986,clo,מפתח,nouns,1.3
+1987,llaw,אגודל,nouns,1.4
+1988,baner,מוט,nouns,1.1
+1989,dychryn,לרדוף,verbs,1.1
+1990,rhuthro,להזדרז,verbs,5.35
+1991,trydan,תיבה,nouns,0.2
+1992,biotop,ביולוגיה,nouns,1.0
+1993,trosedd,גניבה,nouns,2.15
+1994,cebl, קפלה,nouns,0.0
+1995,canolig,משעמם,adjectives,0.65
+1996,tun,אלומיניום,nouns,2.0
+1997,llenyddiaeth,מילה,nouns,1.4
+1998,anystwyth,קל,adjectives,0.4
+1999,cael,להפסיד,verbs,0.45
+2000,eil,אולם,nouns,0.6
+2001,yn rhyfedd,באופן חריג,adverbs,4.3
+2002,lwcus,מובך,adjectives,0.05
+2003,diddanu,להנות,verbs,1.4
+2004,goruchafiath,ניצחון,nouns,3.6
+2005,llen,מוט,nouns,0.7
+2006,gwialen,וילון,nouns,0.7
+2007,blwyddyn,יום הולדת,nouns,1.15
+2008,yn anarferol,באופן מוזר,adverbs,4.3
+2009,teithlyfr,חוברת הדרכה,nouns,1.45
+2010,llyfr,סיפור,nouns,2.15
+2011,tywysoges,כלה,nouns,1.1
+2012,hyblyg,צנוע,adjectives,0.3
+2013,hardd,נפלא,adjectives,1.65
+2014,nos,פרק,nouns,0.05
+2015,alcohol,יין,nouns,2.1
+2016,llinyn,שקיעה,nouns,0.0
+2017,afiechyd,סכנה,nouns,0.7
+2018,theori,כימיה,nouns,0.25
+2019,treisgar,קיצוני,adjectives,0.95
+2020,siwr,ודאי,adjectives,5.45
+2021,galaeth,אסטרונום,nouns,0.9
+2022,dymuno,לרצות,verbs,4.35
+2023,mam,אבא,nouns,2.0
+2024,arwydd,סמל,nouns,4.55
+2025,cegin,דלת,nouns,0.55
+2026,anghwrtais,רועש,adjectives,0.35
+2027,sicr,בטוח,adjectives,5.45
+2028,dannedd,עצם,nouns,1.2
+2029,gitâr,תוף,nouns,1.55
+2030,mynd,למכור,verbs,0.05
+2031,enfawr,גדול,adjectives,4.4
+2032,arian,פנינה,nouns,0.6
+2033,cwpwrdd,בגדים,nouns,0.95
+2034,tywysog,מלך,nouns,1.7
+2035,rhesymoli,לחשוב,verbs,2.0
+2036,meddyg,רופא,nouns,4.9
+2037,doniol,עצוב,adjectives,0.5
+2038,garddwrn,זרוע,nouns,1.6
+2039,cynffon,צוק,nouns,0.0
+2040,diymhongar,טהור,adjectives,1.25
+2041,nyrs,מדען,nouns,0.45
+2042,archwilio,לפקח,verbs,3.05
+2043,yn bennaf,סופני,adverbs,0.4
+2044,ffa,קפה,nouns,1.1
+2045,gwyn,צר,adjectives,0.0
+2046,blin,שמח,adjectives,0.55
+2047,caled,צפוף,adjectives,0.55
+2048,bywgraffiad,בדיה,nouns,0.4
+2049,ymgeisydd,מועמדות,nouns,2.1
+2050,doler,מיליונר,nouns,0.95
+2051,anniben,מסודר,adjectives,0.55
+2052,rhythm,שיר,nouns,1.65
+2053,iard,אינץ',nouns,1.55
+2054,pledio,לרצות,verbs,0.3
+2055,milwr,ילד,nouns,0.65
+2056,yn falch,בשלווה,adverbs,0.15
+2057,llyncu,לשתות,verbs,2.3
+2058,colli,להיכשל,verbs,3.2
+2059,iâ,שלג,nouns,2.9
+2060,oeraidd,מחוספס,adjectives,1.2
+2061,dichonadwy,בלתי אפשרי,adjectives,0.85
+2062,dillad,מגירה,nouns,0.85
+2063,lladd,להרוס,verbs,2.45
+2064,cloch,מגדל,nouns,0.65
+2065,dŵr,הכתרה,nouns,0.05
+2066,bioleg gymdeithasol,מוטציה,nouns,0.5
+2067,ofnus,חרד,adjectives,4.3
+2068,cymysg,משולב,adjectives,3.1
+2069,penderfynu,לבחור,verbs,3.8
+2070,glaswelltir,אחו,nouns,2.4
+2071,hyfforddwraig,שחקן,nouns,0.85
+2072,benthyg,לרצות,verbs,0.2
+2073,canrif,עשור,nouns,1.0
+2074,car,מכונית,nouns,5.45
+2075,masarnen,עץ,nouns,2.75
+2076,priodferch,חתן,nouns,1.7
+2077,mis,אוגוסט,nouns,2.25
+2078,cynorthwyo,להגן,verbs,1.35
+2079,brenhiniaeth,דמוקרטיה,nouns,0.95
+2080,matrics,וקטור,nouns,1.95
+2081,chwalu,לרסק,verbs,5.05
+2082,lladd,להגן,verbs,0.7
+2083,top,תחתית,nouns,0.65
+2084,chwilio,למצוא,verbs,1.3
+2085,ffôn clyfar,אננס,nouns,0.0
+2086,byth,לאחר מכן,adverbs,0.45
+2087,cinio,תרנגולת,nouns,0.8
+2088,cromlin,זווית,nouns,2.0
+2089,sgert,שעון,nouns,0.25
+2090,cyw iâr,סעודה,nouns,0.8
+2091,asgwrn,זרוע,nouns,1.45
+2092,ardderchog,נפלא,adjectives,5.25
+2093,methu,להצליח,verbs,0.55
+2094,cyd-beilot,שוטר,nouns,0.65
+2095,mae'n debyg,פשוט,adverbs,0.5
+2096,anfoesol,פלילי,adjectives,2.05
+2097,pwysig,מכריע,adjectives,3.65
+2098,colli,לבשל,verbs,0.0
+2099,ystafell,תא,nouns,2.55
+2100,aros,לשמור,verbs,0.5
+2101,ungnwd,חקלאות,nouns,0.75
+2102,gwlychu,להקטין,verbs,0.25
+2103,boddi,להציל,verbs,0.6
+2104,drwg,שקרן,adjectives,1.35
+2105,llywodraethwr,קיסר,nouns,3.25
+2106,cymryd,לסרב,verbs,0.5
+2107,creulon,קשוח,adjectives,1.65
+2108,anghyfreithlon,מושחת,adjectives,2.05
+2109,offeiriad,נביא,nouns,1.6
+2110,osgoi,להכחיש,verbs,1.5
+2111,angen,לברר,verbs,0.55
+2112,cyntedd,כיתה,nouns,0.55
+2113,yn aml,לעיתים רחוקות,adverbs,0.6
+2114,llyfr,תאונה,nouns,0.0
+2115,democratiaeth,מלוכה,nouns,0.95
+2116,cystrawen,מילת מפתח,nouns,0.6
+2117,lluwchwynt,גשם,nouns,1.25
+2118,llaw,מפרק,nouns,1.65
+2119,afal,אור,nouns,0.0
+2120,y rhan fwyaf,בעיקר,adverbs,3.8
+2121,dillad isaf,גוף,nouns,0.3
+2122,dewis,פרק,nouns,0.1
+2123,meddwl,לברר,verbs,1.15
+2124,yn angheuol,באושר,adverbs,0.15
+2125,awyr,יקום,nouns,1.4
+2126,asgwrn cefn,גוף,nouns,1.15
+2127,sblash,צמיגות,nouns,0.25
+2128,difrifol,מצחיק,adjectives,0.45
+2129,dyffryn,נהר,nouns,1.05
+2130,graddio,לסמן,verbs,2.2
+2131,ffêr,עצם,nouns,1.55
+2132,ymosod,לפגוע,verbs,3.05
+2133,tarfu,להטריח,verbs,1.3
+2134,yn gryf,רשמית,adverbs,0.1
+2135,o bosibl,באופטימיות,adverbs,1.15
+2136,creigres,חוף,nouns,1.35
+2137,cwpan,צנצנת,nouns,1.7
+2138,brwnt,מדהים,adjectives,0.15
+2139,dadl,הסכמה,nouns,0.55
+2140,person dan amheuaeth,איש,nouns,0.75
+2141,paragraff,מכתב,nouns,1.25
+2142,stryd,סמטה,nouns,3.2
+2143,gofyn,להתחנן,verbs,3.0
+2144,clymu,לאחד,verbs,2.85
+2145,ffynnu,לנסות,verbs,0.9
+2146,ffôn,טלפון סלולרי,nouns,4.35
+2147,cyfaddef,להכחיש,verbs,0.5
+2148,adfer,להביא,verbs,0.6
+2149,ffrio,להרתיח,verbs,1.4
+2150,seren,בהירות,nouns,1.25
+2151,meddu ar,לספוג,verbs,0.25
+2152,byr,ארוך,adjectives,0.55
+2153,ymbarél,תנור חימום,nouns,0.55
+2154,cysuro,להשפיל,verbs,0.35
+2155,gwynt,סופה,nouns,2.55
+2156,oedolyn,שומר,nouns,1.0
+2157,cosbi,לציית,verbs,0.6
+2158,llyfr,תורה,nouns,1.8
+2159,cefnogwr,קריקט,nouns,0.35
+2160,rhyfedd,ערמומי,adjectives,0.35
+2161,breuddwyd,שמיים,nouns,0.5
+2162,benthyciwr,אשראי,nouns,1.35
+2163,rhoi,לדעת,verbs,0.0
+2164,swil,יקר,adjectives,0.05
+2165,mynd,לטייל,verbs,2.25
+2166,actor,פאון,nouns,0.6
+2167,llidiog,הססן,adjectives,0.6
+2168,dyn,חבר,nouns,1.3
+2169,fisa,גלובליזם,nouns,0.45
+2170,nihiliaeth,סרט,nouns,0.15
+2171,gosod,לתת,verbs,1.05
+2172,tric,אמבטיה,nouns,0.0
+2173,rhybuddio,לעצור,verbs,1.1
+2174,mab,אח,nouns,1.7
+2175,clou,מהיר,adjectives,4.65
+2176,allbriodasol,בלתי נסלח,adjectives,0.1
+2177,yn amlwg,בחשאי,adverbs,0.1
+2178,calon,ניתוח,nouns,0.55
+2179,clywed,להקשיב,verbs,3.4
+2180,teledu,תסריטאי,nouns,0.8
+2181,llygad,דמעה,nouns,1.2
+2182,cyflawni,להפוך,verbs,0.55
+2183,perl,כסף,nouns,0.6
+2184,derbyn,לשלוח,verbs,0.5
+2185,morthwyl,שיניים,nouns,0.0
+2186,coffi,פול,nouns,1.1
+2187,cawod,מנזר,nouns,0.0
+2188,cwpan,כף,nouns,1.25
+2189,rhyfedd,נורמלי,adjectives,0.5
+2190,rhiant,אבא,nouns,3.2
+2191,dod yn,להראות,verbs,0.7
+2192,bustach,סוס,nouns,1.25
+2193,siampên,בירה,nouns,1.75
+2194,hofrennydd,מטוס,nouns,2.95
+2195,neidio,גדר,nouns,0.35
+2196,braf,נדיב,adjectives,1.15
+2197,dianc,להימלט,verbs,5.15
+2198,gwacáu,לקבוע,verbs,0.1
+2199,cyfarch,להיפגש,verbs,0.95
+2200,eginblanhigyn,עלה,nouns,1.5
+2201,estrys,פרדס,nouns,0.1
+2202,reidio,לדשדש,verbs,0.4
+2203,to,חלון,nouns,0.7
+2204,cario ,להביא,verbs,1.95
+2205,ynys,משימה,nouns,0.0
+2206,beic,עור,nouns,0.1
+2207,gwirod,יין,nouns,1.75
+2208,cig eidion,בקר,nouns,3.4
+2209,gwerthu,להשאיל,verbs,0.85
+2210,mynydd,אדן,nouns,0.2
+2211,gyferbyn,אחר,adjectives,0.8
+2212,gwarcheidwad,מבוגר,nouns,1.0
+2213,theatr,סרט,nouns,1.4
+2214,cynffon,פרק,nouns,0.2
+2215,ymddygiadaeth,טיפול,nouns,1.55
+2216,esgus,להניח,verbs,0.3
+2217,yn wallgof,בקול רם,adverbs,0.1
+2218,gweithiwr,מעסיק,nouns,1.15
+2219,aderyn,תרנגולת,nouns,2.2
+2220,marcio,לדרג,verbs,2.2
+2221,cyfansoddiad,סנט,nouns,0.95
+2222,cyfarfod,לברך,verbs,0.95
+2223,arllwys,לטפטף,verbs,2.35
+2224,baglu,ליפול,verbs,4.55
+2225,ymuno,לשתף,verbs,1.2
+2226,weithiau,באופן אחיד,adverbs,0.25
+2227,gorffwyll,חולה,adjectives,0.75
+2228,hir,קצר,adjectives,0.55
+2229,ffasiwn,צורה,nouns,0.4
+2230,drwg,נורא,adjectives,3.65
+2231,o ddifrif,בחשיבות,adverbs,2.35
+2232,chwerthin,לבכות,verbs,0.55
+2233,newyddiadurwr,משורר,nouns,1.0
+2234,myfyrio,לחשוב,verbs,4.55
+2235,corff,עצב,nouns,0.65
+2236,mynach,צלב,nouns,0.9
+2237,yn obeithiol,ייתכן,adverbs,1.15
+2238,wythnosol,חודשי,adjectives,1.25
+2239,blits,מתקפה,nouns,3.3
+2240,enfawr,זעיר,adjectives,0.55
+2241,yn ofalus,כרגע,adverbs,0.0
+2242,brigeryn,האבקה,nouns,1.6
+2243,tenau,צנום,adjectives,4.3
+2244,dawnsio,שמלה,nouns,0.5
+2245,sy'n dod i mewn,יוצא,adjectives,0.55
+2246,yn derfynol,אחרת,adverbs,0.1
+2247,yn fawr,בבהירות,adverbs,0.2
+2248,bàth,חדר,nouns,0.85
+2249,diffiniad,מילון,nouns,1.7
+2250,cyflogwr,מועסק,nouns,1.15
+2251,gwrthod,לבחור,verbs,0.1
+2252,wastad,פעמיים,adverbs,0.65
+2253,capel,כבל,nouns,0.0
+2254,egluro,להוכיח,verbs,1.55
+2255,derbyn,להסכים,verbs,2.75
+2256,caled,קל,adjectives,0.5
+2257,cytundeb,ויכוח,nouns,0.55
+2258,datgysylltu,לפצל,verbs,1.55
+2259,brwydr,כיבוש,nouns,2.2
+2260,braich,מפרק,nouns,1.6
+2261,cwmwl,סערה,nouns,1.55
+2262,diflannu,למצוא,verbs,0.55
+2263,blanced ,מיטה,nouns,1.25
+2264,brawd,אב,nouns,1.4
+2265,amddiffyn,להציל,verbs,2.55
+2266,pennod,פרק,nouns,4.0
+2267,mawr,קל,adjectives,0.35
+2268,llawysgrif,ספר,nouns,1.45
+2269,cynffon,קערה,nouns,0.0
+2270,bwcler,מגן,nouns,1.8
+2271,rheoli,עכבר,nouns,0.0
+2272,brwnt,זול,adjectives,0.4
+2273,terfysg,ציור,nouns,0.1
+2274,thema,ספר,nouns,0.6
+2275,llwyddo,להיכשל,verbs,0.55
+2276,gogledd,דרום,nouns,1.15
+2277,ffêr,חלון,nouns,0.0
+2278,ysgafn,חד,adjectives,0.5
+2279,achub,להציל,verbs,5.2
+2280,pen,ציפורן,nouns,0.4
+2281,cyflwr,בית,nouns,0.65
+2282,yn hysbys,טוב,adjectives,0.4
+2283,gwely,רהיט,nouns,1.95
+2284,ystafell,מיטה,nouns,0.6
+2285,gwawdlyd,בזוי,adjectives,3.8
+2286,mwslim,בישוף,nouns,0.8
+2287,anghrybwylladwy,מחוץ לנישואין,adjectives,0.1
+2288,crwm,ישר,adjectives,0.55
+2289,yn aml,לפעמים,adverbs,1.05
+2290,ysgwydd,זרוע,nouns,1.9
+2291,uchder,המרה,nouns,0.45
+2292,hurt,צפוף,adjectives,0.1
+2293,cot,בגדים,nouns,1.8
+2294,gwisg unffurf,קרושה,nouns,0.15
+2295,newydd,טרי,adjectives,3.75
+2296,rhyfedd,מוזר,adjectives,4.4
+2297,yn weithredol,באופן פסיבי,adverbs,0.25
+2298,dan straen,נינוח,adjectives,0.5
+2299,parêd,המון,nouns,1.7
+2300,gwasgu,לשחרר,verbs,0.5
+2301,heb ei ddefnyddio,חדש,adjectives,4.15
+2302,gwyliwr,גבר,nouns,0.6
+2303,corff,זרוע,nouns,1.2
+2304,cyfrwys,מוזר,adjectives,0.35
+2305,esgob,מוסלמי,nouns,0.8
+2306,caniatáu,ללכת,verbs,0.05
+2307,degawd,מאה,nouns,1.0
+2308,cadw,להפסיד,verbs,0.55
+2309,niwtral,רגוע,adjectives,1.3
+2310,drwg,מושחת,adjectives,2.75
+2311,mynegi,לומר,verbs,4.05
+2312,dewis,בחירות,nouns,2.85
+2313,eisiau,לבחור,verbs,1.1
+2314,twll,רעיה,nouns,0.0
+2315,canol,קיבה,nouns,0.9
+2316,ffrind,בחור,nouns,1.3
+2317,niwed,כאב,nouns,1.9
+2318,bardd,עיתונאי,nouns,1.0
+2319,proffesiwn,מכללה,nouns,0.75
+2320,bod mewn dyled,להלוות,verbs,1.8
+2321,darllenydd,סופר,nouns,0.8
+2322,dod yn,לארגן,verbs,0.55
+2323,sant,חוטא,nouns,0.8
+2324,deall,לדעת,verbs,2.1
+2325,cath,עכבר,nouns,1.05
+2326,cas,חומרה,nouns,0.25
+2327,arweinydd,מנהל,nouns,3.45
+2328,peilot,נהג,nouns,2.7
+2329,dinistrio,לבנות,verbs,0.55
+2330,tagu,לנשום,verbs,1.05
+2331,gwellt,המנון,nouns,0.0
+2332,wedi'i goginio,מורתח,adjectives,2.7
+2333,arian parod,כסף,nouns,3.45
+2334,palas,גורד שחקים,nouns,0.95
+2335,eang,צר,adjectives,0.55
+2336,cyfreithiwr,בנקאי,nouns,1.0
+2337,asgwrn,ברך,nouns,1.6
+2338,pylu,לשחוק,verbs,2.55
+2339,yn anhygoel,מאוד,adverbs,0.55
+2340,bryn,צוק,nouns,1.9
+2341,coeden,עלה,nouns,1.5
+2342,ychwanegu,להצטרף,verbs,1.15
+2343,gitâr,פורל,nouns,0.05
+2344,sesiwn,מטופל,nouns,0.55
+2345,wisgi,שמפניה,nouns,1.75
+2346,ifanc,שמח,adjectives,0.5
+2347,gwefus,פה,nouns,2.0
+2348,darganfod,לחפש,verbs,1.3
+2349,mynd i mewn,לחוב,verbs,0.1
+2350,teclyn,סיר,nouns,0.5
+2351,colli,לשמור,verbs,0.55
+2352,pêl-fas,אחווה,nouns,0.25
+2353,crëwr,מחבר,nouns,3.5
+2354,roboteg,סימולציה,nouns,0.75
+2355,dibynnu ar,לסמוך,verbs,3.65
+2356,perllan,יען,nouns,0.1
+2357,crwm,תוקפני,adjectives,0.05
+2358,coginio,לטגן,verbs,2.05
+2359,lladrad,פשע,nouns,2.15
+2360,stondin,טלפון,nouns,0.3
+2361,hyblyg,רפוי,adjectives,1.25
+2362,anghyfrifol,ילדותי,adjectives,2.1
+2363,eglwys gadeiriol,כנסייה,nouns,3.8
+2364,rhoi,להכחיש,verbs,0.05
+2365,rhoddi,להשאיל,verbs,2.5
+2366,miniog,חלק,adjectives,0.6
+2367,rheol,מוסכמה,nouns,2.8
+2368,yn hael,לעולם לא,adverbs,0.45
+2369,tafod,לחי,nouns,1.0
+2370,duw,טרף,nouns,0.05
+2371,bàth,בלון,nouns,0.05
+2372,codi arian,פיתוח,nouns,0.6
+2373,deilen,עץ,nouns,1.5
+2374,ewin,אגודל,nouns,1.3
+2375,hel,לתפוס,verbs,1.55
+2376,lladd,לחנוק,verbs,1.9
+2377,yn realistig,לאחרונה,adverbs,0.1
+2378,cwmwl,תחזית,nouns,1.1
+2379,oedran,יופי,nouns,0.7
+2380,ceg,שפה,nouns,2.0
+2381,rhoi,לתלות,verbs,0.65
+2382,gwaith celf,אמן,nouns,1.4
+2383,sgwâr,מפה,nouns,0.5
+2384,ceirios,תות,nouns,1.5
+2385,confensiwn,חוק,nouns,2.8
+2386,gwely,חדר,nouns,0.6
+2387,gofyn,לעזור,verbs,1.05
+2388,arloesol,יצירתי,adjectives,2.9
+2389,drws,כניסה,nouns,3.45
+2390,pobi,לטגן,verbs,1.7
+2391,penwythnos,מרוץ,nouns,0.05
+2392,gwael,בודד,adjectives,0.85
+2393,car,מעלית,nouns,0.5
+2394,annheg,אכזר,adjectives,1.4
+2395,ffug,אמיתי,adjectives,0.55
+2396,glas,אדום,adjectives,1.1
+2397,dod yn,להשיג,verbs,0.55
+2398,prysur,עצלן,adjectives,0.4
+2399,taro,למשוך,verbs,0.45
+2400,emosiwn,תשוקה,nouns,3.55
+2401,yn llawn,בעיקרון,adverbs,0.55
+2402,trafferthu,להפריע,verbs,1.3
+2403,glaw,ערפל,nouns,1.8
+2404,anwybodus,רגיל,adjectives,0.05
+2405,bawd,ציפורן,nouns,1.3
+2406,talwrn,טייס משנה,nouns,0.7
+2407,heddwch,חייל,nouns,0.5
+2408,cymryd,לעזוב,verbs,0.2
+2409,gwan,חזק,adjectives,0.5
+2410,bacwn,שעועית,nouns,0.6
+2411,annibynadwy,ערמומי,adjectives,1.6
+2412,swcros,פחמימה,nouns,1.65
+2413,rhodio,לשוטט,verbs,4.25
+2414,bwydlen,הזמנה,nouns,0.8
+2415,yn arbennig,באופן משמעותי,adverbs,1.9
+2416,bod yn ddyledus,להיכנס,verbs,0.1
+2417,ased,מנייה,nouns,3.2
+2418,cystadleuwr,יריב,nouns,3.6
+2419,tröedigaeth,גובה,nouns,0.45
+2420,arian cyfred,תמימות דעים,nouns,0.6
+2421,gwallgof,שמח,adjectives,0.5
+2422,rhannu,לנתק,verbs,1.55
+2423,yn wahanol,סופית,adverbs,0.1
+2424,sgol,רוח,nouns,2.55
+2425,offeryn,עבודה,nouns,0.4
+2426,drwm,קרן,nouns,0.6
+2427,mynnu,להתווכח,verbs,1.35
+2428,prynu,לקבל,verbs,1.0
+2429,twrci,ציפור,nouns,2.15
+2430,allwedd,כתר,nouns,0.0
+2431,cadno,כלב,nouns,1.35
+2432,disg,מטען,nouns,0.15
+2433,gwenynen,חרק,nouns,1.55
+2434,menyn,תפוד,nouns,0.6
+2435,papur newydd,מילה,nouns,1.05
+2436,gwahanu,לחבר,verbs,0.55
+2437,coleg,מקצוע,nouns,0.75
+2438,llynges,אי,nouns,0.3
+2439,cig eidion,בשר,nouns,2.65
+2440,hanesydd,היסטוריוגרף,nouns,3.0
+2441,gwisgo,לקרוע,verbs,0.15
+2442,blodyn,פקעת,nouns,1.25
+2443,llwch,מטאטא,nouns,0.75
+2444,newydd,עתיק,adjectives,0.5
+2445,gwybod,להבין,verbs,2.55
+2446,balch ,כועס,adjectives,0.5
+2447,braich,כתף,nouns,1.9
+2448,da,מוכר,adjectives,0.4
+2449,dadansoddi,להשוות,verbs,2.05
+2450,drws,מרתף,nouns,0.55
+2451,lloches,צריף,nouns,1.75
+2452,hedyn,חרדל,nouns,0.85
+2453,cymyl,ערפל,nouns,2.5
+2454,brwydro,להרוג,verbs,0.95
+2455,cytuno,לקבל,verbs,2.75
+2456,yn ddarostyngedig,בגאווה,adverbs,0.55
+2457,dug,רפובליקה,nouns,0.5
+2458,poblogaeth,אנשים,nouns,2.7
+2459,efelychiad,רובוטיקה,nouns,0.75
+2460,cyffes,הכחשה,nouns,0.5
+2461,cytundeb,תנאי,nouns,0.7
+2462,atgoffa,לשכוח,verbs,0.55
+2463,cyffrous,משעמם,adjectives,0.5
+2464,ardderchog,מעולה,adjectives,4.6
+2465,cafflo,להונות,verbs,4.75
+2466,cwrw,משקה,nouns,2.15
+2467,yn bwysig,ברצינות,adverbs,2.35
+2468,carbohydrad,סוכרוז,nouns,1.65
+2469,meddwl,לזכור,verbs,1.25
+2470,meddu ar,לקחת,verbs,1.4
+2471,stumog,חדר שינה,nouns,0.05
+2472,hysbysu,לתאר,verbs,0.6
+2473,gwn,סכין,nouns,1.25
+2474,heddiw,הלילה,adverbs,1.5
+2475,heb siâp,אמורפי,adjectives,5.5
+2476,byth,בנדיבות,adverbs,0.45
+2477,darlun,שלפוחית,nouns,0.0
+2478,meddwl,להחליט,verbs,1.4
+2479,ymerawdwr,מושל,nouns,3.25
+2480,bacwn,בשר,nouns,2.55
+2481,cyferbyn,ייחודי,adjectives,0.15
+2482,llywydd,זיהום,nouns,0.05
+2483,proffwydo,לקבוע,verbs,0.9
+2484,swydd,משימה,nouns,3.45
+2485,crynnu,לקפוא,verbs,1.75
+2486,sitrws,תפוז,nouns,3.15
+2487,helpu,לעזור,verbs,5.85
+2488,pêl-fas,ספה,nouns,0.1
+2489,diogel,מעיק,adjectives,0.1
+2490,peilliad,אבקן,nouns,1.6
+2491,busnes,תאגיד,nouns,2.6
+2492,yn unffurf,לפעמים,adverbs,0.25
+2493,dewis,להחליט,verbs,3.8
+2494,alcohol,ג'ין,nouns,2.1
+2495,carped,בית,nouns,0.65
+2496,crogi,להרוג,verbs,1.95
+2497,carchar,בחירה,nouns,0.35
+2498,corws,זמר,nouns,1.35
+2499,staff,זמר,nouns,0.05
+2500,bara,בשר,nouns,0.55
+2501,baled,שיר,nouns,4.15
+2502,wedi eu cyfuno,מעורבב,adjectives,3.1
+2503,sedd,שיפוע,nouns,0.1
+2504,drws,קומה,nouns,0.55
+2505,gofal,זהירות,nouns,2.8
+2506,braich,וריד,nouns,0.75
+2507,sensoriaeth,חופש,nouns,0.55
+2508,organ,כבד,nouns,1.65
+2509,talu,לקנות,verbs,2.6
+2510,anghytuno,להסכים,verbs,0.55
+2511,mwnci,קמפיין,nouns,0.0
+2512,incwm,מס,nouns,0.9
+2513,canolig,טוב,adjectives,1.7
+2514,machlud haul,ערב,nouns,2.2
+2515,castell,קיר,nouns,1.0
+2516,gwrthod,לקבל,verbs,0.5
+2517,niwl,גשם,nouns,1.8
+2518,drws,נוכחות,nouns,0.15
+2519,gwahanu,לעזוב,verbs,2.3
+2520,gwely,שמיכה,nouns,1.25
+2521,gwrthod,לתת,verbs,0.05
+2522,basilica,פסיפס,nouns,1.4
+2523,cytuno,להתווכח,verbs,0.53
+2524,sychder,מים,nouns,0.4
+2525,poen,צער,nouns,2.85
+2526,yn swyddogol,חשוב,adverbs,1.6
+2527,siaced,סוודר,nouns,1.95
+2528,darogan,להניח,verbs,0.6
+2529,yn agored i niwed,נוח,adjectives,0.15
+2530,bathodyn,זכוכית,nouns,0.2
+2531,maint,טריק,nouns,0.0
+2532,claddu,למות,verbs,1.15
+2533,corff,כתף,nouns,1.15
+2534,braich,צוואר,nouns,0.75
+2535,derbyn,להמליץ,verbs,0.75
+2536,disgyrchiant,מטאור,nouns,0.8
+2537,cyfieithydd,זר,nouns,0.45
+2538,heulwen,קרן,nouns,1.95
+2539,cwyno,להביא,verbs,0.0
+2540,rhagflaenydd,עבר,nouns,1.6
+2541,penelin,עצם,nouns,1.6
+2542,seryddwr,גלקסיה,nouns,0.9
+2543,gwawr,לילה,nouns,0.9
+2544,sinematograffeg,במאי,nouns,1.05
+2545,cyfreithiwr,משפטן,nouns,4.35
+2546,llyfr,ספרות,nouns,2.1
+2547,sawl,פעמיים,adverbs,0.75
+2548,fformiwla,משוואה,nouns,4.5
+2549,rhith,מציאות,nouns,0.6
+2550,uno,לקשור,verbs,2.85
+2551,ceiniog,מציאה,nouns,0.7
+2552,darn,שדה תעופה,nouns,0.1
+2553,sgïo,סנוברד,nouns,2.3
+2554,edafedd,פתיל,nouns,4.4
+2555,yn deg,באופן לא הוגן,adverbs,0.55
+2556,gên,עצם,nouns,1.3
+2557,lluosi,להוסיף,verbs,1.55
+2558,traeth,אי,nouns,1.2
+2559,gwydn,קשה,adjectives,3.4
+2560,botwm,בגדים,nouns,0.75
+2561,cwmwl,ערפל,nouns,2.85
+2562,mecanyddol,חשמלי,adjectives,0.85
+2563,gwneud,ליצור,verbs,4.35
+2564,caws,לחם,nouns,0.85
+2565,tymestl,שמיכה,nouns,0.4
+2566,anwybodus,מדים,adjectives,0.1
+2567,dod,להביא,verbs,1.2
+2568,ymlid,לעקוב,verbs,1.85
+2569,pumed,עליון,adjectives,0.25
+2570,dewis,לרצות,verbs,1.1
+2571,polyn,דגל,nouns,1.1
+2572,damwain,אסון,nouns,3.75
+2573,ofnadwy,עצוב,adjectives,1.7
+2574,ceisio,לשכנע,verbs,0.6
+2575,ffonoleg,מסך,nouns,0.15
+2576,gwyddoniadur,מילון,nouns,2.05
+2577,gwyddonydd,אחות,nouns,0.45
+2578,dimai,רעיה,nouns,0.05
+2579,cyfaill,ידיד,nouns,5.25
+2580,gwraig,ג'נטלמן,nouns,0.9
+2581,topoleg,מבנה,nouns,2.05
+2582,rhoi,לשמור,verbs,0.35
+2583,prynu,לגנוב,verbs,0.4
+2584,fformiwla,יומן,nouns,0.6
+2585,cwest,מטרה,nouns,1.65
+2586,hollalluogrwydd,עליונות,nouns,2.15
+2587,to,קומה,nouns,0.9
+2588,tân,אפוקליפסה,nouns,0.85
+2589,ffasiwn,סגנון,nouns,4.25
+2590,losin,תפוח,nouns,0.75
+2591,dadl,דיון,nouns,2.7
+2592,cerflun,פסל,nouns,4.6
+2593,curo,להצליף,verbs,3.15
+2594,pont,מכונית,nouns,0.55
+2595,trwyn,ראש,nouns,1.15
+2596,gorchuddio,להגן,verbs,1.3
+2597,ôl-ddodiad,מוספית,nouns,3.35
+2598,dyn,מנצח,nouns,0.5
+2599,ewythr,דודה,nouns,2.55
+2600,moleciwl,אוויר,nouns,1.0
+2601,meddw,פיכח,adjectives,0.55
+2602,newyddion,מאמר מערכת,nouns,1.45
+2603,annisgwyl,לא צפוי,adjectives,4.8
+2604,llawr,גג,nouns,0.9
+2605,hyder,גישה,nouns,0.95
+2606,bricsen,קיר,nouns,1.45
+2607,deilen,נבט,nouns,1.5
+2608,gwddf,גב,nouns,1.2
+2609,yn hapus,בבטחה,adverbs,0.3
+2610,methu,להפסיד,verbs,3.2
+2611,hurt,טיפשי,adjectives,4.65
+2612,dillad,בד,nouns,1.55
+2613,siarad,לאשר,verbs,0.5
+2614,anghenus,חסר ביטחון,adjectives,1.05
+2615,seremoni,חגיגה,nouns,2.65
+2616,oriel,עורך דין,nouns,0.0
+2617,hafaliad,נוסחה,nouns,4.5
+2618,medrydd,מכונית,nouns,0.45
+2619,anaml,נדיר,adjectives,1.55
+2620,pen,רגל,nouns,0.75
+2621,yn anghywir,בדיוק,adverbs,0.5
+2622,glân,מסודר,adjectives,2.65
+2623,gwn,אנשים,nouns,0.35
+2624,enwogrwydd,עושר,nouns,1.2
+2625,yn ddelfrydol,באופן מציאותי,adverbs,0.95
+2626,dyfnder,גודל,nouns,1.55
+2627,cuddwisgo,לכסות,verbs,2.5
+2628,cymdeithas,תרבות,nouns,1.35
+2629,dod â,להגיע,verbs,1.2
+2630,cyfreithlon,לא חוקי,adjectives,0.55
+2631,alcohol,בירה,nouns,2.5
+2632,hyder,עצמי,nouns,0.4
+2633,hir,צר,adjectives,1.1
+2634,dirprwy,קצין,nouns,1.6
+2635,cyhoeddi,להצהיר,verbs,4.55
+2636,penelin,קרסול,nouns,1.4
+2637,cynhesu,חימום מחדש,nouns,2.9
+2638,mawr,ענק,adjectives,3.9
+2639,tafod,גרון,nouns,0.75
+2640,benthyg,למכור,verbs,0.85
+2641,delwedd,השתקפות,nouns,1.25
+2642,ymddengys,להפוך,verbs,0.7
+2643,ymholi,לחשוב,verbs,1.15
+2644,balchder,שמחה,nouns,1.85
+2645,dadlau,לשכנע,verbs,1.75
+2646,glaswellt,שורש,nouns,0.85
+2647,cyfnos,ערב,nouns,3.55
+2648,anhygoel,רגיל,adjectives,0.4
+2649,dirywio,לנגב,verbs,0.3
+2650,gwestai,חבר,nouns,1.35
+2651,pen-blwydd,שנה,nouns,1.15
+2652,pîn-afal,טלפון סללורי,nouns,0.0
+2653,emosiwn,מצב רוח,nouns,2.8
+2654,pledio,להתחנן,verbs,4.3
+2655,arferol,משונה,adjectives,0.5
+2656,cosbi,להכות,verbs,1.4
+2657,digwydd,לעשות,verbs,1.0
+2658,chwipio,להכות,verbs,3.15
+2659,moleciwl,מטריצה,nouns,0.25
+2660,rhan,תקופה,nouns,4.0
+2661,gwenynen,מלכה,nouns,0.65
+2662,stêc,בשר,nouns,3.3
+2663,hawdd,גדול,adjectives,0.35
+2664,cefn,זנב,nouns,1.05
+2665,cig,לחם,nouns,0.55
+2666,cyrraedd,לעזוב,verbs,0.5
+2667,dyffryn,דיכאון,nouns,0.3
+2668,torf,חבורה,nouns,2.65
+2669,llyfr nodiadau,אקדח,nouns,0.0
+2670,gwastraffu,לדאוג,verbs,0.1
+2671,anwybyddu,לשכוח,verbs,1.2
+2672,hapus,צעיר,adjectives,0.5
+2673,noswaith,שקיעה,nouns,2.2
+2674,ceffyl,כלב,nouns,1.1
+2675,tlodi,עושר,nouns,0.7
+2676,dal,לשחרר,verbs,1.05
+2677,siarad,ללחוש,verbs,2.2
+2678,iogwrt,בקר,nouns,0.55
+2679,modd,דרך,nouns,4.25
+2680,tybio,להתחזות,verbs,0.3
+2681,tynnu,לדחוף,verbs,0.55
+2682,arian,מזומן,nouns,3.45
+2683,diwylliant,חברה,nouns,1.35
+2684,sefyll,לצעוד,verbs,1.1
+2685,bargen,אגורה,nouns,0.7
+2686,dal,לרדוף,verbs,1.55
+2687,dyddiad,יום הולדת,nouns,1.4
+2688,yn gain,יפה,adverbs,2.5
+2689,diogelu,להגן,verbs,4.25
+2690,etholiad,בחירה,nouns,2.85
+2691,sglodion,סמן,nouns,0.15
+2692,ardal,אזור,nouns,5.05
+2693,credyd,לווה,nouns,1.35
+2694,traethu,להזכיר,verbs,1.05
+2695,etholi,לדחות,verbs,0.1
+2696,caled,מורכב,adjectives,4.4
+2697,portreadu,לחקות,verbs,3.5
+2698,eira,תחזית,nouns,1.05
+2699,tasg,עבודה,nouns,3.45
+2700,egni,סוללה,nouns,2.45
+2701,yn gadarnhaol,כנראה,adverbs,1.2
+2702,afal,דיאטה,nouns,0.85
+2703,llygoden,מיכל,nouns,0.0
+2704,cywilydd,אשם,adjectives,1.4
+2705,eryr,בז,nouns,2.6
+2706,presenoldeb,דלת,nouns,0.15
+2707,pot,מכשיר,nouns,0.5
+2708,nenfwd,קתדרלה,nouns,0.45
+2709,yn swyddogol,בחוזקה,adverbs,0.1
+2710,ymdrechu,לעקל,verbs,0.25
+2711,mynd i mewn,ללכת,verbs,1.3
+2712,anifail,בהמה,nouns,3.15
+2713,digio,להעליב,verbs,3.2
+2714,organ,כלייה,nouns,2.35
+2715,sinamon,ממתק,nouns,1.0
+2716,dyffryn,קניון,nouns,3.5
+2717,yn amlwg,בוודאי,adverbs,2.85
+2718,mêl,סוכר,nouns,1.85
+2719,trefnus,מבולגן,adjectives,0.55
+2720,gadael,להיכנס,verbs,0.55
+2721,athro,חבר,nouns,0.75
+2722,mintys poethion,מסטיק,nouns,0.8
+2723,llifo,להיסחף,verbs,3.1
+2724,plasty,פסל,nouns,0.4
+2725,crio,לייבב,verbs,4.3
+2726,diflas,מצחיק,adjectives,0.5
+2727,yn dawel,באופן פסיבי,adverbs,1.15
+2728,emyn,קש,nouns,0.0
+2729,anfeidredd,אפס,nouns,0.6
+2730,ale,רחוב,nouns,3.2
+2731,niweidio,להקניט,verbs,1.5
+2732,glân,ללא רבב,adjectives,3.65
+2733,derbyn,למסור,verbs,0.55
+2734,brifo ,ליפול,verbs,1.55
+2735,niwrosis,נפש,nouns,1.2
+2736,anghefnogi,להרגיז,verbs,0.85
+2737,brecwast,בייקון,nouns,1.05
+2738,brest,גוף,nouns,1.3
+2739,unwaith,פעמיים,adverbs,1.15
+2740,crio,להתייפח,verbs,5.0
+2741,symbol,סימן,nouns,4.55
+2742,cyfrwys,קשוח,adjectives,0.25
+2743,gwaith cartref,חיבור,nouns,1.75
+2744,ffantasi,מציאות,nouns,0.95
+2745,hyblyg,גדול,adjectives,0.2
+2746,cadair,ספסל,nouns,2.8
+2747,tywydd,שלג,nouns,1.05
+2748,microsgop,ביולוג,nouns,0.95
+2749,babi,מבוגר,nouns,0.8
+2750,pennod,בחירה,nouns,0.1
+2751,gwawr,אקדח,nouns,0.0
+2752,ffurfdroad,זיהום,nouns,0.05
+2753,eang,צר,adjectives,0.55
+2754,torri,לסדוק,verbs,3.1
+2755,parti,מסיכה,nouns,0.6
+2756,aflonyddu,להבהיל,verbs,1.1
+2757,bachgen,חייל,nouns,0.65
+2758,ifanc,עצבני,adjectives,0.35
+2759,unwaith,מיידית,adverbs,0.75
+2760,gair,ספרות,nouns,1.4
+2761,yn annaturiol,באופן שלילי,adverbs,0.8
+2762,ffaith,הוכחה,nouns,1.2
+2763,coeden,מייפל,nouns,2.75
+2764,awst,חודש,nouns,2.25
+2765,danfon,לקבל,verbs,0.5
+2766,sudd,חלב,nouns,1.2
+2767,parti,אנשים,nouns,1.25
+2768,benthyg,להתחנן,verbs,0.35
+2769,perfedd,עצב,nouns,0.45
+2770,seicoleg,מדע,nouns,1.85
+2771,neuadd,מעבר,nouns,0.6
+2772,cofio,לחשוב,verbs,1.25
+2773,gwawr,יום,nouns,1.6
+2774,cythraul,מלאך,nouns,0.7
+2775,radar,ג'ויסטיק,nouns,0.15
+2776,seren,אסטרואיד,nouns,1.95
+2777,cywilydd,עצוב,adjectives,0.7
+2778,meteor,כבידה,nouns,0.8
+2779,car,צופר,nouns,0.85
+2780,cleddyf,סביבה,nouns,0.0
+2781,hercio,ללכת,verbs,0.75
+2782,marwolaeth,קבורה,nouns,1.8
+2783,gweiddi,לצעוק,verbs,4.1
+2784,pastai,שוקולד,nouns,0.65
+2785,soffistigedig,בוגר,adjectives,1.65
+2786,dicter,תסכול,nouns,2.35
+2787,mewnwelediad,אינטליגנציה,nouns,2.4
+2788,cerdded,לצלוע,verbs,0.75
+2789,erfyn,לבקש,verbs,3.0
+2790,pur,צנוע,adjectives,1.25
+2791,arbed,להרוס,verbs,0.35
+2792,homoffon,פוטופון,nouns,0.65
+2793,yn hapus,נמרצות,adverbs,0.3
+2794,car,טנק,nouns,1.15
+2795,ael,עין,nouns,1.1
+2796,te,לימון,nouns,0.8
+2797,blodyn,סבולת,nouns,0.1
+2798,menyw,ג'ינס,nouns,0.35
+2799,heliwm,אוויר,nouns,2.3
+2800,minc,שמן,nouns,0.15
+2801,yn ddibynadwy,בערך,adverbs,0.2
+2802,enillydd,מטרה,nouns,0.55
+2803,barn,בחירה,nouns,1.2
+2804,llyfr,נושא,nouns,0.63
+2805,gwn,תעלול,nouns,0.1
+2806,cynffon,עורף,nouns,1.05
+2807,chwim,מהיר,adjectives,5.2
+2808,ffabrig,פשתן,nouns,2.05
+2809,dewis,כלא,nouns,0.35
+2810,yn annibynnol,באופן אחראי,adverbs,0.8
+2811,mam,חבר,nouns,1.2
+2812,car,משאית,nouns,2.25
+2813,trasiedi,מוות,nouns,1.8
+2814,ffrind,מורה,nouns,0.75
+2815,dolen,חגורה,nouns,0.65
+2816,parêd,תזמורת,nouns,1.4
+2817,gwrthod,להודות,verbs,0.5
+2818,ymosodiad,פשע,nouns,2.45
+2819,cael,להשאיר,verbs,0.35
+2820,cwrw,שמפניה,nouns,1.75
+2821,yn derfynol,בעיקר,adverbs,0.4
+2822,pryf sidan,זחל,nouns,2.25
+2823,allanfa,זכות בחירה,nouns,0.05
+2824,cydsyniad,מטבע,nouns,0.6
+2825,lema,הברה,nouns,0.7
+2826,anonest,רע,adjectives,1.35
+2827,erydu,לאפשר,verbs,0.05
+2828,buddugoliaeth,הצלחה,nouns,3.6
+2829,mawr,עצום,adjectives,4.4
+2830,diamynedd,חרד,adjectives,0.75
+2831,dŵr,מלח,nouns,0.75
+2832,ceiniog,תשלום,nouns,1.25
+2833,storm,שלג,nouns,1.6
+2834,porth,דלת,nouns,3.45
+2835,gwresogydd,מטרייה,nouns,0.55
+2836,canolig,רע,adjectives,0.45
+2837,yn amlwg,בערך,adverbs,0.6
+2838,cân,סיפור,nouns,1.55
+2839,disgwyl,לעזוב,verbs,0.2
+2840,cymharu,לנתח,verbs,2.05
+2841,llyncu,לגמוע,verbs,2.85
+2842,ennill,לשלוט,verbs,2.4
+2843,cynilwr,חיסכון,nouns,1.75
+2844,dod,ללכת,verbs,1.05
+2845,yn fras,בקוצר רוח,adverbs,0.3
+2846,clogwyn,זנב,nouns,0.0
+2847,llawdriniaeth,לב,nouns,0.55
+2848,gorffen,לדחות,verbs,0.7
+2849,anrheg,סופר,nouns,0.65
+2850,fel mater o drefn,בדרך כלל,adverbs,4.15
+2851,brawd,בן,nouns,1.7
+2852,dyn,שומר,nouns,0.6
+2853,tasg,אישה,nouns,0.0
+2854,ofnus,לא בטוח,adjectives,1.75
+2855,yn afreolaidd,לרוב,adverbs,0.5
+2856,maint,עומק,nouns,1.55
+2857,teithio,ללכת,verbs,2.25
+2858,neigaredd,מלך,nouns,0.75
+2859,cydweithredu,להשתתף,verbs,1.65
+2860,drifftio,לזרום,verbs,3.1
+2861,crebachu,להיעלם,verbs,1.95
+2862,weithiau,לעיתים קרובות,adverbs,1.05
+2863,neidr,לטאה,nouns,1.65
+2864,gafael,לחבק,verbs,1.85
+2865,pibell,גינה,nouns,0.6
+2866,cael,לקחת,verbs,1.25
+2867,deall,לספק,verbs,0.45
+2868,bydysawd,שמיים,nouns,1.4
+2869,anaeddfed,חסר אחריות,adjectives,2.1
+2870,iris,אצטילכולין,nouns,0.35
+2871,yn hanfodol,אנושות,adverbs,0.0
+2872,gair,עיתון,nouns,1.05
+2873,mynd  ,לשלוח,verbs,0.9
+2874,priodfab,כלה,nouns,1.7
+2875,cytundeb,חור,nouns,0.0
+2876,côr,כנסייה,nouns,1.05
+2877,dyn,שותף,nouns,1.2
+2878,twp,פתי,adjectives,1.6
+2879,trefnu,לסדר,verbs,5.4
+2880,haul,שמיים,nouns,1.05
+2881,car,כביש,nouns,1.1
+2882,clywed,לדבר,verbs,0.85
+2883,yn anaml,לעיתים קרובות,adverbs,0.6
+2884,byth,שלילי,adjectives,1.1
+2885,llac,גמיש,adjectives,1.25
+2886,deintydd,דוקטור,nouns,4.55
+2887,nerf,מעי,nouns,0.45
+2888,terfyn,גבול,nouns,4.2
+2889,gwraig,סנט,nouns,0.05
+2890,pen,אלפבית,nouns,0.4
+2891,cymdeithas,מועדון,nouns,2.75
+2892,ffordd,כביש מהיר,nouns,4.15
+2893,poster,נייר,nouns,1.8
+2894,cywilydd,צער,nouns,1.2
+2895,traethawd,שיעורי בית,nouns,1.75
+2896,diod,בירה,nouns,2.15
+2897,egluro,להגדיר,verbs,2.8
+2898,trallod,ייאוש,nouns,3.1
+2899,cadair,שרפרף,nouns,3.1
+2900,rhyfelwr,גבר,nouns,1.05
+2901,pren,שמיכה,nouns,0.15
+2902,cyfnewid,מטבע,nouns,1.0
+2903,rheoli,לעצור,verbs,0.45
+2904,tywysoges,אי,nouns,0.3
+2905,brwydro,לנשוך,verbs,0.65
+2906,diogel,חוקי,adjectives,0.9
+2907,stumog,קורס,nouns,0.0
+2908,llwyddo,לנסות,verbs,1.3
+2909,polyhedron,שחקן,nouns,0.6
+2910,twf,דשן,nouns,1.05
+2911,unigryw,הפוך,adjectives,0.15
+2912,trosedd,הפרה,nouns,1.6
+2913,treisgar,כועס,adjectives,1.2
+2914,argyfwng,תאונה,nouns,1.85
+2915,croes,נזיר,nouns,0.9
+2916,brawd,אחות,nouns,2.35
+2917,ffin,תחום,nouns,4.2
+2918,yn amlwg,בוודאי,adverbs,3.05
+2919,deiet,תפוח,nouns,0.85
+2920,tywydd,ענן,nouns,1.1
+2921,rheolaeth,משרה,nouns,0.8
+2922,ffres,ישן,adjectives,0.5
+2923,stôl,כיסא,nouns,3.1
+2924,pobl,בלון,nouns,0.1
+2925,blodyn,אמונה,nouns,0.0
+2926,twr,פעמון,nouns,0.65
+2927,casáu,לבקר,verbs,0.7
+2928,gwisg,כדור,nouns,0.25
+2929,chwalu,לנפץ,verbs,5.0
+2930,ystafell wely,אופניים,nouns,0.15
+2931,yn sicr,בברור,adverbs,3.05
+2932,lemwn,תפוח,nouns,1.65
+2933,annog,לדכא,verbs,0.5
+2934,llyn,ענן,nouns,0.55
+2935,yn gyfiawn,בבגרות,adverbs,0.55
+2936,clecs,חדשות,nouns,2.5
+2937,athletwr,אצן,nouns,2.6
+2938,cydweithredu,להצטרף,verbs,1.2
+2939,canwr,שחקן,nouns,1.45
+2940,gwerthfawr,קדוש,adjectives,1.85
+2941,ar ôl,לפני,adverbs,0.55
+2942,dod â,לשאת,verbs,1.95
+2943,gweriniaeth,דוכס,nouns,0.5
+2944,dysgu,להעניש,verbs,0.55
+2945,yn bennaf,לעומק,adverbs,0.65
+2946,syfrdanu,לחגוג,verbs,0.65
+2947,gwely,מרפאה,nouns,0.85
+2948,ehangu,לגדול,verbs,4.35
+2949,pen-glin,זרוע,nouns,1.1
+2950,cofleidio,להחזיק,verbs,1.85
+2951,aseiniad,משימה,nouns,5.15
+2952,dysgu,לספוג,verbs,1.25
+2953,braf,אכזרי,adjectives,0.4
+2954,dde,צדק,nouns,0.55
+2955,mynd  ,להתחיל,verbs,0.35
+2956,gadael,להישאר,verbs,0.55
+2957,tristwch,שמחה,nouns,0.75
+2958,mynd o'r golwg,להיעלם,verbs,5.0
+2959,yn amlwg,באופן מקומי,adverbs,0.1
+2960,pennod,לילה,nouns,0.05
+2961,twp,מטומטם,adjectives,5.05
+2962,yn bennaf,לרוב,adverbs,3.8
+2963,cyrnol,רופא,nouns,0.3
+2964,chwilio,לצוד,verbs,2.2
+2965,dyfarniad,משפט,nouns,2.15
+2966,chwibanu,לעצור,verbs,0.15
+2967,metel,אלומיניום,nouns,2.55
+2968,dilyn,לרדוף,verbs,1.85
+2969,menyw,מזכירה,nouns,0.85
+2970,lan,חוף,nouns,2.95
+2971,ymddiried,להסתמך,verbs,3.65
+2972,mwtant,סוציוביולוגיה,nouns,0.5
+2973,gweddïo,לתקשר,verbs,1.05
+2974,dillad,מעיל,nouns,1.73
+2975,meddwl,לנסות,verbs,0.4
+2976,cysur,בטיחות,nouns,1.0
+2977,nerf,גוף,nouns,0.65
+2978,cyflogwr,עובד,nouns,1.05
+2979,gwerthfawr,עצלן,adjectives,0.0
+2980,rheolwr,מנהיג,nouns,3.45
+2981,anghwrtais,תוקפני,adjectives,1.1
+2982,tywydd,גל,nouns,0.3
+2983,gwirio,להגיד,verbs,0.55
+2984,pechadur,קדוש,nouns,0.8
+2985,delwedd,רעיון,nouns,0.9
+2986,siwmper,מעיל,nouns,1.95
+2987,athro,עוזר,nouns,1.85
+2988,yn ddigynnwrf,בנחישות,adverbs,0.75
+2989,biliwnydd,חסר בית,nouns,0.5
+2990,deiet,סלט,nouns,1.1
+2991,metr,אינץ',nouns,1.45
+2992,cymryd,להחזיק,verbs,1.4
+2993,saws,תפוח,nouns,0.55
+2994,haf,חורף,nouns,1.1
+2995,tudalen,מילה,nouns,1.0
+2996,amaethyddiaeth,צמח,nouns,1.15
+2997,pinsio,לחבוט,verbs,0.8
+2998,lleihau,לספוג,verbs,0.25
+2999,afu,איבר,nouns,1.65
+3000,gwddf,לשון,nouns,0.75
+3001,coroni,מים,nouns,0.05
+3002,hawdd,מורכב,adjectives,0.45
+3003,cwrs,בטן,nouns,0.0
+3004,gweithgaredd,תנועה,nouns,1.45
+3005,corff,חזה,nouns,1.3
+3006,trefnu,לצרוך,verbs,0.15
+3007,cadw,להחזיק,verbs,2.8
+3008,dechrau,להפסיק,verbs,0.5
+3009,trefnu,להפוך,verbs,0.55
+3010,cwmwl,אגם,nouns,0.55
+3011,anhapus,משוגע,adjectives,0.6
+3012,amlwg,גלוי,adjectives,2.85
+3013,trafferthu,להחמיר,verbs,0.45
+3014,dyn,חתיך,nouns,1.1
+3015,llyfr,מאמר,nouns,1.4
+3016,gwrthddadlau,לדון,verbs,3.0
+3017,bàth,רעיה,nouns,0.05
+3018,offeryn,כינור,nouns,1.9
+3019,yn fanwl gywir,שגוי,adjectives,0.55
+3020,braich,גוף,nouns,1.2
+3021,darganfod,לברוח,verbs,0.45
+3022,ceinder,סגנון,nouns,2.2
+3023,unig,מסכן,adjectives,0.85
+3024,trefn,תפריט,nouns,0.8
+3025,jin,וויסקי,nouns,2.65
+3026,gwadu,וידוי,nouns,0.5
+3027,newydd,לא משומש,adjectives,4.15
+3028,methu,לפגוע,verbs,0.55
+3029,cymhwysedd,יכולת,nouns,4.25
+3030,gweithiwr,מעסיק,nouns,1.05
+3031,cyfnewid,תחליף,nouns,3.35
+3032,modryb,אחיין,nouns,1.1
+3033,creulon,נחמד,adjectives,0.4
+3034,cyffredin,מדהים,adjectives,0.4
+3035,sylw,מודעות,nouns,1.85
+3036,gair,עמוד,nouns,1.0
+3037,gwesty,דירה,nouns,0.9
+3038,eisiau,להשאיל,verbs,0.2
+3039,prin,מטומטם,adjectives,0.1
+3040,hedyn,מטחנה,nouns,0.55
+3041,rhaniad,כפל,nouns,1.35
+3042,plesio,להסכים,verbs,0.85
+3043,ffidil,כלי,nouns,1.9
+3044,bisged,נסיכה,nouns,0.0
+3045,fel arfer,באופן לא סדיר,adverbs,0.5
+3046,cyfuniad,קנה סוכר,nouns,0.25
+3047,goruchafiaeth,אומניפוטנטיות,nouns,2.15
+3048,cynfas,מטוס,nouns,0.0
+3049,gwthio,להאשים,verbs,0.25
+3050,gludiog,מלוכלך,adjectives,0.75
+3051,yn negyddol,באופן לא טבעי,adverbs,0.8
+3052,yn heddychlon,בגאווה,adverbs,0.15
+3053,crwydro,לנדוד,verbs,4.25
+3054,gwasgu,לחבק,verbs,1.55
+3055,disgleirdeb,כוכב,nouns,1.25
+3056,mwynhau,לבדר,verbs,1.4
+3057,stori,ספר,nouns,2.15
+3058,gwerthu,ללכת,verbs,0.05
+3059,crwydro,לעזוב,verbs,1.15
+3060,llywydd,מצלמה,nouns,0.05
+3061,cysylltu,להפריד,verbs,0.55
+3062,senoffobia,גזענות,nouns,2.9
+3063,cyfiawnhau,לטעון,verbs,1.1
+3064,rhanbarth,שטח,nouns,5.0
+3065,ffôn,קורבן,nouns,0.15
+3066,ras,סוף שבוע,nouns,0.05
+3067,pwerus,עוצמתי,adjectives,5.0
+3068,hiliaeth,קסנופוביה,nouns,2.9
+3069,esgus,להראות,verbs,0.7
+3070,yn ddiogel,בשמחה,adverbs,0.3
+3071,salad,חומץ,nouns,0.75
+3072,lori,מכונית,nouns,2.25
+3073,gwael,גאה,adjectives,0.15
+3074,ffenestr,דלת,nouns,1.15
+3075,mawr,לאומי,adjectives,0.65
+3076,rhifyddeg,קצב,nouns,0.1
+3077,eirlithriad,שלג,nouns,1.55
+3078,cyw iâr,אורז,nouns,0.65
+3079,papur,פוסטר,nouns,1.8
+3080,gadael,לנדוד,verbs,1.15
+3081,mwgwd,מסיבה,nouns,0.6
+3082,barnu,להחליט,verbs,2.35
+3083,eglwys gadeiriol,תקרה,nouns,0.45
+3084,nenfwd,גג,nouns,4.1
+3085,maer,נשיא,nouns,1.85
+3086,clwb,חברה,nouns,2.75
+3087,gwenith,דגנים,nouns,2.5
+3088,nerf,מוח,nouns,0.8
+3089,ymwybyddiaeth,עניין,nouns,1.85
+3090,anodd,קשה,adjectives,4.4
+3091,taclus,נקי,adjectives,2.65
+3092,plesio,לבדר,verbs,1.3
+3093,ennill,להביס,verbs,4.25
+3094,carchariad,תא,nouns,1.8
+3095,cymryd,לשאת,verbs,1.3
+3096,ffilm,סרט,nouns,3.65
+3097,archwilio,להתעלם,verbs,0.3
+3098,twp,עקשן,adjectives,0.5
+3099,cadair,טלסקופ,nouns,0.15
+3100,hynafol,חדש,adjectives,0.5
+3101,hwyl,כדורגל,nouns,0.55
+3102,presenoldeb,מנצח,nouns,0.0
+3103,alcohol,קוקטייל,nouns,2.1
+3104,yn hawdd,בערך,adverbs,0.2
+3105,clogwyn,גבעה,nouns,1.9
+3106,caniatáu,לשחוק,verbs,0.05
+3107,ymyriad,פשע,nouns,1.6
+3108,cyfrifiadur,דיסק,nouns,0.9
+3109,chwilio,לתשאל,verbs,1.3
+3110,carbon,אטום,nouns,1.25
+3111,awgrymu,לייעץ,verbs,3.25
+3112,arbed,להושיע,verbs,5.2
+3113,nofel,סופר,nouns,1.4
+3114,melin,זרע,nouns,0.55
+3115,penderfynu,להסיק,verbs,1.1
+3116,yn greadigol,במקור,adverbs,1.05
+3117,eglwys,קתדרלה,nouns,3.8
+3118,hyrwyddo,להתקדם,verbs,2.05
+3119,trydanol,מכני,adjectives,0.85
+3120,cadw,להשאיל,verbs,0.65
+3121,alcohol,ויסקי,nouns,2.25
+3122,cadair,ספה,nouns,2.45
+3123,darllen,לנשוך,verbs,0.0
+3124,aer,הליום,nouns,2.3
+3125,cyfathrebu,להתפלל,verbs,1.05
+3126,gwaed,בשר,nouns,1.2
+3127,styfnig,טיפש,adjectives,0.5
+3128,preifat,ציבורי,adjectives,0.55
+3129,crensian,לפצח,verbs,0.8
+3130,menyw,פרווה,nouns,0.25
+3131,argymell,לקבל,verbs,0.75
+3132,uno,להינשא,verbs,3.5
+3133,blwch,מעלית,nouns,0.3
+3134,gwaed,גוף,nouns,1.05
+3135,hawdd,קשה,adjectives,0.5
+3136,euog,כן,adjectives,0.35
+3137,maint,סנט,nouns,0.1
+3138,blawd,לחם,nouns,1.25
+3139,beirniadaeth,טיעון,nouns,1.6
+3140,cychwyn,התחיל,verbs,5.6
+3141,camera,עובד,nouns,0.1
+3142,ffres,רחב,adjectives,0.05
+3143,cyfraniad,מנחה,nouns,2.35
+3144,gair,רמז,nouns,0.55
+3145,tad,בת,nouns,1.1
+3146,sinema,טלויזיה,nouns,1.85
+3147,dygnwch,רצועה,nouns,0.1
+3148,gludiog,רטוב,adjectives,0.7
+3149,bwlch,סיגר,nouns,0.35
+3150,ffrind,אמא,nouns,1.2
+3151,dryswch,היסטריה,nouns,1.55
+3152,tywod,רגל,nouns,0.3
+3153,rhwygo,ללבוש,verbs,0.15
+3154,mawr,גמיש,adjectives,0.2
+3155,meddwl,להצדיק,verbs,2.0
+3156,clyfar,מטומטם,adjectives,0.45
+3157,awyr,חלום,nouns,0.5
+3158,firws,דם,nouns,0.85
+3159,llwm,משעמם,adjectives,3.35
+3160,bronceitus,פרצטמול,nouns,0.8
+3161,môr,נהר,nouns,1.7
+3162,anialwch,דיונה,nouns,1.45
+3163,siart,גרף,nouns,4.3
+3164,ffêr,מרפק,nouns,1.4
+3165,lemwn,תה,nouns,0.8
+3166,banc,מושב,nouns,0.1
+3167,ale,קערה,nouns,0.0
+3168,bws,מונית,nouns,1.55
+3169,undeb,קומבינציה,nouns,2.55
+3170,ffwr,אקדח,nouns,0.05
+3171,yn ddibynadwy,באופן סביל,adverbs,0.6
+3172,fector,מטריצה,nouns,1.95
+3173,gwneud,לקרות,verbs,1.0
+3174,cosbi,ללמד,verbs,0.55
+3175,mefus,דובדבן,nouns,1.5
+3176,llo,שור,nouns,2.2
+3177,brwydro,לחלוק,verbs,1.2
+3178,cerdd,מקצב,nouns,1.65
+3179,traethawd,ספר,nouns,1.2
+3180,dirmygu,להאשים,verbs,0.4
+3181,cul,רחב,adjectives,0.55
+3182,jin,אלכוהול,nouns,2.1
+3183,gwydn,ערמומי,adjectives,0.25
+3184,diogelwch,נוחות,nouns,1.0
+3185,gadael,להתחיל,verbs,0.5
+3186,nodyn,תשלום,nouns,0.05
+3187,allwedd,מנעול,nouns,1.3
+3188,afu,ריאה,nouns,1.15
+3189,gwaethygu,להטריח,verbs,0.45
+3190,adeiladwaith,הרס,nouns,0.55
+3191,nam,מערכת,nouns,0.2
+3192,gwerthu,להזכיר,verbs,0.0
+3193,sarhau,לפגוע,verbs,3.2
+3194,amrwd,מכוער,adjectives,0.75
+3195,ffensio,התעמלות,nouns,0.85
+3196,beirniadol,חצוף,adjectives,1.0
+3197,gostwng,להקטין,verbs,4.3
+3198,cell,מעצר,nouns,1.8
+3199,tasg,אי,nouns,0.0
+3200,cefnfor,ים,nouns,3.75
+3201,yn wir,לחלוטין,adverbs,1.15
+3202,mosäig,בזיליקה,nouns,1.4
+3203,anghywir,מדוייק,adjectives,0.55
+3204,rhifyddeg,היגיון,nouns,1.05
+3205,amsugno,ללמוד,verbs,1.25
+3206,dicter,מצב,nouns,0.75
+3207,nai,דודה,nouns,1.1
+3208,mewnwelediad,עובדה,nouns,1.5
+3209,cyhoeddi,ליידע,verbs,4.6

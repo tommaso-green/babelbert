@@ -1,0 +1,3275 @@
+ID,CYM,FIN,PoS,score
+1,menyn,peruna,nouns,0.5
+2,degawd,vuosisata,nouns,0.9
+3,yn fanwl gywir,väärä,adjectives,0.1
+4,gitâr,taimen,nouns,0.0
+5,danfon,laukaista,verbs,1.65
+6,pêl-fasged,pesäpallo,nouns,2.15
+7,cân,balladi,nouns,4.25
+8,dal gafael,pitää,verbs,4.3
+9,brandi,alkoholi,nouns,2.55
+10,dadlau,suostutella,verbs,1.2
+11,sgriblo,kirjoittaa,verbs,3.2
+12,byth,myöhemmin,adverbs,0.7
+13,anghwrtais,kriittinen,adjectives,0.85
+14,steil,muoti,nouns,4.35
+15,gwefrydd,levy,nouns,0.05
+16,sigâr,laatikko,nouns,0.15
+17,byd,maapallo,nouns,4.5
+18,dweud,varmistaa,verbs,0.65
+19,gwellt,vaimo,nouns,0.0
+20,cydweithredu,ottaa osaa,verbs,2.2
+21,ceisio,vakuuttaa ,verbs,0.15
+22,cymryd rhan,tehdä yhteistyötä,verbs,2.2
+23,pen,nenä,nouns,1.1
+24,digon,yltäkylläisyys,nouns,4.75
+25,gweinidogaeth,sulttaani,nouns,0.25
+26,cell,huone,nouns,1.65
+27,dwywaith,kerran,adverbs,0.85
+28,herwgipio,varastaa,verbs,2.65
+29,cyw iâr,pihvi,nouns,0.85
+30,cinio,voileipä,nouns,1.35
+31,crys,neuletakki,nouns,1.3
+32,gwaed,kurpitsa,nouns,0.3
+33,siocled,piirakka,nouns,0.45
+34,ystafell ymolchi,keittiö,nouns,1.1
+35,glaw,tihkusade,nouns,3.95
+36,gwirod,viini,nouns,2.1
+37,dinistrio,muodostaa,verbs,0.25
+38,roboteg,simulaatio,nouns,0.5
+39,pensil,tarina,nouns,0.35
+40,symbol,merkki,nouns,4.9
+41,creu,kuvitella,verbs,0.9
+42,awyren,lentokenttä,nouns,1.45
+43,crebachu,kasvaa,verbs,0.25
+44,perswadio,kiistellä,verbs,1.2
+45,argymell,hyväksyä,verbs,0.8
+46,darn,lentokenttä,nouns,0.0
+47,hardd,ihmeellinen,adjectives,1.3
+48,pryf sidan,toukka,nouns,2.85
+49,dinistrio,valmistaa,verbs,0.25
+50,deall,tyydyttää,verbs,0.35
+51,dosbarth,kaaos,nouns,0.05
+52,credu,hyväksyä,verbs,1.3
+53,arnofio,laulaa,verbs,0.0
+54,yn llachar,kevyesti,adverbs,0.6
+55,pobl,ilmapallo,nouns,0.0
+56,gwaith cartref,essee,nouns,1.9
+57,ecosystem,talous,nouns,0.45
+58,gwydr,kunniamerkki,nouns,0.0
+59,gweithred,kurssi,nouns,0.1
+60,dod â,lähettää,verbs,1.0
+61,breuddwyd,taivas,nouns,0.15
+62,ysgubell,pöly,nouns,0.45
+63,angenrheidiol,tarpeeton,adjectives,0.2
+64,yn achlysurol,säännöllisesti,adverbs,0.5
+65,pwyll,huolenpito,nouns,2.35
+66,strwythur,topologia,nouns,2.0
+67,gair,kirjallisuus,nouns,1.05
+68,llyfr,käsikirjoitus,nouns,1.65
+69,anghofio,säilyttää,verbs,0.05
+70,colli,saada,verbs,0.1
+71,parêd,yhtye,nouns,0.6
+72,cath,koira,nouns,1.25
+73,anghwrtais,äänekäs,adjectives,0.4
+74,cynorthwyo,kysyä,verbs,0.35
+75,gwn,temppu,nouns,0.0
+76,nerf,aivot,nouns,1.4
+77,hwyliau,viha,nouns,0.65
+78,yn annaturiol,negatiivisesti,adverbs,0.45
+79,enfawr,tähtitieteellinen,adjectives,1.05
+80,asid,pohja,nouns,0.0
+81,modd,muoti,nouns,0.05
+82,dadelfennu,tekijöihinjako,nouns,0.85
+83,cynllwyniwr,strategi,nouns,3.15
+84,mwstard,siemen,nouns,0.7
+85,ufuddhau,kuunnella,verbs,1.25
+86,ehangu,kasvaa,verbs,3.9
+87,arwr,sankaritar,nouns,3.8
+88,tybio,ennustaa,verbs,1.85
+89,criced,tukija,nouns,0.05
+90,fel arfer,epänormaalisti,adverbs,0.35
+91,fel mater o drefn,normaalisti,adverbs,3.7
+92,noswaith,auringonlasku,nouns,2.2
+93,ymyriad,rikos,nouns,1.45
+94,asgwrn cefn,niska,nouns,1.05
+95,pryd bwyd,vyötärö,nouns,0.05
+96,ofnus,ahdistunut,adjectives,3.4
+97,ofnus,epävarma,adjectives,1.5
+98,archwilio,sivuuttaa,verbs,0.05
+99,ymddangos,jättää,verbs,0.05
+100,bachgen,sotilas,nouns,0.8
+101,plasty,kuvanveistäjä,nouns,0.2
+102,cadernid,vahvuus,nouns,3.8
+103,amsugno,oppia,verbs,1.4
+104,mynd i mewn,mennä,verbs,1.45
+105,rhyddhau,painaa,verbs,0.05
+106,heno,huomenna,adverbs,0.55
+107,pont,auto,nouns,0.3
+108,sychu,heikentyä,verbs,0.35
+109,stopio,hallita,verbs,0.3
+110,rheolaidd,keskimääräinen,adjectives,0.75
+111,hydoddi,sulaa,verbs,3.3
+112,galaeth,astronomi,nouns,0.5
+113,bwlb,kukka,nouns,0.3
+114,myfyriwr,oppilas,nouns,5.05
+115,pibell,auto,nouns,0.0
+116,rhad,likainen,adjectives,0.1
+117,doniol,tylsä,adjectives,0.25
+118,yn fecanyddol,ihanteellisesti,adverbs,0.0
+119,penelin,nilkka,nouns,1.1
+120,cadw,vaalia,verbs,1.55
+121,newyddion,väliaine,nouns,0.15
+122,cig,leipä,nouns,0.55
+123,ceirchen,pelto,nouns,0.45
+124,llinyn,auringonlasku,nouns,0.0
+125,glaswellt,sammal,nouns,1.4
+126,yn anhygoel,mahtavasti,adverbs,4.7
+127,pennod,valinta,nouns,0.1
+128,dinistrio,biohajota,verbs,1.1
+129,wedi'i goginio,keitetty,adjectives,2.9
+130,amgueddfa,minttu,nouns,0.0
+131,hawdd,joustava,adjectives,1.1
+132,corws,laulaja,nouns,1.45
+133,gwddf,käsivarsi,nouns,0.7
+134,meddyg,lääkäri,nouns,4.85
+135,tebyg,samannäköinen,adjectives,4.15
+136,jîns,nainen,nouns,0.05
+137,tad,äiti,nouns,1.6
+138,tynnu,työntää,verbs,0.3
+139,awgrymu,neuvoa,verbs,2.7
+140,pobl,populaatio,nouns,2.8
+141,cymryd,päästä,verbs,0.55
+142,angor,vene,nouns,0.85
+143,yn annheg,kohtuuttomasti,adverbs,3.05
+144,bwlch,sikari,nouns,0.15
+145,hashnod,aihe,nouns,0.55
+146,buan,nopea,adjectives,4.5
+147,cyfnewid,korvaaminen,nouns,3.5
+148,poeni,tuhlata,verbs,0.05
+149,torf,paraati,nouns,1.75
+150,diddordeb,huomio,nouns,2.85
+151,cymysgu,kypsentää,verbs,0.65
+152,gwybod,antaa,verbs,0.15
+153,yn ddigynnwrf,lujasti,adverbs,0.65
+154,dimai,koko,nouns,0.65
+155,rhannu,kertoa,verbs,0.9
+156,cyflwr,poika,nouns,0.0
+157,symud,pujotella,verbs,0.55
+158,pili-pala,ruusu,nouns,0.35
+159,yn ystyrlon,erityisesti,adverbs,0.95
+160,log,puumateriaali,nouns,3.6
+161,trwyn,kurkku,nouns,0.95
+162,athro,kouluttaja,nouns,4.25
+163,addurn,seinä,nouns,0.35
+164,ffa,riisi,nouns,1.0
+165,chwipio,lyödä,verbs,3.0
+166,gwisg unffurf,virkkaus,nouns,0.0
+167,syniad,mielipide,nouns,2.35
+168,cymysg,vanha,adjectives,0.1
+169,ci,kissa,nouns,1.25
+170,anghofio,oppia,verbs,0.35
+171,storm,pilvi,nouns,0.9
+172,brawdgarwch,pesäpallo,nouns,0.0
+173,ffôn,koju,nouns,0.0
+174,chwyrnu,herättää,verbs,0.2
+175,anghofio,tietää,verbs,0.2
+176,ewyllys,tarkoitus,nouns,1.8
+177,gorffwyll,järjetön,adjectives,4.3
+178,apwyntiad,sitoumus,nouns,0.25
+179,byddin,legioona,nouns,3.1
+180,yn uchel,mielettömästi,adverbs,0.35
+181,dychmygu,teeskennellä,verbs,1.55
+182,cydio,tarttua,verbs,1.35
+183,yn sicr,ilmiselvästi,adverbs,3.15
+184,anghenus,avuton,adjectives,1.0
+185,eglwys gadeiriol,kirkko,nouns,3.75
+186,yn llachar,suuresti,adverbs,0.45
+187,gallu,pätevyys,nouns,4.35
+188,aseiniad,viesti,nouns,0.8
+189,bydiaeth,viisumi,nouns,0.35
+190,pennaeth,pormestari,nouns,1.45
+191,ffenestr,katto,nouns,0.55
+192,brifo ,kaatua,verbs,1.15
+193,plismon,poliitikko,nouns,0.45
+194,bàth,huone,nouns,0.25
+195,nodyn,korvaus,nouns,0.05
+196,gwrtaith,kasvu,nouns,0.8
+197,masarnen,tammi,nouns,1.8
+198,cul,laaja,adjectives,0.2
+199,plât,kulho,nouns,1.85
+200,chwalu,murskata,verbs,4.55
+201,car,hissi,nouns,0.15
+202,siarad,tunnustaa,verbs,0.8
+203,caseg,hevonen,nouns,4.1
+204,creigres,ranta,nouns,0.85
+205,machlud haul,pöytä,nouns,0.0
+206,cofio,ajatella,verbs,0.9
+207,potel,säilytysastia,nouns,2.5
+208,bachgen,lapsi,nouns,2.05
+209,llo,sonni,nouns,2.05
+210,gwern,järvi,nouns,1.4
+211,matrics,vektori,nouns,1.3
+212,cicio,sattua,verbs,1.2
+213,talwrn,lentoperämies,nouns,0.25
+214,sy'n dod i mewn,ulospäinsuuntautunut,adjectives,0.15
+215,dinistrio,tappaa,verbs,3.15
+216,collfarnu,torjua,verbs,0.75
+217,arf,kypärä,nouns,0.6
+218,yn ddiweddar,nykyään,adverbs,1.3
+219,rhoi,pitää,verbs,0.25
+220,taliad,palkinto,nouns,2.2
+221,cymryd rhan,sanoa,verbs,0.25
+222,botwm,vaatteet,nouns,0.8
+223,amlwg,julkistamaton,adjectives,0.1
+224,gwyddoniaeth,psykologia,nouns,2.0
+225,twp,itsepäinen,adjectives,0.45
+226,drws,oviaukko,nouns,3.75
+227,cyhuddo,valehdella,verbs,0.35
+228,hedyn,mylly,nouns,0.25
+229,stopio,varoittaa,verbs,0.75
+230,morgrugyn,mehiläinen,nouns,1.2
+231,cyffes,kieltäminen,nouns,0.3
+232,malu,kolahtaa,verbs,0.5
+233,alltud,alieni,nouns,3.85
+234,ffuglen,elämäkerta,nouns,0.5
+235,gwartheg,naudanliha,nouns,2.9
+236,yn fras,kärsimättömästi,adverbs,0.55
+237,profocio,sattua,verbs,0.55
+238,danfon,tuoda,verbs,1.0
+239,maes awyr,pala,nouns,0.0
+240,gorlethu,tukahduttaa,verbs,2.5
+241,môr,ranta,nouns,1.4
+242,cyfaddef,kiistää,verbs,0.2
+243,cyfnewid,valuutta,nouns,0.4
+244,cinio,ateria,nouns,3.2
+245,gwely,valmentaja,nouns,0.35
+246,pêl-droed,futis,nouns,5.85
+247,arian parod,raha,nouns,3.55
+248,iâr,lintu,nouns,2.7
+249,prynu,saada,verbs,0.95
+250,beio,moittia,verbs,4.6
+251,gweithiwr,työnantaja,nouns,0.9
+252,torf,joukkio,nouns,4.95
+253,yn union,epätäsmällisesti,adverbs,0.2
+254,fel arfer,rutiininomaisesti,adverbs,3.7
+255,syml,kova,adjectives,0.0
+256,balŵn,ihmiset,nouns,0.0
+257,cig,naudanliha,nouns,3.1
+258,cystrawen,hakusana,nouns,0.7
+259,dŵr,kuivuus,nouns,0.2
+260,stumog,kurssi,nouns,0.0
+261,tric,ase,nouns,0.0
+262,miliwnydd,dollari,nouns,0.65
+263,arogli,pilata,verbs,0.05
+264,sgriptiwr,televisio,nouns,0.4
+265,caniatáu,jäytää,verbs,0.0
+266,derbyn,saada kiinni,verbs,1.45
+267,allbriodasol,mainitsematon,adjectives,0.0
+268,nod,voittaja,nouns,0.5
+269,dec,lattia,nouns,1.5
+270,brawdgarwch,miehet,nouns,1.3
+271,hyfforddwyr,mitali,nouns,0.2
+272,gardd,letku,nouns,0.25
+273,chwibanu,pysähtyä,verbs,0.1
+274,dosbarthu,kantaa,verbs,2.35
+275,cemeg,teoria,nouns,0.3
+276,coflaid,halailla,verbs,4.25
+277,mintys,museo,nouns,0.0
+278,athletwr,juoksija,nouns,2.9
+279,gaeaf,kesä,nouns,0.95
+280,balchder,ilo,nouns,1.7
+281,wisgi,shamppanja,nouns,1.4
+282,aderyn,haukka,nouns,2.65
+283,siampên,olut,nouns,1.25
+284,tymer,tohtori,nouns,0.0
+285,mam,isä,nouns,1.6
+286,dringo,patikoida,verbs,2.3
+287,yn anaml,usein,adverbs,0.25
+288,heddwch,sotilas,nouns,0.2
+289,yn anhygoel,suuresti,adverbs,1.0
+290,drws,veljeskunta,nouns,0.0
+291,telesgop,tuoli,nouns,0.0
+292,dillad,nappi,nouns,0.8
+293,yn weithredol,passiivisesti,adverbs,0.2
+294,gwaed,liha,nouns,0.95
+295,ychwanegu,jakaa,verbs,0.5
+296,mwslim,piispa,nouns,0.3
+297,cadno,ajokoira,nouns,1.15
+298,mynd  ,jättää,verbs,1.25
+299,yn gyfrifol,luotettavasti,adverbs,3.6
+300,dod yn,menestyä,verbs,0.6
+301,cymdeithas,kerho,nouns,3.6
+302,anodd ei gael,harvinainen,adjectives,2.05
+303,anghyfreithlon,lainmukainen,adjectives,0.25
+304,athronydd,kilpaileminen,nouns,0.0
+305,aros,säilyttää,verbs,0.55
+306,cuddwisgo,peittää,verbs,2.65
+307,nerth,valmiudet,nouns,1.95
+308,arsylwi,katsella,verbs,3.25
+309,cyhuddo,syyttää,verbs,4.6
+310,dysgu,rangaista,verbs,0.4
+311,coflaid,tukahduttaa,verbs,0.35
+312,ewythr,täti,nouns,1.65
+313,tafod,lihas,nouns,1.8
+314,rhoi,kiistää,verbs,0.0
+315,treth,tulo,nouns,0.65
+316,salwch,kuume,nouns,3.05
+317,calon,kirurgia,nouns,0.4
+318,llyfr nodiadau,ase,nouns,0.0
+319,priodfab,morsian,nouns,1.4
+320,llawr,katto,nouns,0.65
+321,amddiffyn,pitää,verbs,0.95
+322,offeiriad,profeetta,nouns,1.35
+323,bara,liha,nouns,0.55
+324,chwerthin,laulaa,verbs,0.45
+325,cywilydd,syyllinen,adjectives,1.45
+326,dewis,poimia,verbs,3.95
+327,yr wyddor,kuulakärkikynä,nouns,0.05
+328,yn fras,luotettavasti,adverbs,0.05
+329,misol,viikottainen,adjectives,1.1
+330,llwyddo,yrittää,verbs,0.9
+331,yn agored,massiivisesti,adverbs,0.35
+332,handlen,valkuaisaine,nouns,0.0
+333,prysur,laiska,adjectives,0.15
+334,beddrod,hauta,nouns,1.1
+335,ymosod,pahentaa,verbs,0.3
+336,addurn,kirjekuori,nouns,0.05
+337,cymysgu,juoda,verbs,0.15
+338,medrydd,auto,nouns,0.25
+339,cig eidion,karja,nouns,2.9
+340,erfyn,lainata,verbs,0.85
+341,gair,fraasi,nouns,1.65
+342,yn debygol,positiivisesti,adverbs,0.85
+343,gadael,tehdä,verbs,0.25
+344,maer,presidentti,nouns,1.8
+345,yn lleol,ilmiselvästi,adverbs,0.0
+346,tacsi,taksiauto,nouns,5.4
+347,tramorwr,kääntäjä,nouns,0.15
+348,wedi ymlacio,stressaantunut,adjectives,0.2
+349,dadlau,kiistellä,verbs,3.8
+350,tafod,kurkku,nouns,1.0
+351,theorem,teoria,nouns,3.3
+352,ymuno,tehdä yhteistyötä,verbs,1.3
+353,taliad,kolikko,nouns,0.65
+354,ysgrifennydd,nainen,nouns,0.55
+355,disgyn,vetäytyä,verbs,0.8
+356,argyhoeddi,yrittää,verbs,0.15
+357,swydd,johtokunta,nouns,0.6
+358,pothell,kuvitus,nouns,0.0
+359,blodyn,polttimo,nouns,0.3
+360,deinosor,elefantti,nouns,0.85
+361,arwres,sankari,nouns,3.8
+362,targed,nuoli,nouns,0.35
+363,cyntedd,käytävä,nouns,3.9
+364,gair,sivu,nouns,0.55
+365,yn hawdd,kovakouraisesti,adverbs,0.2
+366,brigeryn,pölytys,nouns,1.25
+367,i ffwrdd,kotona,adverbs,0.45
+368,bychanu,lohduttaa,verbs,0.0
+369,wedi blino,pitkäveteinen,adjectives,0.8
+370,ôl-ddodiad,affiksi,nouns,3.25
+371,eglwys,katedraali,nouns,3.75
+372,cam,kaareva,adjectives,2.05
+373,symbol,koodi,nouns,2.35
+374,yn fras,helposti,adverbs,0.2
+375,brwydro,tappaa,verbs,1.2
+376,trychineb,kuolema,nouns,1.4
+377,twymyn,flunssa,nouns,3.4
+378,soffistigedig,kypsä,adjectives,1.7
+379,ystafell wely,polkupyörä,nouns,0.0
+380,gallu,pätevyys,nouns,4.2
+381,crebachu,supistaa,verbs,3.05
+382,gwerddon,vapaus,nouns,0.35
+383,dechrau,lopettaa,verbs,0.2
+384,proffwyd,pappi,nouns,1.35
+385,braich,ranne,nouns,1.75
+386,byr,pitkä,adjectives,0.25
+387,ffrind,äiti,nouns,1.15
+388,canol,ateria,nouns,0.05
+389,cyflawni,vastaanottaa,verbs,0.45
+390,car,automobiili,nouns,5.5
+391,gwisgo,repiä,verbs,0.05
+392,gwybodaeth,kirja,nouns,0.8
+393,osgoi,torjua,verbs,1.75
+394,geiser,kevät,nouns,0.0
+395,cyflwr,koti,nouns,0.05
+396,perlysieuyn,marihuana,nouns,2.15
+397,deall,antaa anteeksi,verbs,0.9
+398,thema,kirja,nouns,0.4
+399,ufuddhau,rangaista,verbs,0.4
+400,masarnen,puu,nouns,3.2
+401,terfysg,piirustus,nouns,0.0
+402,cyfiawnhau,kiistellä,verbs,0.9
+403,glob,maailma,nouns,4.5
+404,onest,syyllinen,adjectives,0.1
+405,ewin,peukalo,nouns,1.35
+406,nadu,evätä,verbs,2.6
+407,metel,alumiini,nouns,2.95
+408,amau,pidättää,verbs,0.3
+409,cwch,ankkuri,nouns,0.85
+410,sylfaen,jalkaterä,nouns,0.7
+411,twp,tyhmä,adjectives,5.25
+412,arbediad,säästäjä,nouns,1.85
+413,lleihau,kutistua,verbs,3.05
+414,taith,retki,nouns,3.8
+415,preifat,julkinen,adjectives,0.25
+416,ffrog,tanssi,nouns,0.25
+417,pen,olkapää,nouns,0.9
+418,dillad,komero,nouns,0.6
+419,merch,isä,nouns,0.95
+420,gwasgu,halata,verbs,1.8
+421,yn drist,mielettömästi,adverbs,0.25
+422,ciwb,lelu,nouns,0.2
+423,stryd,auto,nouns,0.55
+424,yn annhebygol,ystävällisesti,adverbs,0.0
+425,cyfuniad,sokeriruoko,nouns,0.1
+426,dwywaith,aina,adverbs,0.6
+427,planed,tähti,nouns,2.15
+428,priffordd,auto ,nouns,0.7
+429,llawdriniaeth,sydän,nouns,0.4
+430,drws,portti,nouns,2.6
+431,twymyn,sairaus,nouns,3.05
+432,haf,talvi,nouns,0.95
+433,lifft,auto,nouns,0.15
+434,diangen,tarpeellinen,adjectives,0.2
+435,diflas,jännittävä,adjectives,0.25
+436,gweriniaeth,herttua,nouns,0.25
+437,ffwr,nainen,nouns,0.05
+438,gwydn,ovela,adjectives,0.0
+439,gwn,kersantti,nouns,0.35
+440,rhif,luku,nouns,5.25
+441,sefyllfa,olosuhde,nouns,4.95
+442,diweddar,uusi,adjectives,3.15
+443,côr,kirkko,nouns,0.6
+444,arae,lista,nouns,0.65
+445,gwrthod,valehdella,verbs,0.6
+446,buwch,vuohi,nouns,1.35
+447,gwm,piparminttu,nouns,0.65
+448,bwriadu,koettaa,verbs,1.65
+449,anghefnogi,epäonnistua,verbs,0.65
+450,sant,synnintekijä,nouns,0.55
+451,cul,likainen,adjectives,0.0
+452,cebl,kappeli,nouns,0.0
+453,cadw,omistaa,verbs,2.15
+454,eirlithriad,lumi,nouns,1.55
+455,bargen,penni,nouns,0.55
+456,crefydd,sekularisti,nouns,0.85
+457,priodol,muodollinen,adjectives,1.85
+458,tywysoges,saari,nouns,0.0
+459,mam,huoltaja,nouns,2.5
+460,yn ofalus,varovasti,adverbs,3.35
+461,gadael,ottaa,verbs,0.45
+462,afal,sitruuna,nouns,1.4
+463,gwas,orja,nouns,2.2
+464,asgwrn,leuka,nouns,1.2
+465,cyfoeth,arvovalta,nouns,0.2
+466,proffwydo,määrittää,verbs,0.7
+467,sedd,pankki,nouns,0.05
+468,meddwl,päättää,verbs,1.9
+469,crochenwaith,keraaminen esine,nouns,3.85
+470,partner,poika,nouns,0.5
+471,hapusrwydd,rauha,nouns,1.05
+472,chwim,vikkelä,adjectives,4.85
+473,ymuno,naida,verbs,1.85
+474,camera,linssi,nouns,1.65
+475,cael,ottaa,verbs,0.55
+476,cofleidio,pidellä,verbs,1.8
+477,radical,väkivaltainen,adjectives,1.1
+478,olew,minkki,nouns,0.1
+479,rheolaidd,oppimaton,adjectives,0.0
+480,gweithgaredd,liike,nouns,1.4
+481,milwr,poika,nouns,0.8
+482,pêl-fas,veljeskunta,nouns,0.0
+483,peilliad,hede,nouns,1.25
+484,angau,tragedia,nouns,1.2
+485,darganfod,olla peräisin,verbs,0.35
+486,cenllysg,sade,nouns,2.35
+487,gwrando,ymmärtää,verbs,1.35
+488,jin,viski,nouns,1.95
+489,pryd bynnag,joskus,adverbs,0.7
+490,ychwanegu,liittyä,verbs,1.25
+491,ysgafn,terävä,adjectives,0.05
+492,eang,iso,adjectives,3.95
+493,ffordd,käytös,nouns,3.25
+494,ochr,huippu,nouns,0.45
+495,rhewi,vapista,verbs,1.2
+496,yn gyfrifol,itsenäisesti,adverbs,0.8
+497,gwrthod,antaa,verbs,0.0
+498,het,laatikko,nouns,0.05
+499,mwsogl,ruoho,nouns,1.4
+500,ffidil,soitin,nouns,2.6
+501,eginblanhigyn,lehti,nouns,1.2
+502,bàth,temppu,nouns,0.0
+503,derbyn,antaa anteeksi,verbs,1.25
+504,priffordd,tehtävä,nouns,0.0
+505,gwydn,helppo,adjectives,0.2
+506,gohirio,suorittaa loppuun,verbs,0.55
+507,blwch  ,hattu,nouns,0.05
+508,pryd bwyd,illallinen,nouns,3.35
+509,lleng,armeija,nouns,3.1
+510,economi,ekosysteemi,nouns,0.45
+511,braich,laskimo,nouns,0.45
+512,awyren,helikopteri,nouns,2.5
+513,pren,peitto,nouns,0.0
+514,yn annheg,reilusti,adverbs,0.25
+515,parti,ihmiset,nouns,0.8
+516,rabi,opettaja,nouns,2.55
+517,llygoden,johtokunta,nouns,0.0
+518,dyn,menestyjä,nouns,0.25
+519,cysylltu,erottaa,verbs,0.25
+520,rhythm,melodia,nouns,1.45
+521,cenedlaethol,iso,adjectives,0.4
+522,busnes,teollisuus,nouns,1.9
+523,anwybyddu,jättää,verbs,1.7
+524,gweithiwr,mekaanikko,nouns,2.35
+525,yn wallgof,surullisesti,adverbs,0.25
+526,cymhwysedd,valmiudet,nouns,4.2
+527,carreg,puumateriaali,nouns,0.4
+528,cred,kukka,nouns,0.0
+529,wisgi,alkoholi,nouns,2.5
+530,garddwrn,käsivarsi,nouns,1.75
+531,mynd i mewn,jättää,verbs,0.1
+532,afal,kastike,nouns,0.55
+533,organ,maksa,nouns,1.95
+534,cot,hattu,nouns,1.2
+535,ffraeo,todistaa,verbs,0.25
+536,brenhiniaeth,demokratia,nouns,0.95
+537,ystadegau,tennis,nouns,0.0
+538,cytuno,miellyttää,verbs,0.8
+539,cig eidion,liha,nouns,3.1
+540,sugnwr gwaed,lepakko,nouns,1.25
+541,yn sicr,hermostunut,adjectives,0.0
+542,twnnel,polku,nouns,0.75
+543,cryfder,mahti,nouns,3.8
+544,yn rhyfeddol,fantastisesti,adverbs,4.7
+545,seryddol,massiivinen,adjectives,1.05
+546,anaml,yleensä,adverbs,0.25
+547,hydwyll,typerä,adjectives,1.3
+548,coes,käsivarsi,nouns,1.05
+549,clecian,rouskua,verbs,1.3
+550,morwyn,auttaja,nouns,1.9
+551,mae'n debyg,yksinkertaisesti,adverbs,0.25
+552,dirywio,pyyhkiä,verbs,0.35
+553,ffabrig,pellava,nouns,2.1
+554,dal,matkia,verbs,0.1
+555,biliwnydd,koditon,nouns,0.2
+556,erthygl,kirja,nouns,1.2
+557,caniatáu,vahvistaa,verbs,2.5
+558,car,moottoritie,nouns,0.7
+559,awdur,lukija,nouns,0.75
+560,asgwrn,nilkka,nouns,1.45
+561,prin,epätavallinen,adjectives,4.7
+562,crwydro,etsiä,verbs,1.25
+563,afal,makeinen,nouns,0.3
+564,tarw,vasikka,nouns,2.05
+565,gwenith,vilja,nouns,2.6
+566,dynion,veljeskunta,nouns,1.3
+567,ysgwydd,pää,nouns,0.9
+568,gweithiwr,kamera,nouns,0.05
+569,biotop,biologia,nouns,0.85
+570,stopio,kuljettaa,verbs,0.15
+571,gallu,vahvuus,nouns,1.95
+572,afu,keuhko,nouns,1.25
+573,paraseicoleg,neuropsykologia,nouns,1.9
+574,gorffen,kilpailla,verbs,0.2
+575,yn gyfan gwbl,niukasti,adverbs,0.15
+576,car,taksi,nouns,3.65
+577,syth,kaareva,adjectives,0.3
+578,trafferthu,pahentaa,verbs,0.55
+579,trwyn,suu,nouns,1.1
+580,trên,raitiovaunu,nouns,2.65
+581,actores,näyttelijä,nouns,4.35
+582,fioled,kukka,nouns,2.05
+583,ci,hevonen,nouns,1.25
+584,archwilio,tutkia,verbs,2.85
+585,pren,kivi,nouns,0.4
+586,cadair,teleskooppi,nouns,0.0
+587,datblygiad,varainkeruu ,nouns,0.2
+588,arferol,erilainen,adjectives,0.55
+589,myffin,persilja,nouns,0.25
+590,asgwrn,polvi,nouns,1.5
+591,newydd,käyttämätön,adjectives,4.55
+592,treisgar,radikaali,adjectives,1.1
+593,amddiffyn,säästää,verbs,2.1
+594,gweddïo,kysyä,verbs,1.2
+595,gadael,saapua,verbs,0.2
+596,ffatri,auto,nouns,0.15
+597,caniatáu,päästää,verbs,2.45
+598,llaw,kynsi,nouns,1.25
+599,top,pohja,nouns,0.35
+600,siaced,neule,nouns,1.95
+601,doniol,vakava,adjectives,0.25
+602,byth,negatiivinen,adjectives,0.65
+603,oedolyn,lapsi,nouns,0.9
+604,braf,julma,adjectives,0.1
+605,esgeuluso,olla tunnustamatta,verbs,0.45
+606,yn gyfiawn,kypsästi,adverbs,0.5
+607,traeth,saari,nouns,1.0
+608,cyd-beilot,ohjaamo,nouns,0.25
+609,cefn,häntä,nouns,0.95
+610,cyfarch,suorittaa,verbs,0.15
+611,digwydd,tehdä,verbs,1.05
+612,cyffrous,tylsä,adjectives,0.25
+613,ffrind,opettaja,nouns,0.6
+614,lleihau,rajoittaa,verbs,3.45
+615,aer,molekyyli,nouns,0.5
+616,dod yn,valmistaa,verbs,0.05
+617,cymysgu,yhdistää,verbs,3.2
+618,yn hysbys,hyvin,adjectives,0.0
+619,adfer,korvata,verbs,0.6
+620,anifail,peto,nouns,2.9
+621,polyn,lippu,nouns,0.7
+622,tramgwyddo,lannistaa,verbs,0.7
+623,tasg,nainen,nouns,0.0
+624,dermatitis,ekseema,nouns,3.7
+625,cwningen,kissa,nouns,1.15
+626,ffrio,keittää,verbs,1.6
+627,siwmper,puuvilla,nouns,0.65
+628,ymuno,jättää,verbs,0.1
+629,llymeitio,nieleksiä,verbs,2.3
+630,cab,taksi,nouns,5.4
+631,cyfreithiwr,asianajaja,nouns,4.5
+632,lwc,onnellisuus,nouns,0.65
+633,cul,valkoinen,adjectives,0.0
+634,senedd,kongressi,nouns,3.15
+635,llyfr,aihe,nouns,0.6
+636,car,katu,nouns,0.55
+637,yn arbennig,mielekkäästi,adverbs,0.95
+638,fitamin,rauta,nouns,0.85
+639,cyflymder,virka,nouns,0.0
+640,gwraig,herra,nouns,0.8
+641,yn ddiffuant,yleensä,adverbs,0.2
+642,cleddyf,valtaistuin,nouns,0.4
+643,plisman,sheriffi,nouns,2.95
+644,glaswellt,juuri,nouns,0.7
+645,cyhoeddi,julistaa,verbs,4.6
+646,gair,vihje,nouns,0.3
+647,cadlong,taistelulaiva,nouns,4.5
+648,cul,hoikka,adjectives,3.35
+649,anghwrtais,aggressiivinen,adjectives,1.65
+650,pwnc,risuaita,nouns,0.55
+651,crebachu,hävitä,verbs,1.85
+652,heulwen,säde,nouns,2.15
+653,damwain,katastrofi,nouns,3.8
+654,brest,vartalo,nouns,1.65
+655,disg,laturi,nouns,0.05
+656,lindys,silkkitoukka,nouns,2.85
+657,diemwnt,raha,nouns,0.7
+658,siryf,kyttä,nouns,2.95
+659,arall,vastapäinen,adjectives,0.65
+660,gwraig,äiti,nouns,1.75
+661,dysgu,imeä itseensä,verbs,1.4
+662,gwely,huone,nouns,0.6
+663,senoffobia,rasismi,nouns,3.9
+664,oriel,lakimies,nouns,0.0
+665,niwtral,rauhallinen,adjectives,0.95
+666,trefnus,sotkuinen,adjectives,0.2
+667,methu,lannistaa,verbs,0.65
+668,pêl,maila,nouns,0.75
+669,addysgu,opettaa,verbs,3.95
+670,brwnt,halpa,adjectives,0.1
+671,mefus,kirsikka,nouns,1.3
+672,môr,tsunami,nouns,1.35
+673,sylw,mielenkiinto,nouns,2.85
+674,ffasiwn,tila,nouns,0.05
+675,iogwrt,karja,nouns,0.2
+676,mewnwelediad,älykkyys,nouns,2.95
+677,cymylog,ennuste,nouns,0.35
+678,gwin,brandy,nouns,1.35
+679,siwmper,jakku,nouns,1.95
+680,yn bryderus,hermostuneesti,adverbs,3.5
+681,diogelwch,mukavuus,nouns,1.0
+682,ap,galaksi,nouns,0.0
+683,o reidrwydd,olennaisesti,adverbs,3.6
+684,penderfynu,valita,verbs,3.55
+685,ffêr,kyynärpää,nouns,1.1
+686,crwm,suora,adjectives,0.3
+687,caniataëdig,laillinen,adjectives,3.1
+688,cythruddo,arvata,verbs,0.0
+689,dyffryn,kanjoni,nouns,3.6
+690,gwneuthurwr,luoja,nouns,4.4
+691,archwilio,tavoitella,verbs,0.45
+692,cipio,saada kiinni,verbs,3.1
+693,hyblyg,suuri,adjectives,0.3
+694,maint,syvyys,nouns,1.4
+695,yn derfynol,eri tavalla,adverbs,0.1
+696,rheoli,hiiri,nouns,0.0
+697,ffêr,ikkuna,nouns,0.0
+698,harddwch,ikä,nouns,0.3
+699,dweud,ottaa osaa,verbs,0.25
+700,bara,jauho,nouns,1.2
+701,cytundeb,pakti,nouns,5.05
+702,pwnc,tarina,nouns,0.95
+703,mynychu,lähettää,verbs,0.15
+704,brwydr,sotaisuus,nouns,1.9
+705,drws,läsnäolo,nouns,0.0
+706,casáu,nauttia,verbs,0.15
+707,ymuno,lisätä,verbs,1.25
+708,cael,kadottaa,verbs,0.1
+709,homoffon,valopuhelin,nouns,0.15
+710,dwys,kova,adjectives,0.7
+711,cyfrwys,rankka,adjectives,0.0
+712,pryd bwyd,päivällinen,nouns,3.2
+713,alcohol,viski,nouns,2.5
+714,llyfr,raamattu,nouns,2.25
+715,dyn,partneri,nouns,1.0
+716,nos,kappale,nouns,0.0
+717,boch,kieli,nouns,1.1
+718,fformiwla,tukki,nouns,0.4
+719,penderfynu,kuvata,verbs,0.2
+720,yn unffurf,joskus,adverbs,0.05
+721,hyll,sotkuinen,adjectives,0.95
+722,brwydro,purra,verbs,0.55
+723,asteroid,tähti,nouns,1.85
+724,arian,timantti,nouns,0.7
+725,braf,antelias,adjectives,0.75
+726,yn gyfrinachol,itsevarmasti,adverbs,0.2
+727,ael,silmä,nouns,0.95
+728,marwolaeth,katastrofi,nouns,1.4
+729,llywodraeth,lisko,nouns,0.0
+730,cau,oksentaa,verbs,0.0
+731,brithyll,kitara,nouns,0.0
+732,mygu,palaa,verbs,1.1
+733,gwahanu,liittää,verbs,0.25
+734,mob,väkijoukko,nouns,4.95
+735,pwysig,tarpeellinen,adjectives,3.95
+736,deallusrwydd,ymmärrys,nouns,2.95
+737,beibl,kirja,nouns,2.25
+738,jet,lentokone,nouns,4.35
+739,ceffyl,härkä,nouns,1.25
+740,cyfathrebu,televisio,nouns,1.05
+741,brecwast,päivällinen,nouns,1.2
+742,asgwrn cefn,vartalo,nouns,0.9
+743,athro,auttaja,nouns,2.15
+744,poblogaeth,ihmiset,nouns,2.8
+745,gyrrwr,lentäjä,nouns,3.05
+746,alwminiwm,metalli,nouns,2.95
+747,hofrennydd,lentokone,nouns,2.5
+748,encilio,laskeutua,verbs,0.8
+749,lemwn,tee,nouns,0.6
+750,corff,rintakehä,nouns,1.65
+751,cwympo,kompastua,verbs,4.0
+752,derbyn,myöntyä,verbs,3.25
+753,cyfrifiadur,levy,nouns,0.6
+754,cot,vaatteet,nouns,1.95
+755,dod â,kantaa,verbs,1.85
+756,caled,tiheä,adjectives,0.7
+757,lema,tavu,nouns,0.4
+758,tad,poika,nouns,1.15
+759,ymadael,erottaa,verbs,1.1
+760,amnewidyn,vaihto,nouns,3.5
+761,yn anarferol,oudosti,adverbs,4.45
+762,gwregys,silmukka,nouns,0.15
+763,etholi,torjua,verbs,0.0
+764,anwybyddu,tehdä tutkimusmatka,verbs,0.05
+765,gynfad,rannikkoalue,nouns,0.2
+766,ecsema,dermatiitti,nouns,3.7
+767,cas,sähkö,nouns,0.0
+768,cynnig,panos,nouns,1.65
+769,delwedd,idea,nouns,0.95
+770,bacwn,aamiainen,nouns,0.9
+771,afon,puro,nouns,3.5
+772,yn wir,täydellisesti,adverbs,1.55
+773,cerbyd,vaunu,nouns,4.3
+774,myfyriwr,professori,nouns,0.9
+775,cae,kaura,nouns,0.45
+776,yn rheolaidd,satunnaisesti,adverbs,0.5
+777,dioddefwr,luuri,nouns,0.0
+778,tröedigaeth,korkeus,nouns,0.0
+779,tagu,tappaa,verbs,1.15
+780,dewis,laskimo,nouns,0.0
+781,ysgafn,keskikokoinen,adjectives,0.2
+782,anodd,helppo,adjectives,0.2
+783,erydu,sallia,verbs,0.0
+784,diafol,jumala,nouns,1.05
+785,gwasgu,sisäistää,verbs,1.35
+786,amaethyddiaeth,kasvi,nouns,0.8
+787,yn garedig,mukavasti,adverbs,2.45
+788,anelu,osua,verbs,1.3
+789,ychwanegu,rakentaa,verbs,1.0
+790,cynghori,suositella,verbs,3.55
+791,penelin,luu,nouns,1.25
+792,gwrthwynebydd,vastustaja,nouns,3.45
+793,caban,leiri,nouns,0.7
+794,losin,omena,nouns,0.3
+795,nerf,suoli,nouns,0.6
+796,gât,ovi,nouns,2.6
+797,deiet,omena,nouns,0.7
+798,dyfarniad,oikeudenkäynti,nouns,1.65
+799,deilen,taimi,nouns,1.2
+800,brenin,prinsessa,nouns,1.2
+801,gwrthbrofi,sallia,verbs,0.25
+802,teithio,mennä,verbs,2.75
+803,awyr,aurinko,nouns,0.85
+804,anghyfrifol,epäkypsä,adjectives,2.1
+805,go iawn,epäaito,adjectives,0.25
+806,ofnus,ujo,adjectives,1.45
+807,soned,kauneus,nouns,0.25
+808,tywysoges,morsian,nouns,0.6
+809,canwr,henkilökunta,nouns,0.0
+810,gwisg,pallo,nouns,0.05
+811,tad,veli,nouns,1.3
+812,eil,eteishalli,nouns,1.7
+813,cyfreithiwr,pankkiiri,nouns,0.95
+814,oedolyn,vanhempi,nouns,2.5
+815,bachgen,jonkun poika,nouns,3.95
+816,galaeth,sovellus,nouns,0.0
+817,newydd,tuore,adjectives,4.3
+818,ystafell ddosbarth,eteishalli,nouns,0.7
+819,rhythm,aritmetiikka,nouns,0.1
+820,derbyn,kiistää,verbs,0.3
+821,aeddfed,hienostonut,adjectives,1.7
+822,trydan,tapaus,nouns,0.0
+823,ffôn,uhri,nouns,0.0
+824,nam,järjestelmä,nouns,0.1
+825,uno,sitoa,verbs,2.8
+826,hwyl,amerikkalainen jalkapallo,nouns,0.3
+827,cyfrifiadur,kone,nouns,2.65
+828,gadael,vaeltaa,verbs,0.45
+829,unwaith,kahdesti,adverbs,0.85
+830,trefnu,järjestää,verbs,5.65
+831,benthyg,olla velkaa,verbs,2.05
+832,ale,kulho,nouns,0.0
+833,rhifyddeg,logiikka,nouns,1.1
+834,dodrefn,sänky,nouns,1.9
+835,niwrosis,mieli,nouns,0.95
+836,blanced ,sänky,nouns,0.85
+837,drysu,oppia,verbs,0.0
+838,hel,saada kiinni,verbs,1.3
+839,pledio,miellyttää,verbs,0.25
+840,harddwch,sonetti,nouns,0.25
+841,troseddu,vaivata,verbs,0.75
+842,priffordd,tie,nouns,4.15
+843,berwi,paistaa,verbs,1.6
+844,llythyr,kohta,nouns,0.5
+845,anghenus,epävarma,adjectives,0.6
+846,drwg,hirveä,adjectives,3.85
+847,afon,meri,nouns,1.3
+848,gwawr,ase,nouns,0.0
+849,fel arfer,päivittäin,adverbs,1.2
+850,pathogen,taudinaiheuttaja,nouns,5.0
+851,derbyn,ottaa,verbs,2.65
+852,bioleg,biotooppi,nouns,0.85
+853,diffinio,selventää,verbs,3.1
+854,proffwydo,olettaa,verbs,1.85
+855,cymharu,analysoida,verbs,2.1
+856,denu,osua,verbs,0.0
+857,seiclon,taifuuni,nouns,4.45
+858,neigaredd,kuningas,nouns,0.7
+859,yn ddymunol,kiltisti,adverbs,2.45
+860,moleciwl,atomi,nouns,2.1
+861,cymysgu,liueta,verbs,1.5
+862,babi,aikuinen,nouns,0.5
+863,llun,mellakka,nouns,0.0
+864,prin,tyhmä,adjectives,0.0
+865,cynffon,kappale,nouns,0.0
+866,ysgwydd,vartalo,nouns,0.95
+867,pennu,evakuoida,verbs,0.05
+868,bowlen,lautanen,nouns,1.85
+869,gwrando,oppia,verbs,0.6
+870,blanced,puumateriaali,nouns,0.0
+871,rheolwr,johtaja,nouns,3.55
+872,llwy,kuppi,nouns,1.1
+873,trefnu,sekava,verbs,0.25
+874,gwalch,lintu,nouns,2.65
+875,diogel,laillinen,adjectives,1.1
+876,pennu,ennustaa,verbs,0.7
+877,erthygl,käsikirjoitus,nouns,1.25
+878,unwaith,välittömästi,adverbs,0.65
+879,lluosi,lisätä,verbs,1.65
+880,pen,jalkaterä,nouns,0.8
+881,cwt,suoja,nouns,1.8
+882,gêm,temppu,nouns,0.95
+883,nerfus,tietty,adjectives,0.0
+884,cofleidio,puristaa,verbs,1.8
+885,hapusrwydd,suru,nouns,0.4
+886,diddanu,miellyttää,verbs,2.2
+887,digartref,miljardööri,nouns,0.2
+888,tywynnu,loistaa,verbs,4.85
+889,blwyddyn,syntymäpäivä,nouns,0.9
+890,minc,turkki,nouns,2.1
+891,rhesymoli,kiistellä,verbs,0.45
+892,gweiddi,kirkua,verbs,4.2
+893,gwyliadwraeth,hame,nouns,0.0
+894,gafael,halata,verbs,1.8
+895,tagu,hengittää,verbs,0.8
+896,llidiog,epäröivä,adjectives,0.35
+897,moesol,legenda,nouns,0.2
+898,brawd,poika,nouns,1.65
+899,bachgen,kunto,nouns,0.0
+900,dyddiad,kalenteri,nouns,1.75
+901,dur,metalliseos,nouns,2.7
+902,anwybyddu,tulostaa,verbs,0.0
+903,ceg,huuli,nouns,2.3
+904,yn gywir,aktiivisesti,adverbs,0.65
+905,ardal,seutu,nouns,4.95
+906,corwynt,myrsky,nouns,3.35
+907,yn fras,niukasti,adverbs,0.05
+908,wastad,kahdesti,adverbs,0.6
+909,cyflawni,onnistua,verbs,4.1
+910,dymuno,haluta,verbs,4.7
+911,euog,häpeissään oleva,adjectives,1.45
+912,am ddim,viaton,adjectives,0.3
+913,yn falch,nõyrästi,adverbs,0.25
+914,acwsteg,ääni,nouns,2.55
+915,te,sitruuna,nouns,0.6
+916,grawnfwyd,vehnä,nouns,2.6
+917,bowlen,häntä,nouns,0.0
+918,sgert,rannekello,nouns,0.0
+919,llyfr nodiadau,kannettava tietokone,nouns,0.6
+920,modd,tapa,nouns,3.25
+921,dinistrio,säästää,verbs,0.25
+922,dyfnder,suuruus,nouns,1.4
+923,salad,etikka,nouns,0.4
+924,cyfreithiwr,syyttäjä,nouns,2.95
+925,dyn,nainen,nouns,0.55
+926,anghyfreithlon,moraaliton,adjectives,1.75
+927,adeiladwaith,tuho,nouns,0.25
+928,dysgu,arvioida,verbs,0.75
+929,cyfarch,tavata,verbs,1.45
+930,bisged,prinsessa,nouns,0.0
+931,hawdd,yksinkertainen,adjectives,3.9
+932,gwialen,verho,nouns,0.0
+933,wedi blino,nälkäinen,adjectives,0.25
+934,codi arian,kehitys,nouns,0.2
+935,corff,olkapää,nouns,0.95
+936,cyfraniad,lahjoitus,nouns,1.65
+937,dugiaeth,prinssikunta,nouns,2.15
+938,eang,kapea,adjectives,0.2
+939,llifo,ajelehtia,verbs,3.15
+940,llen,sauva,nouns,0.0
+941,disgybl,presidentti,nouns,0.25
+942,gwahanu,lähteä,verbs,1.1
+943,braich,polvi,nouns,1.0
+944,llwch,luuta,nouns,0.45
+945,dydd  ,aamunkoitto,nouns,1.6
+946,caffael,saada,verbs,3.2
+947,codi,juoda,verbs,0.0
+948,cawod,luostari,nouns,0.0
+949,taro,viehättää,verbs,0.0
+950,patholeg,hematologia,nouns,1.75
+951,barn,idea,nouns,2.35
+952,nôl rhywbeth,ostaa,verbs,0.95
+953,perfformiwr,laulu,nouns,0.85
+954,dannedd,vasara,nouns,0.0
+955,storm,lumi,nouns,1.05
+956,mynachlog,suihku,nouns,0.0
+957,clou,pikainen,adjectives,4.5
+958,dyn,aviomies,nouns,3.85
+959,haint,taivutus,nouns,0.0
+960,rhoi,saada,verbs,0.25
+961,amaethyddiaeth,monokulttuuri,nouns,0.4
+962,absenoldeb,läsnäolo,nouns,0.65
+963,anwybyddu,välttää,verbs,3.3
+964,cân,tarina,nouns,0.7
+965,canolig,mieto,adjectives,0.2
+966,germ,patogeeni,nouns,5.0
+967,bwriad,tahto,nouns,1.8
+968,gwerthfawr,erityinen,adjectives,2.3
+969,yn realistig,ihanteellisesti,adverbs,0.65
+970,symudol,joustava,adjectives,1.25
+971,saeth,kohde,nouns,0.35
+972,cylchfordaith,matkatavarat,nouns,0.15
+973,hurt,harvinainen,adjectives,0.0
+974,haematoleg,patologia,nouns,1.75
+975,drws,ikkuna,nouns,1.05
+976,llong ryfel,sotalaiva,nouns,4.5
+977,anrhydedd,kunnioitus,nouns,2.6
+978,gwallgof,iloinen,adjectives,0.05
+979,swil,pelästynyt,adjectives,1.45
+980,canwr,kuoro,nouns,1.45
+981,cystadleuwr,vihollinen,nouns,3.45
+982,talu,ostaa,verbs,2.75
+983,yn wahanol,terminaalisesti,adverbs,0.1
+984,bwthyn,kämppä,nouns,3.35
+985,rhoi,laittaa,verbs,1.1
+986,menyw,mies,nouns,0.55
+987,creulon,mukava,adjectives,0.1
+988,awst,kuukausi,nouns,2.45
+989,yn sicr,selvästi,adverbs,2.8
+990,cynghori,ehdottaa,verbs,2.7
+991,dis,kuutio,nouns,3.0
+992,fformiwla,yhtälö,nouns,3.9
+993,deallusrwydd,taito,nouns,1.8
+994,alcohol,viini,nouns,2.35
+995,ffrind,vieras,nouns,0.7
+996,presenoldeb,poissaolo,nouns,0.65
+997,llwy,mehu,nouns,0.15
+998,diod,olut,nouns,2.5
+999,corachaidd,pienehkö,adjectives,3.0
+1000,personol,yksityinen,adjectives,4.0
+1001,papur wal,tausta,nouns,1.3
+1002,egluro,selventää,verbs,4.2
+1003,dadlau,osallistua,verbs,0.15
+1004,hyll,raaka,adjectives,0.3
+1005,anniben,hallittu,adjectives,0.2
+1006,arbed,suojella,verbs,2.1
+1007,eilradd,merkittävä,adjectives,0.2
+1008,cwpan,lusikka,nouns,1.1
+1009,tric,kylpy,nouns,0.0
+1010,maint,sentti,nouns,0.65
+1011,beirniadu,vihata,verbs,0.95
+1012,offeryn,työ,nouns,0.3
+1013,yn ofalus,vaarallisesti,adverbs,0.1
+1014,galar,tuska,nouns,2.9
+1015,eisiau,himoita,verbs,4.7
+1016,rhoddi,lainata,verbs,1.85
+1017,caniatáu,mennä,verbs,0.25
+1018,barnwr,tuomioistuin,nouns,1.1
+1019,pleidlais,uloskäynti,nouns,0.05
+1020,cytundeb,kiista,nouns,0.25
+1021,mynd  ,aloittaa,verbs,0.55
+1022,deintydd,ortodontti,nouns,3.65
+1023,band,paraati,nouns,0.6
+1024,ceg,hammas,nouns,1.4
+1025,estrys,hedelmätarha,nouns,0.0
+1026,marwolaeth,hautaaminen,nouns,1.3
+1027,saws,omena,nouns,0.55
+1028,benthyg,pitää,verbs,0.3
+1029,cwpan,kartio,nouns,0.1
+1030,hyfforddwraig,pelaaja,nouns,0.7
+1031,gadael,ilmestyä,verbs,0.05
+1032,piston,moottori,nouns,2.15
+1033,dyddiad,syntymäpäivä,nouns,1.65
+1034,yn ddibynadwy,vastuullisesti,adverbs,3.6
+1035,diferu,kaataa,verbs,1.65
+1036,rhyfedd,tavallinen,adjectives,0.2
+1037,rhesymeg,laskuoppi,nouns,1.1
+1038,yn amlwg,varmasti,adverbs,2.8
+1039,anhrefn,luokka,nouns,0.05
+1040,clogwyn,mäki,nouns,1.75
+1041,deintydd,eversti,nouns,0.4
+1042,dal,vastaanottaa,verbs,1.45
+1043,arweinydd,manageri,nouns,3.55
+1044,ffenestr,pilvi,nouns,0.0
+1045,dyweddïad,tapaaminen,nouns,0.25
+1046,anfoesol,paha,adjectives,3.3
+1047,tun,alumiini,nouns,1.4
+1048,purdan,tuonpuoleinen,nouns,1.8
+1049,gweithiwr,työnantaja,nouns,1.05
+1050,rhosyn,perhonen,nouns,0.35
+1051,chwerthin,itkeä,verbs,0.3
+1052,dod â,tulla,verbs,1.65
+1053,dwys,tyhmä,adjectives,0.0
+1054,oeraidd,särkyvä,adjectives,0.25
+1055,cyn,jälkeen,adverbs,0.25
+1056,dod,tuoda,verbs,1.65
+1057,harbwr,kääre,nouns,0.0
+1058,theatr,elokuva,nouns,0.9
+1059,sgwâr,kartta,nouns,0.05
+1060,modrwy,sitoumus,nouns,1.35
+1061,parasetamol,keuhkoputkentulendus,nouns,0.25
+1062,casáu,halveksia,verbs,2.3
+1063,tristwch,onnellisuus,nouns,0.4
+1064,cardbord,paperi,nouns,2.75
+1065,cerdd,rytmi,nouns,0.9
+1066,pêl-fas,valmentaja,nouns,0.25
+1067,sinema,paukkumaissi,nouns,0.55
+1068,yn wahanol,omituisesti,adverbs,2.05
+1069,canrif,vuosikymmen,nouns,0.9
+1070,actor,televisio,nouns,0.8
+1071,môr,valtameri,nouns,4.25
+1072,brenin,nepotismi,nouns,0.7
+1073,cyflog,raha,nouns,2.5
+1074,gadael,häätää,verbs,1.1
+1075,llwybr,tunneli,nouns,0.75
+1076,nendwr,palatsi,nouns,0.75
+1077,yn ofalus,nykyään,adverbs,0.0
+1078,dathlu,yllättää,verbs,0.0
+1079,cyrraedd,osallistua,verbs,0.85
+1080,tasg,työ,nouns,3.5
+1081,cardigan,paita,nouns,1.3
+1082,cwch,auto,nouns,0.85
+1083,cydnabod,puhua,verbs,0.8
+1084,bawd,kynsi,nouns,1.35
+1085,gwan,mausteinen,adjectives,0.0
+1086,hapus,mieletön,adjectives,0.2
+1087,dadlau,olla erilainen,verbs,0.45
+1088,ansicr,puutteenalainen,adjectives,0.6
+1089,creulon,ankara,adjectives,1.9
+1090,gwyliau,kalenteri,nouns,0.75
+1091,gwely,sairaala,nouns,0.45
+1092,traethawd,kirja,nouns,1.3
+1093,cyfreithiwr,galleria,nouns,0.0
+1094,weithiau,usein,adverbs,0.65
+1095,car,mittari,nouns,0.25
+1096,ceisio,saavuttaa,verbs,1.0
+1097,dinistr,rakentaminen,nouns,0.25
+1098,yn naturiol,epäluonnollisesti,adverbs,0.25
+1099,cyfarwyddwr,pomo,nouns,2.45
+1100,difeddiannu,laimilyödä,verbs,0.45
+1101,gwely,peitto,nouns,0.85
+1102,bar,häkki,nouns,0.1
+1103,fisa,globalismi,nouns,0.35
+1104,pêl-droed,hauskanpito,nouns,0.3
+1105,rhaniad,kertolasku,nouns,1.25
+1106,ffres,uusi,adjectives,4.3
+1107,cadw,antaa,verbs,0.25
+1108,swper,aamiainen,nouns,1.35
+1109,cod,symboli,nouns,2.35
+1110,myfyrio,ajatella,verbs,4.9
+1111,carchar,valinta,nouns,0.0
+1112,llwyddo,voittaa,verbs,3.7
+1113,llesteirio,lannistaa,verbs,2.25
+1114,llyn,pilvi,nouns,0.3
+1115,pla,torjunta-aine,nouns,0.75
+1116,awyrgylch,saastuminen,nouns,0.6
+1117,cymryd,varastaa,verbs,2.15
+1118,hylif,suutin,nouns,0.05
+1119,gwin,alkoholi,nouns,2.35
+1120,plesio,vedota,verbs,0.25
+1121,cyfarfod,jättää,verbs,0.05
+1122,maneg,pallo,nouns,0.15
+1123,ennill,niittää,verbs,0.45
+1124,ffoi,karata,verbs,5.35
+1125,dadlau,huutaa,verbs,1.45
+1126,hysbysu,kuvata,verbs,0.3
+1127,cadw,säilyttää,verbs,4.3
+1128,dirmygu,ladata,verbs,0.0
+1129,yn ddiamynedd,karkeasti,adverbs,0.55
+1130,entropi,tieto,nouns,0.2
+1131,dysgu,kuunnella,verbs,0.6
+1132,teledu,viestintä,nouns,1.05
+1133,gorllewin,pohjoinen,nouns,1.1
+1134,cyfnod,vuosikymmen,nouns,1.7
+1135,algebra,operaatio,nouns,0.25
+1136,yn sylfaenol,täysin,adverbs,0.7
+1137,to,sisäkatto,nouns,4.15
+1138,cynorthwyo,avustaa,verbs,5.1
+1139,ceffyl,koira,nouns,1.25
+1140,anobaith,kurjuus,nouns,3.05
+1141,derbyn,tunnustaa,verbs,2.95
+1142,papur newydd,tieto,nouns,1.1
+1143,cyflawni,tulla,verbs,0.6
+1144,yn syml,ilmeisesti,adverbs,0.25
+1145,artist,taideteos,nouns,1.1
+1146,tyfu,laajentaa,verbs,3.9
+1147,sylfaen,happo,nouns,0.0
+1148,gwddf,nenä,nouns,0.95
+1149,plisman,lentoperämies,nouns,0.5
+1150,theatr,paristo,nouns,0.0
+1151,gwybodaeth,sanomalehti,nouns,1.1
+1152,cyhoeddus,yksityinen,adjectives,0.25
+1153,organ,munuainen,nouns,2.55
+1154,bagiau,kiertäminen,nouns,0.15
+1155,pêl,kori,nouns,0.2
+1156,llawysgrif,kirja,nouns,1.65
+1157,nofio,tavata,verbs,0.0
+1158,basged,pallo,nouns,0.2
+1159,diogel,ikävä,adjectives,0.05
+1160,cerflun,veistos,nouns,5.25
+1161,cyfansoddiad,keisari,nouns,0.2
+1162,yn anarferol,normaalisti,adverbs,0.35
+1163,cadw,unohtaa,verbs,0.05
+1164,nant,joki,nouns,3.5
+1165,wedi tyfu,epäkypsä,adjectives,0.25
+1166,angerdd,tunne,nouns,3.45
+1167,ceffyl,tamma,nouns,4.1
+1168,cwmpawd,elefantti,nouns,0.05
+1169,lliain,kangas,nouns,2.1
+1170,egluro,keskustella,verbs,1.55
+1171,mathemategydd,näytös,nouns,0.0
+1172,diniwed,vapaa,adjectives,0.3
+1173,mecanyddol,sähköinen,adjectives,0.75
+1174,darganfod,etsiä,verbs,1.45
+1175,dygnwch,vahvuus,nouns,4.4
+1176,gwadu,tunnustus,nouns,0.3
+1177,dug,tasavalta,nouns,0.25
+1178,aflonyddu,pelästyttää,verbs,1.65
+1179,gwrthod,välttää,verbs,1.75
+1180,claf,istunto,nouns,0.1
+1181,gwythïen,valinta,nouns,0.0
+1182,cyflym,pikainen,adjectives,4.85
+1183,ymgyrch,apina,nouns,0.0
+1184,anrhagweledig,odottamaton,adjectives,3.8
+1185,llew,kissa,nouns,2.3
+1186,drws,keittiö,nouns,0.25
+1187,ymuno,hankkia,verbs,0.15
+1188,trydanol,makea,adjectives,0.0
+1189,cysur,turvallisuus,nouns,1.0
+1190,cnocio,romahtaa,verbs,0.5
+1191,cysuro,nöyryyttää,verbs,0.0
+1192,gwrthod,vetäytyä,verbs,1.75
+1193,cymryd,jättää,verbs,0.45
+1194,cyffredin,uskomaton,adjectives,0.2
+1195,jar,pullo,nouns,2.55
+1196,nos,päivä,nouns,0.7
+1197,mawr,kansallinen,adjectives,0.4
+1198,modryb,veljenpoika,nouns,0.85
+1199,mab,veli,nouns,1.65
+1200,mynydd,kieleke,nouns,0.3
+1201,lemwn,omena,nouns,1.4
+1202,amhosib,käyttökelpoinen,adjectives,0.55
+1203,sefyllfa,kunto,nouns,1.85
+1204,glaswellt,terä,nouns,0.3
+1205,ffôn,matkapuhelin,nouns,4.5
+1206,llaw,jalkaterä,nouns,0.9
+1207,blin,onnellinen,adjectives,0.25
+1208,cymryd rhan,liittyä,verbs,3.15
+1209,diflas,keskinkertainen,adjectives,0.55
+1210,chwilio,metsästää,verbs,2.2
+1211,amrwd,töykeä,adjectives,0.9
+1212,asgwrn,käsivarsi,nouns,1.5
+1213,coginio,sekoittaa,verbs,0.65
+1214,artiffisial,epäaito,adjectives,5.05
+1215,ysbryd,jumala,nouns,1.75
+1216,glaw mân,sade,nouns,3.95
+1217,sarsiant,ase,nouns,0.35
+1218,byth,anteliaasti,adverbs,0.05
+1219,eglwys gadeiriol,sisäkatto,nouns,0.1
+1220,llygoden,rotta,nouns,3.15
+1221,oer,tavallinen,adjectives,0.0
+1222,bwydlen,järjestys,nouns,0.25
+1223,hwyl,peli,nouns,1.0
+1224,anghefnogi,rohkaista,verbs,0.2
+1225,cludo,toimittaa,verbs,2.35
+1226,allwedd,lukko,nouns,1.0
+1227,o ddifrif,vilpittömästi,adverbs,1.4
+1228,asgwrn,niska,nouns,0.85
+1229,nod,kerho,nouns,0.05
+1230,crynnu,jäätyä,verbs,1.2
+1231,dillad,takki,nouns,1.95
+1232,cyrraedd,jättää,verbs,0.2
+1233,gwybod,ymmärtää,verbs,2.9
+1234,concwest,virsi,nouns,0.0
+1235,arllwys,tippua,verbs,1.65
+1236,ffôl,lapsellinen,adjectives,1.45
+1237,ychydig,kovakouraisesti,adverbs,0.05
+1238,gwaelod,puoli,nouns,0.75
+1239,yn bwysig,vakavasti,adverbs,1.4
+1240,soffa,tuoli,nouns,2.45
+1241,ffwr,minkki,nouns,2.1
+1242,cyfaill,kumppani,nouns,3.9
+1243,cymyl,sumu,nouns,2.5
+1244,anghofio,muistuttaa,verbs,0.25
+1245,pêl,lentopallo,nouns,2.65
+1246,rhad,edullinen,adjectives,5.25
+1247,cytundeb,kunto,nouns,0.0
+1248,coch,sininen,adjectives,0.95
+1249,cyfarfod,uida,verbs,0.0
+1250,glaw,usva,nouns,1.8
+1251,hurt,typerä,adjectives,5.25
+1252,offeiriad,jumala,nouns,0.85
+1253,uchel,töykeä,adjectives,0.4
+1254,yn wreiddiol,luovasti,adverbs,1.15
+1255,yn gyfrinachgar,ilmiselvästi,adverbs,0.1
+1256,gradd,koulu,nouns,0.8
+1257,ffilm,elokuva,nouns,4.65
+1258,nihiliaeth,elokuva,nouns,0.0
+1259,meddwl,yrittää,verbs,0.3
+1260,dolen,vyö,nouns,0.15
+1261,rhagorol,mahtava,adjectives,4.8
+1262,cyrnol,hammaslääkäri,nouns,0.4
+1263,llenwi,halveksia,verbs,0.0
+1264,llynges,saari,nouns,0.15
+1265,gweithiwr,toimisto,nouns,0.7
+1266,cymryd,toimittaa,verbs,0.3
+1267,dysgu,hämätä,verbs,0.0
+1268,mawr,helppo,adjectives,0.0
+1269,biolegydd,mikroskooppi,nouns,0.6
+1270,swil,kallis,adjectives,0.0
+1271,poblogaidd,tunnettu,adjectives,2.3
+1272,ceffyl,orivarsa,nouns,3.55
+1273,llyn,suo,nouns,1.4
+1274,blaengroen,ympärileikkaus,nouns,0.95
+1275,banc,istuin,nouns,0.05
+1276,llyfn,terävä,adjectives,0.3
+1277,gwddf,selkäranka,nouns,1.05
+1278,canrif,vuosi,nouns,1.55
+1279,llywydd,pormestari,nouns,1.8
+1280,matrics,molekyyli,nouns,0.15
+1281,chwaraewr,valmentaja,nouns,0.7
+1282,blodyn,uskomus,nouns,0.0
+1283,heulwen,omena,nouns,0.0
+1284,alaw,musiikki,nouns,2.8
+1285,silff,vuori,nouns,0.3
+1286,cwyno,kiistellä,verbs,1.2
+1287,o bosibl,todennäköisesti,adverbs,2.35
+1288,dadlau,myöntyä,verbs,0.25
+1289,ffres,leveä,adjectives,0.05
+1290,hyrwyddo,edetä,verbs,2.05
+1291,cadair,sohva,nouns,2.45
+1292,penwythnos,rotu,nouns,0.0
+1293,cafflo,pettää,verbs,4.2
+1294,tudalen,sana,nouns,0.55
+1295,tad,tytär,nouns,0.95
+1296,ofnadwy,paha,adjectives,3.85
+1297,pren,paperi,nouns,0.95
+1298,llwyn,kukka,nouns,1.65
+1299,dal,vapauttaa,verbs,0.75
+1300,awdur,luoja,nouns,3.45
+1301,heb ei ddefnyddio,uusi,adjectives,4.55
+1302,angenrheidiol,tärkeä,adjectives,3.95
+1303,estron,ulkolainen,nouns,3.85
+1304,capten,merimies,nouns,2.0
+1305,planhigyn,maatalous,nouns,0.8
+1306,orthodontydd,hammaslääkäri,nouns,3.65
+1307,pobl,dollari,nouns,0.0
+1308,dilyniant,kamera,nouns,0.0
+1309,pibell,sikari,nouns,0.5
+1310,gwraig,pilli,nouns,0.0
+1311,bregus,hyytävä,adjectives,0.25
+1312,cyflogwr,työntekijä,nouns,0.9
+1313,twll,sopimus,nouns,0.0
+1314,realiti,illuusio,nouns,0.3
+1315,mêl,sokeri,nouns,1.85
+1316,cyfarwyddwr,elokuvaus,nouns,0.85
+1317,llygad,kyynel,nouns,0.9
+1318,hen,tuore,adjectives,0.2
+1319,gyferbyn,muu,adjectives,0.65
+1320,anghefnogi,turhauttaa,verbs,2.25
+1321,athro,ystävä,nouns,0.6
+1322,cryfder,kestävyys,nouns,4.4
+1323,dosbarth,korkeakoulu,nouns,0.85
+1324,hafaliad,kaava,nouns,3.9
+1325,amherchnogi,antaa,verbs,0.5
+1326,mosäig,basilikakirkko,nouns,0.6
+1327,cwpl,pari,nouns,5.4
+1328,duw,pappi,nouns,0.85
+1329,esgus,kuvitella,verbs,1.55
+1330,yn gryf,virallisesti,adverbs,0.35
+1331,dyn,naistenmies,nouns,0.85
+1332,gadael,aloittaa,verbs,0.2
+1333,bodloni,käsittää,verbs,0.35
+1334,tsunami,meri,nouns,1.35
+1335,mawr,painava,adjectives,1.1
+1336,ofnadwy,surullinen,adjectives,1.45
+1337,reidio,juosta,verbs,0.5
+1338,adref,poissa,adverbs,0.45
+1339,mynnu,nuhdella,verbs,0.3
+1340,gwyddbwyll,tarkistus,nouns,0.0
+1341,sgleinio,tiedottaa,verbs,0.0
+1342,treisgar,pehmeä,adjectives,0.1
+1343,afon,laakso,nouns,0.8
+1344,crisial,lasi,nouns,2.6
+1345,tywysogaeth,herttuakunta,nouns,2.15
+1346,caban,mökki,nouns,3.35
+1347,ufuddhau,käyttäytyä,verbs,2.2
+1348,gwarcheidwad,aikuinen,nouns,1.9
+1349,modryb,setä,nouns,1.65
+1350,ffaith,ymmärrys,nouns,0.8
+1351,dosbarthu,ottaa,verbs,0.3
+1352,cynorthwy-ydd,palvelustyttö,nouns,1.9
+1353,bàth,vaimo,nouns,0.0
+1354,deall,tietää,verbs,2.85
+1355,cadach,vaatteet,nouns,0.9
+1356,cyfansoddiad,senaatti,nouns,0.75
+1357,trosedd,loukkaus,nouns,1.45
+1358,bywyd wedi marwolaeth,kiirastuli,nouns,1.8
+1359,yn ddiffuant,rehellisesti,adverbs,4.7
+1360,goruchafiaeth,kaikkivaltius,nouns,2.65
+1361,afal,mehu,nouns,0.8
+1362,mainc,tuoli,nouns,3.4
+1363,crwm,kiero,adjectives,2.05
+1364,diflas,väsynyt,adjectives,0.8
+1365,diymhongar,joustava,adjectives,0.45
+1366,afal,auringonpaiste,nouns,0.0
+1367,gweithredu,algebra,nouns,0.25
+1368,madfall,hallitus,nouns,0.0
+1369,trosedd,varkaus,nouns,2.7
+1370,enaid,veli,nouns,0.0
+1371,busnes,yhtiö,nouns,2.25
+1372,trafferthu,loukata,verbs,0.75
+1373,cyfrwys,kummallinen,adjectives,0.2
+1374,deiet,salaatti,nouns,0.95
+1375,finegr,salaatti,nouns,0.4
+1376,ystafell wely,sänky,nouns,1.4
+1377,microsgop,biologi,nouns,0.6
+1378,cael,hankkia,verbs,3.2
+1379,aderyn,naaraslintu,nouns,2.7
+1380,yn fras,ilmiselvästi,adverbs,0.2
+1381,coeden,vaahtera,nouns,3.2
+1382,cliw,sana,nouns,0.3
+1383,diamynedd,ahdistunut,adjectives,0.6
+1384,lladrad,rikos,nouns,2.7
+1385,trydanol,mekaaninen,adjectives,0.75
+1386,diffiniad,sanakirja,nouns,1.25
+1387,cadair,jakkara,nouns,3.6
+1388,cynnyrch llaeth,hunaja,nouns,0.1
+1389,reidio,siirrellä,verbs,0.45
+1390,yn obeithiol,mahdollisesti,adverbs,1.3
+1391,cwmwl,usva,nouns,2.9
+1392,edafedd,ompelulanka,nouns,4.1
+1393,iâ,vesi,nouns,2.1
+1394,diflannu,kutistua,verbs,1.85
+1395,hawdd,vaikea,adjectives,0.2
+1396,glas,punainen,adjectives,0.95
+1397,terfyn,raja,nouns,3.55
+1398,unffurf,muotoutumaton,adjectives,0.25
+1399,brandi,viini,nouns,1.35
+1400,yn hysbys,suosittu,adjectives,2.3
+1401,mwynhau,viihdyttää,verbs,0.9
+1402,darganfod,tajuta,verbs,3.65
+1403,cwch,puu,nouns,0.25
+1404,nos,aamunkoitto,nouns,0.75
+1405,canu,nauraa,verbs,0.45
+1406,enwogrwydd,varallisuus,nouns,0.65
+1407,blwch,lähde,nouns,0.0
+1408,stumog,laskimo,nouns,0.65
+1409,anaeddfed,vastuuton,adjectives,2.1
+1410,ffasiwn,tyyli,nouns,4.35
+1411,sgrîn,fonologia,nouns,0.1
+1412,ffenestr,nilkka,nouns,0.0
+1413,rhythm,runo,nouns,0.9
+1414,ffêr,luu,nouns,1.45
+1415,rhanbarth,alue,nouns,4.95
+1416,mygu,halata,verbs,0.35
+1417,bydysawd,taivas,nouns,0.85
+1418,sigâr,putki,nouns,0.5
+1419,gweithred,peli,nouns,0.55
+1420,ffensio,voimistelu,nouns,1.05
+1421,mwynhau,vihata,verbs,0.15
+1422,telesgop,aivoriihi,nouns,0.0
+1423,calendr,juhlapäivä,nouns,0.75
+1424,gwan,voimallinen,adjectives,0.2
+1425,dillad,jakku,nouns,1.75
+1426,cyhyrau,kieli,nouns,1.8
+1427,carped,talo,nouns,0.4
+1428,anifail anwes,kissa,nouns,2.85
+1429,cywilydd,vaatimaton,adjectives,0.2
+1430,twyllo,huijata,verbs,4.2
+1431,gwenynen,muurahainen,nouns,1.2
+1432,ffa,pekoni,nouns,0.3
+1433,eliffant,dinosaurus,nouns,0.85
+1434,fel arfer,vilpittömästi,adverbs,0.2
+1435,ysgwyd,kerätä,verbs,0.1
+1436,gorffennol,edeltäjä,nouns,1.2
+1437,aflonydd,nuori,adjectives,0.25
+1438,yn oddefol,hiljaa,adverbs,1.1
+1439,gwresogydd,sateenvarjo,nouns,0.05
+1440,gwobr,korvaus,nouns,2.2
+1441,cath,jänis,nouns,1.15
+1442,beichio,itkeä,verbs,4.2
+1443,ffrind,heppu,nouns,0.85
+1444,hurt,fiksu,adjectives,0.2
+1445,cymysgu,ajaa,verbs,0.45
+1446,wedi'i ferwi,kypsennetty,adjectives,2.9
+1447,dweud celwydd,kiistää,verbs,0.6
+1448,emyn,valloitus,nouns,0.0
+1449,cynhwysydd,vaunu,nouns,0.1
+1450,bòs,ohjaaja,nouns,2.45
+1451,iris,asetyylikoliini,nouns,0.2
+1452,dychan,myytti,nouns,0.4
+1453,bara,juusto,nouns,0.95
+1454,styfnig,typerä,adjectives,0.45
+1455,tenis,tilastotiede,nouns,0.0
+1456,yn gyflym,kiireellisesti,adverbs,4.95
+1457,swydd,työkalu,nouns,0.3
+1458,mêl,päiväkirja,nouns,0.1
+1459,gitâr,viulu,nouns,1.45
+1460,trefnu,tulla,verbs,0.0
+1461,llyfr,tieto,nouns,0.8
+1462,ffraeo,järkeistää,verbs,0.45
+1463,derwen,vaahtera,nouns,1.8
+1464,garddwrn,käsi,nouns,1.95
+1465,glaswelltir,niitty,nouns,3.3
+1466,chwedl,satiiri,nouns,0.4
+1467,mawr,valtava,adjectives,4.4
+1468,aloi,teräs,nouns,2.7
+1469,hurt,tiivis,adjectives,0.0
+1470,ffurfiol,asianmukainen,adjectives,1.85
+1471,ymgeisydd,voittaja,nouns,0.95
+1472,wisgi,gini,nouns,1.95
+1473,danfon,vastaanottaa,verbs,0.25
+1474,dwyn,ottaa,verbs,2.15
+1475,anrheg,kirjailija,nouns,0.0
+1476,stori,kynä,nouns,0.35
+1477,iâr,kalkkuna,nouns,2.0
+1478,gwaed,virus,nouns,0.65
+1479,incwm,vero,nouns,0.65
+1480,casglu,säästää,verbs,2.45
+1481,edau,lanka,nouns,4.1
+1482,digonedd,runsaus,nouns,4.75
+1483,hen,sekoitettu,adjectives,0.1
+1484,teclyn,kattila,nouns,0.1
+1485,cydymaith,kaveri,nouns,3.9
+1486,bacwn,papu,nouns,0.3
+1487,lloches,maja,nouns,1.8
+1488,anwybyddu,unohtaa,verbs,1.45
+1489,yn annaturiol,luonnollisesti,adverbs,0.25
+1490,gwrthod,välttää,verbs,1.35
+1491,gwerthu,muistuttaa,verbs,0.0
+1492,braich,jalka,nouns,1.05
+1493,cynffon,kulho,nouns,0.0
+1494,arloeswr,jousiampuja,nouns,0.15
+1495,yn ddiweddar,realistisesti,adverbs,0.0
+1496,deall,lukea,verbs,0.85
+1497,yn falch,rauhanomaisesti,adverbs,0.05
+1498,drwg  ,suurenmoinen,adjectives,0.05
+1499,ymadrodd,sana,nouns,1.65
+1500,darllenydd,tekijä,nouns,0.75
+1501,palmwydd,sormi,nouns,0.0
+1502,cytuno,olla erilainen,verbs,0.0
+1503,cyrchwr,sirut,nouns,0.0
+1504,ar ôl,ennen,adverbs,0.25
+1505,rhadlon,tuleva,adjectives,0.15
+1506,newydd,muinainen,adjectives,0.2
+1507,mynach,pappi,nouns,1.7
+1508,chwarae,taistella,verbs,0.4
+1509,newynog,janoinen,adjectives,1.35
+1510,anhawster,ponnistus,nouns,1.6
+1511,derbyn,toimittaa,verbs,0.05
+1512,dyn,lapsi,nouns,0.65
+1513,losin,kaneli,nouns,0.6
+1514,isrwtîn,laatija,nouns,0.1
+1515,bol,vatsa,nouns,4.95
+1516,cwt,kämppä,nouns,3.6
+1517,cynddaredd,viha,nouns,4.2
+1518,pwnc,kirja,nouns,0.6
+1519,pâr,pariskunta,nouns,5.4
+1520,newid,muuttaa,verbs,3.05
+1521,cydnabod,ilmoittaa,verbs,1.15
+1522,plesio,myöntyä,verbs,0.8
+1523,ongl,käyrä,nouns,1.25
+1524,modern,muinainen,adjectives,0.2
+1525,symbol,kryptogrammi,nouns,2.15
+1526,ethol,nimittää,verbs,3.2
+1527,dyrchafu,nostaa,verbs,4.15
+1528,anghywir,täsmällinen,adjectives,0.1
+1529,deilen,puu,nouns,1.4
+1530,llunio,valmistaa,verbs,3.2
+1531,rheilffordd,aita,nouns,0.15
+1532,yn wallgof,äänekkäästi,adverbs,0.35
+1533,sudd,pirtelö,nouns,1.25
+1534,poster,paperi,nouns,1.85
+1535,llawysgrif,artikkeli,nouns,1.25
+1536,dryswch,hysteria,nouns,1.75
+1537,clogwyn,häntä,nouns,0.0
+1538,yn beryglus,huolellisesti,adverbs,0.1
+1539,oen,lammas,nouns,3.8
+1540,crwydro,kierrellä,verbs,3.4
+1541,mynd,matkustaa,verbs,2.75
+1542,undeb,yhdistelmä,nouns,2.95
+1543,anarchiaeth,kaaos,nouns,3.9
+1544,wagen,säilytysastia,nouns,0.1
+1545,cwmwl,utu,nouns,3.0
+1546,benthyg,haluta,verbs,0.5
+1547,bawd,käsi,nouns,1.55
+1548,iard,tuuma,nouns,1.4
+1549,sŵn,maila,nouns,0.0
+1550,coridor,eteishalli,nouns,3.9
+1551,darganfod,tehdä tutkimusmatka,verbs,1.45
+1552,caled,rankka,adjectives,2.65
+1553,beiddgar,ylpeä,adjectives,0.85
+1554,fideo,filmi,nouns,4.65
+1555,deigryn,silmä,nouns,0.9
+1556,presenoldeb,voittaja,nouns,0.0
+1557,danfon,osallistua,verbs,0.15
+1558,tybio,teeskennellä,verbs,0.65
+1559,arian cyfred,samanaikaisuus,nouns,0.0
+1560,drws,kello,nouns,0.25
+1561,car,tankki,nouns,0.85
+1562,yfory,tänä iltana,adverbs,0.55
+1563,ennill,onnistua,verbs,3.7
+1564,yn hapus,aktiivisesti,adverbs,0.3
+1565,darllen,käsittää,verbs,0.85
+1566,môr,joki,nouns,1.3
+1567,gair,sanomalehti,nouns,0.75
+1568,top,kylki,nouns,0.45
+1569,cyhyrau,luu,nouns,0.65
+1570,bustach,hevonen,nouns,1.25
+1571,yn ddarostyngedig,ylpeästi,adverbs,0.25
+1572,llaeth,mehu,nouns,1.15
+1573,cythraul,enkeli,nouns,0.45
+1574,crëwr,valmistaja,nouns,4.4
+1575,rhyfedd,ovela,adjectives,0.2
+1576,lluosi,jakaa,verbs,0.9
+1577,yn weithredol,täsmällisesti,adverbs,0.65
+1578,trafod,selittää,verbs,1.55
+1579,yn llawn,pohjimmiltaan,adverbs,0.7
+1580,siwgr,hunaja,nouns,1.85
+1581,asetylocolin,iiris,nouns,0.2
+1582,dosbarthu,hyväksyä,verbs,0.05
+1583,taro,tähdätä,verbs,1.3
+1584,erlynydd,lakimies,nouns,2.95
+1585,meddyg,luonne,nouns,0.0
+1586,corff,veri,nouns,0.95
+1587,perfedd,hermo,nouns,0.6
+1588,gwallgof,onnellinen,adjectives,0.2
+1589,carchar,baari,nouns,0.3
+1590,cymysg,yhdistetty,adjectives,2.8
+1591,piano,harmonia,nouns,0.85
+1592,diwylliant,yhteiskunta,nouns,1.65
+1593,mynd,tulla sisään,verbs,1.45
+1594,da,mausteinen,adjectives,0.1
+1595,hyfforddwr,opettaja,nouns,4.25
+1596,ysbyty,sänky,nouns,0.45
+1597,twf,lannoite,nouns,0.8
+1598,gofyn,sivuuttaa,verbs,0.0
+1599,socer,jalkapallo,nouns,5.85
+1600,yn amlwg,kovakouraisesti,adverbs,0.2
+1601,ffactorio,biohajoaminen,nouns,0.85
+1602,democratiaeth,monarkia,nouns,0.95
+1603,atom,hiili,nouns,1.05
+1604,strategydd,juonittelija,nouns,3.15
+1605,goruchafu,nujertaa,verbs,2.9
+1606,basilica,mosaiikki,nouns,0.6
+1607,cyfrwng,uutiset,nouns,0.15
+1608,fflora,luonto,nouns,2.2
+1609,crwydro,jättää,verbs,0.45
+1610,bowlen,kuja,nouns,0.0
+1611,cynorthwy-ydd,opettaja,nouns,2.15
+1612,melin,siemen,nouns,0.25
+1613,clwb,yhdistys,nouns,3.6
+1614,ale,katu,nouns,3.55
+1615,rhodio,vaeltaa,verbs,3.4
+1616,cyfathrebu,keskustelu,nouns,3.6
+1617,menyw,sihteeri,nouns,0.55
+1618,anghwrtais,raaka,adjectives,0.9
+1619,barnu,moittia,verbs,3.0
+1620,corn,rumpu,nouns,0.15
+1621,ynys,ranta,nouns,1.0
+1622,parth,alue,nouns,4.9
+1623,cul,leveä,adjectives,0.25
+1624,cyfoeth,kuuluisuus,nouns,0.65
+1625,cwympo,sattua,verbs,1.15
+1626,ffug,keinotekoinen,adjectives,5.05
+1627,tlodi,varallisuus,nouns,0.5
+1628,helmed,ase,nouns,0.6
+1629,eang,tuore,adjectives,0.05
+1630,allwedd,kruunu,nouns,0.0
+1631,doler,miljonääri,nouns,0.65
+1632,benthyg,antaa,verbs,1.65
+1633,gwraig,aviomies,nouns,1.65
+1634,cymysgu,lyödä,verbs,0.55
+1635,anthropoleg,arkeologia,nouns,1.55
+1636,balch ,vahva,adjectives,0.65
+1637,geiriadur,määritelmä,nouns,1.25
+1638,gadael,sallia,verbs,2.45
+1639,seren,kirkkaus,nouns,0.95
+1640,gwych,loistava,adjectives,4.8
+1641,poenus,häpeissään oleva,adjectives,0.45
+1642,dychryn,kummitella,verbs,1.65
+1643,camera,työläinen,nouns,0.05
+1644,cyflawni,saavuttaa,verbs,2.85
+1645,plymio,luoda,verbs,0.0
+1646,modfedd,jaardi,nouns,1.4
+1647,yn ffyddlon,rehellisesti,adverbs,1.7
+1648,gyrru,pysähtyä,verbs,0.15
+1649,rheiddiadur,sensori,nouns,0.15
+1650,bachgen,veli,nouns,2.0
+1651,diflas,turvattu,adjectives,0.05
+1652,gwario,säästää,verbs,0.3
+1653,ysgoloriaeth,lukukausimaksu,nouns,0.7
+1654,yn ddiffuant,vakavasti,adverbs,1.4
+1655,lleihau,kastella,verbs,0.0
+1656,cyw iâr,riisi,nouns,0.4
+1657,dechrau,mennä,verbs,0.55
+1658,potel,purkki,nouns,2.55
+1659,cwmni,liiketoiminta,nouns,3.7
+1660,modur,auto,nouns,5.5
+1661,ymdrechu,sulkea,verbs,0.15
+1662,enfawr,suuri,adjectives,4.4
+1663,creu,tuhota,verbs,0.25
+1664,tasg,saari,nouns,0.0
+1665,cyntedd,luokkahuone,nouns,0.7
+1666,actor,laulaja,nouns,1.2
+1667,gorchuddio,salata,verbs,2.65
+1668,dyffryn,joki,nouns,0.8
+1669,hysbysu,ilmoittaa,verbs,4.7
+1670,log,kaava,nouns,0.4
+1671,dawnsio,mekko,nouns,0.25
+1672,papur,puumateriaali,nouns,0.95
+1673,tŷ,matto,nouns,0.4
+1674,rasio,filosofi,nouns,0.0
+1675,pen-glin,käsivarsi,nouns,1.0
+1676,yn uchel,hienovaraisesti,adverbs,0.05
+1677,pen-blwydd,vuosi,nouns,0.9
+1678,capel,kaapeli,nouns,0.0
+1679,ymosodol,töykeä,adjectives,1.65
+1680,hysbysu,tunnustaa,verbs,1.15
+1681,gafr,lehmä,nouns,1.35
+1682,cyfreithiol,turvallinen,adjectives,1.1
+1683,halen,vesi,nouns,0.3
+1684,merch,heppu,nouns,0.9
+1685,maes llafur,koe,nouns,0.5
+1686,yn ddyddiol,normaalisti,adverbs,1.2
+1687,llywydd,saastuminen,nouns,0.0
+1688,yn bennaf,terminaalisesti,adverbs,0.55
+1689,ceisio,ajatella,verbs,0.3
+1690,portreadu,teeskennellä,verbs,0.55
+1691,theori,hypoteesi,nouns,4.6
+1692,cyflogwr,työntekijä,nouns,1.05
+1693,gwyddonydd,sairaanhoitaja,nouns,0.4
+1694,yn negyddol,epäluonnollisesti,adverbs,0.45
+1695,meddwl,miettiä,verbs,4.9
+1696,llyfr,teema,nouns,0.4
+1697,adeilad,huone,nouns,1.2
+1698,difrifol,hauska,adjectives,0.25
+1699,tŷ,avain,nouns,0.35
+1700,wythnosol,kuukausittainen,adjectives,1.1
+1701,egluro,määrittää,verbs,3.1
+1702,cred,mielipide,nouns,3.6
+1703,hebog,kotka,nouns,2.55
+1704,cloch,ovi,nouns,0.25
+1705,blits,hyökkäys,nouns,3.65
+1706,penderfynu,ajatella,verbs,1.9
+1707,bwrdd,auringonlasku,nouns,0.0
+1708,holi,edellyttää,verbs,0.3
+1709,torri,särkeä,verbs,4.55
+1710,ystafell wely,vatsa,nouns,0.0
+1711,da,tunnettu,adjectives,0.0
+1712,polyester,puuvilla,nouns,1.45
+1713,weithiau,milloin tahansa,adverbs,0.7
+1714,gwely,huonekalut,nouns,1.9
+1715,storm,hurrikaani,nouns,3.35
+1716,person,hahmo,nouns,3.4
+1717,yn ddibynadwy,passiivisesti,adverbs,0.15
+1718,bodloni,miellyttää,verbs,3.0
+1719,ffrind,kaveri,nouns,5.6
+1720,gadael,mennä,verbs,1.25
+1721,mis,elokuu,nouns,2.45
+1722,llywydd,kamera,nouns,0.0
+1723,cefnder,setä,nouns,1.15
+1724,cwmwl,myrsky,nouns,0.9
+1725,yn hanfodol,kriittisesti,adverbs,0.65
+1726,arwydd,symboli,nouns,4.9
+1727,persli,muffini,nouns,0.25
+1728,yn gadarnhaol,todennäköisesti,adverbs,0.85
+1729,llygoden,kansi,nouns,0.0
+1730,esgob,arkkipiispa,nouns,3.3
+1731,morwr,kapteeni,nouns,2.0
+1732,trwyn,pää,nouns,1.1
+1733,priodferch,prinsessa,nouns,0.6
+1734,portreadu,ilmoittaa,verbs,0.3
+1735,ymddwyn,totella,verbs,2.2
+1736,tad,mies,nouns,2.25
+1737,hunan,itseluottamus,nouns,0.75
+1738,aseiniad,tehtävä,nouns,4.95
+1739,gŵr bonheddig,leidi,nouns,0.8
+1740,ffordd,moottoritie,nouns,4.15
+1741,actor,näyttelijätär,nouns,4.35
+1742,cab,linja-auto,nouns,1.25
+1743,coginio,menettää,verbs,0.0
+1744,plentynaidd,houkkamainen,adjectives,1.45
+1745,mewnwelediad,fakta,nouns,0.8
+1746,log,puutavara,nouns,3.1
+1747,priodferch,sulhanen,nouns,1.4
+1748,mêr,veri,nouns,0.3
+1749,amrwd,ruma,adjectives,0.3
+1750,siart,kuvaaja,nouns,3.75
+1751,môr,suisto,nouns,1.2
+1752,caffael,varastaa,verbs,1.2
+1753,blwch,hissi,nouns,0.0
+1754,braich,lihas,nouns,0.9
+1755,tram,juna,nouns,2.65
+1756,gwraidd,ruoho,nouns,0.7
+1757,merch,vauva,nouns,1.6
+1758,archeoleg,antropologia,nouns,1.55
+1759,coroni,vesi,nouns,0.0
+1760,yn enfawr,avoimesti,adverbs,0.35
+1761,allwedd,talo,nouns,0.35
+1762,arbed,kerätä,verbs,2.45
+1763,afiechyd,vaara,nouns,0.25
+1764,rhesymol,selvin päin oleva,adjectives,1.2
+1765,lledaenu,tahrata,verbs,0.45
+1766,pennod,yö,nouns,0.0
+1767,cerbyd,linja-auto,nouns,3.0
+1768,ardal,nurkka,nouns,0.95
+1769,reis,poika,nouns,0.0
+1770,cromlin,kulma,nouns,1.25
+1771,meddu ar,imeä itseensä,verbs,0.25
+1772,dimai,ihmiset,nouns,0.05
+1773,cath,hiiri,nouns,1.0
+1774,gymnasteg,miekkailu,nouns,1.05
+1775,benthyg,myydä,verbs,0.3
+1776,llawr,ovi,nouns,0.5
+1777,meddal,väkivaltainen,adjectives,0.1
+1778,car,sarvi,nouns,0.2
+1779,alcohol,gini,nouns,2.4
+1780,mwgwd,juhla,nouns,0.3
+1781,pwffian chwerthin,nauraa,verbs,4.9
+1782,enfawr,pikkuruinen,adjectives,0.25
+1783,merch,palvelustyttö,nouns,2.35
+1784,dadansoddi,verrata,verbs,2.1
+1785,trychineb,onnettomuus,nouns,3.8
+1786,cyfarfod,tervehtiä,verbs,1.45
+1787,arbennig,arvokas,adjectives,2.3
+1788,ymbarél,kaliiperi,nouns,0.0
+1789,cymdeithas,kulttuuri,nouns,1.65
+1790,tad,vanhempi,nouns,3.15
+1791,mwtant,sosiobiologia,nouns,0.1
+1792,mynd i mewn,olla velkaa,verbs,0.1
+1793,blodyn,orvokki,nouns,2.05
+1794,papur lapio,satama,nouns,0.0
+1795,cwrtais,asianmukainen,adjectives,1.55
+1796,adnewid,vaihtaa,verbs,3.05
+1797,mynd  ,lähettää,verbs,0.65
+1798,theori,kemia,nouns,0.3
+1799,medal,lenkkikengät,nouns,0.2
+1800,pennod,häntä,nouns,0.0
+1801,reis,kana,nouns,0.4
+1802,machlud haul,naru,nouns,0.0
+1803,pêl,asu,nouns,0.05
+1804,llaw,peukalo,nouns,1.55
+1805,ennill,valmistaa,verbs,0.1
+1806,blodyn,kestävyys,nouns,0.1
+1807,llosgfynydd,magma,nouns,1.65
+1808,damwain,kirja,nouns,0.0
+1809,tarian,kilpi,nouns,2.25
+1810,myfyrdod,kuva,nouns,1.25
+1811,yn greadigol,alkuperäisesti,adverbs,1.15
+1812,cais,hakija,nouns,1.4
+1813,yn heddychlon,kaoottisesti,adverbs,0.2
+1814,porth,ovi,nouns,3.75
+1815,trefn,ruokalista,nouns,0.25
+1816,sinamon,makeinen,nouns,0.6
+1817,barn,valinta,nouns,0.95
+1818,stondin,puhelin,nouns,0.0
+1819,gwn,ihmiset,nouns,0.05
+1820,cyfyngu,supistaa,verbs,3.45
+1821,lladd,tuhota,verbs,3.15
+1822,yn drist,tunteellisesti,adverbs,2.1
+1823,gwaith celf,taiteilija,nouns,1.1
+1824,twp,herkkäuskoinen,adjectives,1.3
+1825,dadlau,perustella,verbs,0.9
+1826,gwrthod,hyväksyä,verbs,0.25
+1827,ysgol,arvosana,nouns,0.8
+1828,yn ochelgar,huolellisesti,adverbs,3.35
+1829,efallai,todennäköisesti,adverbs,2.2
+1830,bryn,kalliojyrkänne,nouns,1.75
+1831,deallusrwydd,tietämättömyys,nouns,0.25
+1832,chwerthin,kikattaa,verbs,4.9
+1833,tribiwnlys,oikeudenmukaisuus,nouns,1.15
+1834,cinio,kana,nouns,1.05
+1835,llac,joustava,adjectives,0.8
+1836,llwyddo,menestyä,verbs,2.85
+1837,seciwlarydd,uskonto,nouns,0.85
+1838,cariad,kumppani,nouns,3.05
+1839,alcohol,olut,nouns,2.8
+1840,hen,uusi,adjectives,0.2
+1841,methu,iskeä,verbs,0.25
+1842,ton,sää,nouns,0.1
+1843,bachgen,riisi,nouns,0.0
+1844,enfawr,tyhmä,adjectives,0.0
+1845,swper,ateria,nouns,3.35
+1846,sychedig,nälkäinen,adjectives,1.35
+1847,maddau,unohtaa,verbs,1.0
+1848,tiwtora,kouluttaa,verbs,3.95
+1849,injan,mäntä,nouns,2.15
+1850,disgleirio,hohtaa,verbs,4.85
+1851,gweiddi,kiistellä,verbs,1.45
+1852,yn ddiogel,onnellisesti,adverbs,0.6
+1853,allanfa,oviaukko,nouns,2.75
+1854,dyn,epäilty,nouns,0.5
+1855,presenoldeb,ovi,nouns,0.0
+1856,cnawd,veri,nouns,0.95
+1857,popcorn,elokuvateatteri,nouns,0.55
+1858,seicoleg,tiede,nouns,2.0
+1859,yn gynnil,äänekkäästi,adverbs,0.05
+1860,casglu,organisoida,verbs,0.9
+1861,yn derfynol,pääasiassa,adverbs,0.55
+1862,arian,helmi,nouns,0.35
+1863,cyhuddo,tuomita,verbs,3.0
+1864,beic,iho,nouns,0.0
+1865,colli,kypsentää,verbs,0.0
+1866,bioleg,anatomia,nouns,2.55
+1867,cerddoriaeth,melodia,nouns,2.8
+1868,flwyddyn,vuosisata,nouns,1.55
+1869,sinema,ooppera,nouns,1.1
+1870,diymhongar,puhdashenkinen,adjectives,0.95
+1871,buddugoliaeth,riemuvoitto,nouns,3.4
+1872,styden,heppu,nouns,0.85
+1873,gwely,makuuhuone,nouns,1.4
+1874,braich,vartalo,nouns,1.1
+1875,annisgwyl,ennennäkemätön,adjectives,3.8
+1876,dyweddïo,naida,verbs,1.55
+1877,sobr,humalainen,adjectives,0.25
+1878,pîn-afal,älypuhelin,nouns,0.0
+1879,pren,tukki,nouns,3.6
+1880,deall,kuunnella,verbs,1.35
+1881,credu,tietää,verbs,1.8
+1882,dyn,ystävä,nouns,0.85
+1883,pellter,näkökulma,nouns,0.1
+1884,gêm,hauskuus,nouns,1.0
+1885,cynilwr,säästö,nouns,1.85
+1886,newyddion,pääkirjoitus,nouns,1.15
+1887,cymryd,kantaa,verbs,0.6
+1888,mwnci,kampanja,nouns,0.0
+1889,athro,opiskelija,nouns,0.9
+1890,pryderus,pelokas,adjectives,3.4
+1891,cyfartaledd,säännöllinen,adjectives,0.75
+1892,ymosodol,kaareva,adjectives,0.0
+1893,gwn,tykki,nouns,2.7
+1894,eirfwrdd,hiihtäminen,nouns,1.3
+1895,ymgeisio,aikoa,verbs,1.65
+1896,gwerthu,lainata,verbs,0.3
+1897,trallod,epätoivo,nouns,3.05
+1898,minc,öljy,nouns,0.1
+1899,sudd,maito,nouns,1.15
+1900,yn gynnil,rauhallisesti,adverbs,0.85
+1901,sanctaidd,kallisarvoinen,adjectives,2.1
+1902,anarferol,harvinainen,adjectives,4.7
+1903,pont,kortti,nouns,0.0
+1904,niweidio,potkaista,verbs,1.2
+1905,hurt,valtava,adjectives,0.0
+1906,cytuno,hyväksyä,verbs,3.25
+1907,yn onest,vilpittömästi,adverbs,4.7
+1908,arian,käteinen,nouns,3.55
+1909,awdur,romaani,nouns,1.0
+1910,blwch,koju,nouns,0.1
+1911,soffa,pesäpallo,nouns,0.25
+1912,newynog,väsynyt,adjectives,0.25
+1913,yfed,korottaa,verbs,0.0
+1914,cario ,ottaa,verbs,0.6
+1915,argyhoeddi,kiistellä,verbs,0.5
+1916,casglwr,aliohjelma,nouns,0.1
+1917,deallusrwydd,viisaus,nouns,3.6
+1918,mynegi,sanoa,verbs,3.85
+1919,sgïo,lumilauta,nouns,1.3
+1920,anfeidredd,nolla,nouns,0.05
+1921,clwb,merkki,nouns,0.05
+1922,dewis,vaalit,nouns,2.6
+1923,haearn,vitamiini,nouns,0.85
+1924,creulon,epäreilu,adjectives,1.75
+1925,da,viides,adjectives,0.05
+1926,smart,tyhmä,adjectives,0.2
+1927,poen,haitta,nouns,1.8
+1928,clariffeio,selittää,verbs,4.2
+1929,ciwb,noppa,nouns,3.0
+1930,dichonadwy,mahdoton,adjectives,0.55
+1931,cadw,jäädä,verbs,0.55
+1932,lleihau,laskeutua,verbs,0.5
+1933,lwcus,häpeissään oleva,adjectives,0.05
+1934,ymholi,ajatella,verbs,0.85
+1935,deffro,kuorsata,verbs,0.2
+1936,dewis,kappale,nouns,0.1
+1937,meteor,painovoima,nouns,0.4
+1938,stori,kirja,nouns,1.85
+1939,cenedlaethol,tunnettu,adjectives,0.25
+1940,system,vika,nouns,0.1
+1941,cymeriad,henkilö,nouns,3.4
+1942,meddwl,muistaa,verbs,0.9
+1943,argymell,neuvoa,verbs,3.55
+1944,hir,kapea,adjectives,0.55
+1945,argraff,uskomus,nouns,1.45
+1946,wythnos,viikonloppu,nouns,1.6
+1947,arfordir,tykkivene,nouns,0.2
+1948,gofyn,auttaa,verbs,0.35
+1949,iâ,lumi,nouns,3.0
+1950,doler,ihmiset,nouns,0.0
+1951,caled,helppo,adjectives,0.2
+1952,pwyntydd,dia,nouns,0.0
+1953,methu,turvautua,verbs,0.25
+1954,yn rhyfedd,epätavallisesti,adverbs,4.45
+1955,alcohol,brandy,nouns,2.55
+1956,beic,makuuhuone,nouns,0.0
+1957,benthyciwr,luotto,nouns,0.95
+1958,digwydd,tapahtua,verbs,0.6
+1959,prynu,maksaa,verbs,2.75
+1960,casáu,kritisoida,verbs,0.95
+1961,nenfwd,katto,nouns,4.15
+1962,cartref,osavaltio,nouns,0.05
+1963,ardderchog,paha,adjectives,0.05
+1964,derbyn,antaa,verbs,0.3
+1965,dillad,kangas,nouns,2.0
+1966,diymadferth,puutteenalainen,adjectives,1.0
+1967,cario ,tuoda,verbs,1.85
+1968,dafad,karitsa,nouns,3.8
+1969,maddau,hyväksyä,verbs,1.25
+1970,yn wael,nöyrästi,adverbs,0.1
+1971,banereg,lippu,nouns,1.15
+1972,perswadio,tavoitella,verbs,0.55
+1973,cwmwl,sää,nouns,1.05
+1974,yn aml,joskus,adverbs,0.65
+1975,bardd,toimittaja,nouns,0.65
+1976,confensiwn,sääntö,nouns,2.45
+1977,miniog,mieto,adjectives,0.05
+1978,yn realistig,hiljattain,adverbs,0.0
+1979,mygu,musertaa,verbs,2.5
+1980,plentyn,poika,nouns,2.3
+1981,canlyn,suostutella,verbs,0.55
+1982,crosio,virkapuku,nouns,0.0
+1983,crwt,tytär,nouns,1.65
+1984,rhwystredigaeth,viha,nouns,1.95
+1985,cyfathrebu,kielenkäyttö,nouns,1.95
+1986,dewis,haluta,verbs,0.85
+1987,eira,jää,nouns,3.0
+1988,llwyddo,epäonnistua,verbs,0.25
+1989,cas,laitteisto,nouns,0.0
+1990,o ychydig,täysin,adverbs,0.15
+1991,cymryd yn ganiataol,ennustaa,verbs,0.6
+1992,methu,onnistua,verbs,0.25
+1993,trafodaeth,diplomatia,nouns,2.35
+1994,toddi,liueta,verbs,3.3
+1995,atwrnai,lakimies,nouns,4.5
+1996,batri,energia,nouns,2.1
+1997,amgylchedd,miekka,nouns,0.0
+1998,yn ddibynadwy,kovakouraisesti,adverbs,0.05
+1999,cynhwysydd,hiiri,nouns,0.0
+2000,plaladdwr,tuhoeläin,nouns,0.75
+2001,anhrefn,anarkia,nouns,3.9
+2002,to,lattia,nouns,0.65
+2003,anaml,niukka,adjectives,2.05
+2004,niwl,sade,nouns,1.8
+2005,pibell,puutarha,nouns,0.25
+2006,hedfaniad,ilmailu,nouns,2.85
+2007,ceiniog,korvaus,nouns,0.65
+2008,tywysog,kuningas,nouns,1.55
+2009,gogledd,länsi,nouns,1.1
+2010,sleid,osoitin,nouns,0.0
+2011,goruchafiath,voitto,nouns,3.4
+2012,claddu,kuolla,verbs,1.1
+2013,bacwn,liha,nouns,2.9
+2014,caethwas,palvelija,nouns,2.2
+2015,cwrw,shamppanja,nouns,1.25
+2016,saethydd,tienraivaaja,nouns,0.15
+2017,anadlu,tukehtua,verbs,0.8
+2018,oeraidd,karkea,adjectives,0.65
+2019,gadael,tulla sisään,verbs,0.1
+2020,yn gadarn,rauhallisesti,adverbs,0.65
+2021,gorffwyll,sairas,adjectives,0.95
+2022,yn ddwfn,mielekkäästi,adverbs,1.05
+2023,caledwedd,tapaus,nouns,0.0
+2024,clywed,puhua,verbs,0.65
+2025,cyfeillgar,antelias,adjectives,1.55
+2026,sglodion,kursori,nouns,0.0
+2027,tegan,kuutio,nouns,0.2
+2028,garw,hyytävä,adjectives,0.65
+2029,baglu,kaatua,verbs,4.0
+2030,fel arfer,epäsäännöllisesti,adverbs,0.3
+2031,gwirod,yhtye,nouns,0.0
+2032,yn heddychlon,ylpeästi,adverbs,0.05
+2033,cadair,penkki,nouns,3.4
+2034,hynafol,moderni,adjectives,0.2
+2035,bronceitus,parasetamoli,nouns,0.25
+2036,plentyn,tyttö,nouns,2.0
+2037,petrusgar,raivostunut,adjectives,0.35
+2038,ysgwyd,hämmentää,verbs,1.9
+2039,cydnabod,hyväksyä,verbs,2.95
+2040,ffilm,teatteri,nouns,0.9
+2041,dianc,paeta,verbs,5.35
+2042,llywydd,oppilas,nouns,0.25
+2043,meddu ,pitää,verbs,2.15
+2044,erthygl,aikakauslehti,nouns,2.1
+2045,diflas,terävä,adjectives,0.3
+2046,canlyn,tutkia,verbs,0.45
+2047,cythruddo,suututtaa,verbs,3.7
+2048,troi allan,jättää,verbs,0.7
+2049,yn onest,ei koskaan,adverbs,0.0
+2050,cynfas,lentokone,nouns,0.0
+2051,gwawr,päivä ,nouns,1.6
+2052,disgyrchiant,meteori,nouns,0.4
+2053,disgyn,pienentää,verbs,0.5
+2054,car,polkupyörä,nouns,1.1
+2055,gwneuthurio,muodostaa,verbs,3.2
+2056,trasiedi,kuolema,nouns,1.2
+2057,llyfr,essee,nouns,1.3
+2058,duw,henki,nouns,1.75
+2059,ogleuo,löyhkätä,verbs,4.75
+2060,gwirod,vuosisata,nouns,0.0
+2061,drwg,epärehellinen,adjectives,1.65
+2062,osgoi,sivuuttaa,verbs,3.3
+2063,tristwch,häpeä,nouns,1.35
+2064,chwilio,löytää,verbs,1.45
+2065,gên,luu,nouns,1.2
+2066,yn bennaf,syvästi,adverbs,0.45
+2067,mynychu,kiistellä,verbs,0.15
+2068,troed,käsi ,nouns,0.9
+2069,dan straen,rentoutunut,adjectives,0.2
+2070,planed,kuu,nouns,2.2
+2071,dant,suu,nouns,1.4
+2072,dewis,päättää,verbs,3.55
+2073,gwybodaeth,entropia,nouns,0.2
+2074,brifo,järkyttää,verbs,0.4
+2075,pwysig,välttämätön,adjectives,4.2
+2076,ymddygiadaeth,terapia,nouns,1.25
+2077,nenfwd,kadetraali,nouns,0.1
+2078,arestio,epäillä,verbs,0.3
+2079,llygredd,tunnelma,nouns,0.6
+2080,derbyn,suositella,verbs,0.8
+2081,cyfuno,sulautua,verbs,3.2
+2082,adeiladu,lisätä,verbs,1.0
+2083,anhygoel,tavallinen,adjectives,0.2
+2084,pennod,jakso,nouns,3.7
+2085,yn fawr,uskomattomasti,adverbs,1.0
+2086,trefnu,edellyttää,verbs,0.0
+2087,diplomyddiaeth,neuvottelu,nouns,2.35
+2088,newyddiadur,artikkeli,nouns,2.1
+2089,diymhongar,häpeissään oleva,adjectives,0.2
+2090,sylweddoli,saada selville,verbs,3.65
+2091,bowlio,keilaaja,nouns,1.6
+2092,tywysoges,kuningas,nouns,1.2
+2093,hyfforddiant,apuraha,nouns,0.7
+2094,dal,kaapata,verbs,3.1
+2095,gwybod,unohtaa,verbs,0.2
+2096,gaeaf,kausi,nouns,1.95
+2097,bricsen,seinä,nouns,1.0
+2098,swm,liitto,nouns,0.3
+2099,bàth,ilmapallo,nouns,0.05
+2100,anwybodus,säännöllinen,adjectives,0.0
+2101,treisgar,vihainen,adjectives,1.5
+2102,clo,avain,nouns,1.0
+2103,gwleidydd,poliisi,nouns,0.45
+2104,ystafell ymolchi,makuuhuone,nouns,2.0
+2105,hael,mukava,adjectives,0.75
+2106,sbeislyd,hyvä,adjectives,0.1
+2107,proffesiwn,korkeakoulu,nouns,0.35
+2108,cyfiawnhau,todentaa,verbs,1.15
+2109,jin,alkoholi,nouns,2.4
+2110,cydsyniad,valuutta,nouns,0.0
+2111,haul,taivas,nouns,0.85
+2112,glaw,raekuuro,nouns,2.35
+2113,ymddengys,tulla,verbs,0.85
+2114,balŵn,kylpy,nouns,0.05
+2115,gwefus,lonkka,nouns,0.75
+2116,cymysgu,ravistaa,verbs,1.9
+2117,pêl-fas,koripallo,nouns,2.15
+2118,brawd,isä,nouns,1.3
+2119,de,pohjoinen,nouns,1.0
+2120,injan,kone,nouns,3.4
+2121,gwraig,kylpy,nouns,0.0
+2122,llosgi,tukahduttaa,verbs,1.1
+2123,creu,valmistaa,verbs,4.65
+2124,ffôn clyfar,ananas,nouns,0.0
+2125,ymchwilio,kuulustella,verbs,2.85
+2126,euog,rehellinen,adjectives,0.1
+2127,sbeislyd,heikko,adjectives,0.0
+2128,traddodiad,käsityö,nouns,0.25
+2129,cotwm,polyesteri,nouns,1.45
+2130,diflannu,löytää,verbs,0.2
+2131,rhesymoli,ajatella,verbs,2.55
+2132,ymddangos,teeskennellä,verbs,0.55
+2133,priodi,kihlautua,verbs,1.55
+2134,prif air,syntaksi,nouns,0.7
+2135,gwirio,shakki,nouns,0.0
+2136,cyhyr,käsivarsi,nouns,0.9
+2137,ystlum,vamppyyri,nouns,1.25
+2138,dod yn,organisoida,verbs,0.0
+2139,canolig,paha,adjectives,0.15
+2140,papur,juliste,nouns,1.85
+2141,uchder,keskustelu,nouns,0.0
+2142,clymu,yhdistää,verbs,2.8
+2143,yn oddefol,aktiivisesti,adverbs,0.2
+2144,traethu,muistuttaa,verbs,0.95
+2145,rhoi,tietää,verbs,0.15
+2146,taith,valloitus,nouns,0.45
+2147,corfforaeth,liiketoiminta,nouns,2.25
+2148,corff,vatsa,nouns,1.55
+2149,ystafell,sänky,nouns,0.6
+2150,hela,etsiä,verbs,2.2
+2151,gwydr,kristalli,nouns,2.6
+2152,rhagolwg,pilvinen sää,nouns,0.35
+2153,maddau,ymmärtää,verbs,0.9
+2154,nai,täti,nouns,0.85
+2155,tynnu,kadottaa,verbs,0.5
+2156,sinc,kulta,nouns,0.95
+2157,dillad,vetolaatikko,nouns,0.4
+2158,ymwrthod,tukahduttaa,verbs,0.4
+2159,ymennydd,hermo,nouns,1.4
+2160,cadw,lainata,verbs,0.3
+2161,cymryd,evätä,verbs,0.25
+2162,llyncu,juoda,verbs,2.5
+2163,craig,kaivos,nouns,0.35
+2164,hawdd,kova,adjectives,0.2
+2165,hawdd,rankka,adjectives,0.2
+2166,iselder,laakso,nouns,0.3
+2167,fel arfer,harvoin,adverbs,0.25
+2168,cân,esiintyjä,nouns,0.85
+2169,protein,kahva,nouns,0.0
+2170,twll,vaimo,nouns,0.0
+2171,diflannu,hävitä,verbs,5.3
+2172,gwallgof,hullu,adjectives,4.3
+2173,caws,leipä,nouns,0.95
+2174,gwyn,kapea,adjectives,0.0
+2175,bwrw,nipistää,verbs,1.05
+2176,wal,linna,nouns,0.55
+2177,anniben,puhdas,adjectives,0.2
+2178,madfall,käärme,nouns,1.9
+2179,amnewid,palauttaa,verbs,0.6
+2180,glo,puuhiili,nouns,3.6
+2181,cyflwr,tilanne,nouns,1.85
+2182,curo,ruoskia,verbs,3.0
+2183,chwilio,tiedustella,verbs,1.6
+2184,parch,kunnia,nouns,2.6
+2185,aren,elin,nouns,2.55
+2186,gludedd,loiske,nouns,0.3
+2187,egluro,todistaa,verbs,1.75
+2188,bys,palmu,nouns,0.0
+2189,rhuglen,melu,nouns,0.6
+2190,llawr,sisäkatto,nouns,0.7
+2191,gwydn,kova,adjectives,2.65
+2192,rhoi,antaa lainaksi,verbs,1.65
+2193,urddas,arvomerkki,nouns,0.15
+2194,clun,huuli,nouns,0.75
+2195,amddiffyn,tappaa,verbs,0.5
+2196,priodi,liittyä,verbs,1.85
+2197,llwyddo,saavuttaa,verbs,4.1
+2198,ffilm,nihilismi,nouns,0.0
+2199,traeth,riutta,nouns,0.85
+2200,stôl,tuoli,nouns,3.6
+2201,bws,taksi,nouns,1.25
+2202,pastai,suklaa,nouns,0.45
+2203,beic,auto,nouns,1.1
+2204,crio,nyyhkyttää,verbs,4.2
+2205,anonest,paha,adjectives,1.65
+2206,pledio,anoa,verbs,3.5
+2207,seler,ovi,nouns,0.3
+2208,amddiffyn,auttaa,verbs,1.6
+2209,yn ansicr,pelästynyt,adjectives,1.5
+2210,dicter,tila,nouns,0.65
+2211,lansio,lähettää,verbs,1.65
+2212,cadair,sänky,nouns,0.9
+2213,moleciwl,ilma,nouns,0.5
+2214,plesio,tyydyttää,verbs,3.0
+2215,mintys poethion,purukumi,nouns,0.65
+2216,mynd  ,tulla,verbs,0.85
+2217,damweinio,esiintyä,verbs,0.6
+2218,colli,pitää,verbs,0.3
+2219,cwrs,vatsa,nouns,0.0
+2220,ewin,käsi,nouns,1.25
+2221,gadael,sivuuttaa,verbs,1.7
+2222,euog,paha,adjectives,1.1
+2223,bwcler,suoja,nouns,2.25
+2224,delwedd,heijastus,nouns,1.25
+2225,nyddu,sitoa,verbs,1.15
+2226,benthyca,antaa,verbs,1.85
+2227,ymbarél,lämmitin,nouns,0.05
+2228,sylweddol,vähäpätöinen,adjectives,0.2
+2229,gŵr,mies,nouns,3.85
+2230,bod mewn dyled,lainata,verbs,2.05
+2231,mab,poika,nouns,3.95
+2232,dyweddïad,sormus,nouns,1.35
+2233,llawenydd,ylpeys,nouns,1.7
+2234,hanesyddiaethwr,historioitsija,nouns,3.2
+2235,lluwchwynt,sade,nouns,1.55
+2236,marw,hajota,verbs,0.6
+2237,tywysoges,keksi,nouns,0.0
+2238,yn swyddogol,vahvasti,adverbs,0.35
+2239,rhyfelgarwch,taistelu,nouns,1.9
+2240,therapi,behaviorismi,nouns,1.25
+2241,newydd,hiljattainen,adjectives,3.15
+2242,nerf,vartalo,nouns,0.65
+2243,eglwys,kuoro,nouns,0.6
+2244,darlun,rakko,nouns,0.0
+2245,coeden,lehti,nouns,1.4
+2246,baled,laulu,nouns,4.25
+2247,sibrwd,puhua,verbs,2.5
+2248,profi,selittää,verbs,1.75
+2249,gêm,toiminta,nouns,0.55
+2250,ymgeisydd,hakemus,nouns,1.4
+2251,hyblyg,löysä,adjectives,0.8
+2252,osgoi,kiistää,verbs,1.35
+2253,gwn,aamunkoitto,nouns,0.0
+2254,nenfwd,lattia,nouns,0.7
+2255,apocalyps,tuli,nouns,0.45
+2256,cwyno,tuoda,verbs,0.0
+2257,cebl,velho,nouns,0.0
+2258,hyder,asenne,nouns,1.55
+2259,cerflunydd,kartano,nouns,0.2
+2260,medi,hyötyä,verbs,0.45
+2261,derbyn,lähettää,verbs,0.25
+2262,tarddu,saada selville,verbs,0.35
+2263,marw,haudata,verbs,1.1
+2264,gwenynen,kuningatar,nouns,0.45
+2265,rhad,huokea,adjectives,4.55
+2266,chwydu,sulkea,verbs,0.0
+2267,gorffen,lykätä,verbs,0.55
+2268,llaw,ranne,nouns,1.95
+2269,gadael,häätää,verbs,0.7
+2270,melys,sähköinen,adjectives,0.0
+2271,rhiant,aikuinen,nouns,2.5
+2272,cytoplasm,luku,nouns,0.0
+2273,esgob,muslimi,nouns,0.3
+2274,symudiad,aktiviteetti,nouns,1.4
+2275,bore,päivä ,nouns,1.55
+2276,diflas,hauska,adjectives,0.25
+2277,casglu,ravistaa,verbs,0.1
+2278,brenin,prinssi,nouns,1.55
+2279,dod yn,näyttää,verbs,0.85
+2280,digwyddiad,varainkeruutapahtuma,nouns,2.15
+2281,troed,pohja,nouns,0.7
+2282,darganfod,hankkia,verbs,1.3
+2283,bathodyn,lasi,nouns,0.0
+2284,dydd ,yö,nouns,0.7
+2285,crensian,napsahtaa,verbs,1.3
+2286,twr,kello,nouns,0.4
+2287,wedi ei orchuddio,peittämätön,adjectives,0.2
+2288,hyblyg,siirrettävä,adjectives,1.25
+2289,cornel,alue,nouns,0.95
+2290,darganfod,hävitä ,verbs,0.2
+2291,o bosibl,optimistisesti,adverbs,1.3
+2292,dwyn,hankkia,verbs,1.2
+2293,cymryd,vastaanottaa,verbs,2.65
+2294,crëwr,tekijä,nouns,3.45
+2295,cerddoriaeth,huilu,nouns,1.1
+2296,senedd,perustuslaki,nouns,0.75
+2297,dewis,mielipide,nouns,0.95
+2298,cywilydd,järkyttynyt,adjectives,0.45
+2299,iro,levitä,verbs,0.45
+2300,gwneud,tapahtua,verbs,1.05
+2301,ffenestr,ovi,nouns,1.05
+2302,mam,ystävä,nouns,1.15
+2303,cosbi,opettaa,verbs,0.4
+2304,benthyg,anoa,verbs,0.85
+2305,angel,demoni,nouns,0.45
+2306,sblash,viskositeetti,nouns,0.3
+2307,ciledrych,mulkoilla,verbs,0.55
+2308,brwydro,leikkiä,verbs,0.4
+2309,gwylio,tarkkailla,verbs,3.25
+2310,datgysylltu,halkaista,verbs,1.25
+2311,canwr,näyttelijä,nouns,1.2
+2312,tŷ,asunto,nouns,2.85
+2313,ffliwt,musiikki,nouns,1.1
+2314,peilot,kuljettaja,nouns,3.05
+2315,argraffu,sivuuttaa,verbs,0.0
+2316,ifanc,onnellinen,adjectives,0.2
+2317,canolig,pitkäveteinen,adjectives,0.55
+2318,cefnogwr,kriketti,nouns,0.05
+2319,traeth,rannikkoalue,nouns,nan
+2320,cael,jäädä,verbs,0.05
+2321,anhrefnu,järjestäytynyt,verbs,0.25
+2322,dillad isaf,vartalo,nouns,0.25
+2323,anaeddfed,täysikasvuinen,adjectives,0.25
+2324,polyhedron,näyttelijä,nouns,0.05
+2325,eliffant,kompassi,nouns,0.05
+2326,llyfr,kirjallisuus,nouns,2.35
+2327,papur newydd,sana,nouns,0.75
+2328,dinistrio,luoda,verbs,0.25
+2329,cadw,suojella,verbs,0.95
+2330,anhygoel,likainen,adjectives,0.0
+2331,mynach,risti,nouns,0.5
+2332,drws,kellari,nouns,0.3
+2333,drwg,syyllinen,adjectives,1.1
+2334,gadael,vetäytyä,verbs,3.0
+2335,boddi,säästää,verbs,0.1
+2336,gwaith llaw,perinne,nouns,0.25
+2337,hael,ystävällinen,adjectives,1.55
+2338,newyddiadurwr,runoilija,nouns,0.65
+2339,creu,sukeltaa,verbs,0.0
+2340,graff,kaavio,nouns,3.75
+2341,mab,isä,nouns,1.15
+2342,ffotoffon,homofoni,nouns,0.15
+2343,cath,lemmikkieläin,nouns,2.85
+2344,dadlau,valittaa,verbs,1.2
+2345,oren,sitrushedelmä,nouns,3.65
+2346,cyflwr,pakti,nouns,0.0
+2347,croes,munkki,nouns,0.5
+2348,cynorthwyo,suojella,verbs,1.6
+2349,deallus,tyhmä,adjectives,0.2
+2350,yn amlwg,paikallisesti,adverbs,0.0
+2351,ffynnu,yrittää,verbs,1.0
+2352,cyferbyn,uniikki,adjectives,0.15
+2353,calibr,sateenvarjo,nouns,0.0
+2354,llyncu,siemailla,verbs,2.3
+2355,paragraff,kirje,nouns,0.5
+2356,orthodontydd,tohtori,nouns,1.6
+2357,bachgen,partneri,nouns,0.5
+2358,cyngres,parlamentti,nouns,3.15
+2359,gwrando,kuulla,verbs,3.05
+2360,amlen,koriste,nouns,0.05
+2361,anystwyth,helppo,adjectives,0.05
+2362,porth,uloskäynti,nouns,2.75
+2363,emyn,raamattu,nouns,0.75
+2364,esgus,näyttää,verbs,0.55
+2365,bachgen,muksu,nouns,2.3
+2366,sgrechian,huutaa,verbs,4.2
+2367,yn anghywir,tarkalleen,adverbs,0.2
+2368,deallusrwydd,logiikka,nouns,2.35
+2369,synhwyrydd,jäähdytin,nouns,0.15
+2370,teledu,elokuvateatteri,nouns,0.95
+2371,dyfalu,ärsyttää,verbs,0.0
+2372,ci hela,kettu,nouns,1.15
+2373,cyfoeth,köyhyys,nouns,0.5
+2374,caffael,löytää,verbs,1.3
+2375,trafod syniadau,teleskooppi,nouns,0.0
+2376,fector,matriisi,nouns,1.3
+2377,yn ystyrlon,syvästi,adverbs,1.05
+2378,syfrdanu,juhlia,verbs,0.0
+2379,ysglyfaeth,jumala,nouns,0.0
+2380,disgleirdeb,tähti,nouns,0.95
+2381,rhannu,irrottaa,verbs,1.25
+2382,cytuno,olla eri mieltä,verbs,0.25
+2383,barnu,päättää,verbs,2.25
+2384,partner,heppu,nouns,1.0
+2385,dinas,kaupunki,nouns,3.05
+2386,taliad,maksu,nouns,4.25
+2387,coffi,papu,nouns,0.7
+2388,cryptogram,symboli,nouns,2.15
+2389,cwpwrdd,vaatteet,nouns,0.6
+2390,seren,asteroidi,nouns,1.85
+2391,pêl,tykki,nouns,0.3
+2392,amsugno,vetäytyä,verbs,0.75
+2393,to,ikkuna,nouns,0.55
+2394,hanesydd,historiografi,nouns,3.2
+2395,doniol,surullinen,adjectives,0.2
+2396,canon,ase,nouns,2.7
+2397,llyfr,tarina,nouns,1.85
+2398,gwin,väkijuoma,nouns,2.1
+2399,preifat,henkilökohtainen,adjectives,4.0
+2400,neuadd,välikäytävä,nouns,0.75
+2401,o ddifrif,merkittävästi,adverbs,1.4
+2402,bedd,uudelleenhautaaminen,nouns,1.1
+2403,barn,uskomus,nouns,3.6
+2404,sensoriaeth,esteettömyys,nouns,0.1
+2405,aderyn,kalkkuna,nouns,2.7
+2406,tywydd,lumi,nouns,0.95
+2407,danfon,mennä,verbs,0.65
+2408,camera,presidentti,nouns,0.0
+2409,gwrando,totella,verbs,1.25
+2410,balchder,uskalias,adjectives,0.85
+2411,amsugno,omistaa,verbs,0.25
+2412,gadael,jäädä,verbs,0.6
+2413,tric,koko,nouns,0.0
+2414,awyr,unelma,nouns,0.15
+2415,meddwl,neuroosi,nouns,0.95
+2416,meddwl,järkeistää,verbs,2.55
+2417,yn feirniadol,olennaisesti,adverbs,0.65
+2418,mynd o'r golwg,kadota,verbs,5.3
+2419,ysgytlaeth,mehu,nouns,1.25
+2420,lens,kamera,nouns,1.65
+2421,gwddf,kieli,nouns,1.0
+2422,perfformio,tehdä kunniaa,verbs,0.15
+2423,pwerus,heikko,adjectives,0.2
+2424,amgylchiad,tilanne,nouns,4.95
+2425,peiriant,tietokone,nouns,2.65
+2426,car,letku,nouns,0.0
+2427,noswaith,iltahämärä,nouns,3.7
+2428,creu,tulla,verbs,0.05
+2429,oedran,kauneus,nouns,0.3
+2430,modfedd,metri,nouns,1.3
+2431,atgoffa,kertoa,verbs,0.95
+2432,yn hapus,kuolettavasti,adverbs,0.0
+2433,pigo,valikoida,verbs,3.95
+2434,drwm,sarvi,nouns,0.15
+2435,treisgar,passiivinen,adjectives,0.1
+2436,gwirio,sanoa,verbs,0.65
+2437,coeden,vene,nouns,0.25
+2438,car,tehdas,nouns,0.15
+2439,cynhwysor,diodi,nouns,0.8
+2440,sudd,omena,nouns,0.8
+2441,gwersyll,kämppä,nouns,0.7
+2442,rhyddid,sensuuri,nouns,0.1
+2443,person dan amheuaeth,mies,nouns,0.5
+2444,ergydio,ampua ohi,verbs,0.25
+2445,crwm,aggressiivinen,adjectives,0.0
+2446,gadael,liittyä,verbs,0.1
+2447,difetha,haistaa,verbs,0.05
+2448,ystafell,rakennus,nouns,1.2
+2449,bws,ajoneuvo,nouns,3.0
+2450,gogledd,etelä,nouns,1.0
+2451,cred,vaikutelma,nouns,1.45
+2452,fflat,talo,nouns,2.85
+2453,mynychu,saapua,verbs,0.85
+2454,banciwr,lakimies,nouns,0.95
+2455,cab,auto,nouns,3.65
+2456,maer,päällikkö,nouns,1.45
+2457,yn agored i niwed,helppo,adjectives,0.1
+2458,aneglur,epämääräinen,adjectives,4.7
+2459,hurt,nokkela,adjectives,0.2
+2460,trosedd,petos,nouns,3.1
+2461,merch,muksu,nouns,1.65
+2462,gwallgof,onneton,adjectives,0.6
+2463,disgybl,opiskelija,nouns,5.05
+2464,drwg,keskinkertainen,adjectives,0.15
+2465,corff,käsivarsi,nouns,1.1
+2466,profi,kiistellä,verbs,0.25
+2467,ebol,hevonen,nouns,3.55
+2468,anifail,henkilö,nouns,0.3
+2469,blaengau,pyrkiä,verbs,0.15
+2470,mawr,joustava,adjectives,0.3
+2471,safbwynt,etäisyys,nouns,0.1
+2472,stopio,viheltää,verbs,0.1
+2473,cyfieithydd,ulkomaalainen,nouns,0.15
+2474,ysgrifennu,raapustaa,verbs,3.2
+2475,aros,jättää,verbs,0.6
+2476,syml,helppo,adjectives,3.9
+2477,siampên,viski,nouns,1.4
+2478,niwroseicoleg,parapsykologia,nouns,1.9
+2479,prynu,varastaa,verbs,0.35
+2480,cyw iâr,päivällinen,nouns,1.05
+2481,asgwrn,hampaat,nouns,1.4
+2482,myfyriwr,opettaja,nouns,0.9
+2483,lleuad,planeetta,nouns,2.2
+2484,digid,sytoplasma,nouns,0.0
+2485,dewis,vankila,nouns,0.0
+2486,dicter,raivo,nouns,4.2
+2487,dysgu,unohtaa,verbs,0.35
+2488,cangen,käsivarsi,nouns,0.7
+2489,cosbi,totella,verbs,0.4
+2490,reis,papu,nouns,1.0
+2491,anghytuno,taistella,verbs,1.0
+2492,cerdded,seistä,verbs,0.8
+2493,asgwrn,kyynärpää,nouns,1.25
+2494,yn aml,tuskin koskaan,adverbs,0.25
+2495,gwaethygu,vaivata,verbs,0.55
+2496,archesgob,piispa,nouns,3.3
+2497,tafod,poski,nouns,1.1
+2498,siarad,kuiskata,verbs,2.5
+2499,yn annibynnol,vastuullisesti,adverbs,0.8
+2500,geneth,lapsi,nouns,2.0
+2501,machlud haul,auringonnousu,nouns,1.15
+2502,yn anhygoel,tiukasti,adverbs,0.1
+2503,pobl,ase,nouns,0.05
+2504,gofyn,anoa,verbs,2.4
+2505,gwaelod,huippu,nouns,0.35
+2506,gŵr,vaimo,nouns,1.65
+2507,caets,baari,nouns,0.1
+2508,dyn,tyttö,nouns,0.9
+2509,tystio,tuomita,verbs,0.65
+2510,cefnfor,meri,nouns,4.25
+2511,castell,seinä,nouns,0.55
+2512,offeryn,viulu,nouns,2.6
+2513,gwaed,vartalo,nouns,0.95
+2514,corff,selkäranka,nouns,0.9
+2515,gludiog,märkä,adjectives,0.65
+2516,dadansoddi,arvioida,verbs,4.1
+2517,mawr,laaja,adjectives,3.95
+2518,tyfu,kutistua,verbs,0.25
+2519,awyren,arkki,nouns,0.0
+2520,yn ddigynnwrf,hienovaraisesti,adverbs,0.85
+2521,afu,elin,nouns,1.95
+2522,rhith,todellisuus,nouns,0.3
+2523,yn wahanol,normaali,adjectives,0.55
+2524,cyntedd,välikäytävä,nouns,1.7
+2525,troed,pää,nouns,0.8
+2526,eira,lumivyöry,nouns,1.55
+2527,gwestai,ystävä,nouns,0.7
+2528,gwarcheidwad,äiti,nouns,2.5
+2529,gwacáu,määrittää,verbs,0.05
+2530,gwael,yksinäinen,adjectives,0.3
+2531,gwthio,syyttää,verbs,0.05
+2532,rheolaeth,työ,nouns,0.6
+2533,awdur,lahja,nouns,0.0
+2534,yn sicr,joskus,adverbs,0.15
+2535,rhyfelwr,mies,nouns,0.8
+2536,sychder,vesi,nouns,0.2
+2537,fforddiadwy,halpa,adjectives,5.25
+2538,rhan,kappale,nouns,3.7
+2539,balch ,mieletön,adjectives,0.05
+2540,gwybod,uskoa,verbs,1.8
+2541,dweud,ilmaista,verbs,3.85
+2542,dimai,vaimo,nouns,0.05
+2543,natur,kasvisto,nouns,2.2
+2544,hapusrwydd,tuuri,nouns,0.65
+2545,plentyn,mies,nouns,0.65
+2546,sinematograffeg,ohjaaja,nouns,0.85
+2547,sesiwn,potilas,nouns,0.1
+2548,rhannu,yhdistää,verbs,0.35
+2549,blodyn,pensas,nouns,1.65
+2550,stori,laulu,nouns,0.7
+2551,dŵr,jää,nouns,2.1
+2552,egni,paristo,nouns,2.1
+2553,ardal,vyöhyke,nouns,4.9
+2554,llawr,kansi,nouns,1.5
+2555,cyhoeddi,tiedottaa,verbs,4.7
+2556,dwyn,siepata,verbs,2.65
+2557,pêl-foli,pallo,nouns,2.65
+2558,gofyn,rukoilla,verbs,1.2
+2559,emosiwn,tila,nouns,1.8
+2560,anfoesol,laiton,adjectives,1.75
+2561,hydoddi,sekoittaa,verbs,1.5
+2562,yn uchel,pehmeästi,adverbs,0.05
+2563,ystafell,kylpy,nouns,0.25
+2564,coridor,ovi,nouns,0.45
+2565,arbed,tuhota,verbs,0.25
+2566,ceisio,onnistua,verbs,0.9
+2567,eil,sali,nouns,0.75
+2568,caffael,liittyä,verbs,0.15
+2569,gwehyddu,liikkua,verbs,0.55
+2570,pur,vaatimaton,adjectives,0.95
+2571,balch,surullinen,adjectives,0.1
+2572,dwyn,ostaa,verbs,0.35
+2573,rhestr,ryhmä,nouns,0.65
+2574,cyfathrebu,rukoilla,verbs,0.6
+2575,unig,köyhä,adjectives,0.3
+2576,gadael,tavata,verbs,0.05
+2577,teledu,näyttelijä,nouns,0.8
+2578,gwych,ihana,adjectives,2.3
+2579,asgwrn,lihas,nouns,0.65
+2580,ungnwd,maatalous,nouns,0.4
+2581,lladd,tukehtua,verbs,1.15
+2582,ymwybyddiaeth,huomio,nouns,2.2
+2583,cawl,päivällinen,nouns,1.5
+2584,gwrthod,myöntää,verbs,0.2
+2585,bwrw,rangaista,verbs,0.6
+2586,cwmwl,ikkuna,nouns,0.0
+2587,cynffon,takaosa,nouns,0.95
+2588,bri,varakkuus,nouns,0.2
+2589,magma,tulivuori,nouns,1.65
+2590,cyfiawnder,tuomioistuin,nouns,1.15
+2591,cyfreithiol,sallittu,adjectives,3.1
+2592,enillydd,maali,nouns,0.5
+2593,enillydd,läsnäolo,nouns,0.0
+2594,drwg,moraaliton,adjectives,3.3
+2595,band,kestävyys,nouns,0.0
+2596,angen,järjestää,verbs,0.0
+2597,tynnu'n ôl,imeä itseensä,verbs,0.75
+2598,yn ddelfrydol,realistisesti,adverbs,0.65
+2599,gwefus,suu,nouns,2.3
+2600,drôr,vaatteet,nouns,0.4
+2601,datgymalu,kuolla,verbs,0.6
+2602,tasg,toimeksianto,nouns,4.95
+2603,modur,vene,nouns,0.75
+2604,ffa,kahvi,nouns,0.7
+2605,anatomeg,biologia,nouns,2.55
+2606,sawl,kahdesti,adverbs,0.85
+2607,fflat,hotelli,nouns,0.75
+2608,hyblyg,helppo,adjectives,1.1
+2609,mae'n debygol,ehkäpä,adverbs,2.2
+2610,ynys,prinsessa,nouns,0.0
+2611,tynnu'n ôl,torjua,verbs,1.75
+2612,penodi,valita,verbs,3.2
+2613,log,kylpy,nouns,0.0
+2614,clymu,pujotella,verbs,1.15
+2615,cegin,ovi,nouns,0.25
+2616,meddwl,tiedustella,verbs,0.85
+2617,cansen siwgr,leikkuupuimuri,nouns,0.1
+2618,cymryd,omistaa,verbs,1.15
+2619,topoleg,rakenne,nouns,2.0
+2620,cynffon,kalliojyrkänne,nouns,0.0
+2621,awyr,universumi,nouns,0.85
+2622,theori,teoreema,nouns,3.3
+2623,dychmygu,luoda,verbs,0.9
+2624,gwthio,vetää,verbs,0.3
+2625,yn ddwfn,enimmäkseen,adverbs,0.45
+2626,disgwyl,jättää,verbs,0.15
+2627,hapus,nuori,adjectives,0.2
+2628,gwythïen,vatsa,nouns,0.65
+2629,caled,yksinkertainen,adjectives,0.0
+2630,penderfynu,tuomita,verbs,2.25
+2631,anialwch,dyyni,nouns,1.15
+2632,heb fod yn ddrud,halpa,adjectives,4.55
+2633,ynys,tehtävä,nouns,0.0
+2634,portreadu,päättää,verbs,0.2
+2635,peiriannydd,työläinen,nouns,2.35
+2636,rhybuddio,pysähtyä,verbs,0.75
+2637,tywod,jalkaterä,nouns,0.05
+2638,morwyn,tyttö,nouns,2.35
+2639,yn hyderus,salaa,adverbs,0.2
+2640,geiriadur,sana,nouns,1.5
+2641,yn dawel,passiivisesti,adverbs,1.1
+2642,dynwared,kaapata,verbs,0.1
+2643,brwnt,kapea,adjectives,0.0
+2644,dod â,valittaa,verbs,0.0
+2645,post,nopeus,nouns,0.0
+2646,seren,planeetta,nouns,2.15
+2647,rhifyddeg,rytmi,nouns,0.1
+2648,gwartheg,jogurtti,nouns,0.2
+2649,pêl,hanska,nouns,0.15
+2650,hedyn,sinappi,nouns,0.7
+2651,rinsio,pestä,verbs,2.9
+2652,bwystfil,eläin,nouns,2.9
+2653,rheolaeth,hallinto,nouns,2.75
+2654,cymeradwyo,antaa lupa,verbs,2.5
+2655,gwasgu,vapauttaa,verbs,0.05
+2656,ynys,laivasto,nouns,0.15
+2657,coleddu,pitää,verbs,1.55
+2658,sgil,älykkyys,nouns,1.8
+2659,ffabrig,vaatteet,nouns,2.0
+2660,dicter,turhautuminen,nouns,1.95
+2661,talu,kohdella,verbs,0.0
+2662,maes awyr,lentokone,nouns,1.45
+2663,glaw,lumimyrsky,nouns,1.55
+2664,hysbysu,kiillottaa,verbs,0.0
+2665,ffens,raide,nouns,0.15
+2666,llygad,kulmakarva,nouns,0.95
+2667,yfed,sekoittaa,verbs,0.15
+2668,plesio,viihdyttää,verbs,2.2
+2669,ffliw,kuume,nouns,3.4
+2670,stryd,kuja,nouns,3.55
+2671,adeiladu,tuhota,verbs,0.25
+2672,ar hyn o bryd,hienotunteisesti,adverbs,0.0
+2673,ychwanegu,kertoa,verbs,1.65
+2674,colli,vähentää,verbs,0.5
+2675,methiant,konkurssi,nouns,1.25
+2676,brawdgarwch,ovi,nouns,0.0
+2677,gwerthuso,oppia,verbs,0.75
+2678,ras,viikonloppu,nouns,0.0
+2679,ysgol,laki,nouns,0.25
+2680,ewin,pää,nouns,0.65
+2681,archwilio,saada selville,verbs,1.45
+2682,hyder,minuus,nouns,0.75
+2683,yn debygol,mahdollisesti,adverbs,2.35
+2684,gosod mewn trefn,organisoida,verbs,5.65
+2685,sero,ikuisuus,nouns,0.05
+2686,gwraig,sentti,nouns,0.05
+2687,gofal,varovaisuus,nouns,2.35
+2688,anghytuno,myöntyä,verbs,0.25
+2689,concwest,matka,nouns,0.45
+2690,cerflunwaith,patsas,nouns,5.25
+2691,esgus,otaksua,verbs,0.65
+2692,cwrs,toiminta,nouns,0.1
+2693,gwn,muistikirja,nouns,0.0
+2694,cwmwl,järvi,nouns,0.3
+2695,derbyn,torjua,verbs,0.25
+2696,staff,laulusolisti,nouns,0.0
+2697,hapus,vihainen,adjectives,0.25
+2698,annheg,julma,adjectives,1.75
+2699,lluosiad,jakolasku,nouns,1.25
+2700,machlud haul,ilta,nouns,2.2
+2701,gwellt,tehtävä,nouns,0.0
+2702,cig,voileipä,nouns,0.6
+2703,yn emosiynol,surullisesti,adverbs,2.1
+2704,braich,luu,nouns,1.5
+2705,drwg,mahtava,adjectives,0.05
+2706,teiffŵn,sykloni,nouns,4.45
+2707,troi allan,tyhjentää,verbs,1.1
+2708,etholiad,valinta,nouns,2.6
+2709,paragraff,sivu,nouns,0.55
+2710,ifanc,levoton,adjectives,0.25
+2711,gwerthuso,analysoida,verbs,4.1
+2712,canon,pallo,nouns,0.3
+2713,trist,kauhea,adjectives,1.45
+2714,aros,saada,verbs,0.05
+2715,trefnu,kerätä,verbs,0.9
+2716,harmoni,piano,nouns,0.85
+2717,dod,mennä,verbs,0.85
+2718,côn,kuppi,nouns,0.1
+2719,radar,sauvaohjain,nouns,0.25
+2720,gwirio,perustella,verbs,1.15
+2721,duw,saatana,nouns,1.05
+2722,fflat,huonekalut,nouns,0.6
+2723,cinio,aamiainen,nouns,1.2
+2724,dadl,kritiikki,nouns,1.2
+2725,gair,sanakirja,nouns,1.5
+2726,cloch,torni,nouns,0.4
+2727,rhyddhau,saada kiinni,verbs,0.75
+2728,gwerthfawr,pyhä,adjectives,2.1
+2729,beibl,virsi,nouns,0.75
+2730,sylw,tietoisuus,nouns,2.2
+2731,glân,sotkuinen,adjectives,0.2
+2732,cwrw,juoma,nouns,2.5
+2733,cwtsh,halata,verbs,4.25
+2734,helpu,tukea,verbs,5.1
+2735,creu,tuhota,verbs,0.25
+2736,baner,veksillologia,nouns,1.15
+2737,perl,raha,nouns,0.35
+2738,awyren,suihkukone,nouns,4.35
+2739,miniog,tylsä,adjectives,0.3
+2740,ymadael,odottaa,verbs,0.15
+2741,tarth,pilvi,nouns,2.75
+2742,tasg,moottoritie,nouns,0.0
+2743,crio,nauraa,verbs,0.3
+2744,pen-blwydd,päivämäärä,nouns,1.65
+2745,dec,vene,nouns,0.85
+2746,ffantasi,todellisuus,nouns,0.5
+2747,anwybyddu,kysyä,verbs,0.0
+2748,perllan,strutsi,nouns,0.0
+2749,aur,sinkki,nouns,0.95
+2750,stumog,vartalo,nouns,1.55
+2751,golau,näppäimistö,nouns,0.0
+2752,ymerawdwr,perustuslaki,nouns,0.2
+2753,rheoli,pysähtyä,verbs,0.3
+2754,rhesymeg,älykkyys,nouns,2.35
+2755,cyfraith,koulu,nouns,0.25
+2756,yn hael,ei koskaan,adverbs,0.05
+2757,llenyddiaeth,kirja,nouns,2.35
+2758,dŵr,suola,nouns,0.3
+2759,beirniadaeth,kiista,nouns,1.2
+2760,dadl,sopimus,nouns,0.25
+2761,gwraig,reikä,nouns,0.0
+2762,trwm,iso,adjectives,1.1
+2763,heicio,kiivetä,verbs,2.3
+2764,ystafell wely,kylpyhuone,nouns,2.0
+2765,arbed,kuluttaa,verbs,0.3
+2766,perygl,tauti,nouns,0.25
+2767,negyddol,ei koskaan,adjectives,0.65
+2768,cytundeb,reikä,nouns,0.0
+2769,dwyn,antaa,verbs,0.2
+2770,wal,tiili,nouns,1.0
+2771,blawd,leipä,nouns,1.2
+2772,niweidio,härnätä,verbs,0.55
+2773,rhaglen,ruoka,nouns,0.05
+2774,pydru,tuhota,verbs,1.1
+2775,tywynnu,siristää silmiään,verbs,0.55
+2776,arholiad,opetussuunnitelma,nouns,0.5
+2777,braich,olkapää,nouns,1.8
+2778,gwawr,yö,nouns,0.75
+2779,ergyd,kehys,nouns,0.0
+2780,swydd,tehtävä,nouns,3.5
+2781,croen,pyörä,nouns,0.0
+2782,sillaf,lemma,nouns,0.4
+2783,llym,julma,adjectives,1.9
+2784,heddwch,onnellisuus,nouns,1.05
+2785,gormesu,luopua,verbs,0.4
+2786,datgelwyd,peitetty,adjectives,0.2
+2787,drewi,haista,verbs,4.75
+2788,brwnt,hämmästyttävä,adjectives,0.0
+2789,gwadu,hyväksyä,verbs,0.3
+2790,ffroenell,neste,nouns,0.05
+2791,hyfryd,ihmeellinen,adjectives,2.3
+2792,swyddog,sijainen,nouns,0.75
+2793,yn afresymol,epäreilusti,adverbs,3.05
+2794,yn dawel,äänekkäästi,adverbs,0.05
+2795,tywydd,aalto,nouns,0.1
+2796,dygnwch,yhtye,nouns,0.0
+2797,serameg,keramiikka,nouns,3.85
+2798,anghofio,sivuuttaa,verbs,1.45
+2799,meddw,selvin päin oleva,adjectives,0.25
+2800,hawdd,jäykkä,adjectives,0.05
+2801,gwych,paha,adjectives,0.05
+2802,yr un peth,samankaltainen,adjectives,4.15
+2803,ceg,nenä,nouns,1.1
+2804,ffres,vanha,adjectives,0.2
+2805,sudd,lusikka,nouns,0.15
+2806,neidr,lisko,nouns,1.9
+2807,gwahaniaethu,kiistellä,verbs,0.45
+2808,gwneud,lopettaa,verbs,0.25
+2809,arferol,outo,adjectives,0.2
+2810,ymddangos,osallistua,verbs,0.55
+2811,ffwr,ase,nouns,0.05
+2812,agwedd,itseluottamus,nouns,1.55
+2813,go fach,kääpiömäinen,adjectives,3.0
+2814,cywilydd,onnekas,adjectives,0.05
+2815,tymor,talvi,nouns,1.95
+2816,chwedl,moraali,nouns,0.2
+2817,darllen,purra,verbs,0.0
+2818,gwael,ylpeä,adjectives,0.05
+2819,alwminiwm,säilyketölkki,nouns,1.4
+2820,rhoi,varastaa,verbs,0.2
+2821,tasg,pilli,nouns,0.0
+2822,cnoi,taistella,verbs,0.55
+2823,bàth,tukki,nouns,0.0
+2824,arian,kuukausipalkka,nouns,2.5
+2825,taliad,viesti,nouns,0.05
+2826,disg,tietokone,nouns,0.6
+2827,sâl,hullu,adjectives,0.95
+2828,bioleg gymdeithasol,mutantti,nouns,0.1
+2829,gosod,antaa,verbs,1.1
+2830,llys,tuomari,nouns,1.1
+2831,canu,kellua,verbs,0.0
+2832,digid,numero,nouns,5.25
+2833,pechadur,pyhimys,nouns,0.55
+2834,cadw,menettää,verbs,0.3
+2835,raced,pallo,nouns,0.75
+2836,ffôn symudol,puhelin,nouns,4.5
+2837,het,takki,nouns,1.2
+2838,gwely,tuoli,nouns,0.9
+2839,pobl,sentti,nouns,0.05
+2840,lamp,henkiolento,nouns,0.1
+2841,cyfamod,sopimus,nouns,5.05
+2842,ar hyn o bryd,hiljattain,adverbs,1.3
+2843,ysgwydd,käsivarsi,nouns,1.8
+2844,damcaniaeth,teoria,nouns,4.6
+2845,cnoi,lukea,verbs,0.0
+2846,ffin,rajaviiva,nouns,3.55
+2847,cwch,kansi,nouns,0.85
+2848,parti,naamio,nouns,0.3
+2849,bysellfwrdd,valo,nouns,0.0
+2850,byth,tuskin koskaan,adverbs,3.35
+2851,traeth,meri,nouns,1.4
+2852,mynd,myydä,verbs,0.1
+2853,gwellt,virsi,nouns,0.1
+2854,prawf,tuomio,nouns,1.65
+2855,weithiau,varmasti,adverbs,0.15
+2856,erfyn,kysyä,verbs,2.4
+2857,rhedeg,ajaa,verbs,0.5
+2858,niwed,kipu,nouns,1.8
+2859,drwm,kitara,nouns,1.35
+2860,twyn,aavikko,nouns,1.15
+2861,ymdrech,vaikeus,nouns,1.6
+2862,hongian,laittaa,verbs,0.15
+2863,yn syth,kerran,adverbs,0.65
+2864,alaw,rytmi,nouns,1.45
+2865,glofa,kallio,nouns,0.35
+2866,dyrchafu,edistää,verbs,2.05
+2867,parêd,väkijoukko,nouns,1.75
+2868,ffisigwr,tohtori,nouns,4.85
+2869,anodd,yksinkertainen,adjectives,0.25
+2870,peiriant,moottori,nouns,3.4
+2871,dec,hiiri,nouns,0.0
+2872,esgus,kuvata,verbs,0.55
+2873,ymaflyd,ottaa,verbs,1.75
+2874,map,neliö,nouns,0.05
+2875,cydweithredu,liittyä,verbs,1.3
+2876,person,eläin,nouns,0.3
+2877,stumog,makuuhuone,nouns,0.0
+2878,yn rhyfedd,eri tavalla,adverbs,2.05
+2879,opera,elokuvateatteri,nouns,1.1
+2880,yn fawr,kirkkaasti,adverbs,0.45
+2881,poen,suru,nouns,2.9
+2882,bar,putka,nouns,0.3
+2883,tatws,voi,nouns,0.5
+2884,dyn,isä,nouns,2.25
+2885,nodyn,toimeksianto,nouns,0.8
+2886,dal,jahdata,verbs,1.3
+2887,anniben,ruma,adjectives,0.95
+2888,brecwast,pekoni,nouns,0.9
+2889,sain,akustiikka,nouns,2.55
+2890,atom,molekyyli,nouns,2.1
+2891,golygyddol,uutiset,nouns,1.15
+2892,oedolyn,vauva,nouns,0.5
+2893,swyddfa,työläinen,nouns,0.7
+2894,brecwast,illallinen,nouns,1.35
+2895,cul,pitkä,adjectives,0.55
+2896,sitrws,appelsiini,nouns,3.65
+2897,gwythïen,käsivarsi,nouns,0.45
+2898,chwilio,vaeltaa,verbs,1.25
+2899,stondin,laatikko,nouns,0.1
+2900,twrci,naaraslintu,nouns,2.0
+2901,codi,korottaa,verbs,4.15
+2902,pot,laite,nouns,0.1
+2903,mariwana,yrtti,nouns,2.15
+2904,dillad,liina,nouns,0.9
+2905,goddefol,väkivaltainen,adjectives,0.1
+2906,hysteria,sekaannus,nouns,1.75
+2907,ffug,aito,adjectives,0.25
+2908,blin,väkivaltainen,adjectives,1.5
+2909,gwybod,käsittää,verbs,2.85
+2910,yn hanfodol,välttämättömästi,adverbs,3.6
+2911,ceiniog,tarjous,nouns,0.55
+2912,salad,ruokavalio,nouns,0.95
+2913,anonest,totuudenmukainen,adjectives,0.25
+2914,gweinyddiaeth,johtokunta,nouns,2.75
+2915,moleciwl,matriisi,nouns,0.15
+2916,braich,niska,nouns,0.7
+2917,maint,temppu,nouns,0.0
+2918,nyrs,tieteilijä,nouns,0.4
+2919,syniad,kuva,nouns,0.95
+2920,ffidil,kitara,nouns,1.45
+2921,hanfodol,tärkeä,adjectives,4.2
+2922,ymuno,ottaa osaa,verbs,3.15
+2923,yn afreolaidd,yleensä,adverbs,0.3
+2924,llyfr,onnettomuus,nouns,0.0
+2925,mamfwrdd,päälevy,nouns,3.3
+2926,cefndir,tapetti,nouns,1.3
+2927,gwesty,asunto,nouns,0.75
+2928,braich,oksa,nouns,0.7
+2929,cred,arvo,nouns,0.85
+2930,offeiriad,munkki,nouns,1.7
+2931,emyn,pilli,nouns,0.1
+2932,tric,peli,nouns,0.95
+2933,dodrefn,asunto,nouns,0.6
+2934,gwrthod,paheksua,verbs,0.75
+2935,enwaediad,esinahka,nouns,0.95
+2936,gwrthod,valita,verbs,0.0
+2937,seryddwr,galaksi,nouns,0.5
+2938,hir,lyhyt,adjectives,0.25
+2939,gwerthu,mennä,verbs,0.1
+2940,pryderus,kärsimätön,adjectives,0.6
+2941,corff,alusvaatteet,nouns,0.25
+2942,sgwrs,viestintä,nouns,3.6
+2943,ffens,hyppy,nouns,0.1
+2944,hyblyg,vaatimaton,adjectives,0.45
+2945,llygoden,säilytysastia,nouns,0.0
+2946,meddu ar,ottaa,verbs,1.15
+2947,barnu,todistaa,verbs,0.65
+2948,drud,ujo,adjectives,0.0
+2949,trist,ylpeä,adjectives,0.1
+2950,tywydd,pilvi,nouns,1.05
+2951,rhedwr,urheilija,nouns,2.9
+2952,lladd,puolustaa,verbs,0.5
+2953,awyrennu,lento,nouns,2.85
+2954,cryf,ylpeä,adjectives,0.65
+2955,sioe,matemaatikko,nouns,0.0
+2956,deuod,kondensaattori,nouns,0.8
+2957,byth,rehellisesti,adverbs,0.0
+2958,sefyll,kävellä,verbs,0.8
+2959,coleg,luokka,nouns,0.85
+2960,gwneud,luoda,verbs,4.65
+2961,weithiau,yhtenäisesti,adverbs,0.05
+2962,raced,melu,nouns,0.0
+2963,menyw,farkut,nouns,0.05
+2964,cael,laittaa,verbs,0.25
+2965,yn oddefol,luotettavasti,adverbs,0.15
+2966,yn hysbys,kansallinen,adjectives,0.25
+2967,dweud celwydd,moittia,verbs,0.35
+2968,dirmygu,vihata,verbs,2.3
+2969,athro,rabbi,nouns,2.55
+2970,cyfaill,ystävä,nouns,5.6
+2971,codiad haul,auringonlasku,nouns,1.15
+2972,iaith,viestintä,nouns,1.95
+2973,gwych,hirveä,adjectives,0.2
+2974,dianc,löytää,verbs,0.25
+2975,anwybodaeth,älykkyys,nouns,0.25
+2976,parsel,kuorma-auto,nouns,0.4
+2977,doethineb,älykkyys,nouns,3.6
+2978,brwydro,olla eri mieltä,verbs,1.0
+2979,siaced,vaatteet,nouns,1.75
+2980,concwest,taistelu,nouns,2.25
+2981,goroesi,elää,verbs,2.9
+2982,hynafol,uusi,adjectives,0.2
+2983,cosbi,osua,verbs,0.6
+2984,siarcol,hiili,nouns,3.6
+2985,rhoi,roikkua,verbs,0.15
+2986,deall,tietää,verbs,2.9
+2987,blanced,voimakas tuuli,nouns,0.0
+2988,teledu,käsikirjoittaja,nouns,0.4
+2989,yn ddelfrydol,mekaanisesti,adverbs,0.0
+2990,realiti,fantasia,nouns,0.5
+2991,enillydd,mies,nouns,0.25
+2992,ceryddu,vaatia,verbs,0.3
+2993,llygoden fawr,hiiri,nouns,3.15
+2994,anhapus,mieletön,adjectives,0.6
+2995,coleg,ammatti,nouns,0.35
+2996,cytuno,kiistellä,verbs,0.25
+2997,busnes,yritys,nouns,3.7
+2998,neidio,aita,nouns,0.1
+2999,gwahaniaethu,myöntyä,verbs,0.0
+3000,cwrw,alkoholi,nouns,2.8
+3001,yn angheuol,onnellisesti,adverbs,0.0
+3002,sŵn,helistin,nouns,0.6
+3003,coctel,alkoholi,nouns,2.0
+3004,yn nerfus,ahdistuneesti,adverbs,3.5
+3005,gitâr,rumpu,nouns,1.35
+3006,yn onest,uskollisesti,adverbs,1.7
+3007,yn hapus,turvallisesti,adverbs,0.6
+3008,actor,monitahokas,nouns,0.05
+3009,diddanu,nauttia,verbs,0.9
+3010,erfyn,vedota,verbs,3.5
+3011,dadlau,vaatia,verbs,1.3
+3012,ar frys,nopeasti,adverbs,4.95
+3013,rhwygo,pitää päällä,verbs,0.05
+3014,llafn,ruoho,nouns,0.3
+3015,amddiffyn,suojella,verbs,4.3
+3016,pelydr,auringonpaiste,nouns,2.15
+3017,sinema,televisio,nouns,0.95
+3018,anwybodus,yhtenäinen,adjectives,0.25
+3019,uno,jakaa,verbs,0.35
+3020,arwyddluniau,arvokkuus,nouns,0.15
+3021,wedi eu cyfuno,sekoitettu,adjectives,2.8
+3022,gwlyb,tahmea,adjectives,0.65
+3023,balchder,köyhä,adjectives,0.05
+3024,prin,ei koskaan,adverbs,3.35
+3025,gwrthddadlau,väitellä,verbs,3.8
+3026,gwanwyn,geisir,nouns,0.0
+3027,cwch,moottori ,nouns,0.75
+3028,dirprwy,virkailija,nouns,0.75
+3029,eisiau,lainata,verbs,0.5
+3030,firws,veri,nouns,0.65
+3031,niwl,pilvi,nouns,2.9
+3032,mynychu,ilmestyä,verbs,0.55
+3033,gwerthfawr,laiska,adjectives,0.0
+3034,cyffredin,kummallinen,adjectives,0.2
+3035,wedi ei orchuddio,vaatetettu,adjectives,1.85
+3036,yma,nyt,adverbs,1.35
+3037,goresgyn,dominoida,verbs,2.9
+3038,pen,aakkoset,nouns,0.05
+3039,band,väkijuoma,nouns,0.0
+3040,cywilydd,murhe,nouns,1.35
+3041,troed,hiekka,nouns,0.05
+3042,gwn,turkki,nouns,0.05
+3043,curo,sulautua,verbs,0.55
+3044,pleserdaith,matka,nouns,3.8
+3045,canrif,väkijuoma,nouns,0.0
+3046,credyd,lainaaja,nouns,0.95
+3047,angen,tiedustella,verbs,0.3
+3048,rheol,sopivuussäännöt,nouns,2.45
+3049,duw,saalis,nouns,0.0
+3050,digwyddiad codi arian,tapahtuma,nouns,2.15
+3051,emosiwn,intohimo,nouns,3.45
+3052,traethawd,läksyt,nouns,1.9
+3053,creu,ansaita,verbs,0.1
+3054,brawd,sielu,nouns,0.0
+3055,dydd  ,aamu,nouns,1.55
+3056,dyffryn,masennus,nouns,0.3
+3057,yn ddarostyngedig,huonosti,adverbs,0.1
+3058,gwddf,luu,nouns,0.85
+3059,prif fwrdd,emolevy,nouns,3.3
+3060,ceunant,laakso,nouns,3.6
+3061,troi drosodd,sattua,verbs,0.4
+3062,tanc,auto,nouns,0.85
+3063,lori,paketti,nouns,0.4
+3064,calendr,päivämäärä,nouns,1.75
+3065,eryr,haukka,nouns,2.55
+3066,gwisgedig,peitetty,adjectives,1.85
+3067,diog,kiireinen,adjectives,0.15
+3068,yn naturiol,hiljaisesti,adverbs,0.25
+3069,soffa,sänky,nouns,0.35
+3070,ochr,pohja,nouns,0.75
+3071,hurt,älykäs,adjectives,0.2
+3072,pinsio,lävistää,verbs,1.05
+3073,alcohol,cocktail,nouns,2.0
+3074,cymryd,takavarikoida,verbs,1.75
+3075,twyll,rikos,nouns,3.1
+3076,atgoffa,unohtaa,verbs,0.25
+3077,arian cyfred,vaihto,nouns,0.4
+3078,atodiad,suffiksi,nouns,3.25
+3079,holi,etsiä,verbs,1.6
+3080,cyffredin,kylmä,adjectives,0.0
+3081,lladd,taistella,verbs,1.2
+3082,allanfa,äänioikeus,nouns,0.05
+3083,hawdd,haavoittuvainen,adjectives,0.1
+3084,cychwyn,alkaa,verbs,5.7
+3085,dwywaith,moninkertainen,adverbs,0.85
+3086,rhoi,olla tunnustamatta,verbs,0.5
+3087,yn amlwg,varmasti,adverbs,3.15
+3088,syml,vaikea,adjectives,0.25
+3089,cleddyf,ympäristö,nouns,0.0
+3090,arfordir,ranta,nouns,nan
+3091,onest,epärehellinen,adjectives,0.25
+3092,babi,tytär,nouns,1.6
+3093,batri,teatteri,nouns,0.0
+3094,unigryw,vastapäinen,adjectives,0.15
+3095,miniog,sileä,adjectives,0.3
+3096,bwyd,ohjelma,nouns,0.05
+3097,ffraeo,vakuuttaa,verbs,0.5
+3098,cath,leijona,nouns,2.3
+3099,siarad,kuulla,verbs,0.65
+3100,darganfod,karata,verbs,0.25
+3101,pumed,huippu,adjectives,0.05
+3102,pren,tukki,nouns,3.1
+3103,yn gyfeillgar,epätodennäköisesti,adverbs,0.0
+3104,efelychiad,robotiikka,nouns,0.5
+3105,pen,kynsi,nouns,0.65
+3106,gorsedd,miekka,nouns,0.4
+3107,brawd,poika,nouns,2.0
+3108,ystafell,solu,nouns,1.65
+3109,gliniadur,muistikirja,nouns,0.6
+3110,corff,hermo,nouns,0.65
+3111,lifft,laatikko,nouns,0.0
+3112,dibynnu,epäonnistua,verbs,0.25
+3113,dannedd,luu,nouns,1.4
+3114,undeb,summa,nouns,0.3
+3115,yn ddiweddarach,ei koskaan,adverbs,0.7
+3116,priodol,kohtelias,adjectives,1.55
+3117,ffynhonnell,laatikko,nouns,0.0
+3118,rhyddid,keidas,nouns,0.35
+3119,gwastraffu,murehtia,verbs,0.05
+3120,cystadlu,suorittaa loppuun,verbs,0.2
+3121,claddedigaeth,kuolema,nouns,1.3
+3122,pen-glin,luu,nouns,1.5
+3123,gwrthod,kieltäytyä,verbs,2.6
+3124,yn ddi-drefn,rauhallisesti,adverbs,0.2
+3125,ffurfdroad,infektio,nouns,0.0
+3126,metr,tuuma,nouns,1.3
+3127,plentyn,aikuinen,nouns,0.9
+3128,eira,myrsky,nouns,1.05
+3129,cyd-beilot,kyttä,nouns,0.5
+3130,bywgraffiad,fiktio,nouns,0.5
+3131,morthwyl,hampaat,nouns,0.0
+3132,carbon,atomi,nouns,1.05
+3133,cinio,keitto,nouns,1.5
+3134,athro,opiskelija,nouns,0.9
+3135,hawdd,iso,adjectives,0.0
+3136,stêc,kana,nouns,0.85
+3137,caban,maja,nouns,3.6
+3138,ysbryd,lamppu,nouns,0.1
+3139,meddyg,ortodontti,nouns,1.6
+3140,ffrâm,hitti,nouns,0.0
+3141,yn dawel,luonnollisesti,adverbs,0.25
+3142,cotwm,villapaita,nouns,0.65
+3143,cyfuniad,liitto,nouns,2.95
+3144,menyw,tehtävä,nouns,0.0
+3145,yn ysgafn,kirkkaasti,adverbs,0.6
+3146,pobl,juhla,nouns,0.8
+3147,annog,lannistaa,verbs,0.2
+3148,tref,suurkaupunki,nouns,3.05
+3149,cyfreithlon,laiton,adjectives,0.25
+3150,tudalen,kohta,nouns,0.55
+3151,dechrau,aloittaa,verbs,5.7
+3152,rhyfedd,normaali,adjectives,0.2
+3153,corn,auto,nouns,0.2
+3154,diogelu,puolustaa,verbs,4.3
+3155,ymosodiad,salamahyökkäys,nouns,3.65
+3156,hwyliau,tunne,nouns,1.8
+3157,derbyn,saavuttaa,verbs,0.45
+3158,bach,valtava,adjectives,0.25
+3159,drws,lattia,nouns,0.5
+3160,brechdan,lounas,nouns,1.35
+3161,yn feddal,lujasti,adverbs,0.4
+3162,drifftio,virrata,verbs,3.15
+3163,mynnu,kiistellä,verbs,1.3
+3164,ysgyfaint,maksa,nouns,1.25
+3165,heb ei ddatgelu,peittelemätön,adjectives,0.1
+3166,llygredd,presidentti,nouns,0.0
+3167,gwaethygu,hyökätä kimppuun,verbs,0.3
+3168,cymhwysedd,kyky,nouns,4.35
+3169,yn gadarn,pehmeästi,adverbs,0.4
+3170,rhannu,lisätä,verbs,0.5
+3171,ewythr,serkku,nouns,1.15
+3172,oedolyn,huoltaja,nouns,1.9
+3173,ffonoleg,näyttö,nouns,0.1
+3174,wal,koriste,nouns,0.35
+3175,dewin,kaapeli,nouns,0.0
+3176,atgoffa,myydä,verbs,0.0
+3177,ffon reoli,tutka,nouns,0.25
+3178,nawr,täällä,adverbs,1.35
+3179,anghrybwylladwy,avioliiton ulkopuolinen,adjectives,0.0
+3180,milwr,rauha,nouns,0.2
+3181,afal,ruokavalio,nouns,0.7
+3182,stori,aihe,nouns,0.95
+3183,beirniadol,töykeä,adjectives,0.85
+3184,hollalluogrwydd,ylivalta,nouns,2.65
+3185,cerdyn,silta,nouns,0.0
+3186,poenydio,ärsyttää,verbs,3.7
+3187,cyfnos,ilta,nouns,3.7
+3188,byw,selviytyä,verbs,2.9
+3189,llenyddiaeth,sana,nouns,1.05
+3190,car,silta,nouns,0.3
+3191,yn aeddfed,hurskaasti,adverbs,0.5
+3192,tân,apokalypsi,nouns,0.45
+3193,cydymaith,rakastaja,nouns,3.05
+3194,dygnwch,kukka,nouns,0.1
+3195,diog,kallisarvoinen,adjectives,0.0
+3196,enillydd,ehdokas,nouns,0.95
+3197,yn weithredol,onnellisesti,adverbs,0.3
+3198,sobr,rationaalinen,adjectives,1.2
+3199,swltan,ministeriö,nouns,0.25
+3200,yn deg,epäreilusti,adverbs,0.25
+3201,drachtio,niellä,verbs,2.5
+3202,bod yn ddyledus,käydä sisään,verbs,0.1
+3203,bowliwr,keilaaminen,nouns,1.6
+3204,baner,tanko,nouns,0.7
+3205,delta,meri,nouns,1.2
+3206,yn gyfforddus,helposti,adverbs,1.3
+3207,ceirios,mansikka,nouns,1.3
+3208,tâl,korvaus,nouns,4.25
+3209,cynhwysydd,pullo,nouns,2.5
+3210,papur,pahvi,nouns,2.75
+3211,amwys,epäselvä,adjectives,4.7
+3212,wagen,vaunut,nouns,4.3
+3213,rhagflaenydd,menneisyys,nouns,1.2
+3214,yn berffaith,todella,adverbs,1.55
+3215,car,vene,nouns,0.85
+3216,cig,pekoni,nouns,2.9
+3217,arbed,hukkua ,verbs,0.1
+3218,rhoi,vastaanottaa,verbs,0.3
+3219,llonydd,neutraali,adjectives,0.95
+3220,trist,hauska,adjectives,0.2
+3221,cegin,kylpyhuone,nouns,1.1
+3222,encilio,jättää,verbs,3.0
+3223,brechdan,liha,nouns,0.6
+3224,golchi,huuhdella,verbs,2.9
+3225,brawd,sisko,nouns,1.85
+3226,newydd,vanha,adjectives,0.2
+3227,penwythnos,viikko,nouns,1.6
+3228,main,kapea,adjectives,3.35
+3229,beio,työntää,verbs,0.05
+3230,abdomen,maha,nouns,4.95
+3231,twrci,lintu,nouns,2.7
+3232,rhiant,isä,nouns,3.15
+3233,brenhines,mehiläinen,nouns,0.45
+3234,mam,vaimo,nouns,1.75
+3235,methdaliad,epäonnistuminen,nouns,1.25
+3236,derbyn,uskoa,verbs,1.3
+3237,palas,pilvenpiirtäjä,nouns,0.75
+3238,darogan,edellyttää,verbs,0.6
+3239,yn hawdd,mukavasti,adverbs,1.3
+3240,drws,käytävä,nouns,0.45
+3241,chwaer,veli,nouns,1.85
+3242,degawd,aikakausi,nouns,1.7
+3243,llyfr,artikkeli,nouns,1.2
+3244,eang,kapea,adjectives,0.25
+3245,anghofio,antaa anteeksi,verbs,1.0
+3246,gwlychu,supistaa,verbs,0.0
+3247,anghefnogi,järkyttää,verbs,0.7
+3248,diwydiant,liiketoiminta,nouns,1.9
+3249,nofel,kirjailija,nouns,1.0
+3250,coron,avain,nouns,0.0
+3251,llygoden,kissa,nouns,1.0
+3252,tymestl,peitto,nouns,0.0
+3253,camera,jatko-osa,nouns,0.0
+3254,caniatáu,kumota,verbs,0.25
+3255,gwerth,uskomus,nouns,0.85
+3256,dŵr,kruunajaiset,nouns,0.0
+3257,dweud ar goedd,kuuluttaa,verbs,4.6
+3258,dyn,soturi,nouns,0.8
+3259,brwydr,valloitus,nouns,2.25
+3260,gwych,kaunis,adjectives,1.3
+3261,trin,maksaa,verbs,0.0
+3262,gweddïo,viestiä,verbs,0.6
+3263,yn amlwg,hienovaraisesti,adverbs,0.1
+3264,eira,sää,nouns,0.95
+3265,ofnadwy,mahtava,adjectives,0.2
+3266,hiliaeth,ksenofobia,nouns,3.9
+3267,plentyn,poika,nouns,2.05
+3268,dôl,ruohoalue,nouns,3.3
+3269,yn dynn,uskomattomasti,adverbs,0.1
+3270,eisiau,valita,verbs,0.85
+3271,clyfar,tyhmä,adjectives,0.2
+3272,clywed,kuunnella,verbs,3.05
+3273,mynd  ,sallia,verbs,0.25
+3274,menyw,turkki,nouns,0.05

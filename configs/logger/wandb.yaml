@@ -1,0 +1,4 @@
+name : wandb
+project: "babelbert_exp"
+upload_checkpoints : False
+group : null
