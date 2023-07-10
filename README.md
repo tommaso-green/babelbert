@@ -69,7 +69,9 @@ Coming soon!
 
 ## Licence
 
+Our dataset is a processed version of BabelNet v5.0 downloaded from https://babelnet.org, made available with the BabelNet Non-Commercial License (see https://babelnet.org/full-license).
 
+Our code is licensed under the MIT license.
 
 ## Citation
 
